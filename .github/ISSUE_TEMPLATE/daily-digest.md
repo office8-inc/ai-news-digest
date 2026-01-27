@@ -13,7 +13,7 @@ YYYY-MM-DD
 1. **MIT Technology Review** - https://www.technologyreview.com/topic/artificial-intelligence/
 2. **VentureBeat AI** - https://venturebeat.com/category/ai/
 3. **TechCrunch AI** - https://techcrunch.com/tag/artificial-intelligence/
-4. **The Verge AI** - https://www.theverge.com/artificial-intelligence
+4. **The Verge AI** - https://www.theverge.com/ai-artificial-intelligence
 5. **Towards Data Science** - https://towardsdatascience.com/
 
 ## 出力形式
