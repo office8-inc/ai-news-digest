@@ -77,6 +77,6 @@ jobs:
               console.log(`Copilot assigned to issue #${issue.data.number}`);
               
             } catch (error) {
-              console.error('Error:', error);
+              console.error('Error creating issue or assigning Copilot:', error);
               throw error;
             }
