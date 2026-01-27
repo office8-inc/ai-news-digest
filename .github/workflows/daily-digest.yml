@@ -24,7 +24,7 @@ jobs:
 
       - name: Daily Digest Issue を作成し Copilot をアサイン
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN != '' && secrets.GH_TOKEN || github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
         run: |
           TODAY="${{ steps.date.outputs.today }}"
           
@@ -65,7 +65,7 @@ jobs:
           echo "✅ Issue created: $ISSUE_URL"
           
           # Issue番号を抽出
-          ISSUE_NUMBER=$(echo "$ISSUE_URL" | grep -o '[0-9]*$')
+          ISSUE_NUMBER=$(echo "$ISSUE_URL" | grep -o '[0-9]\+$')
           echo "Issue number: $ISSUE_NUMBER"
           
           # GitHub APIでCopilotをアサイン
@@ -79,7 +79,7 @@ jobs:
             "assignees": ["copilot-swe-agent[bot]"],
             "agent_assignment": {
               "target_repo": "${{ github.repository }}",
-              "base_branch": "${{ github.event.repository.default_branch || 'main' }}",
+              "base_branch": "main",
               "custom_instructions": "",
               "custom_agent": "",
               "model": ""
