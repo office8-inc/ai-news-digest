@@ -58,7 +58,7 @@ graph TD
 | **MIT Technology Review** | [Link](https://www.technologyreview.com/topic/artificial-intelligence/) | アカデミック視点、深い技術分析 |
 | **VentureBeat AI** | [Link](https://venturebeat.com/category/ai/) | ビジネス応用、投資動向 |
 | **TechCrunch AI** | [Link](https://techcrunch.com/tag/artificial-intelligence/) | スタートアップ、最新プロダクト |
-| **The Verge AI** | [Link](https://www.theverge.com/artificial-intelligence) | 社会的影響、わかりやすい解説 |
+| **The Verge AI** | [Link](https://www.theverge.com/ai-artificial-intelligence) | 社会的影響、わかりやすい解説 |
 | **Towards Data Science** | [Link](https://towardsdatascience.com/) | ハンズオン、実践的技術記事 |
 
 ## 🚀 使い方

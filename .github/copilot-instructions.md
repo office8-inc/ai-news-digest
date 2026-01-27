@@ -14,7 +14,7 @@ AI関連ニュースを毎日自動収集・要約し、10分程度で読めるM
 3. **TechCrunch AI** (https://techcrunch.com/tag/artificial-intelligence/)
    - スタートアップ、最新プロダクト
    
-4. **The Verge AI** (https://www.theverge.com/artificial-intelligence)
+4. **The Verge AI** (https://www.theverge.com/ai-artificial-intelligence)
    - 社会的影響、わかりやすい解説
    
 5. **Towards Data Science** (https://towardsdatascience.com/)
