@@ -27,6 +27,7 @@ jobs:
       - name: Daily Digest Issue を作成し Copilot をアサイン
         uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.GH_TOKEN }}
           script: |
             const today = '${{ steps.date.outputs.today }}';
             
