@@ -8,8 +8,9 @@ on:
   workflow_dispatch:
 
 permissions:
+  contents: write
   issues: write
-  contents: read
+  pull-requests: write
 
 jobs:
   create-digest-issue:
@@ -20,64 +21,70 @@ jobs:
         run: |
           # JST (UTC+9) の日付を取得
           echo "today=$(TZ=Asia/Tokyo date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-          echo "year=$(TZ=Asia/Tokyo date +'%Y')" >> $GITHUB_OUTPUT
-          echo "month=$(TZ=Asia/Tokyo date +'%m')" >> $GITHUB_OUTPUT
-          echo "day=$(TZ=Asia/Tokyo date +'%d')" >> $GITHUB_OUTPUT
 
       - name: Daily Digest Issue を作成し Copilot をアサイン
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.GH_TOKEN }}
-          script: |
-            const today = '${{ steps.date.outputs.today }}';
-            
-            const title = `📰 AI Daily Digest - ${today}`;
-            const body = `# 🤖 AI News Daily Digest
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
+        run: |
+          TODAY="${{ steps.date.outputs.today }}"
+          
+          ISSUE_TITLE="📰 AI Daily Digest - ${TODAY}"
+          
+          ISSUE_BODY="# 🤖 AI News Daily Digest
 
-            ## 収集対象日
-            ${today}
+          ## 収集対象日
+          ${TODAY}
 
-            ## 収集対象サイト
-            1. **MIT Technology Review** - https://www.technologyreview.com/topic/artificial-intelligence/
-            2. **VentureBeat AI** - https://venturebeat.com/category/ai/
-            3. **TechCrunch AI** - https://techcrunch.com/tag/artificial-intelligence/
-            4. **The Verge AI** - https://www.theverge.com/ai-artificial-intelligence
-            5. **Towards Data Science** - https://towardsdatascience.com/
+          ## 収集対象サイト
+          1. **MIT Technology Review** - https://www.technologyreview.com/topic/artificial-intelligence/
+          2. **VentureBeat AI** - https://venturebeat.com/category/ai/
+          3. **TechCrunch AI** - https://techcrunch.com/tag/artificial-intelligence/
+          4. **The Verge AI** - https://www.theverge.com/ai-artificial-intelligence
+          5. **Towards Data Science** - https://towardsdatascience.com/
 
-            ## 出力形式
-            - 各サイトから1-2件の重要記事を選定
-            - 日本語で要約を作成
-            - 10分で読める分量（約2000-3000文字）
-            - 実践的なアクションアイテムを含める
+          ## 出力形式
+          - 各サイトから1-2件の重要記事を選定
+          - 日本語で要約を作成
+          - 10分で読める分量（約2000-3000文字）
+          - 実践的なアクションアイテムを含める
 
-            ## 出力先
-            \`daily/${today}.md\`
+          ## 出力先
+          \`daily/${TODAY}.md\`
 
-            ---
+          ---
 
-            @copilot 上記の収集対象サイトから最新のAI関連ニュースを収集し、要約を作成してください。`;
-
-            try {
-              // Issue を作成
-              const issue = await github.rest.issues.create({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                title: title,
-                body: body,
-                labels: ['copilot']
-              });
-              console.log(`Issue created: ${issue.data.html_url}`);
-              
-              // Copilot をアサイン
-              await github.rest.issues.addAssignees({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: issue.data.number,
-                assignees: ['copilot']
-              });
-              console.log(`Copilot assigned to issue #${issue.data.number}`);
-              
-            } catch (error) {
-              console.error('Error creating issue or assigning Copilot:', error);
-              throw error;
+          @copilot 上記の収集対象サイトから最新のAI関連ニュースを収集し、要約を作成してください。"
+          
+          # Issue を作成
+          ISSUE_URL=$(gh issue create \
+            --repo "${{ github.repository }}" \
+            --title "$ISSUE_TITLE" \
+            --body "$ISSUE_BODY" \
+            --label "copilot")
+          
+          echo "✅ Issue created: $ISSUE_URL"
+          
+          # Issue番号を抽出
+          ISSUE_NUMBER=$(echo "$ISSUE_URL" | grep -o '[0-9]\+$')
+          echo "Issue number: $ISSUE_NUMBER"
+          
+          # GitHub APIでCopilotをアサイン
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "/repos/${{ github.repository }}/issues/$ISSUE_NUMBER/assignees" \
+            --input - <<EOF || echo "⚠️ Copilotの自動アサインに失敗（Issue本文の@copilotメンションで起動します）"
+          {
+            "assignees": ["copilot-swe-agent[bot]"],
+            "agent_assignment": {
+              "target_repo": "${{ github.repository }}",
+              "base_branch": "main",
+              "custom_instructions": "",
+              "custom_agent": "",
+              "model": ""
             }
+          }
+          EOF
+          
+          echo "✅ Copilot assigned to issue #$ISSUE_NUMBER"
