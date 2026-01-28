@@ -22,6 +22,12 @@ YYYY-MM-DD
 - 10分で読める分量（約2000-3000文字）
 - 実践的なアクションアイテムを含める
 
+## 重複防止
+- `.article-history/articles-history.json` の履歴を確認
+- 過去7日分の記事との重複をチェック
+- 重複記事は自動的にスキップ
+- 収集後、Copilotが履歴ファイルを自動更新
+
 ## 出力先
 `daily/YYYY-MM-DD.md`
 
