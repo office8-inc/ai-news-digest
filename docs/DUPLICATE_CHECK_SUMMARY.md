@@ -212,7 +212,7 @@
 ## 📚 関連ドキュメント
 
 - [詳細分析レポート](./duplicate-article-risk-analysis.md)
-- [履歴管理の説明](./.article-history/README.md)
+- [履歴管理の説明](../.article-history/README.md)
 - [更新されたCopilot指示書](../.github/copilot-instructions.md)
 - [README.md](../README.md)
 

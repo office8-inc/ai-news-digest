@@ -22,13 +22,6 @@
       "source": "The Verge AI"
     },
     {
-      "url": "https://theaitrack.com/ai-news-january-2026-in-depth-and-concise/",
-      "title": "教育分野でのAI導入加速：OpenAIの国家レベルプロジェクト",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-28",
-      "source": "The AI Track"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
       "title": "オープンソースAI台頭：中国製LLMがシリコンバレーで採用拡大",
       "published_date": "2026-01-28",
@@ -59,7 +52,7 @@
   ],
   "metadata": {
     "last_updated": "2026-01-28T04:35:00Z",
-    "total_articles": 8,
+    "total_articles": 7,
     "retention_days": 7,
     "version": "1.0"
   }
