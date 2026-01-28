@@ -1,0 +1,66 @@
+{
+  "articles": [
+    {
+      "url": "https://multi-ai.ai/en/blog/latest-news-2026-en",
+      "title": "OpenAI GPT-5 Chat：推論と企業分析に革命",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-28",
+      "source": "MIT Technology Review / Multi-AI"
+    },
+    {
+      "url": "https://theaitrack.com/ai-news-january-2026-in-depth-and-concise/",
+      "title": "Anthropic Claude for Healthcare：医療AIの新基準",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-28",
+      "source": "The AI Track"
+    },
+    {
+      "url": "https://www.theverge.com/archives/ai-artificial-intelligence/2026/1/8",
+      "title": "Apple-Google提携：Gemini搭載の次世代Siri",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-28",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://theaitrack.com/ai-news-january-2026-in-depth-and-concise/",
+      "title": "教育分野でのAI導入加速：OpenAIの国家レベルプロジェクト",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-28",
+      "source": "The AI Track"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "title": "オープンソースAI台頭：中国製LLMがシリコンバレーで採用拡大",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-28",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
+      "title": "AI規制の戦い：連邦政府 vs 州政府の対立激化",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-28",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technet.org/media/ai-in-action-january-2026/",
+      "title": "スタンフォード研究：睡眠データから疾患リスクを予測",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-28",
+      "source": "TechNet"
+    },
+    {
+      "url": "https://www.humai.blog/ai-news-trends-january-2026-complete-monthly-digest/",
+      "title": "学術研究の信頼性危機：AI生成論文の急増",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-28",
+      "source": "Towards Data Science / Humai Blog"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-01-28T04:35:00Z",
+    "total_articles": 8,
+    "retention_days": 7,
+    "version": "1.0"
+  }
+}
