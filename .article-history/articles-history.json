@@ -78,11 +78,18 @@
       "source": "TechCrunch"
     },
     {
-      "url": "https://venturebeat.com/",
+      "url": "https://ts2.tech/en/category/artificial-intelligence/",
       "title": "Nvidia、CoreWeaveに$20億投資でAIインフラ企業の株価急騰",
       "published_date": "2026-01-28",
       "collected_date": "2026-01-29",
       "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.humai.blog/ai-news-trends-january-2026-complete-monthly-digest/#gemini",
+      "title": "Google Gemini Personal Intelligence、プライバシー配慮の個人AI",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-29",
+      "source": "The AI Track / Humai Blog"
     },
     {
       "url": "https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html",
@@ -101,7 +108,7 @@
   ],
   "metadata": {
     "last_updated": "2026-01-29T22:12:00Z",
-    "total_articles": 14,
+    "total_articles": 15,
     "retention_days": 7,
     "version": "1.0"
   }
