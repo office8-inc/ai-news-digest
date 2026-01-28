@@ -48,11 +48,60 @@
       "published_date": "2026-01-28",
       "collected_date": "2026-01-28",
       "source": "Towards Data Science / Humai Blog"
+    },
+    {
+      "url": "https://www.aljazeera.com/economy/2026/1/28/tech-giant-asml-announces-record-orders-in-boost-for-ai-boom",
+      "title": "ASML、AI需要で記録的受注€132億を達成",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-29",
+      "source": "VentureBeat / Al Jazeera"
+    },
+    {
+      "url": "https://www.fool.com/investing/2026/01/25/openai-anthropic-nvidia-backed-best-ipo-stock-buy/",
+      "title": "OpenAI・Anthropic、2026年IPO目前で医療分野に本格参入",
+      "published_date": "2026-01-25",
+      "collected_date": "2026-01-29",
+      "source": "The AI Track / MedCity News"
+    },
+    {
+      "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+      "title": "2026年、AIは「誇大宣伝」から「実用主義」へ",
+      "published_date": "2026-01-02",
+      "collected_date": "2026-01-29",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
+      "title": "Microsoft Maia 200：AI推論専用チップでNvidia依存脱却へ",
+      "published_date": "2026-01-26",
+      "collected_date": "2026-01-29",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/",
+      "title": "Nvidia、CoreWeaveに$20億投資でAIインフラ企業の株価急騰",
+      "published_date": "2026-01-28",
+      "collected_date": "2026-01-29",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html",
+      "title": "Mozilla、「AIレベル同盟」で倫理的AI推進",
+      "published_date": "2026-01-27",
+      "collected_date": "2026-01-29",
+      "source": "CNBC"
+    },
+    {
+      "url": "https://towardsdatascience.com/2026-will-be-the-year-of-data-ai-observability/",
+      "title": "データ＋AI可観測性が2026年の重要トレンドに",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-01-29",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-28T04:35:00Z",
-    "total_articles": 7,
+    "last_updated": "2026-01-29T22:12:00Z",
+    "total_articles": 14,
     "retention_days": 7,
     "version": "1.0"
   }
