@@ -17,8 +17,8 @@ AI関連ニュースを毎日自動収集・要約し、10分程度で読めるM
 4. **The Verge AI** (https://www.theverge.com/ai-artificial-intelligence)
    - 社会的影響、わかりやすい解説
    
-5. **Towards Data Science** (https://towardsdatascience.com/)
-   - ハンズオン、実践的技術記事
+5. **Wired (AI)** (https://www.wired.com/tag/artificial-intelligence/)
+   - 深い調査報道、社会的影響、政策分析
 
 ## タスク
 
