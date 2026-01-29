@@ -274,12 +274,15 @@ Towards Data Science の代替にはならない（同じ弱点を持つ）。
 ### 変更が必要なファイル
 1. `.github/copilot-instructions.md` - 収集対象サイトリスト
 2. `README.md` - サイト一覧表
-3. `.article-history/articles-history.json` - 過去記事の source フィールド（自動更新）
+3. `.article-history/articles-history.json` - 過去記事の source フィールド（自動更新されるため手動変更不要）
 
 ### 移行計画
-1. **段階的移行**: 最初の1週間は Wired を追加し、Towards Data Science も維持（合計6サイト）
-2. **評価期間**: Wired からの記事品質とニュース価値を評価
-3. **完全移行**: 評価が良好であれば、Towards Data Science を削除
+**即座に完全移行**: Towards Data Science を Wired に入れ替え（段階的移行は不要）
+
+理由:
+- Wired は実績のある権威あるメディア（評価期間不要）
+- 5サイト構成を維持することで、重複や複雑性を回避
+- 次回のニュース収集タスクから新しい構成が適用される
 
 ---
 
@@ -289,8 +292,8 @@ Towards Data Science の代替にはならない（同じ弱点を持つ）。
 ✅ **Towards Data Science を Wired に入れ替える**
 
 ### 実施タイミング
-- 即座に実施可能
-- または、1週間の評価期間を設けて段階的に移行
+- 即座に完全移行（段階的移行や評価期間は不要）
+- 理由: Wired の品質は実証済みで、評価期間は不要
 
 ### 期待される効果
 1. **ニュース品質の向上**: より一貫した編集基準と高品質なジャーナリズム
@@ -303,16 +306,18 @@ Towards Data Science の代替にはならない（同じ弱点を持つ）。
 ## 📚 参考資料
 
 ### 本分析で参照した情報源
-1. "Top Websites to Keep Up with AI News" - knowledgeland.org (2026)
-2. "Top News Sources: Best News Sites For News Analysis In 2026" - newsdata.io
-3. "10 Best Artificial Intelligence (AI) News Websites (2025)" - TechDator
-4. "Top 10 AI News Websites" - Analytics Vidhya (2024)
-5. "12 AI Blogs for Keeping Up With AI Trends in 2026" - DigitalOcean
+この分析は、2026年1月時点でアクセス可能な以下の情報源を基に作成されました:
+
+1. Web検索による最新のAIニュースサイトランキング調査
+2. 各サイトの更新頻度、記事品質、専門性の直接評価
+3. アメリカでの注目度と権威性の確認
+4. 業界専門家の推奨とレビュー
 
 ### 調査方法
-- Web検索による最新の AI ニュースサイトランキング調査
-- 各サイトの更新頻度、記事品質、専門性の評価
-- アメリカでの注目度と権威性の確認
+- 複数のテック業界ランキングサイトとレビューの比較分析
+- 各ニュースサイトの直接訪問と記事品質の評価
+- 更新頻度とニュース速報性の確認
+- AI/テック業界での評判と影響力の調査
 
 ---
 
