@@ -46,7 +46,8 @@ graph TD
     C -->|収集| D3[TechCrunch AI]
     C -->|収集| D4[The Verge AI]
     C -->|収集| D5[Towards Data Science]
-    D1 & D2 & D3 & D4 & D5 -->|要約・構造化| E[daily/YYYY-MM-DD.md]
+    C -->|収集| D6[Wired AI]
+    D1 & D2 & D3 & D4 & D5 & D6 -->|厳選5-10件<br/>要約・構造化| E[daily/YYYY-MM-DD.md]
     E -->|コミット| F[リポジトリに保存]
     
     style A fill:#e1f5ff
@@ -56,7 +57,7 @@ graph TD
     style F fill:#ffe1e1
 ```
 
-## 📰 収集対象ニュースサイト（5サイト厳選）
+## 📰 収集対象ニュースサイト（6サイト）
 
 | サイト | URL | 特徴 |
 |--------|-----|------|
@@ -65,6 +66,9 @@ graph TD
 | **TechCrunch AI** | [Link](https://techcrunch.com/tag/artificial-intelligence/) | スタートアップ、最新プロダクト |
 | **The Verge AI** | [Link](https://www.theverge.com/ai-artificial-intelligence) | 社会的影響、わかりやすい解説 |
 | **Towards Data Science** | [Link](https://towardsdatascience.com/) | ハンズオン、実践的技術記事 |
+| **Wired (AI)** | [Link](https://www.wired.com/tag/artificial-intelligence/) | 深い調査報道、社会的影響、政策分析 |
+
+**収集方針**: 6サイトから合計5-10件の重要記事を厳選（記事数は従来通り）
 
 ## 🚀 使い方
 
