@@ -104,11 +104,67 @@
       "published_date": "2026-01-29",
       "collected_date": "2026-01-29",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/technology/qwen3-max-thinking-beats-gemini-3-pro-and-gpt-5-2-on-humanitys-last-exam",
+      "title": "Alibaba Qwen3-Max-Thinking、GPT-5.2とGemini 3 Proを超える性能を達成",
+      "published_date": "2026-01-30",
+      "collected_date": "2026-01-30",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/01/27/big-tech-earnings-2026-ai-spend.html",
+      "title": "ビッグテックのAI投資、$4,700億へ拡大",
+      "published_date": "2026-01-27",
+      "collected_date": "2026-01-30",
+      "source": "CNBC"
+    },
+    {
+      "url": "https://www.vtnetzwelt.com/ai-development/latest-tech-ai-updates-what-january-2026-is-really-telling-us/",
+      "title": "2026年1月のAI業界：信頼性と説明責任へのシフト",
+      "published_date": "2026-01-30",
+      "collected_date": "2026-01-30",
+      "source": "VTNetzwelt"
+    },
+    {
+      "url": "https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/",
+      "title": "2026年のAIとデータサイエンスの5つのトレンド",
+      "published_date": "2026-01-30",
+      "collected_date": "2026-01-30",
+      "source": "MIT Sloan Management Review"
+    },
+    {
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/looking-ahead-ai-and-work-2026",
+      "title": "2026年のAIと仕事：人間とLLMの精度ギャップ",
+      "published_date": "2026-01-30",
+      "collected_date": "2026-01-30",
+      "source": "MIT Sloan"
+    },
+    {
+      "url": "https://digitalstrategy-ai.com/2026/01/25/ai-news-roundup-january/",
+      "title": "AIニュース総まとめ：2026年1月19-23日",
+      "published_date": "2026-01-25",
+      "collected_date": "2026-01-30",
+      "source": "The Tech Society"
+    },
+    {
+      "url": "https://time.com/collections/davos-2026/7339222/ai-predictions-2026/",
+      "title": "2026年のAI予測：5つの重要トレンド",
+      "published_date": "2026-01-30",
+      "collected_date": "2026-01-30",
+      "source": "TIME"
+    },
+    {
+      "url": "https://engineering.jhu.edu/news/what-to-expect-in-ai-in-2026/",
+      "title": "2026年のAIに期待すること",
+      "published_date": "2026-01-30",
+      "collected_date": "2026-01-30",
+      "source": "Johns Hopkins Engineering"
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-29T22:12:00Z",
-    "total_articles": 15,
+    "last_updated": "2026-01-30T22:14:55Z",
+    "total_articles": 23,
     "retention_days": 7,
     "version": "1.0"
   }
