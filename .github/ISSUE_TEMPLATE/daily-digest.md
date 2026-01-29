@@ -15,6 +15,7 @@ YYYY-MM-DD
 3. **TechCrunch AI** - https://techcrunch.com/tag/artificial-intelligence/
 4. **The Verge AI** - https://www.theverge.com/ai-artificial-intelligence
 5. **Towards Data Science** - https://towardsdatascience.com/
+6. **Wired (AI)** - https://www.wired.com/tag/artificial-intelligence/
 
 ## 出力形式
 - 各サイトから1-2件の重要記事を選定
