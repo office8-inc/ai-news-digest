@@ -26,10 +26,11 @@
 | **TechCrunch AI** | 1日10-20本 | 10-20本 | 🟢 **低リスク** |
 | **The Verge AI** | 1日3-8本 | 3-8本 | 🟡 **中リスク** |
 | **Towards Data Science** | 1日20-50本 | 20-50本 | 🟢 **低リスク** |
+| **Wired (AI)** | 週数回 | 2-5本 | 🟡 **中リスク** |
 
 **評価**:
 - ✅ TechCrunch、VentureBeat、Towards Data Scienceは更新頻度が高く、新規記事が豊富
-- ⚠️ MIT Technology Review、The Vergeは更新頻度が低く、同じ記事が数日間トップに表示される可能性あり
+- ⚠️ MIT Technology Review、The Verge、Wiredは更新頻度が低く、同じ記事が数日間トップに表示される可能性あり
 
 ---
 
@@ -195,7 +196,7 @@
 
 #### ①ニュースサイトの更新頻度
 ✅ **チェック完了**  
-5サイトの更新頻度を分析し、MIT Tech ReviewとThe Vergeが中リスク、他3サイトは低リスクと評価。
+6サイトの更新頻度を分析し、MIT Tech Review、The Verge、Wiredが中リスク、他3サイトは低リスクと評価。
 
 #### ②抽出する記事数
 ✅ **チェック完了**  
