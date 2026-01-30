@@ -1,9 +1,10 @@
 name: 📰 AI Daily Digest
 
 on:
-  # 毎朝 JST 7:00 (UTC 22:00) に実行
+  # 毎朝 JST 7:00 (UTC 22:00) に実行（平日のみ）
+  # UTC日〜木 = JST月〜金（UTC 22:00 = JST翌日 7:00）
   schedule:
-    - cron: '0 22 * * *'
+    - cron: '0 22 * * 0-4'
   # 手動実行も可能
   workflow_dispatch:
 
