@@ -64,13 +64,6 @@
       "source": "The AI Track / MedCity News"
     },
     {
-      "url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
-      "title": "2026年、AIは「誇大宣伝」から「実用主義」へ",
-      "published_date": "2026-01-02",
-      "collected_date": "2026-01-29",
-      "source": "TechCrunch"
-    },
-    {
       "url": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
       "title": "Microsoft Maia 200：AI推論専用チップでNvidia依存脱却へ",
       "published_date": "2026-01-26",
@@ -160,11 +153,46 @@
       "published_date": "2026-01-30",
       "collected_date": "2026-01-30",
       "source": "Johns Hopkins Engineering"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/01/29/meta-microsoft-stock-earnings-moves-tech.html",
+      "title": "Meta、AI投資の収益化で株価急騰",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-01-31",
+      "source": "CNBC"
+    },
+    {
+      "url": "https://qz.com/meta-earnings-q4-2025-ai-mark-zuckerberg",
+      "title": "Meta、2026年のAI投資額1,350億ドル発表",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-01-31",
+      "source": "Qz"
+    },
+    {
+      "url": "https://www.usnews.com/news/top-news/articles/2026-01-29/exclusive-pentagon-clashes-with-anthropic-over-military-ai-use",
+      "title": "Anthropic、国防総省と軍事AI利用で対立",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-01-31",
+      "source": "US News"
+    },
+    {
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-layoffs-january-2026-amazon-meta-full-list-10500926/",
+      "title": "Amazon、最大3万人削減——AI自動化が雇用に影響",
+      "published_date": "2026-01-30",
+      "collected_date": "2026-01-31",
+      "source": "Indian Express"
+    },
+    {
+      "url": "https://www.emarketer.com/content/google-openai-dominate-ai-model-race-while-anthropic-deepseek-stall",
+      "title": "Google、DeepSeekに対抗——Gemini 2.5 Proでリード拡大",
+      "published_date": "2026-01-30",
+      "collected_date": "2026-01-31",
+      "source": "eMarketer"
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-30T22:14:55Z",
-    "total_articles": 23,
+    "last_updated": "2026-01-30T22:14:56Z",
+    "total_articles": 27,
     "retention_days": 7,
     "version": "1.0"
   }
