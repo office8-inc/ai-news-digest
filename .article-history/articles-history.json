@@ -1,6 +1,27 @@
 {
   "articles": [
     {
+      "url": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
+      "title": "Microsoft Maia 200：AI推論専用チップでNvidia依存脱却へ",
+      "published_date": "2026-01-26",
+      "collected_date": "2026-01-29",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html",
+      "title": "Mozilla、「AIレベル同盟」で倫理的AI推進",
+      "published_date": "2026-01-27",
+      "collected_date": "2026-01-29",
+      "source": "CNBC"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/01/27/big-tech-earnings-2026-ai-spend.html",
+      "title": "ビッグテックのAI投資、4,700億ドルへ拡大",
+      "published_date": "2026-01-27",
+      "collected_date": "2026-01-30",
+      "source": "CNBC"
+    },
+    {
       "url": "https://multi-ai.ai/en/blog/latest-news-2026-en",
       "title": "OpenAI GPT-5 Chat：推論と企業分析に革命",
       "published_date": "2026-01-28",
@@ -57,20 +78,6 @@
       "source": "VentureBeat / Al Jazeera"
     },
     {
-      "url": "https://www.fool.com/investing/2026/01/25/openai-anthropic-nvidia-backed-best-ipo-stock-buy/",
-      "title": "OpenAI・Anthropic、2026年IPO目前で医療分野に本格参入",
-      "published_date": "2026-01-25",
-      "collected_date": "2026-01-29",
-      "source": "The AI Track / MedCity News"
-    },
-    {
-      "url": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
-      "title": "Microsoft Maia 200：AI推論専用チップでNvidia依存脱却へ",
-      "published_date": "2026-01-26",
-      "collected_date": "2026-01-29",
-      "source": "TechCrunch"
-    },
-    {
       "url": "https://ts2.tech/en/category/artificial-intelligence/",
       "title": "Nvidia、CoreWeaveに$20億投資でAIインフラ企業の株価急騰",
       "published_date": "2026-01-28",
@@ -85,13 +92,6 @@
       "source": "The AI Track / Humai Blog"
     },
     {
-      "url": "https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html",
-      "title": "Mozilla、「AIレベル同盟」で倫理的AI推進",
-      "published_date": "2026-01-27",
-      "collected_date": "2026-01-29",
-      "source": "CNBC"
-    },
-    {
       "url": "https://towardsdatascience.com/2026-will-be-the-year-of-data-ai-observability/",
       "title": "データ＋AI可観測性が2026年の重要トレンドに",
       "published_date": "2026-01-29",
@@ -99,18 +99,32 @@
       "source": "Towards Data Science"
     },
     {
+      "url": "https://www.cnbc.com/2026/01/29/meta-microsoft-stock-earnings-moves-tech.html",
+      "title": "Meta、AI投資の収益化で株価急騰",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-01-31",
+      "source": "CNBC"
+    },
+    {
+      "url": "https://qz.com/meta-earnings-q4-2025-ai-mark-zuckerberg",
+      "title": "Meta、2026年のAI投資額1,350億ドル発表",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-01-31",
+      "source": "Qz"
+    },
+    {
+      "url": "https://www.usnews.com/news/top-news/articles/2026-01-29/exclusive-pentagon-clashes-with-anthropic-over-military-ai-use",
+      "title": "Anthropic、国防総署と軍事AI利用で対立",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-01-31",
+      "source": "US News"
+    },
+    {
       "url": "https://venturebeat.com/technology/qwen3-max-thinking-beats-gemini-3-pro-and-gpt-5-2-on-humanitys-last-exam",
       "title": "Alibaba Qwen3-Max-Thinking、GPT-5.2とGemini 3 Proを超える性能を達成",
       "published_date": "2026-01-30",
       "collected_date": "2026-01-30",
       "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.cnbc.com/2026/01/27/big-tech-earnings-2026-ai-spend.html",
-      "title": "ビッグテックのAI投資、4,700億ドルへ拡大",
-      "published_date": "2026-01-27",
-      "collected_date": "2026-01-30",
-      "source": "CNBC"
     },
     {
       "url": "https://www.vtnetzwelt.com/ai-development/latest-tech-ai-updates-what-january-2026-is-really-telling-us/",
@@ -134,13 +148,6 @@
       "source": "MIT Sloan"
     },
     {
-      "url": "https://digitalstrategy-ai.com/2026/01/25/ai-news-roundup-january/",
-      "title": "AIニュース総まとめ：2026年1月19-23日",
-      "published_date": "2026-01-25",
-      "collected_date": "2026-01-30",
-      "source": "The Tech Society"
-    },
-    {
       "url": "https://time.com/collections/davos-2026/7339222/ai-predictions-2026/",
       "title": "2026年のAI予測：5つの重要トレンド",
       "published_date": "2026-01-30",
@@ -155,27 +162,6 @@
       "source": "Johns Hopkins Engineering"
     },
     {
-      "url": "https://www.cnbc.com/2026/01/29/meta-microsoft-stock-earnings-moves-tech.html",
-      "title": "Meta、AI投資の収益化で株価急騰",
-      "published_date": "2026-01-29",
-      "collected_date": "2026-01-31",
-      "source": "CNBC"
-    },
-    {
-      "url": "https://qz.com/meta-earnings-q4-2025-ai-mark-zuckerberg",
-      "title": "Meta、2026年のAI投資額1,350億ドル発表",
-      "published_date": "2026-01-29",
-      "collected_date": "2026-01-31",
-      "source": "Qz"
-    },
-    {
-      "url": "https://www.usnews.com/news/top-news/articles/2026-01-29/exclusive-pentagon-clashes-with-anthropic-over-military-ai-use",
-      "title": "Anthropic、国防総省と軍事AI利用で対立",
-      "published_date": "2026-01-29",
-      "collected_date": "2026-01-31",
-      "source": "US News"
-    },
-    {
       "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-layoffs-january-2026-amazon-meta-full-list-10500926/",
       "title": "Amazon、最大3万人削減——AI自動化が雇用に影響",
       "published_date": "2026-01-30",
@@ -188,11 +174,67 @@
       "published_date": "2026-01-30",
       "collected_date": "2026-01-31",
       "source": "eMarketer"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
+      "title": "AI規制をめぐる連邦・州間の「戦争」が激化",
+      "published_date": "2026-01-23",
+      "collected_date": "2026-02-02",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://opentools.ai/news/ai-week-in-review-the-latest-trends-in-2026-ai-developments",
+      "title": "GoogleのProject Genie、対話型仮想世界生成ツールを提供開始",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-02-02",
+      "source": "The Verge / Google Labs"
+    },
+    {
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "title": "AppleがイスラエルのQ.ai買収——「サイレント音声」技術",
+      "published_date": "2026-01-31",
+      "collected_date": "2026-02-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/category/ai",
+      "title": "Metaの2026年AI投資、1,150～1,350億ドルへ拡大",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-02-02",
+      "source": "VentureBeat / Meta Earnings"
+    },
+    {
+      "url": "https://news.berkeley.edu/2026/01/13/what-uc-berkeley-ai-experts-are-watching-for-in-2026/",
+      "title": "AIバブル崩壊の懸念が拡大——MITとUCバークレーが警鐘",
+      "published_date": "2026-01-13",
+      "collected_date": "2026-02-02",
+      "source": "MIT Sloan / UC Berkeley"
+    },
+    {
+      "url": "https://opentools.ai/news",
+      "title": "OpenAIの「EU経済ブループリント2.0」発表",
+      "published_date": "2026-01-31",
+      "collected_date": "2026-02-02",
+      "source": "Wired / OpenAI"
+    },
+    {
+      "url": "https://www.humai.blog/ai-news-trends-january-2026-complete-monthly-digest/",
+      "title": "オフライン・プライベートAIモデルが台頭——Pragatix",
+      "published_date": "2026-01-30",
+      "collected_date": "2026-02-02",
+      "source": "Towards Data Science / Pragatix"
+    },
+    {
+      "url": "https://opentools.ai/news/ai-week-in-review-the-latest-trends-in-2026-ai-developments",
+      "title": "Luma AI、Ray 3.14で高品質動画生成を民主化",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-02-02",
+      "source": "The Verge / Luma AI"
     }
   ],
   "metadata": {
-    "last_updated": "2026-01-30T22:14:56Z",
-    "total_articles": 27,
+    "last_updated": "2026-02-01T22:05:38Z",
+    "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
   }
