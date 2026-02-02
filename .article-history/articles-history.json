@@ -230,11 +230,67 @@
       "published_date": "2026-01-29",
       "collected_date": "2026-02-02",
       "source": "The Verge / Luma AI"
+    },
+    {
+      "url": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
+      "title": "OpenAI、GPT-4o APIアクセスを2月16日に終了",
+      "published_date": "2026-02-02",
+      "collected_date": "2026-02-03",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+      "title": "「AIウォッシング」問題が浮上——AI理由の大量レイオフに疑問の声",
+      "published_date": "2026-02-01",
+      "collected_date": "2026-02-03",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+      "title": "NASA火星探査機、AI自律運転を初実装",
+      "published_date": "2026-02-01",
+      "collected_date": "2026-02-03",
+      "source": "ScienceDaily"
+    },
+    {
+      "url": "https://news.berkeley.edu/2026/01/13/what-uc-berkeley-ai-experts-are-watching-for-in-2026/",
+      "title": "ディープフェイク問題が深刻化——信頼性の危機と対策の遅れ",
+      "published_date": "2026-02-02",
+      "collected_date": "2026-02-03",
+      "source": "UC Berkeley / The Verge"
+    },
+    {
+      "url": "https://opentools.ai/news/ai-week-in-review-the-latest-trends-in-2026-ai-developments",
+      "title": "モジュール型AI「Skills標準」が台頭",
+      "published_date": "2026-02-01",
+      "collected_date": "2026-02-03",
+      "source": "The Verge / Manus"
+    },
+    {
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/looking-ahead-ai-and-work-2026",
+      "title": "AI自律エージェントの実用化が進展",
+      "published_date": "2026-02-01",
+      "collected_date": "2026-02-03",
+      "source": "MIT Sloan / Microsoft"
+    },
+    {
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "title": "音楽業界がAI著作権訴訟を本格化——Anthropicに30億ドルの賠償請求",
+      "published_date": "2026-02-01",
+      "collected_date": "2026-02-03",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/ai-creativity",
+      "title": "AI創造性がベンチマークで人間を上回る",
+      "published_date": "2026-02-02",
+      "collected_date": "2026-02-03",
+      "source": "ScienceDaily / Stanford"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-01T22:05:38Z",
-    "total_articles": 33,
+    "last_updated": "2026-02-02T23:03:28Z",
+    "total_articles": 41,
     "retention_days": 7,
     "version": "1.0"
   }
