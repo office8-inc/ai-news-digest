@@ -1,27 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
-      "title": "Microsoft Maia 200：AI推論専用チップでNvidia依存脱却へ",
-      "published_date": "2026-01-26",
-      "collected_date": "2026-01-29",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.cnbc.com/2026/01/27/mozilla-building-an-ai-rebel-alliance-to-take-on-openai-anthropic-.html",
-      "title": "Mozilla、「AIレベル同盟」で倫理的AI推進",
-      "published_date": "2026-01-27",
-      "collected_date": "2026-01-29",
-      "source": "CNBC"
-    },
-    {
-      "url": "https://www.cnbc.com/2026/01/27/big-tech-earnings-2026-ai-spend.html",
-      "title": "ビッグテックのAI投資、4,700億ドルへ拡大",
-      "published_date": "2026-01-27",
-      "collected_date": "2026-01-30",
-      "source": "CNBC"
-    },
-    {
       "url": "https://multi-ai.ai/en/blog/latest-news-2026-en",
       "title": "OpenAI GPT-5 Chat：推論と企業分析に革命",
       "published_date": "2026-01-28",
@@ -288,9 +267,66 @@
       "source": "ScienceDaily / Stanford"
     }
   ],
+    {
+      "url": "https://aiweekly.co/",
+      "title": "Moltbook：AI専用ソーシャルネットワークの衝撃——人間不在のコミュニティで生まれた「AI宗教」",
+      "published_date": "2026-02-03",
+      "collected_date": "2026-02-04",
+      "source": "AI Weekly / MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "title": "中国製オープンソースLLMが米国で急速普及——DeepSeek・Qwenが商業利用で存在感",
+      "published_date": "2026-02-03",
+      "collected_date": "2026-02-04",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/category/ai",
+      "title": "エージェント型AIが企業で本格導入——パイロットから大規模展開へ",
+      "published_date": "2026-02-03",
+      "collected_date": "2026-02-04",
+      "source": "MIT Sloan / VentureBeat"
+    },
+    {
+      "url": "https://venturebeat.com/ai/meta-omnilingual-asr-1600-languages",
+      "title": "Meta、1,600言語対応の多言語音声認識モデルを公開——OpenAI Whisperを大幅超越",
+      "published_date": "2026-02-03",
+      "collected_date": "2026-02-04",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/03/india-zero-tax-ai-companies-2047",
+      "title": "インド政府、AI企業に2047年まで完全免税——グローバルAIハブ戦略",
+      "published_date": "2026-02-03",
+      "collected_date": "2026-02-04",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.pcmag.com/news/categories/ai",
+      "title": "Mozilla Firefox、AI機能の完全オフ機能を追加——ユーザー選択権を重視",
+      "published_date": "2026-02-03",
+      "collected_date": "2026-02-04",
+      "source": "The Verge / PCMag"
+    },
+    {
+      "url": "https://venturebeat.com/ai/chronosphere-explainable-ai-system-outages",
+      "title": "Chronosphere、「説明可能なAI」でシステム障害の原因を特定——単なる検出から解明へ",
+      "published_date": "2026-02-03",
+      "collected_date": "2026-02-04",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://xix.ai/live",
+      "title": "OpenAI、科学研究支援ツール「Prism」を無料公開——GPT-5.2連携で研究効率化",
+      "published_date": "2026-02-03",
+      "collected_date": "2026-02-04",
+      "source": "xix.ai / The Verge"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-02-02T23:03:28Z",
-    "total_articles": 41,
+    "last_updated": "2026-02-03T22:09:41Z",
+    "total_articles": 46,
     "retention_days": 7,
     "version": "1.0"
   }
