@@ -265,8 +265,7 @@
       "published_date": "2026-02-02",
       "collected_date": "2026-02-03",
       "source": "ScienceDaily / Stanford"
-    }
-  ],
+    },
     {
       "url": "https://aiweekly.co/",
       "title": "Moltbook：AI専用ソーシャルネットワークの衝撃——人間不在のコミュニティで生まれた「AI宗教」",
@@ -322,11 +321,74 @@
       "published_date": "2026-02-03",
       "collected_date": "2026-02-04",
       "source": "xix.ai / The Verge"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html",
+      "title": "SpaceX、xAIを1.25兆ドルで買収——史上最大の企業合併",
+      "published_date": "2026-02-03",
+      "collected_date": "2026-02-05",
+      "source": "CNBC / TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+      "title": "イーロン・マスク、SpaceXとxAIを統合——宇宙軌道上データセンター構想",
+      "published_date": "2026-02-02",
+      "collected_date": "2026-02-05",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/04/anthropic-no-ads-claude-chatbot-openai-chatgpt.html",
+      "title": "Anthropic、Claudeボットに広告を入れないと表明——OpenAI ChatGPTとの対立",
+      "published_date": "2026-02-04",
+      "collected_date": "2026-02-05",
+      "source": "CNBC"
+    },
+    {
+      "url": "https://mashable.com/article/anthropic-super-bowl-ad-mocks-chatgpt-ads",
+      "title": "AnthropicのスーパーボウルCM、ChatGPTの広告を皮肉る",
+      "published_date": "2026-02-04",
+      "collected_date": "2026-02-05",
+      "source": "Mashable"
+    },
+    {
+      "url": "https://9to5google.com/2026/01/29/google-project-genie/",
+      "title": "Google Project Genie、対話型3D仮想世界生成を一般公開",
+      "published_date": "2026-01-29",
+      "collected_date": "2026-02-05",
+      "source": "9to5Google"
+    },
+    {
+      "url": "https://elevenlabs.io/blog/series-d",
+      "title": "ElevenLabs、5億ドル調達で評価額110億ドルに",
+      "published_date": "2026-02-04",
+      "collected_date": "2026-02-05",
+      "source": "ElevenLabs / TechCrunch"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/04/nvidia-backed-ai-startup-elevenlabs-11-billion-valuation.html",
+      "title": "Nvidia支援のElevenLabs、110億ドル評価額でシリーズD完了",
+      "published_date": "2026-02-04",
+      "collected_date": "2026-02-05",
+      "source": "CNBC"
+    },
+    {
+      "url": "https://blog.mozilla.org/en/firefox/ai-controls/",
+      "title": "Mozilla Firefox、すべてのAI機能をブロックできる「キルスイッチ」を追加",
+      "published_date": "2026-02-02",
+      "collected_date": "2026-02-05",
+      "source": "Mozilla Blog"
+    },
+    {
+      "url": "https://developers.googleblog.com/en/veo-3-now-available-gemini-api/",
+      "title": "Google Veo 3、高品質AI動画生成をAPI経由で提供開始",
+      "published_date": "2026-02-03",
+      "collected_date": "2026-02-05",
+      "source": "Google Developers Blog"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-03T22:09:41Z",
-    "total_articles": 46,
+    "last_updated": "2026-02-04T22:09:33Z",
+    "total_articles": 55,
     "retention_days": 7,
     "version": "1.0"
   }
