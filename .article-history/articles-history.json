@@ -1,83 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://multi-ai.ai/en/blog/latest-news-2026-en",
-      "title": "OpenAI GPT-5 Chat：推論と企業分析に革命",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-28",
-      "source": "MIT Technology Review / Multi-AI"
-    },
-    {
-      "url": "https://theaitrack.com/ai-news-january-2026-in-depth-and-concise/",
-      "title": "Anthropic Claude for Healthcare：医療AIの新基準",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-28",
-      "source": "The AI Track"
-    },
-    {
-      "url": "https://www.theverge.com/archives/ai-artificial-intelligence/2026/1/8",
-      "title": "Apple-Google提携：Gemini搭載の次世代Siri",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-28",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
-      "title": "オープンソースAI台頭：中国製LLMがシリコンバレーで採用拡大",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-28",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
-      "title": "AI規制の戦い：連邦政府 vs 州政府の対立激化",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-28",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.technet.org/media/ai-in-action-january-2026/",
-      "title": "スタンフォード研究：睡眠データから疾患リスクを予測",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-28",
-      "source": "TechNet"
-    },
-    {
-      "url": "https://www.humai.blog/ai-news-trends-january-2026-complete-monthly-digest/",
-      "title": "学術研究の信頼性危機：AI生成論文の急増",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-28",
-      "source": "Towards Data Science / Humai Blog"
-    },
-    {
-      "url": "https://www.aljazeera.com/economy/2026/1/28/tech-giant-asml-announces-record-orders-in-boost-for-ai-boom",
-      "title": "ASML、AI需要で記録的受注€132億を達成",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-29",
-      "source": "VentureBeat / Al Jazeera"
-    },
-    {
-      "url": "https://ts2.tech/en/category/artificial-intelligence/",
-      "title": "Nvidia、CoreWeaveに$20億投資でAIインフラ企業の株価急騰",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-29",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.humai.blog/ai-news-trends-january-2026-complete-monthly-digest/#gemini",
-      "title": "Google Gemini Personal Intelligence、プライバシー配慮の個人AI",
-      "published_date": "2026-01-28",
-      "collected_date": "2026-01-29",
-      "source": "The AI Track / Humai Blog"
-    },
-    {
-      "url": "https://towardsdatascience.com/2026-will-be-the-year-of-data-ai-observability/",
-      "title": "データ＋AI可観測性が2026年の重要トレンドに",
-      "published_date": "2026-01-29",
-      "collected_date": "2026-01-29",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.cnbc.com/2026/01/29/meta-microsoft-stock-earnings-moves-tech.html",
       "title": "Meta、AI投資の収益化で株価急騰",
       "published_date": "2026-01-29",
@@ -384,11 +307,67 @@
       "published_date": "2026-02-03",
       "collected_date": "2026-02-05",
       "source": "Google Developers Blog"
+    },
+    {
+      "url": "https://www.timesofai.com/news/ai/",
+      "title": "Anthropic Claude Opus 4.6、100万トークンのコンテキストウィンドウを実現",
+      "published_date": "2026-02-05",
+      "collected_date": "2026-02-06",
+      "source": "Times of AI / AI News"
+    },
+    {
+      "url": "https://aichief.com/news/",
+      "title": "OpenAI Frontierプラットフォーム発表——企業向けAIエージェント時代へ",
+      "published_date": "2026-02-05",
+      "collected_date": "2026-02-06",
+      "source": "AI Chief / Times of AI"
+    },
+    {
+      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Releases-New-Physical-AI-Models-as-Global-Partners-Unveil-Next-Generation-Robots/",
+      "title": "NVIDIA、物理AI用オープンモデルを公開——ロボティクス革命へ",
+      "published_date": "2026-02-04",
+      "collected_date": "2026-02-06",
+      "source": "NVIDIA / TechCrunch"
+    },
+    {
+      "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/january/us-ai-law-update",
+      "title": "米国AI規制の混乱——州ごとの法律乱立でコンプライアンス危機",
+      "published_date": "2026-02-05",
+      "collected_date": "2026-02-06",
+      "source": "Baker Botts / National Law Review / Wired"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
+      "title": "中国オープンソースLLMの台頭——DeepSeek、Qwenが米国市場で存在感（2月更新）",
+      "published_date": "2026-02-05",
+      "collected_date": "2026-02-06",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.humai.blog/ai-news-trends-february-2026-complete-monthly-digest/",
+      "title": "ChatGPTに広告導入——無料・Goプラン限定でマネタイゼーション強化",
+      "published_date": "2026-02-05",
+      "collected_date": "2026-02-06",
+      "source": "Humai Blog / AI News"
+    },
+    {
+      "url": "https://www.usatoday.com/story/tech/2026/01/09/ces-2026-ai-everyday-products/88101083007/",
+      "title": "AI PC時代の到来——Intel、AMD、Snapdragonの新チップで生産性革命",
+      "published_date": "2026-01-09",
+      "collected_date": "2026-02-06",
+      "source": "USA Today / CES 2026"
+    },
+    {
+      "url": "https://www.financialexpress.com/life/technology/ai-seeps-into-everyday-apps-as-consumer-tech-resets-in-2026/4093935/",
+      "title": "AI消費者製品の社会的影響——感情的依存とデジタル格差の課題",
+      "published_date": "2026-02-05",
+      "collected_date": "2026-02-06",
+      "source": "Financial Express / The Verge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-04T22:09:33Z",
-    "total_articles": 55,
+    "last_updated": "2026-02-05T22:08:38Z",
+    "total_articles": 52,
     "retention_days": 7,
     "version": "1.0"
   }
