@@ -1,83 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.cnbc.com/2026/01/29/meta-microsoft-stock-earnings-moves-tech.html",
-      "title": "Meta、AI投資の収益化で株価急騰",
-      "published_date": "2026-01-29",
-      "collected_date": "2026-01-31",
-      "source": "CNBC"
-    },
-    {
-      "url": "https://qz.com/meta-earnings-q4-2025-ai-mark-zuckerberg",
-      "title": "Meta、2026年のAI投資額1,350億ドル発表",
-      "published_date": "2026-01-29",
-      "collected_date": "2026-01-31",
-      "source": "Qz"
-    },
-    {
-      "url": "https://www.usnews.com/news/top-news/articles/2026-01-29/exclusive-pentagon-clashes-with-anthropic-over-military-ai-use",
-      "title": "Anthropic、国防総署と軍事AI利用で対立",
-      "published_date": "2026-01-29",
-      "collected_date": "2026-01-31",
-      "source": "US News"
-    },
-    {
-      "url": "https://venturebeat.com/technology/qwen3-max-thinking-beats-gemini-3-pro-and-gpt-5-2-on-humanitys-last-exam",
-      "title": "Alibaba Qwen3-Max-Thinking、GPT-5.2とGemini 3 Proを超える性能を達成",
-      "published_date": "2026-01-30",
-      "collected_date": "2026-01-30",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.vtnetzwelt.com/ai-development/latest-tech-ai-updates-what-january-2026-is-really-telling-us/",
-      "title": "2026年1月のAI業界：信頼性と説明責任へのシフト",
-      "published_date": "2026-01-30",
-      "collected_date": "2026-01-30",
-      "source": "VTNetzwelt"
-    },
-    {
-      "url": "https://sloanreview.mit.edu/article/five-trends-in-ai-and-data-science-for-2026/",
-      "title": "2026年のAIとデータサイエンスの5つのトレンド",
-      "published_date": "2026-01-30",
-      "collected_date": "2026-01-30",
-      "source": "MIT Sloan Management Review"
-    },
-    {
-      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/looking-ahead-ai-and-work-2026",
-      "title": "2026年のAIと仕事：人間とLLMの精度ギャップ",
-      "published_date": "2026-01-30",
-      "collected_date": "2026-01-30",
-      "source": "MIT Sloan"
-    },
-    {
-      "url": "https://time.com/collections/davos-2026/7339222/ai-predictions-2026/",
-      "title": "2026年のAI予測：5つの重要トレンド",
-      "published_date": "2026-01-30",
-      "collected_date": "2026-01-30",
-      "source": "TIME"
-    },
-    {
-      "url": "https://engineering.jhu.edu/news/what-to-expect-in-ai-in-2026/",
-      "title": "2026年のAIに期待すること",
-      "published_date": "2026-01-30",
-      "collected_date": "2026-01-30",
-      "source": "Johns Hopkins Engineering"
-    },
-    {
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/tech-layoffs-january-2026-amazon-meta-full-list-10500926/",
-      "title": "Amazon、最大3万人削減——AI自動化が雇用に影響",
-      "published_date": "2026-01-30",
-      "collected_date": "2026-01-31",
-      "source": "Indian Express"
-    },
-    {
-      "url": "https://www.emarketer.com/content/google-openai-dominate-ai-model-race-while-anthropic-deepseek-stall",
-      "title": "Google、DeepSeekに対抗——Gemini 2.5 Proでリード拡大",
-      "published_date": "2026-01-30",
-      "collected_date": "2026-01-31",
-      "source": "eMarketer"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/01/23/1131559/americas-coming-war-over-ai-regulation/",
       "title": "AI規制をめぐる連邦・州間の「戦争」が激化",
       "published_date": "2026-01-23",
@@ -363,11 +286,67 @@
       "published_date": "2026-02-05",
       "collected_date": "2026-02-06",
       "source": "Financial Express / The Verge"
+    },
+    {
+      "url": "https://venturebeat.com/technology/openais-gpt-5-3-codex-drops-as-anthropic-upgrades-claude-ai-coding-wars-heat",
+      "title": "OpenAI GPT-5.3-Codex発表——自己改善型AIコーディングの実現",
+      "published_date": "2026-02-05",
+      "collected_date": "2026-02-09",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.humai.blog/ai-news-trends-february-2026-complete-monthly-digest/",
+      "title": "Google Gemini 3、AIエージェント統制の新時代へ",
+      "published_date": "2026-02-06",
+      "collected_date": "2026-02-09",
+      "source": "The Verge / TechCrunch"
+    },
+    {
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/nasa-perseverance",
+      "title": "NASA火星探査機Perseverance、AI自律運転に成功",
+      "published_date": "2026-02-07",
+      "collected_date": "2026-02-09",
+      "source": "ScienceDaily / Wired"
+    },
+    {
+      "url": "https://bostoninstituteofanalytics.org/blog/latest-machine-learning-updates-in-2026-key-developments-in-generative-ai-this-week-2nd-6th-feb/",
+      "title": "Allen Institute、科学理論を自動生成する「Theorizer」を発表",
+      "published_date": "2026-02-06",
+      "collected_date": "2026-02-09",
+      "source": "Towards Data Science / MIT Technology Review"
+    },
+    {
+      "url": "https://theaitrack.com/ai-news-february-2026-in-depth-and-concise/nvidia-earth-2",
+      "title": "NVIDIA Earth-2プラットフォーム——AIによる高精度気象予測の民主化",
+      "published_date": "2026-02-07",
+      "collected_date": "2026-02-09",
+      "source": "Wired / TechCrunch"
+    },
+    {
+      "url": "https://theaitrack.com/ai-news-february-2026-in-depth-and-concise/microsoft-maia-200",
+      "title": "Microsoft Maia 200チップ——AI推論コストの大幅削減",
+      "published_date": "2026-02-06",
+      "collected_date": "2026-02-09",
+      "source": "The Verge / Towards Data Science"
+    },
+    {
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/ai-creativity-stanford",
+      "title": "AI創造性ベンチマークで人間を超える——スタンフォード研究",
+      "published_date": "2026-02-07",
+      "collected_date": "2026-02-09",
+      "source": "ScienceDaily / MIT Technology Review"
+    },
+    {
+      "url": "https://theaitrack.com/ai-news-february-2026-in-depth-and-concise/prism-openai",
+      "title": "Allen InstituteとOpenAI、科学研究支援AIツールで協力体制",
+      "published_date": "2026-02-06",
+      "collected_date": "2026-02-09",
+      "source": "MIT Technology Review / Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-05T22:08:38Z",
-    "total_articles": 52,
+    "last_updated": "2026-02-08T22:06:32Z",
+    "total_articles": 49,
     "retention_days": 7,
     "version": "1.0"
   }
