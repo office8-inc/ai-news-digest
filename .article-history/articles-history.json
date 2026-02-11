@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://aiweekly.co/",
-      "title": "Moltbook：AI専用ソーシャルネットワークの衝撃——人間不在のコミュニティで生まれた「AI宗教」",
-      "published_date": "2026-02-03",
-      "collected_date": "2026-02-04",
-      "source": "AI Weekly / MIT Technology Review"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
-      "title": "中国製オープンソースLLMが米国で急速普及——DeepSeek・Qwenが商業利用で存在感",
-      "published_date": "2026-02-03",
-      "collected_date": "2026-02-04",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/category/ai",
-      "title": "エージェント型AIが企業で本格導入——パイロットから大規模展開へ",
-      "published_date": "2026-02-03",
-      "collected_date": "2026-02-04",
-      "source": "MIT Sloan / VentureBeat"
-    },
-    {
-      "url": "https://venturebeat.com/ai/meta-omnilingual-asr-1600-languages",
-      "title": "Meta、1,600言語対応の多言語音声認識モデルを公開——OpenAI Whisperを大幅超越",
-      "published_date": "2026-02-03",
-      "collected_date": "2026-02-04",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/03/india-zero-tax-ai-companies-2047",
-      "title": "インド政府、AI企業に2047年まで完全免税——グローバルAIハブ戦略",
-      "published_date": "2026-02-03",
-      "collected_date": "2026-02-04",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.pcmag.com/news/categories/ai",
-      "title": "Mozilla Firefox、AI機能の完全オフ機能を追加——ユーザー選択権を重視",
-      "published_date": "2026-02-03",
-      "collected_date": "2026-02-04",
-      "source": "The Verge / PCMag"
-    },
-    {
-      "url": "https://venturebeat.com/ai/chronosphere-explainable-ai-system-outages",
-      "title": "Chronosphere、「説明可能なAI」でシステム障害の原因を特定——単なる検出から解明へ",
-      "published_date": "2026-02-03",
-      "collected_date": "2026-02-04",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://xix.ai/live",
-      "title": "OpenAI、科学研究支援ツール「Prism」を無料公開——GPT-5.2連携で研究効率化",
-      "published_date": "2026-02-03",
-      "collected_date": "2026-02-04",
-      "source": "xix.ai / The Verge"
-    },
-    {
       "url": "https://www.cnbc.com/2026/02/03/musk-xai-spacex-biggest-merger-ever.html",
       "title": "SpaceX、xAIを1.25兆ドルで買収——史上最大の企業合併",
       "published_date": "2026-02-03",
@@ -328,10 +272,66 @@
       "published_date": "2026-02-11",
       "collected_date": "2026-02-11",
       "source": "VentureBeat"
+    },
+    {
+      "url": "https://venturebeat.com/ai/meta-multilingual-asr-1600-languages-2026",
+      "title": "Meta、1,600言語対応の多言語音声認識システムを発表——OpenAI Whisperを大幅超越",
+      "published_date": "2026-02-11",
+      "collected_date": "2026-02-12",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://towardsdatascience.com/google-structured-ai-apis-2026",
+      "title": "Google、構造化AIへの移行を推進——「万能プロンプト」の終焉",
+      "published_date": "2026-02-09",
+      "collected_date": "2026-02-12",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/11/xai-founders-exodus-ipo",
+      "title": "xAI、共同創業者6名が退社——IPO前に組織の混乱が露呈",
+      "published_date": "2026-02-11",
+      "collected_date": "2026-02-12",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/12/meridian-ai-spreadsheet-funding",
+      "title": "Meridian、エージェント型AI搭載の表計算ツールで1,700万ドル調達",
+      "published_date": "2026-02-12",
+      "collected_date": "2026-02-12",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/ai/chronosphere-temporal-knowledge-graphs-2026",
+      "title": "Chronosphere、AI駆動型トラブルシューティングで複雑システムの障害を解明",
+      "published_date": "2026-02-12",
+      "collected_date": "2026-02-12",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://venturebeat.com/ai/baseten-training-platform-2026",
+      "title": "Baseten、オープンソースAIモデルのトレーニングプラットフォームを発表——企業が完全制御権を獲得",
+      "published_date": "2026-02-11",
+      "collected_date": "2026-02-12",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.technologyreview.com/deepfakes-marketplace-2026",
+      "title": "Deepfake Marketplace Exposed——AI-powered tools create deepfakes of real women",
+      "published_date": "2026-02-11",
+      "collected_date": "2026-02-12",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://opentools.ai/news/ai-washing-layoffs-2026",
+      "title": "AI起因のレイオフが加速——「AIウォッシング」が労働市場を揺るがす",
+      "published_date": "2026-02-11",
+      "collected_date": "2026-02-12",
+      "source": "OpenTools / Wired"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-10T22:15:22Z",
+    "last_updated": "2026-02-12T00:00:00Z",
     "total_articles": 47,
     "retention_days": 7,
     "version": "1.0"
