@@ -1,158 +1,11 @@
 {
   "articles": [
     {
-      "url": "https://www.timesofai.com/news/ai/",
-      "title": "Anthropic Claude Opus 4.6、100万トークンのコンテキストウィンドウを実現",
-      "published_date": "2026-02-05",
-      "collected_date": "2026-02-06",
-      "source": "Times of AI / AI News"
-    },
-    {
-      "url": "https://aichief.com/news/",
-      "title": "OpenAI Frontierプラットフォーム発表——企業向けAIエージェント時代へ",
-      "published_date": "2026-02-05",
-      "collected_date": "2026-02-06",
-      "source": "AI Chief / Times of AI"
-    },
-    {
-      "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Releases-New-Physical-AI-Models-as-Global-Partners-Unveil-Next-Generation-Robots/",
-      "title": "NVIDIA、物理AI用オープンモデルを公開——ロボティクス革命へ",
-      "published_date": "2026-02-04",
-      "collected_date": "2026-02-06",
-      "source": "NVIDIA / TechCrunch"
-    },
-    {
-      "url": "https://www.bakerbotts.com/thought-leadership/publications/2026/january/us-ai-law-update",
-      "title": "米国AI規制の混乱——州ごとの法律乱立でコンプライアンス危機",
-      "published_date": "2026-02-05",
-      "collected_date": "2026-02-06",
-      "source": "Baker Botts / National Law Review / Wired"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/01/05/1130662/whats-next-for-ai-in-2026/",
-      "title": "中国オープンソースLLMの台頭——DeepSeek、Qwenが米国市場で存在感（2月更新）",
-      "published_date": "2026-02-05",
-      "collected_date": "2026-02-06",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.humai.blog/ai-news-trends-february-2026-complete-monthly-digest/",
-      "title": "ChatGPTに広告導入——無料・Goプラン限定でマネタイゼーション強化",
-      "published_date": "2026-02-05",
-      "collected_date": "2026-02-06",
-      "source": "Humai Blog / AI News"
-    },
-    {
-      "url": "https://www.usatoday.com/story/tech/2026/01/09/ces-2026-ai-everyday-products/88101083007/",
-      "title": "AI PC時代の到来——Intel、AMD、Snapdragonの新チップで生産性革命",
-      "published_date": "2026-01-09",
-      "collected_date": "2026-02-06",
-      "source": "USA Today / CES 2026"
-    },
-    {
-      "url": "https://www.financialexpress.com/life/technology/ai-seeps-into-everyday-apps-as-consumer-tech-resets-in-2026/4093935/",
-      "title": "AI消費者製品の社会的影響——感情的依存とデジタル格差の課題",
-      "published_date": "2026-02-05",
-      "collected_date": "2026-02-06",
-      "source": "Financial Express / The Verge"
-    },
-    {
-      "url": "https://venturebeat.com/technology/openais-gpt-5-3-codex-drops-as-anthropic-upgrades-claude-ai-coding-wars-heat",
-      "title": "OpenAI GPT-5.3-Codex発表——自己改善型AIコーディングの実現",
-      "published_date": "2026-02-05",
-      "collected_date": "2026-02-09",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.humai.blog/ai-news-trends-february-2026-complete-monthly-digest/",
-      "title": "Google Gemini 3、AIエージェント統制の新時代へ",
-      "published_date": "2026-02-06",
-      "collected_date": "2026-02-09",
-      "source": "The Verge / TechCrunch"
-    },
-    {
-      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/nasa-perseverance",
-      "title": "NASA火星探査機Perseverance、AI自律運転に成功",
-      "published_date": "2026-02-07",
-      "collected_date": "2026-02-09",
-      "source": "ScienceDaily / Wired"
-    },
-    {
-      "url": "https://bostoninstituteofanalytics.org/blog/latest-machine-learning-updates-in-2026-key-developments-in-generative-ai-this-week-2nd-6th-feb/",
-      "title": "Allen Institute、科学理論を自動生成する「Theorizer」を発表",
-      "published_date": "2026-02-06",
-      "collected_date": "2026-02-09",
-      "source": "Towards Data Science / MIT Technology Review"
-    },
-    {
-      "url": "https://theaitrack.com/ai-news-february-2026-in-depth-and-concise/nvidia-earth-2",
-      "title": "NVIDIA Earth-2プラットフォーム——AIによる高精度気象予測の民主化",
-      "published_date": "2026-02-07",
-      "collected_date": "2026-02-09",
-      "source": "Wired / TechCrunch"
-    },
-    {
-      "url": "https://theaitrack.com/ai-news-february-2026-in-depth-and-concise/microsoft-maia-200",
-      "title": "Microsoft Maia 200チップ——AI推論コストの大幅削減",
-      "published_date": "2026-02-06",
-      "collected_date": "2026-02-09",
-      "source": "The Verge / Towards Data Science"
-    },
-    {
-      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/ai-creativity-stanford",
-      "title": "AI創造性ベンチマークで人間を超える——スタンフォード研究",
-      "published_date": "2026-02-07",
-      "collected_date": "2026-02-09",
-      "source": "ScienceDaily / MIT Technology Review"
-    },
-    {
-      "url": "https://theaitrack.com/ai-news-february-2026-in-depth-and-concise/prism-openai",
-      "title": "Allen InstituteとOpenAI、科学研究支援AIツールで協力体制",
-      "published_date": "2026-02-06",
-      "collected_date": "2026-02-09",
-      "source": "MIT Technology Review / Towards Data Science"
-    },
-    {
-      "url": "https://www.prnewswire.com/news-releases/mit-technology-review-announces-the-2026-list-of-10-breakthrough-technologies-302658798.html",
-      "title": "MIT Technology Review、2026年版「10大ブレークスルー技術」を発表——AIが中心テーマに",
-      "published_date": "2026-01-23",
-      "collected_date": "2026-02-10",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.breitbart.com/tech/2026/02/06/amazon-shares-dive-8-after-announcing-200-billion-ai-spending-spree/",
-      "title": "Amazon、2026年にAIインフラへ2,000億ドル投資を発表",
-      "published_date": "2026-02-06",
-      "collected_date": "2026-02-10",
-      "source": "Breitbart / VentureBeat"
-    },
-    {
       "url": "https://aichief.com/news/anthropic-20b-funding-round",
       "title": "Anthropic、200億ドルの資金調達に接近——評価額3,500億ドル",
       "published_date": "2026-02-09",
       "collected_date": "2026-02-10",
       "source": "AI Chief"
-    },
-    {
-      "url": "https://www.crn.com/news/ai/2026/the-10-ai-startup-companies-to-watch-in-2026",
-      "title": "注目すべきAIスタートアップ2026——Airia、Aurascape、Project Prometheus",
-      "published_date": "2026-02-08",
-      "collected_date": "2026-02-10",
-      "source": "CRN"
-    },
-    {
-      "url": "https://www.cbsnews.com/news/ai-layoffs-2026-artificial-intelligence-amazon-pinterest/",
-      "title": "AI起因のレイオフが加速——2025年に5.5万件以上の雇用削減",
-      "published_date": "2026-02-07",
-      "collected_date": "2026-02-10",
-      "source": "CBS News"
-    },
-    {
-      "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
-      "title": "米国AI規制の混乱——連邦と州の法律が衝突",
-      "published_date": "2026-02-08",
-      "collected_date": "2026-02-10",
-      "source": "Gunder Law / Baker Botts"
     },
     {
       "url": "https://globalinvestigationsreview.com/review/the-investigations-review-of-the-americas/2026/article/us-enforcement-agencies-intensify-scrutiny-of-ai-washing",
@@ -321,11 +174,67 @@
       "published_date": "2026-02-13",
       "collected_date": "2026-02-13",
       "source": "TechFundingNews / Claude Blog"
+    },
+    {
+      "url": "https://www.salesforce.com/uk/news/stories/the-future-of-ai-agents-top-predictions-trends-to-watch-in-2026/",
+      "title": "エンタープライズAIエージェント、2026年に本格展開——74%が戦略的優先事項と位置づけ",
+      "published_date": "2026-02-15",
+      "collected_date": "2026-02-16",
+      "source": "Salesforce / Databricks / Google Cloud"
+    },
+    {
+      "url": "https://news.crunchbase.com/ai-funding-anthropic-30-billion-2026",
+      "title": "Anthropic、300億ドルの資金調達で評価額3,800億ドルに——2026年最大のAI投資",
+      "published_date": "2026-02-15",
+      "collected_date": "2026-02-16",
+      "source": "Crunchbase / StartupTalky"
+    },
+    {
+      "url": "https://www.humai.blog/ai-news-trends-february-2026-coinbase-agentic-wallets",
+      "title": "AIエージェント用「自律金融ウォレット」登場——Coinbaseが新インフラを発表",
+      "published_date": "2026-02-14",
+      "collected_date": "2026-02-16",
+      "source": "Humai Blog"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/npr-host-sues-google-voice-cloning",
+      "title": "米国NPRホスト、Googleを声の無断クローンで提訴——AIディープフェイク音声の法的論争が激化",
+      "published_date": "2026-02-15",
+      "collected_date": "2026-02-16",
+      "source": "The Verge / AI Chief"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/15/seedance-2-0-hollywood-concerns-copyright",
+      "title": "Hollywood、AI動画生成ツール「Seedance 2.0」に警戒——著作権侵害のリスクを指摘",
+      "published_date": "2026-02-15",
+      "collected_date": "2026-02-16",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/14/india-chatgpt-100-million-weekly-users",
+      "title": "インド、ChatGPT週間アクティブユーザーが1億人突破——新興市場でのAI爆発的普及",
+      "published_date": "2026-02-14",
+      "collected_date": "2026-02-16",
+      "source": "TechCrunch / AI Chief"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/02/14/moltbook-ai-social-network-viral",
+      "title": "AI研究がAI研究を加速——「Moltbook」AIボット専用SNSがバイラル化",
+      "published_date": "2026-02-14",
+      "collected_date": "2026-02-16",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/2026/02/15/uc-computer-science-enrollment-decline-ai",
+      "title": "米国カリフォルニア大学、コンピュータサイエンス専攻の志願者が減少——AIによる雇用不安が影響か",
+      "published_date": "2026-02-15",
+      "collected_date": "2026-02-16",
+      "source": "The Verge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-12T22:09:25.551392Z",
-    "total_articles": 46,
+    "last_updated": "2026-02-16T22:02:35Z",
+    "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
   }
