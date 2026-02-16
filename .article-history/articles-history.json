@@ -230,11 +230,67 @@
       "published_date": "2026-02-15",
       "collected_date": "2026-02-16",
       "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/02/17/chinese-open-source-ai-models",
+      "title": "中国オープンソースAIモデルが米国市場で急拡大——DeepSeek、Qwenが低コストと柔軟性で選ばれる",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-17",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/01/23/americas-coming-war-over-ai-regulation",
+      "title": "米国のAI規制をめぐる「州 vs 連邦」の戦い——各州の独自法が連邦政府と衝突",
+      "published_date": "2026-01-23",
+      "collected_date": "2026-02-17",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/17/glean-ai-layer-company",
+      "title": "Glean、企業の「AIレイヤー」を独占へ——検索から業務アシスタントへ進化",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-17",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.humai.blog/ai-news-trends-february-2026-google-search-gemini-3",
+      "title": "Google、Gemini 3搭載で検索を会話型AIに大転換——情報検索からエージェント型体験へ",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-17",
+      "source": "Towards Data Science / AI News Aggregators"
+    },
+    {
+      "url": "https://theaitrack.com/ai-news-february-2026-bytedance-doubao-seedance",
+      "title": "ByteDance、Doubao 2.0とSeedance 2.0を発表——推論能力とマルチモーダルAIで競争激化",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-17",
+      "source": "AI News Aggregators"
+    },
+    {
+      "url": "https://www.humai.blog/ai-news-trends-february-2026-openai-ads",
+      "title": "OpenAI、ChatGPTに広告導入をテスト——サブスクリプションから多様化する収益モデル",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-17",
+      "source": "Towards Data Science / AI News Aggregators"
+    },
+    {
+      "url": "https://gdprlocal.com/ai-regulations-around-the-world/eu-ai-act-2026",
+      "title": "EU AI Act、2026年8月2日に完全施行——世界最高水準の罰則と透明性要件",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-17",
+      "source": "AI Regulation News"
+    },
+    {
+      "url": "https://www.thehansindia.com/technology/apple-2026-products-iphone-17e-m5",
+      "title": "Apple、iPhone 17eとM5 Mac、AI強化型Siriを2026年春に発表予定",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-17",
+      "source": "Apple News / TechCrunch"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-16T22:02:35Z",
-    "total_articles": 33,
+    "last_updated": "2026-02-17T22:04:28Z",
+    "total_articles": 41,
     "retention_days": 7,
     "version": "1.0"
   }
