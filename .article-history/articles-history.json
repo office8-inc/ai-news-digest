@@ -1,20 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://aichief.com/news/anthropic-20b-funding-round",
-      "title": "Anthropic、200億ドルの資金調達に接近——評価額3,500億ドル",
-      "published_date": "2026-02-09",
-      "collected_date": "2026-02-10",
-      "source": "AI Chief"
-    },
-    {
-      "url": "https://globalinvestigationsreview.com/review/the-investigations-review-of-the-americas/2026/article/us-enforcement-agencies-intensify-scrutiny-of-ai-washing",
-      "title": "「AIウォッシング」取り締まりが強化——米国司法省、SEC、FTCが監視強化",
-      "published_date": "2026-02-09",
-      "collected_date": "2026-02-10",
-      "source": "Global Investigations Review"
-    },
-    {
       "url": "https://venturebeat.com/ai/google-alphaevolve-agent-orchestration",
       "title": "Google AlphaEvolve——AI エージェント統制のベストプラクティスを実証",
       "published_date": "2026-02-10",
@@ -286,11 +272,67 @@
       "published_date": "2026-02-17",
       "collected_date": "2026-02-17",
       "source": "Apple News / TechCrunch"
+    },
+    {
+      "url": "https://jangwook.net/en/blog/en/ai-model-rush-february-2026/",
+      "title": "2月のAIモデルラッシュ——7つの主要モデルが1カ月に集中リリース",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-18",
+      "source": "Jangwook.net / TechCrunch"
+    },
+    {
+      "url": "https://www.crewai.com/blog/the-state-of-agentic-ai-in-2026",
+      "title": "エンタープライズAIエージェント、実験段階から本番環境への大規模展開へ移行",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-18",
+      "source": "CrewAI / Databricks / TechRadar"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
+      "title": "米国AIスタートアップ17社が2026年初頭に1億ドル以上を調達",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-18",
+      "source": "TechCrunch / OpenTools"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/17/anthropic-ai-claude-sonnet-4-6-default-free-pro.html",
+      "title": "Anthropic、Claude Sonnet 4.6を無料版とProのデフォルトモデルに設定",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-18",
+      "source": "CNBC / PureAI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/17/apple-ai-wearables-development",
+      "title": "Apple、AI搭載ウェアラブル3製品を開発中——スマートグラス市場に参入か",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-18",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/17/european-parliament-ai-ban-lawmakers",
+      "title": "欧州議会、セキュリティリスクを理由に議員デバイスでのAI使用を禁止",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-18",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/17/wordpress-ai-assistant",
+      "title": "WordPress.com、AI Assistantを追加——画像生成・スタイル調整・コンテンツ編集を統合",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-18",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/17/mistral-ai-koyeb-acquisition",
+      "title": "Mistral AI、Koyebを買収してクラウド基盤を強化",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-18",
+      "source": "TechCrunch"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-17T22:04:28Z",
-    "total_articles": 41,
+    "last_updated": "2026-02-18T00:00:00Z",
+    "total_articles": 47,
     "retention_days": 7,
     "version": "1.0"
   }
