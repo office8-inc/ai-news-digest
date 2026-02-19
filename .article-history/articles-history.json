@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/ai/meta-multilingual-asr-1600-languages-2026",
-      "title": "Meta、1,600言語対応の多言語音声認識システムを発表——OpenAI Whisperを大幅超越",
-      "published_date": "2026-02-11",
-      "collected_date": "2026-02-12",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://towardsdatascience.com/google-structured-ai-apis-2026",
-      "title": "Google、構造化AIへの移行を推進——「万能プロンプト」の終焉",
-      "published_date": "2026-02-09",
-      "collected_date": "2026-02-12",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/11/xai-founders-exodus-ipo",
-      "title": "xAI、共同創業者6名が退社——IPO前に組織の混乱が露呈",
-      "published_date": "2026-02-11",
-      "collected_date": "2026-02-12",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/12/meridian-ai-spreadsheet-funding",
-      "title": "Meridian、エージェント型AI搭載の表計算ツールで1,700万ドル調達",
-      "published_date": "2026-02-12",
-      "collected_date": "2026-02-12",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/ai/chronosphere-temporal-knowledge-graphs-2026",
-      "title": "Chronosphere、AI駆動型トラブルシューティングで複雑システムの障害を解明",
-      "published_date": "2026-02-12",
-      "collected_date": "2026-02-12",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://venturebeat.com/ai/baseten-training-platform-2026",
-      "title": "Baseten、オープンソースAIモデルのトレーニングプラットフォームを発表——企業が完全制御権を獲得",
-      "published_date": "2026-02-11",
-      "collected_date": "2026-02-12",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.technologyreview.com/deepfakes-marketplace-2026",
-      "title": "Deepfake Marketplace Exposed——AI-powered tools create deepfakes of real women",
-      "published_date": "2026-02-11",
-      "collected_date": "2026-02-12",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://opentools.ai/news/ai-washing-layoffs-2026",
-      "title": "AI起因のレイオフが加速——「AIウォッシング」が労働市場を揺るがす",
-      "published_date": "2026-02-11",
-      "collected_date": "2026-02-12",
-      "source": "OpenTools / Wired"
-    },
-    {
       "url": "https://www.pymnts.com/news/investment-tracker/2026/resolve-ai-raises-125-million-for-ai-agents-that-maintain-software/",
       "title": "Resolve AI、AIエージェント型ソフトウェアメンテナンスで1.25億ドル調達",
       "published_date": "2026-02-13",
@@ -335,10 +279,66 @@
       "published_date": "2026-02-11",
       "collected_date": "2026-02-19",
       "source": "Indian Government / Wired"
+    },
+    {
+      "url": "https://allenai.org/blog/theorizer",
+      "title": "Allen Institute AI「Theorizer」公開——数万本の論文から科学的理論を自動生成",
+      "published_date": "2026-02-19",
+      "collected_date": "2026-02-20",
+      "source": "MIT Technology Review / Allen Institute"
+    },
+    {
+      "url": "https://news.mit.edu/2026/method-exposing-hidden-biases-moods-vulnerabilities-language-models-0219",
+      "title": "MIT研究者、LLMの隠れたバイアス・感情・脆弱性を暴露する新手法を発表",
+      "published_date": "2026-02-19",
+      "collected_date": "2026-02-20",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/newsletters/2026-02-19/openai-nears-100-billion-funding-at-850-billion-valuation",
+      "title": "OpenAI、評価額8,500億ドルで史上最大規模の1,000億ドル超資金調達——Amazon・SoftBank・NVIDIAが主導",
+      "published_date": "2026-02-19",
+      "collected_date": "2026-02-20",
+      "source": "VentureBeat / Bloomberg"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/",
+      "title": "Infosys-Anthropic、通信・金融業界向けエンタープライズAIエージェントで戦略的提携",
+      "published_date": "2026-02-17",
+      "collected_date": "2026-02-20",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+      "title": "Google Gemini 3.1 Pro発表——推論能力2.5倍向上、ARC-AGI-2で77%の新記録",
+      "published_date": "2026-02-19",
+      "collected_date": "2026-02-20",
+      "source": "The Verge / VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/",
+      "title": "OpenAI×JioHotstar提携——4.5億人のインドユーザーにAI会話型コンテンツ検索を展開",
+      "published_date": "2026-02-19",
+      "collected_date": "2026-02-20",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.ndtv.com/india-news/india-ai-impact-summit-2026-live-updates-bharat-mandapam-new-delhi-global-tech-leaders-pm-modi-to-inaugurate-ai-impact-summit-day-4-emmanuel-macron-11056518",
+      "title": "インドAI Impact Summit 2026——45カ国参加、M.A.N.A.V.フレームワークでAIガバナンスの新章",
+      "published_date": "2026-02-20",
+      "collected_date": "2026-02-20",
+      "source": "Wired / The Verge"
+    },
+    {
+      "url": "https://www.wired.com/story/deepfakes-asymmetric-risk-social-trust-2026/",
+      "title": "ディープフェイクの「非対称リスク」——低コスト化が加速し社会的信頼の崩壊を専門家が警告",
+      "published_date": "2026-02-20",
+      "collected_date": "2026-02-20",
+      "source": "Wired"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-19T00:00:00Z",
+    "last_updated": "2026-02-20T00:00:00Z",
     "total_articles": 48,
     "retention_days": 7,
     "version": "1.0"
