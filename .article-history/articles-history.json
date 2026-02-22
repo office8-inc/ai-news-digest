@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.pymnts.com/news/investment-tracker/2026/resolve-ai-raises-125-million-for-ai-agents-that-maintain-software/",
-      "title": "Resolve AI、AIエージェント型ソフトウェアメンテナンスで1.25億ドル調達",
-      "published_date": "2026-02-13",
-      "collected_date": "2026-02-13",
-      "source": "PYMNTS / VentureBeat"
-    },
-    {
-      "url": "https://www.lawweb.in/2026/02/india-just-drew-red-line-on-deepfakes.html",
-      "title": "インド、世界最先端のディープフェイク規制を2月20日から施行",
-      "published_date": "2026-02-11",
-      "collected_date": "2026-02-13",
-      "source": "Law Web / News18"
-    },
-    {
-      "url": "https://theaiinsider.tech/2026/02/12/witnessai-raises-58m-to-expand-enterprise-ai-security-and-agent-governance-platform/",
-      "title": "WitnessAI、エンタープライズAIセキュリティで5,800万ドル調達",
-      "published_date": "2026-02-12",
-      "collected_date": "2026-02-13",
-      "source": "The AI Insider / VentureBeat"
-    },
-    {
-      "url": "https://www.analyticsinsight.net/press-release/gitguardian-raises-50m-series-c-to-address-non-human-identities-crisis-and-ai-agent-security-gap",
-      "title": "GitGuardian、非人間アイデンティティ管理で5,000万ドルのシリーズC調達",
-      "published_date": "2026-02-12",
-      "collected_date": "2026-02-13",
-      "source": "Analytics Insight"
-    },
-    {
-      "url": "https://mlq.ai/news/ai-roundup/2026-02-11/samaya-ai-steals-the-spotlight-with-agent-breakthrough-and-big-backer-funding/",
-      "title": "Samaya AI、金融特化型エージェント制御プラットフォームでNVIDIAとDatabricksから資金調達",
-      "published_date": "2026-02-11",
-      "collected_date": "2026-02-13",
-      "source": "MLQ.ai"
-    },
-    {
-      "url": "https://www.humai.blog/ai-news-trends-february-2026-medra-physical-ai",
-      "title": "Medraの「Physical AI」、創薬研究に革命をもたらす自律型ラボロボット",
-      "published_date": "2026-02-12",
-      "collected_date": "2026-02-13",
-      "source": "Humai Blog / The AI Track"
-    },
-    {
-      "url": "https://www.crescendo.ai/news/ai-recruiting-bias-study-2026",
-      "title": "AI採用ツールのジェンダーバイアス問題、性別マーカー削除後も継続",
-      "published_date": "2026-02-12",
-      "collected_date": "2026-02-13",
-      "source": "Crescendo AI / The Verge"
-    },
-    {
-      "url": "https://techfundingnews.com/ai-agents-enterprise-failures-value-loop-roi-2026/",
-      "title": "エンタープライズAIエージェント導入、81%が規模拡大に失敗——「価値ループ」の欠如が原因",
-      "published_date": "2026-02-13",
-      "collected_date": "2026-02-13",
-      "source": "TechFundingNews / Claude Blog"
-    },
-    {
       "url": "https://www.salesforce.com/uk/news/stories/the-future-of-ai-agents-top-predictions-trends-to-watch-in-2026/",
       "title": "エンタープライズAIエージェント、2026年に本格展開——74%が戦略的優先事項と位置づけ",
       "published_date": "2026-02-15",
@@ -335,10 +279,66 @@
       "published_date": "2026-02-20",
       "collected_date": "2026-02-20",
       "source": "Wired"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/functiongemma/",
+      "title": "Google FunctionGemma公開——270Mパラメータのエッジ特化AIモデルでオンデバイスAIエージェントを実現",
+      "published_date": "2026-02-21",
+      "collected_date": "2026-02-23",
+      "source": "VentureBeat / Google Blog"
+    },
+    {
+      "url": "https://www.technologyreview.com/magazines/the-innovation-issue-26/",
+      "title": "MIT Technology Review「2026年の10大ブレークスルー技術」——AIコンパニオン、超大規模データセンター、AI胚スコアリングが選出",
+      "published_date": "2026-02-01",
+      "collected_date": "2026-02-23",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/jp-morgans-ai-adoption-hit-50-of-employees-the-secret-a-connectivity-first",
+      "title": "JPMorgan Chase、従業員の50%がAIツールを日常活用——「接続性優先」アーキテクチャが大規模AI普及の秘訣",
+      "published_date": "2026-02-21",
+      "collected_date": "2026-02-23",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://restofworld.org/2026/openai-deepseek-distillation-dispute-us-china/",
+      "title": "OpenAI、DeepSeekの知的財産盗用を議会に申告——V4リリース迫るなか米中AI摩擦が激化",
+      "published_date": "2026-02-21",
+      "collected_date": "2026-02-23",
+      "source": "Wired / Rest of World"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
+      "title": "YouTubeがスマートTV向け会話型AI機能をテスト——視聴しながらGemini AIにリアルタイム質問",
+      "published_date": "2026-02-19",
+      "collected_date": "2026-02-23",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://siliconangle.com/2026/02/15/openai-hires-openclaw-founder-peter-steinberger-push-toward-autonomous-agents/",
+      "title": "OpenAI、OpenClaw創設者を採用——「チャットから行動へ」AIエージェントプラットフォーム競争が新段階",
+      "published_date": "2026-02-21",
+      "collected_date": "2026-02-23",
+      "source": "TechCrunch / SiliconAngle"
+    },
+    {
+      "url": "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219",
+      "title": "MIT研究: AIチャットボットが非英語ネイティブや低学歴ユーザーに不正確な情報——AIが格差を拡大するリスク",
+      "published_date": "2026-02-19",
+      "collected_date": "2026-02-23",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://insideaipolicy.com/ai-daily-news/lawmakers-introduce-bill-ban-deepseek-citing-security-concerns-over-open-source-ai",
+      "title": "米議会、DeepSeekの政府デバイス使用禁止法案を提出——オープンソースAIへの規制が新たな課題",
+      "published_date": "2026-02-22",
+      "collected_date": "2026-02-23",
+      "source": "Wired / Inside AI Policy"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-20T00:00:00Z",
+    "last_updated": "2026-02-23T00:00:00Z",
     "total_articles": 48,
     "retention_days": 7,
     "version": "1.0"
