@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.salesforce.com/uk/news/stories/the-future-of-ai-agents-top-predictions-trends-to-watch-in-2026/",
-      "title": "エンタープライズAIエージェント、2026年に本格展開——74%が戦略的優先事項と位置づけ",
-      "published_date": "2026-02-15",
-      "collected_date": "2026-02-16",
-      "source": "Salesforce / Databricks / Google Cloud"
-    },
-    {
-      "url": "https://news.crunchbase.com/ai-funding-anthropic-30-billion-2026",
-      "title": "Anthropic、300億ドルの資金調達で評価額3,800億ドルに——2026年最大のAI投資",
-      "published_date": "2026-02-15",
-      "collected_date": "2026-02-16",
-      "source": "Crunchbase / StartupTalky"
-    },
-    {
-      "url": "https://www.humai.blog/ai-news-trends-february-2026-coinbase-agentic-wallets",
-      "title": "AIエージェント用「自律金融ウォレット」登場——Coinbaseが新インフラを発表",
-      "published_date": "2026-02-14",
-      "collected_date": "2026-02-16",
-      "source": "Humai Blog"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/npr-host-sues-google-voice-cloning",
-      "title": "米国NPRホスト、Googleを声の無断クローンで提訴——AIディープフェイク音声の法的論争が激化",
-      "published_date": "2026-02-15",
-      "collected_date": "2026-02-16",
-      "source": "The Verge / AI Chief"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/15/seedance-2-0-hollywood-concerns-copyright",
-      "title": "Hollywood、AI動画生成ツール「Seedance 2.0」に警戒——著作権侵害のリスクを指摘",
-      "published_date": "2026-02-15",
-      "collected_date": "2026-02-16",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/14/india-chatgpt-100-million-weekly-users",
-      "title": "インド、ChatGPT週間アクティブユーザーが1億人突破——新興市場でのAI爆発的普及",
-      "published_date": "2026-02-14",
-      "collected_date": "2026-02-16",
-      "source": "TechCrunch / AI Chief"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/02/14/moltbook-ai-social-network-viral",
-      "title": "AI研究がAI研究を加速——「Moltbook」AIボット専用SNSがバイラル化",
-      "published_date": "2026-02-14",
-      "collected_date": "2026-02-16",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/2026/02/15/uc-computer-science-enrollment-decline-ai",
-      "title": "米国カリフォルニア大学、コンピュータサイエンス専攻の志願者が減少——AIによる雇用不安が影響か",
-      "published_date": "2026-02-15",
-      "collected_date": "2026-02-16",
-      "source": "The Verge"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/02/17/chinese-open-source-ai-models",
       "title": "中国オープンソースAIモデルが米国市場で急拡大——DeepSeek、Qwenが低コストと柔軟性で選ばれる",
       "published_date": "2026-02-17",
@@ -335,10 +279,66 @@
       "published_date": "2026-02-22",
       "collected_date": "2026-02-23",
       "source": "Wired / Inside AI Policy"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
+      "title": "生成AIが医療研究チームを凌駕——UCSFの研究で早産予測データ分析を50倍速く処理、人間と同等の精度",
+      "published_date": "2026-02-21",
+      "collected_date": "2026-02-24",
+      "source": "MIT Technology Review / ScienceDaily"
+    },
+    {
+      "url": "https://towardsdatascience.com/2026-will-be-the-year-of-data-ai-observability/",
+      "title": "2026年はデータとAIオブザーバビリティの年——信頼できるAIシステムに不可欠な監視基盤が新たな必須インフラに",
+      "published_date": "2026-02-01",
+      "collected_date": "2026-02-24",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+      "title": "OpenAI、Accenture・BCG・Capgemini・McKinseyと「フロンティア同盟」締結——エンタープライズAI普及を本格加速",
+      "published_date": "2026-02-23",
+      "collected_date": "2026-02-24",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-great-ai-agent-acceleration-why-enterprise-adoption-is-happening-faster-than-anyone-predicted",
+      "title": "AIエージェントの大加速——大企業の68%が本番導入、ガバナンス整備が最大の課題に",
+      "published_date": "2026-02-22",
+      "collected_date": "2026-02-24",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
+      "title": "RedditがLLM活用のAIショッピング検索をテスト——コミュニティの本音がAI商品推薦を支える新モデル",
+      "published_date": "2026-02-19",
+      "collected_date": "2026-02-24",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
+      "title": "AnthropicがClaude Code Securityを発表——AIが500件超の未発見脆弱性を自律検出し、サイバーセキュリティ株が急落",
+      "published_date": "2026-02-21",
+      "collected_date": "2026-02-24",
+      "source": "The Verge / VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+      "title": "Anthropic、中国AI企業3社（DeepSeek・Moonshot AI・MiniMax）が2万4千の偽アカウントでClaudeを違法蒸留と告発",
+      "published_date": "2026-02-23",
+      "collected_date": "2026-02-24",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/",
+      "title": "MIT Technology Review調査：Civitaiが女性をターゲットにしたAIディープフェイク産業化を可能にした実態——リクエストの90%が女性対象",
+      "published_date": "2026-02-02",
+      "collected_date": "2026-02-24",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-23T00:00:00Z",
+    "last_updated": "2026-02-24T00:00:00Z",
     "total_articles": 48,
     "retention_days": 7,
     "version": "1.0"
