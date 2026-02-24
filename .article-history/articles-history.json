@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/02/17/chinese-open-source-ai-models",
-      "title": "中国オープンソースAIモデルが米国市場で急拡大——DeepSeek、Qwenが低コストと柔軟性で選ばれる",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-17",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/01/23/americas-coming-war-over-ai-regulation",
-      "title": "米国のAI規制をめぐる「州 vs 連邦」の戦い——各州の独自法が連邦政府と衝突",
-      "published_date": "2026-01-23",
-      "collected_date": "2026-02-17",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/17/glean-ai-layer-company",
-      "title": "Glean、企業の「AIレイヤー」を独占へ——検索から業務アシスタントへ進化",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-17",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.humai.blog/ai-news-trends-february-2026-google-search-gemini-3",
-      "title": "Google、Gemini 3搭載で検索を会話型AIに大転換——情報検索からエージェント型体験へ",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-17",
-      "source": "Towards Data Science / AI News Aggregators"
-    },
-    {
-      "url": "https://theaitrack.com/ai-news-february-2026-bytedance-doubao-seedance",
-      "title": "ByteDance、Doubao 2.0とSeedance 2.0を発表——推論能力とマルチモーダルAIで競争激化",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-17",
-      "source": "AI News Aggregators"
-    },
-    {
-      "url": "https://www.humai.blog/ai-news-trends-february-2026-openai-ads",
-      "title": "OpenAI、ChatGPTに広告導入をテスト——サブスクリプションから多様化する収益モデル",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-17",
-      "source": "Towards Data Science / AI News Aggregators"
-    },
-    {
-      "url": "https://gdprlocal.com/ai-regulations-around-the-world/eu-ai-act-2026",
-      "title": "EU AI Act、2026年8月2日に完全施行——世界最高水準の罰則と透明性要件",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-17",
-      "source": "AI Regulation News"
-    },
-    {
-      "url": "https://www.thehansindia.com/technology/apple-2026-products-iphone-17e-m5",
-      "title": "Apple、iPhone 17eとM5 Mac、AI強化型Siriを2026年春に発表予定",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-17",
-      "source": "Apple News / TechCrunch"
-    },
-    {
       "url": "https://jangwook.net/en/blog/en/ai-model-rush-february-2026/",
       "title": "2月のAIモデルラッシュ——7つの主要モデルが1カ月に集中リリース",
       "published_date": "2026-02-17",
@@ -335,10 +279,66 @@
       "published_date": "2026-02-02",
       "collected_date": "2026-02-24",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
+      "title": "MetaがAMDと最大1,000億ドルのAIチップ契約締結——「パーソナル超知能」実現に向け年6GW規模の計算基盤を整備",
+      "published_date": "2026-02-24",
+      "collected_date": "2026-02-25",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
+      "title": "Nimble、AIエージェントにリアルタイムWebデータを供給——シリーズB 4,700万ドル調達でDatabricks Venturesも参加",
+      "published_date": "2026-02-24",
+      "collected_date": "2026-02-25",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/24/anthropic-launches-new-push-for-enterprise-agents-with-plugins-for-finance-engineering-and-design/",
+      "title": "AnthropicがClaude用エンタープライズプラグイン10種を公開——LSEG・FactSet・Slack・DocuSignと連携し金融・人事・法務業務を直接AIに接続",
+      "published_date": "2026-02-24",
+      "collected_date": "2026-02-25",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
+      "title": "Oura、女性健康向け独自AIモデル「Oura Advisor」を初公開——臨床研究に基づく生体データ連携型パーソナルアドバイザー",
+      "published_date": "2026-02-24",
+      "collected_date": "2026-02-25",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/2026/02/25/samsung-galaxy-s26-unpacked-galaxy-ai",
+      "title": "Samsung Galaxy S26、Galaxy Unpacked 2026で発表——Zero-Peeking Privacy・Perplexity AI統合・AI Edge Panelで「パーソナルAI」を前面に",
+      "published_date": "2026-02-25",
+      "collected_date": "2026-02-25",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://hbr.org/2026/02/ai-doesnt-reduce-work-it-intensifies-it",
+      "title": "HBR/UCバークレー研究——AIは仕事を「楽にしない」むしろ激化させバーンアウトを引き起こす、導入6ヶ月後に83%の専門家が燃え尽き症状",
+      "published_date": "2026-02-09",
+      "collected_date": "2026-02-25",
+      "source": "Harvard Business Review / MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/alpamayor1-large-causal-reasoning-models-for-autonomous-driving/",
+      "title": "NVIDIAのAlpamayoR1——Chain of Causation因果推論で自動運転AIの解釈可能性と安全性を飛躍向上、Blackwell GPU 1基でリアルタイム動作",
+      "published_date": "2026-02-19",
+      "collected_date": "2026-02-25",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/can-ai-solve-failures-in-your-supply-chain-agentic-ai-in-action/",
+      "title": "AIはサプライチェーンの混乱を解決できるか——自律型AIエージェントが解決時間を72時間から4時間に短縮、部門横断データ統合とHuman-in-the-Loop設計の実践",
+      "published_date": "2026-02-18",
+      "collected_date": "2026-02-25",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-24T00:00:00Z",
+    "last_updated": "2026-02-25T00:00:00Z",
     "total_articles": 48,
     "retention_days": 7,
     "version": "1.0"
