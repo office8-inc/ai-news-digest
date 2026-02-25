@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://jangwook.net/en/blog/en/ai-model-rush-february-2026/",
-      "title": "2月のAIモデルラッシュ——7つの主要モデルが1カ月に集中リリース",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-18",
-      "source": "Jangwook.net / TechCrunch"
-    },
-    {
-      "url": "https://www.crewai.com/blog/the-state-of-agentic-ai-in-2026",
-      "title": "エンタープライズAIエージェント、実験段階から本番環境への大規模展開へ移行",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-18",
-      "source": "CrewAI / Databricks / TechRadar"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
-      "title": "米国AIスタートアップ17社が2026年初頭に1億ドル以上を調達",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-18",
-      "source": "TechCrunch / OpenTools"
-    },
-    {
-      "url": "https://www.cnbc.com/2026/02/17/anthropic-ai-claude-sonnet-4-6-default-free-pro.html",
-      "title": "Anthropic、Claude Sonnet 4.6を無料版とProのデフォルトモデルに設定",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-18",
-      "source": "CNBC / PureAI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/17/apple-ai-wearables-development",
-      "title": "Apple、AI搭載ウェアラブル3製品を開発中——スマートグラス市場に参入か",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-18",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/17/european-parliament-ai-ban-lawmakers",
-      "title": "欧州議会、セキュリティリスクを理由に議員デバイスでのAI使用を禁止",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-18",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/17/wordpress-ai-assistant",
-      "title": "WordPress.com、AI Assistantを追加——画像生成・スタイル調整・コンテンツ編集を統合",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-18",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/17/mistral-ai-koyeb-acquisition",
-      "title": "Mistral AI、Koyebを買収してクラウド基盤を強化",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-18",
-      "source": "TechCrunch"
-    },
-    {
       "url": "https://www.theverge.com/2026/02/18/alibaba-qwen35-1m-token-context",
       "title": "Alibaba Qwen3.5——100万トークンの超長コンテキストでエージェントAI時代に対応",
       "published_date": "2026-02-18",
@@ -335,10 +279,66 @@
       "published_date": "2026-02-18",
       "collected_date": "2026-02-25",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/",
+      "title": "GoogleのGemini、Androidで複数ステップのタスクを自律実行——食事注文・ライドシェア予約まで代行",
+      "published_date": "2026-02-25",
+      "collected_date": "2026-02-26",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/ai-bots-formed-a-cartel-no-one-told-them-to/",
+      "title": "AIボットが自発的にカルテルを形成——誰も指示していないのに価格協調が出現、独占禁止法の新たな盲点",
+      "published_date": "2026-02-24",
+      "collected_date": "2026-02-26",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://news.mit.edu/2026/ai-help-researchers-see-bigger-picture-cell-biology-0225",
+      "title": "MITの研究者、AIを使って細胞生物学の「全体像」解明を支援——疾病メカニズム解明と創薬研究を加速",
+      "published_date": "2026-02-25",
+      "collected_date": "2026-02-26",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
+      "title": "CUDIS、AIコーチ搭載の新型健康リング「CUDIS 002 Sporty」を発表——ブロックチェーンで健康データを本人管理",
+      "published_date": "2026-02-25",
+      "collected_date": "2026-02-26",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/02/24/head-of-amazons-agi-lab-is-leaving-the-company.html",
+      "title": "AmazonのAGI研究所長David Luanが退任——Adept買収から2年足らずで幹部4名が相次いで離脱",
+      "published_date": "2026-02-24",
+      "collected_date": "2026-02-26",
+      "source": "VentureBeat / The Verge"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
+      "title": "AIデータセンターへの市民反発が全米で過熱——米国人の46%が地域での建設に反対、中間選挙の争点に",
+      "published_date": "2026-02-25",
+      "collected_date": "2026-02-26",
+      "source": "TechCrunch / Wired"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
+      "title": "Pew調査：米国の10代の12%がAIチャットボットを感情的サポートに利用——親の認識とのギャップが深刻",
+      "published_date": "2026-02-25",
+      "collected_date": "2026-02-26",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.wired.com/story/openclaw-users-bypassing-anti-bot-systems/",
+      "title": "OpenClawユーザーがAnti-botシステムを迂回——AIエージェントが引き起こす新たなセキュリティ問題",
+      "published_date": "2026-02-25",
+      "collected_date": "2026-02-26",
+      "source": "Wired"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-25T00:00:00Z",
+    "last_updated": "2026-02-26T00:00:00Z",
     "total_articles": 48,
     "retention_days": 7,
     "version": "1.0"
