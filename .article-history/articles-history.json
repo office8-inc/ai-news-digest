@@ -1,118 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.theverge.com/2026/02/18/alibaba-qwen35-1m-token-context",
-      "title": "Alibaba Qwen3.5——100万トークンの超長コンテキストでエージェントAI時代に対応",
-      "published_date": "2026-02-18",
-      "collected_date": "2026-02-19",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://jangwook.net/en/blog/en/ai-model-rush-february-2026/",
-      "title": "2月のAIモデルラッシュ——7つの主要モデルが1カ月に集中リリース",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-19",
-      "source": "Tech Analysis"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/18/world-labs-1b-funding-3d-models",
-      "title": "World Labs、Autodesk含む投資家から10億ドル調達——3D空間AIの新時代",
-      "published_date": "2026-02-18",
-      "collected_date": "2026-02-19",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/04/elevenlabs-500m-series-d",
-      "title": "ElevenLabs、音声AI技術で5億ドル調達、評価額110億ドルに到達",
-      "published_date": "2026-02-04",
-      "collected_date": "2026-02-19",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/ai/openai-codex-agent-software-engineering-2026",
-      "title": "OpenAI、ソフトウェアエンジニアリング向けAIエージェント「Codex」のプレビュー版を公開",
-      "published_date": "2026-02-18",
-      "collected_date": "2026-02-19",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/18/google-gemini-music-generation",
-      "title": "Google Gemini、音楽生成機能を追加——クリエイティブAIの新展開",
-      "published_date": "2026-02-18",
-      "collected_date": "2026-02-19",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/2026/02/17/dod-anthropic-military-ai",
-      "title": "米国防総省、Anthropicとの関係解消を検討——軍事利用制限が原因",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-19",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.insightsonindia.com/2026/02/11/it-rules-amendment-2026/",
-      "title": "インド、ディープフェイク規制で3時間以内の削除義務化——世界最先端の対策",
-      "published_date": "2026-02-11",
-      "collected_date": "2026-02-19",
-      "source": "Indian Government / Wired"
-    },
-    {
-      "url": "https://allenai.org/blog/theorizer",
-      "title": "Allen Institute AI「Theorizer」公開——数万本の論文から科学的理論を自動生成",
-      "published_date": "2026-02-19",
-      "collected_date": "2026-02-20",
-      "source": "MIT Technology Review / Allen Institute"
-    },
-    {
-      "url": "https://news.mit.edu/2026/method-exposing-hidden-biases-moods-vulnerabilities-language-models-0219",
-      "title": "MIT研究者、LLMの隠れたバイアス・感情・脆弱性を暴露する新手法を発表",
-      "published_date": "2026-02-19",
-      "collected_date": "2026-02-20",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/newsletters/2026-02-19/openai-nears-100-billion-funding-at-850-billion-valuation",
-      "title": "OpenAI、評価額8,500億ドルで史上最大規模の1,000億ドル超資金調達——Amazon・SoftBank・NVIDIAが主導",
-      "published_date": "2026-02-19",
-      "collected_date": "2026-02-20",
-      "source": "VentureBeat / Bloomberg"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/",
-      "title": "Infosys-Anthropic、通信・金融業界向けエンタープライズAIエージェントで戦略的提携",
-      "published_date": "2026-02-17",
-      "collected_date": "2026-02-20",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-      "title": "Google Gemini 3.1 Pro発表——推論能力2.5倍向上、ARC-AGI-2で77%の新記録",
-      "published_date": "2026-02-19",
-      "collected_date": "2026-02-20",
-      "source": "The Verge / VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/",
-      "title": "OpenAI×JioHotstar提携——4.5億人のインドユーザーにAI会話型コンテンツ検索を展開",
-      "published_date": "2026-02-19",
-      "collected_date": "2026-02-20",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.ndtv.com/india-news/india-ai-impact-summit-2026-live-updates-bharat-mandapam-new-delhi-global-tech-leaders-pm-modi-to-inaugurate-ai-impact-summit-day-4-emmanuel-macron-11056518",
-      "title": "インドAI Impact Summit 2026——45カ国参加、M.A.N.A.V.フレームワークでAIガバナンスの新章",
-      "published_date": "2026-02-20",
-      "collected_date": "2026-02-20",
-      "source": "Wired / The Verge"
-    },
-    {
-      "url": "https://www.wired.com/story/deepfakes-asymmetric-risk-social-trust-2026/",
-      "title": "ディープフェイクの「非対称リスク」——低コスト化が加速し社会的信頼の崩壊を専門家が警告",
-      "published_date": "2026-02-20",
-      "collected_date": "2026-02-20",
-      "source": "Wired"
-    },
-    {
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/functiongemma/",
       "title": "Google FunctionGemma公開——270Mパラメータのエッジ特化AIモデルでオンデバイスAIエージェントを実現",
       "published_date": "2026-02-21",
@@ -391,11 +279,74 @@
       "published_date": "2026-02-23",
       "collected_date": "2026-02-27",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+      "title": "OpenAI、評価額8,400億ドルで史上最大1,100億ドル調達——Amazon・NVIDIA・SoftBankが主導",
+      "published_date": "2026-02-27",
+      "collected_date": "2026-03-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
+      "title": "Wayve、NVIDIA・Uber・Mercedes等から12億ドル調達——2026年ロンドンでロボタクシー商業展開",
+      "published_date": "2026-02-24",
+      "collected_date": "2026-03-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
+      "title": "GoogleがAI音楽スタートアップProducerAI（旧Riffusion）をGoogle Labsに編入——Lyria 3と統合しGeminiでAI共同作曲機能を提供",
+      "published_date": "2026-02-24",
+      "collected_date": "2026-03-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+      "title": "AIインフラ投資競争が最高潮——Oracle・Microsoft・Meta・Googleが兆円規模のデータセンター増強を一斉発表",
+      "published_date": "2026-02-28",
+      "collected_date": "2026-03-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+      "title": "OpenAIがペンタゴンと機密ネットワーク展開契約——倫理的保護措置付き、Anthropicは「国家安全保障上のリスク」に指定",
+      "published_date": "2026-02-28",
+      "collected_date": "2026-03-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+      "title": "ペンタゴン、Anthropicを「国家安全保障上のサプライチェーンリスク」に指定——自律兵器・大量監視の倫理ラインを守った代償",
+      "published_date": "2026-02-27",
+      "collected_date": "2026-03-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
+      "title": "AlibabaのQwen3.5-Mediumが公開——Sonnet 4.5超えのオープンソースモデルが消費者向けGPUで動作可能",
+      "published_date": "2026-02-26",
+      "collected_date": "2026-03-02",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://towardsdatascience.com/stop-asking-if-a-model-is-interpretable/",
+      "title": "モデルの「解釈可能性」を問い直す——「解釈可能か否か」よりも「何のための説明か」が重要な理由",
+      "published_date": "2026-02-27",
+      "collected_date": "2026-03-02",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/generative-ai-discriminative-human/",
+      "title": "「生成するAI、判別する人間」——ハイプの海を泳ぎ切るためのAI批判的思考スキル",
+      "published_date": "2026-02-27",
+      "collected_date": "2026-03-02",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-27T22:04:59Z",
-    "total_articles": 56,
+    "last_updated": "2026-03-02T22:02:04Z",
+    "total_articles": 49,
     "retention_days": 7,
     "version": "1.0"
   }
