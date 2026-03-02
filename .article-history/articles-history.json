@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/functiongemma/",
-      "title": "Google FunctionGemma公開——270Mパラメータのエッジ特化AIモデルでオンデバイスAIエージェントを実現",
-      "published_date": "2026-02-21",
-      "collected_date": "2026-02-23",
-      "source": "VentureBeat / Google Blog"
-    },
-    {
-      "url": "https://www.technologyreview.com/magazines/the-innovation-issue-26/",
-      "title": "MIT Technology Review「2026年の10大ブレークスルー技術」——AIコンパニオン、超大規模データセンター、AI胚スコアリングが選出",
-      "published_date": "2026-02-01",
-      "collected_date": "2026-02-23",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/jp-morgans-ai-adoption-hit-50-of-employees-the-secret-a-connectivity-first",
-      "title": "JPMorgan Chase、従業員の50%がAIツールを日常活用——「接続性優先」アーキテクチャが大規模AI普及の秘訣",
-      "published_date": "2026-02-21",
-      "collected_date": "2026-02-23",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://restofworld.org/2026/openai-deepseek-distillation-dispute-us-china/",
-      "title": "OpenAI、DeepSeekの知的財産盗用を議会に申告——V4リリース迫るなか米中AI摩擦が激化",
-      "published_date": "2026-02-21",
-      "collected_date": "2026-02-23",
-      "source": "Wired / Rest of World"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/19/youtubes-latest-experiment-brings-its-conversational-ai-tool-to-tvs/",
-      "title": "YouTubeがスマートTV向け会話型AI機能をテスト——視聴しながらGemini AIにリアルタイム質問",
-      "published_date": "2026-02-19",
-      "collected_date": "2026-02-23",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://siliconangle.com/2026/02/15/openai-hires-openclaw-founder-peter-steinberger-push-toward-autonomous-agents/",
-      "title": "OpenAI、OpenClaw創設者を採用——「チャットから行動へ」AIエージェントプラットフォーム競争が新段階",
-      "published_date": "2026-02-21",
-      "collected_date": "2026-02-23",
-      "source": "TechCrunch / SiliconAngle"
-    },
-    {
-      "url": "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219",
-      "title": "MIT研究: AIチャットボットが非英語ネイティブや低学歴ユーザーに不正確な情報——AIが格差を拡大するリスク",
-      "published_date": "2026-02-19",
-      "collected_date": "2026-02-23",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://insideaipolicy.com/ai-daily-news/lawmakers-introduce-bill-ban-deepseek-citing-security-concerns-over-open-source-ai",
-      "title": "米議会、DeepSeekの政府デバイス使用禁止法案を提出——オープンソースAIへの規制が新たな課題",
-      "published_date": "2026-02-22",
-      "collected_date": "2026-02-23",
-      "source": "Wired / Inside AI Policy"
-    },
-    {
       "url": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
       "title": "生成AIが医療研究チームを凌駕——UCSFの研究で早産予測データ分析を50倍速く処理、人間と同等の精度",
       "published_date": "2026-02-21",
@@ -342,10 +286,66 @@
       "published_date": "2026-02-27",
       "collected_date": "2026-03-02",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/context-engineering-as-your-competitive-edge/",
+      "title": "コンテキストエンジニアリングが競争優位の源泉に——プロンプト設計を超えたAI差別化の本質",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-03",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+      "title": "AIチャットボットを心理療法士として使うと——Brown大研究が15種の倫理違反リスクを特定",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-03",
+      "source": "MIT Technology Review / ScienceDaily"
+    },
+    {
+      "url": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
+      "title": "Nvidia、フォトニクス企業Lumentum・Coherentに計$4B投資——AIファクトリー向け光インターコネクト基盤を整備",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-03",
+      "source": "VentureBeat / CNBC"
+    },
+    {
+      "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
+      "title": "Jack Dorsey、Blockの社員約半数4,000人をAI理由でレイオフ——「御社も1年以内に同じことをする」",
+      "published_date": "2026-02-26",
+      "collected_date": "2026-03-03",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/",
+      "title": "Apple、$599のiPhone 17eにApple Intelligenceを初搭載——エントリーモデルでオンデバイスAIが民主化",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-03",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.engadget.com/ai/the-supreme-court-doesnt-care-if-you-want-to-copyright-your-ai-generated-art-171849407.html",
+      "title": "米最高裁、AI生成アートの著作権申請を却下——「人間の創作性」が著作権の絶対条件と確定",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-03",
+      "source": "The Verge / Engadget"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+      "title": "ChatGPT離れが加速——Cancel ChatGPT運動でClaudeがApp Store初首位、Anthropicはサーバーダウン",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-03",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+      "title": "OpenAIのPentagonとの「妥協」はAnthropicが最も恐れていた先例——MIT TR分析",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-03",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-02T22:02:04Z",
+    "last_updated": "2026-03-03T22:05:27Z",
     "total_articles": 49,
     "retention_days": 7,
     "version": "1.0"
