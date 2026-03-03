@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
-      "title": "生成AIが医療研究チームを凌駕——UCSFの研究で早産予測データ分析を50倍速く処理、人間と同等の精度",
-      "published_date": "2026-02-21",
-      "collected_date": "2026-02-24",
-      "source": "MIT Technology Review / ScienceDaily"
-    },
-    {
-      "url": "https://towardsdatascience.com/2026-will-be-the-year-of-data-ai-observability/",
-      "title": "2026年はデータとAIオブザーバビリティの年——信頼できるAIシステムに不可欠な監視基盤が新たな必須インフラに",
-      "published_date": "2026-02-01",
-      "collected_date": "2026-02-24",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
-      "title": "OpenAI、Accenture・BCG・Capgemini・McKinseyと「フロンティア同盟」締結——エンタープライズAI普及を本格加速",
-      "published_date": "2026-02-23",
-      "collected_date": "2026-02-24",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/ai/the-great-ai-agent-acceleration-why-enterprise-adoption-is-happening-faster-than-anyone-predicted",
-      "title": "AIエージェントの大加速——大企業の68%が本番導入、ガバナンス整備が最大の課題に",
-      "published_date": "2026-02-22",
-      "collected_date": "2026-02-24",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
-      "title": "RedditがLLM活用のAIショッピング検索をテスト——コミュニティの本音がAI商品推薦を支える新モデル",
-      "published_date": "2026-02-19",
-      "collected_date": "2026-02-24",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
-      "title": "AnthropicがClaude Code Securityを発表——AIが500件超の未発見脆弱性を自律検出し、サイバーセキュリティ株が急落",
-      "published_date": "2026-02-21",
-      "collected_date": "2026-02-24",
-      "source": "The Verge / VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
-      "title": "Anthropic、中国AI企業3社（DeepSeek・Moonshot AI・MiniMax）が2万4千の偽アカウントでClaudeを違法蒸留と告発",
-      "published_date": "2026-02-23",
-      "collected_date": "2026-02-24",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/02/02/1132049/the-download-inside-a-deepfake-marketplace-and-ev-batteries-future/",
-      "title": "MIT Technology Review調査：Civitaiが女性をターゲットにしたAIディープフェイク産業化を可能にした実態——リクエストの90%が女性対象",
-      "published_date": "2026-02-02",
-      "collected_date": "2026-02-24",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
       "title": "MetaがAMDと最大1,000億ドルのAIチップ契約締結——「パーソナル超知能」実現に向け年6GW規模の計算基盤を整備",
       "published_date": "2026-02-24",
@@ -342,10 +286,66 @@
       "published_date": "2026-03-02",
       "collected_date": "2026-03-03",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/agentic-rag-vs-classic-rag-from-a-pipeline-to-a-control-loop/",
+      "title": "Agentic RAG vs Classic RAG——パイプラインから制御ループへ：複雑クエリ対応の次世代RAG設計",
+      "published_date": "2026-03-03",
+      "collected_date": "2026-03-04",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.pymnts.com/artificial-intelligence-2/2026/deepseek-poised-to-unveil-latest-ai-model/",
+      "title": "DeepSeek V4、ネイティブマルチモーダル＆1Mトークンで今週末リリースへ——Nvidia排除し中国製チップを優先",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-04",
+      "source": "Wired / PYMNTS"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+      "title": "AIコーディングツール「Cursor」が年間売上20億ドルを突破——3ヶ月で倍増、企業向けシフトで急成長",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-04",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/ai/no-more-window-switching-mastercards-agent-pay-transforms-how-enterprises-use-ai-search",
+      "title": "MastercardのAgent PayがSantanderとヨーロッパ初のAIエージェント決済を実現——規制対応済み本番レールで完遂",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-04",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://venturebeat.com/technology/googles-opal-just-quietly-showed-enterprise-teams-the-new-blueprint-for",
+      "title": "GoogleのOpalがエンタープライズAIエージェントの新設計標準を提示——「ゴール指向×永続メモリ×Human-in-the-Loop」",
+      "published_date": "2026-02-27",
+      "collected_date": "2026-03-04",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.engadget.com/ai/meta-starts-testing-its-ai-shopping-assistant-120148124.html",
+      "title": "MetaがAIショッピングアシスタントのテスト開始——InstagramデータでChatGPT・Geminiに挑戦",
+      "published_date": "2026-03-03",
+      "collected_date": "2026-03-04",
+      "source": "The Verge / Engadget"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+      "title": "ロンドンで英国史上最大の反AI抗議「March Against the Machines」——MIT Technology Reviewが現地報告",
+      "published_date": "2026-03-02",
+      "collected_date": "2026-03-04",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
+      "title": "King's College London研究：AIが核戦争シミュレーションの95%で核兵器を使用——降伏・交渉をゼロ回選択",
+      "published_date": "2026-02-27",
+      "collected_date": "2026-03-04",
+      "source": "Wired / New Scientist"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-03T22:05:27Z",
+    "last_updated": "2026-03-04T22:04:04Z",
     "total_articles": 49,
     "retention_days": 7,
     "version": "1.0"
