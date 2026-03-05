@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/android-multi-step-tasks/",
-      "title": "GoogleのGemini、Androidで複数ステップのタスクを自律実行——食事注文・ライドシェア予約まで代行",
-      "published_date": "2026-02-25",
-      "collected_date": "2026-02-26",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/ai-bots-formed-a-cartel-no-one-told-them-to/",
-      "title": "AIボットが自発的にカルテルを形成——誰も指示していないのに価格協調が出現、独占禁止法の新たな盲点",
-      "published_date": "2026-02-24",
-      "collected_date": "2026-02-26",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://news.mit.edu/2026/ai-help-researchers-see-bigger-picture-cell-biology-0225",
-      "title": "MITの研究者、AIを使って細胞生物学の「全体像」解明を支援——疾病メカニズム解明と創薬研究を加速",
-      "published_date": "2026-02-25",
-      "collected_date": "2026-02-26",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
-      "title": "CUDIS、AIコーチ搭載の新型健康リング「CUDIS 002 Sporty」を発表——ブロックチェーンで健康データを本人管理",
-      "published_date": "2026-02-25",
-      "collected_date": "2026-02-26",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.cnbc.com/2026/02/24/head-of-amazons-agi-lab-is-leaving-the-company.html",
-      "title": "AmazonのAGI研究所長David Luanが退任——Adept買収から2年足らずで幹部4名が相次いで離脱",
-      "published_date": "2026-02-24",
-      "collected_date": "2026-02-26",
-      "source": "VentureBeat / The Verge"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/25/the-public-opposition-to-ai-infrastructure-is-heating-up/",
-      "title": "AIデータセンターへの市民反発が全米で過熱——米国人の46%が地域での建設に反対、中間選挙の争点に",
-      "published_date": "2026-02-25",
-      "collected_date": "2026-02-26",
-      "source": "TechCrunch / Wired"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
-      "title": "Pew調査：米国の10代の12%がAIチャットボットを感情的サポートに利用——親の認識とのギャップが深刻",
-      "published_date": "2026-02-25",
-      "collected_date": "2026-02-26",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.wired.com/story/openclaw-users-bypassing-anti-bot-systems/",
-      "title": "OpenClawユーザーがAnti-botシステムを迂回——AIエージェントが引き起こす新たなセキュリティ問題",
-      "published_date": "2026-02-25",
-      "collected_date": "2026-02-26",
-      "source": "Wired"
-    },
-    {
       "url": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
       "title": "NVIDIAが四半期売上680億ドルの過去最高記録——CEOが「エージェントAIの変曲点が来た」と宣言",
       "published_date": "2026-02-25",
@@ -342,10 +286,66 @@
       "published_date": "2026-03-04",
       "collected_date": "2026-03-05",
       "source": "Wired"
+    },
+    {
+      "url": "https://towardsdatascience.com/why-your-multi-agent-system-is-failing-escaping-the-17x-error-trap-of-the-bag-of-agents/",
+      "title": "マルチエージェントシステムが失敗する本当の理由——「エージェントの袋」方式は17倍エラーを生む",
+      "published_date": "2026-03-05",
+      "collected_date": "2026-03-06",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+      "title": "OpenAI、GPT-5.4をリリース——PC自律操作・100万トークン・プロ業務で人間の83%を超える",
+      "published_date": "2026-03-05",
+      "collected_date": "2026-03-06",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
+      "title": "AlibabaのQwen AIチームの主要人物が相次いで退職——CEOが緊急タスクフォースを設立",
+      "published_date": "2026-03-05",
+      "collected_date": "2026-03-06",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
+      "title": "LLMエージェントが匿名アカウントを1〜4ドルで特定——ETH Zurich×Anthropic研究がプライバシーを揺さぶる",
+      "published_date": "2026-03-05",
+      "collected_date": "2026-03-06",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
+      "title": "NetflixがBen AffleckのAIスタートアップInterPositiveを買収——後制作AIツールをハリウッド全体に展開",
+      "published_date": "2026-03-05",
+      "collected_date": "2026-03-06",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+      "title": "MetaのAIスマートグラスでプライバシー訴訟——ケニアの下請けが性的映像を含む映像を閲覧",
+      "published_date": "2026-03-05",
+      "collected_date": "2026-03-06",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+      "title": "AIエージェントがオンラインハラスメントを自律化——OpenClawを使った報復事例でMIT TRが警鐘",
+      "published_date": "2026-03-05",
+      "collected_date": "2026-03-06",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
+      "title": "GoogleのGeminiが「自殺へ誘導」——米国初のAI過失致死訴訟が提起",
+      "published_date": "2026-03-04",
+      "collected_date": "2026-03-06",
+      "source": "TechCrunch"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-05T22:05:00Z",
+    "last_updated": "2026-03-06T22:00:00Z",
     "total_articles": 49,
     "retention_days": 7,
     "version": "1.0"
