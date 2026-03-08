@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
-      "title": "NVIDIAが四半期売上680億ドルの過去最高記録——CEOが「エージェントAIの変曲点が来た」と宣言",
-      "published_date": "2026-02-25",
-      "collected_date": "2026-02-27",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
-      "title": "AnthropicがコンピュータAIスタートアップVerceptを買収——Claudeの自律PC操作能力が72%超に向上",
-      "published_date": "2026-02-25",
-      "collected_date": "2026-02-27",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/2026/02/27/google-nano-banana-2-gemini-flash-image-generation",
-      "title": "Google「Nano Banana 2」正式公開——プロ品質の画像生成を4〜6秒・50%低コストで141カ国に展開",
-      "published_date": "2026-02-27",
-      "collected_date": "2026-02-27",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://venturebeat.com/ai/perplexity-launches-computer-multi-agent-platform/",
-      "title": "Perplexity「Computer」公開——19モデルを協調させた汎用デジタルワーカーが研究からデプロイまでを自律実行",
-      "published_date": "2026-02-26",
-      "collected_date": "2026-02-27",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero",
-      "title": "UCSBの「Group-Evolving Agents」——AIが群れで自己進化し、人間設計フレームワークに匹敵する性能を実現",
-      "published_date": "2026-02-26",
-      "collected_date": "2026-02-27",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-reality-of-vibe-coding-ai-agents-security-debt-crisis/",
-      "title": "「バイブコーディング」が生む技術的負債——AI生成コードが加速させるセキュリティ危機",
-      "published_date": "2026-02-22",
-      "collected_date": "2026-02-27",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-      "title": "ホワイトハウス、Big TechにAIデータセンターの電力コスト肩代わりを要求——Amazon・Google・Metaが署名へ",
-      "published_date": "2026-02-25",
-      "collected_date": "2026-02-27",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
-      "title": "ヒューマノイドロボットの舞台裏に隠された人力労働——MIT Technology Reviewが業界実態を調査",
-      "published_date": "2026-02-23",
-      "collected_date": "2026-02-27",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
       "title": "OpenAI、評価額8,400億ドルで史上最大1,100億ドル調達——Amazon・NVIDIA・SoftBankが主導",
       "published_date": "2026-02-27",
@@ -342,11 +286,60 @@
       "published_date": "2026-03-04",
       "collected_date": "2026-03-06",
       "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+      "title": "ペンタゴンはAIでアメリカ人を監視できるか？——現行法の抜け穴をMIT TRが徹底分析",
+      "published_date": "2026-03-06",
+      "collected_date": "2026-03-09",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+      "title": "OpenAIロボティクス責任者カリノフスキー、ペンタゴン契約への抗議で辞任——「監視と自律兵器の審議が不十分」",
+      "published_date": "2026-03-07",
+      "collected_date": "2026-03-09",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/2026/3/6/grammarly-is-using-our-identities-without-permission",
+      "title": "GrammarlyがThe Vergeスタッフら著名人のIDを無断でAIに使用——「Expert Review」機能が波紋",
+      "published_date": "2026-03-06",
+      "collected_date": "2026-03-09",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+      "title": "Luma AI、エンドツーエンドのクリエイティブ向け統合AIエージェント「Unified Intelligence」発表——Adidas・Mazdaが採用",
+      "published_date": "2026-03-05",
+      "collected_date": "2026-03-09",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for",
+      "title": "GoogleのPMが「Always On Memory Agent」をオープンソース公開——ベクターDB不要のSQLite永続メモリエージェント",
+      "published_date": "2026-03-06",
+      "collected_date": "2026-03-09",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-black-box-problem-why-ai-generated-code-stops-being-maintainable/",
+      "title": "The Black Box Problem：AI生成コードはなぜ保守不能になるのか——モノリシック設計・循環依存・契約欠如の4つの罠",
+      "published_date": "2026-03-06",
+      "collected_date": "2026-03-09",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+      "title": "ペンタゴン騒動後もClaudeのユーザー急増が続く——DAU 1,130万人超・App Store首位、ARR $200億ドルに迫る",
+      "published_date": "2026-03-06",
+      "collected_date": "2026-03-09",
+      "source": "TechCrunch"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-06T22:00:00Z",
-    "total_articles": 49,
+    "last_updated": "2026-03-09T22:00:00Z",
+    "total_articles": 48,
     "retention_days": 7,
     "version": "1.0"
   }
