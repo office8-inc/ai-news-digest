@@ -1,69 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-      "title": "OpenAI、評価額8,400億ドルで史上最大1,100億ドル調達——Amazon・NVIDIA・SoftBankが主導",
-      "published_date": "2026-02-27",
-      "collected_date": "2026-03-02",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/",
-      "title": "Wayve、NVIDIA・Uber・Mercedes等から12億ドル調達——2026年ロンドンでロボタクシー商業展開",
-      "published_date": "2026-02-24",
-      "collected_date": "2026-03-02",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
-      "title": "GoogleがAI音楽スタートアップProducerAI（旧Riffusion）をGoogle Labsに編入——Lyria 3と統合しGeminiでAI共同作曲機能を提供",
-      "published_date": "2026-02-24",
-      "collected_date": "2026-03-02",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
-      "title": "AIインフラ投資競争が最高潮——Oracle・Microsoft・Meta・Googleが兆円規模のデータセンター増強を一斉発表",
-      "published_date": "2026-02-28",
-      "collected_date": "2026-03-02",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-      "title": "OpenAIがペンタゴンと機密ネットワーク展開契約——倫理的保護措置付き、Anthropicは「国家安全保障上のリスク」に指定",
-      "published_date": "2026-02-28",
-      "collected_date": "2026-03-02",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
-      "title": "ペンタゴン、Anthropicを「国家安全保障上のサプライチェーンリスク」に指定——自律兵器・大量監視の倫理ラインを守った代償",
-      "published_date": "2026-02-27",
-      "collected_date": "2026-03-02",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/technology/alibabas-new-open-source-qwen3-5-medium-models-offer-sonnet-4-5-performance",
-      "title": "AlibabaのQwen3.5-Mediumが公開——Sonnet 4.5超えのオープンソースモデルが消費者向けGPUで動作可能",
-      "published_date": "2026-02-26",
-      "collected_date": "2026-03-02",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://towardsdatascience.com/stop-asking-if-a-model-is-interpretable/",
-      "title": "モデルの「解釈可能性」を問い直す——「解釈可能か否か」よりも「何のための説明か」が重要な理由",
-      "published_date": "2026-02-27",
-      "collected_date": "2026-03-02",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/generative-ai-discriminative-human/",
-      "title": "「生成するAI、判別する人間」——ハイプの海を泳ぎ切るためのAI批判的思考スキル",
-      "published_date": "2026-02-27",
-      "collected_date": "2026-03-02",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://towardsdatascience.com/context-engineering-as-your-competitive-edge/",
       "title": "コンテキストエンジニアリングが競争優位の源泉に——プロンプト設計を超えたAI差別化の本質",
       "published_date": "2026-03-02",
@@ -335,11 +272,60 @@
       "published_date": "2026-03-06",
       "collected_date": "2026-03-09",
       "source": "TechCrunch"
+    },
+    {
+      "url": "https://towardsdatascience.com/escaping-the-prototype-mirage-why-enterprise-ai-stalls/",
+      "title": "エンタープライズAIが試作品の罠にはまる理由——「プロトタイプの蜃気楼」を乗り越えるためのアーキテクチャと評価フレームワーク",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-10",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "title": "Qualcomm×Neura Robotics——フィジカルAI量産に向けたロボット「脳と神経系」の標準化パートナーシップ発表",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-10",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/technology/broadcom-q1-2026-ai-revenue-doubles-record/",
+      "title": "BroadcomのQ1 2026決算：AI収益が前年比106%増の84億ドルを達成——カスタムシリコン×AIネットワーキングで半導体スーパーサイクルを牽引",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-10",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+      "title": "OpenAI、AIエージェントセキュリティのPromptfooを買収——Fortune 500の25%以上が使用するオープンソースLLM評価ツール",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-10",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon",
+      "title": "AnthropicがClaude Codeにコードレビュー機能を追加——AIが生む大量PRを多エージェントで自動審査、PR1件$15〜$25",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-10",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+      "title": "AnthropicがDoD・トランプ政権を提訴——「AI監視・自律兵器」拒否によるサプライチェーンリスク指定は違憲と主張",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-10",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/technology/microsoft-says-ungoverned-ai-agents-could-become-corporate-double-agents-its",
+      "title": "Microsoft警告：統治されていないAIエージェントは企業内の「二重スパイ」になる——Agent 365でガバナンスコントロールプレーンを一般提供",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-10",
+      "source": "VentureBeat"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-09T22:00:00Z",
-    "total_articles": 48,
+    "last_updated": "2026-03-10T22:04:26Z",
+    "total_articles": 46,
     "retention_days": 7,
     "version": "1.0"
   }
