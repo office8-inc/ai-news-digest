@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://towardsdatascience.com/context-engineering-as-your-competitive-edge/",
-      "title": "コンテキストエンジニアリングが競争優位の源泉に——プロンプト設計を超えたAI差別化の本質",
-      "published_date": "2026-03-02",
-      "collected_date": "2026-03-03",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
-      "title": "AIチャットボットを心理療法士として使うと——Brown大研究が15種の倫理違反リスクを特定",
-      "published_date": "2026-03-02",
-      "collected_date": "2026-03-03",
-      "source": "MIT Technology Review / ScienceDaily"
-    },
-    {
-      "url": "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
-      "title": "Nvidia、フォトニクス企業Lumentum・Coherentに計$4B投資——AIファクトリー向け光インターコネクト基盤を整備",
-      "published_date": "2026-03-02",
-      "collected_date": "2026-03-03",
-      "source": "VentureBeat / CNBC"
-    },
-    {
-      "url": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
-      "title": "Jack Dorsey、Blockの社員約半数4,000人をAI理由でレイオフ——「御社も1年以内に同じことをする」",
-      "published_date": "2026-02-26",
-      "collected_date": "2026-03-03",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/02/apples-bakes-in-ai-smarts-into-its-new-599-iphone-17e/",
-      "title": "Apple、$599のiPhone 17eにApple Intelligenceを初搭載——エントリーモデルでオンデバイスAIが民主化",
-      "published_date": "2026-03-02",
-      "collected_date": "2026-03-03",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.engadget.com/ai/the-supreme-court-doesnt-care-if-you-want-to-copyright-your-ai-generated-art-171849407.html",
-      "title": "米最高裁、AI生成アートの著作権申請を却下——「人間の創作性」が著作権の絶対条件と確定",
-      "published_date": "2026-03-02",
-      "collected_date": "2026-03-03",
-      "source": "The Verge / Engadget"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
-      "title": "ChatGPT離れが加速——Cancel ChatGPT運動でClaudeがApp Store初首位、Anthropicはサーバーダウン",
-      "published_date": "2026-03-02",
-      "collected_date": "2026-03-03",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-      "title": "OpenAIのPentagonとの「妥協」はAnthropicが最も恐れていた先例——MIT TR分析",
-      "published_date": "2026-03-02",
-      "collected_date": "2026-03-03",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://towardsdatascience.com/agentic-rag-vs-classic-rag-from-a-pipeline-to-a-control-loop/",
       "title": "Agentic RAG vs Classic RAG——パイプラインから制御ループへ：複雑クエリ対応の次世代RAG設計",
       "published_date": "2026-03-03",
@@ -321,10 +265,66 @@
       "published_date": "2026-03-09",
       "collected_date": "2026-03-10",
       "source": "VentureBeat"
+    },
+    {
+      "url": "https://news.mit.edu/2026/improving-ai-models-ability-explain-predictions-0309",
+      "title": "MITがAI予測説明能力を強化する新手法を発表——医療・自動運転の信頼性向上へ、ICLR発表予定",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-11",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/why-your-ai-search-evaluation-is-probably-wrong-and-how-to-fix-it/",
+      "title": "「AIサーチ評価の8割は間違っている」——5ステップのベンチマーク設計フレームワークで六桁ドル規模の損失を防ぐ",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-11",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/nvidia-nemoclaw-open-source-ai-agent-platform/",
+      "title": "Wiredスクープ：NvidiaがNemoClawオープンソースAIエージェントプラットフォームを計画——Salesforce・Cisco・Google・Adobe等と提携交渉",
+      "published_date": "2026-03-10",
+      "collected_date": "2026-03-11",
+      "source": "Wired"
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro",
+      "title": "Google、Gemini 3.1 Flash-LiteをProの1/8のコストでリリース——363トークン/秒・1Mコンテキストで大量処理需要を一変",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-11",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered-digital-coworker-for-enterprise/",
+      "title": "MicrosoftがAnthropic Claude採用の「Copilot Cowork」発表——Microsoft 365で自律タスク実行エージェントが解禁、月$30から",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-11",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "title": "Amazonが医療AIアシスタントをウェブ・アプリで一般公開——One Medical会員外も30種類の非緊急疾患に無料対応",
+      "published_date": "2026-03-10",
+      "collected_date": "2026-03-11",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.engadget.com/ai/amazon-wins-a-temporary-injunction-against-perplexitys-comet-browser-184000462.html",
+      "title": "連邦裁判所がPerplexity CometのAmazon自律購買AIをブロック——「ユーザー許諾≠プラットフォーム承認」の先例がエージェントAI商取引を規律",
+      "published_date": "2026-03-10",
+      "collected_date": "2026-03-11",
+      "source": "The Verge / Engadget"
+    },
+    {
+      "url": "https://www.anthropic.com/research/labor-market-impacts",
+      "title": "Anthropicの「観測された露出度」レポート——AIの雇用破壊は理論値の3分の1、若手採用減が大量失業より先行",
+      "published_date": "2026-03-06",
+      "collected_date": "2026-03-11",
+      "source": "MIT Technology Review / Anthropic"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-10T22:04:26Z",
+    "last_updated": "2026-03-11T22:03:13Z",
     "total_articles": 46,
     "retention_days": 7,
     "version": "1.0"
