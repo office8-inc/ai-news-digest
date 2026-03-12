@@ -1,60 +1,53 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
-      "title": "AIの運用ギャップを埋める——IT幹部500人調査：76%が本番稼働も専任チームは3分の1、エージェントAI移行にガバナンス整備が急務",
-      "published_date": "2026-03-04",
-      "collected_date": "2026-03-05",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-machine-learning-lessons-ive-learned-this-month-4/",
-      "title": "今月学んだ機械学習の教訓——コラボレーション・ドキュメント・プラグマティズムとコンテキストエンジニアリングへのシフト",
-      "published_date": "2026-03-02",
-      "collected_date": "2026-03-05",
+      "url": "https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/",
+      "title": "LatentVLA：自動運転に「言語」は不要——潜在空間推論でVLMの欠陥を克服しNAVSIMで92.4スコアを達成",
+      "published_date": "2026-03-08",
+      "collected_date": "2026-03-13",
       "source": "Towards Data Science"
     },
     {
-      "url": "https://venturebeat.com/orchestration/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and",
-      "title": "OpenAIの社内AIデータエージェントが4,000人以上に展開——2名のエンジニアが3ヶ月で構築、600PBを自然言語クエリで即時分析",
-      "published_date": "2026-03-04",
-      "collected_date": "2026-03-05",
+      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "title": "LeCunがLLMに異議——AMI LabsにEU最大シード$1.03B、「ワールドモデル」でAI第三の道を切り拓く",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-13",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+      "title": "Replit、$400M調達で評価額$9Bへ——「バイブコーディング」が非エンジニアを開発者に変える",
+      "published_date": "2026-03-11",
+      "collected_date": "2026-03-13",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.wired.com/story/nvidia-will-spend-26-billion-to-build-open-weight-ai-models/",
+      "title": "Wiredスクープ：Nvidiaが5年間$26BでオープンウェイトAIに参入——Nemotron 3 SuperでクローズドLLM覇権に挑む",
+      "published_date": "2026-03-11",
+      "collected_date": "2026-03-13",
+      "source": "Wired"
+    },
+    {
+      "url": "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
+      "title": "Perplexity Computer、エンタープライズ向けに正式ローンチ——20モデル統合AIエージェントでMicrosoft Copilotに挑む",
+      "published_date": "2026-03-12",
+      "collected_date": "2026-03-13",
       "source": "VentureBeat"
     },
     {
-      "url": "https://techcrunch.com/2026/03/04/google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
-      "title": "GoogleのGemini Canvas、AIモードで全米ユーザーに開放——検索からアプリプロトタイプ・ドキュメント・ダッシュボードを対話的に生成",
-      "published_date": "2026-03-04",
-      "collected_date": "2026-03-05",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
-      "title": "Claude Codeがボイスモードを段階展開——/voiceコマンドで音声コーディングが実現、文字起こしトークン無料でOpenAI Codexに追随",
-      "published_date": "2026-03-03",
-      "collected_date": "2026-03-05",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/4/notebooklm-can-now-summarize-research-in-cinematic-video-overviews",
-      "title": "NotebookLM、研究ノートをシネマティック動画に変換——Gemini 3・Nano Banana Pro・Veo 3の3モデル組み合わせでナレーション付きアニメーション生成",
-      "published_date": "2026-03-04",
-      "collected_date": "2026-03-05",
+      "url": "https://www.theverge.com/2026/3/12/claude-ai-charts-visualizations-interactive",
+      "title": "Claude、会話内でインタラクティブ図表を生成——全ユーザー向けベータで「デジタルホワイトボード」時代が開幕",
+      "published_date": "2026-03-12",
+      "collected_date": "2026-03-13",
       "source": "The Verge"
     },
     {
-      "url": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
-      "title": "Apple Music、AI生成楽曲・アートワーク・作曲に「透明性タグ」を導入——レーベル自己申告制でDeezerの強制検出方式と対照的",
-      "published_date": "2026-03-04",
-      "collected_date": "2026-03-05",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.wired.com/story/iran-war-social-media-ai-disinformation/",
-      "title": "米イラン戦争でAI生成偽動画がXに氾濫——Wired調査：有料認証アカウントが収益目的で拡散、X は収益化停止90日ルールを即日適用",
-      "published_date": "2026-03-04",
-      "collected_date": "2026-03-05",
-      "source": "Wired"
+      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+      "title": "中国でOpenClaw熱狂——「小龍虾を育てる」ブームが招く起業家7,000件受注とセキュリティリスクの光と影",
+      "published_date": "2026-03-11",
+      "collected_date": "2026-03-13",
+      "source": "MIT Technology Review"
     },
     {
       "url": "https://towardsdatascience.com/why-your-multi-agent-system-is-failing-escaping-the-17x-error-trap-of-the-bag-of-agents/",
@@ -317,8 +310,8 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T22:04:01Z",
-    "total_articles": 45,
+    "last_updated": "2026-03-13T22:03:55Z",
+    "total_articles": 44,
     "retention_days": 7,
     "version": "1.0"
   }
