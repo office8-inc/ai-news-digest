@@ -1,111 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/",
-      "title": "LatentVLA：自動運転に「言語」は不要——潜在空間推論でVLMの欠陥を克服しNAVSIMで92.4スコアを達成",
-      "published_date": "2026-03-08",
-      "collected_date": "2026-03-13",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-      "title": "LeCunがLLMに異議——AMI LabsにEU最大シード$1.03B、「ワールドモデル」でAI第三の道を切り拓く",
-      "published_date": "2026-03-09",
-      "collected_date": "2026-03-13",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
-      "title": "Replit、$400M調達で評価額$9Bへ——「バイブコーディング」が非エンジニアを開発者に変える",
-      "published_date": "2026-03-11",
-      "collected_date": "2026-03-13",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.wired.com/story/nvidia-will-spend-26-billion-to-build-open-weight-ai-models/",
-      "title": "Wiredスクープ：Nvidiaが5年間$26BでオープンウェイトAIに参入——Nemotron 3 SuperでクローズドLLM覇権に挑む",
-      "published_date": "2026-03-11",
-      "collected_date": "2026-03-13",
-      "source": "Wired"
-    },
-    {
-      "url": "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
-      "title": "Perplexity Computer、エンタープライズ向けに正式ローンチ——20モデル統合AIエージェントでMicrosoft Copilotに挑む",
-      "published_date": "2026-03-12",
-      "collected_date": "2026-03-13",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/12/claude-ai-charts-visualizations-interactive",
-      "title": "Claude、会話内でインタラクティブ図表を生成——全ユーザー向けベータで「デジタルホワイトボード」時代が開幕",
-      "published_date": "2026-03-12",
-      "collected_date": "2026-03-13",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-      "title": "中国でOpenClaw熱狂——「小龍虾を育てる」ブームが招く起業家7,000件受注とセキュリティリスクの光と影",
-      "published_date": "2026-03-11",
-      "collected_date": "2026-03-13",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/why-your-multi-agent-system-is-failing-escaping-the-17x-error-trap-of-the-bag-of-agents/",
-      "title": "マルチエージェントシステムが失敗する本当の理由——「エージェントの袋」方式は17倍エラーを生む",
-      "published_date": "2026-03-05",
-      "collected_date": "2026-03-06",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
-      "title": "OpenAI、GPT-5.4をリリース——PC自律操作・100万トークン・プロ業務で人間の83%を超える",
-      "published_date": "2026-03-05",
-      "collected_date": "2026-03-06",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in",
-      "title": "AlibabaのQwen AIチームの主要人物が相次いで退職——CEOが緊急タスクフォースを設立",
-      "published_date": "2026-03-05",
-      "collected_date": "2026-03-06",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/889395/ai-agents-unmask-anonymous-online-accounts",
-      "title": "LLMエージェントが匿名アカウントを1〜4ドルで特定——ETH Zurich×Anthropic研究がプライバシーを揺さぶる",
-      "published_date": "2026-03-05",
-      "collected_date": "2026-03-06",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
-      "title": "NetflixがBen AffleckのAIスタートアップInterPositiveを買収——後制作AIツールをハリウッド全体に展開",
-      "published_date": "2026-03-05",
-      "collected_date": "2026-03-06",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
-      "title": "MetaのAIスマートグラスでプライバシー訴訟——ケニアの下請けが性的映像を含む映像を閲覧",
-      "published_date": "2026-03-05",
-      "collected_date": "2026-03-06",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
-      "title": "AIエージェントがオンラインハラスメントを自律化——OpenClawを使った報復事例でMIT TRが警鐘",
-      "published_date": "2026-03-05",
-      "collected_date": "2026-03-06",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
-      "title": "GoogleのGeminiが「自殺へ誘導」——米国初のAI過失致死訴訟が提起",
-      "published_date": "2026-03-04",
-      "collected_date": "2026-03-06",
-      "source": "TechCrunch"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
       "title": "ペンタゴンはAIでアメリカ人を監視できるか？——現行法の抜け穴をMIT TRが徹底分析",
       "published_date": "2026-03-06",
@@ -307,11 +202,109 @@
       "published_date": "2026-03-11",
       "collected_date": "2026-03-12",
       "source": "Wired"
+    },
+    {
+      "url": "https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/",
+      "title": "LatentVLA：自動運転に「言語」は不要——潜在空間推論でVLMの欠陥を克服しNAVSIMで92.4スコアを達成",
+      "published_date": "2026-03-08",
+      "collected_date": "2026-03-13",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+      "title": "LeCunがLLMに異議——AMI LabsにEU最大シード$1.03B、「ワールドモデル」でAI第三の道を切り拓く",
+      "published_date": "2026-03-09",
+      "collected_date": "2026-03-13",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+      "title": "Replit、$400M調達で評価額$9Bへ——「バイブコーディング」が非エンジニアを開発者に変える",
+      "published_date": "2026-03-11",
+      "collected_date": "2026-03-13",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.wired.com/story/nvidia-will-spend-26-billion-to-build-open-weight-ai-models/",
+      "title": "Wiredスクープ：Nvidiaが5年間$26BでオープンウェイトAIに参入——Nemotron 3 SuperでクローズドLLM覇権に挑む",
+      "published_date": "2026-03-11",
+      "collected_date": "2026-03-13",
+      "source": "Wired"
+    },
+    {
+      "url": "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
+      "title": "Perplexity Computer、エンタープライズ向けに正式ローンチ——20モデル統合AIエージェントでMicrosoft Copilotに挑む",
+      "published_date": "2026-03-12",
+      "collected_date": "2026-03-13",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.theverge.com/2026/3/12/claude-ai-charts-visualizations-interactive",
+      "title": "Claude、会話内でインタラクティブ図表を生成——全ユーザー向けベータで「デジタルホワイトボード」時代が開幕",
+      "published_date": "2026-03-12",
+      "collected_date": "2026-03-13",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+      "title": "中国でOpenClaw熱狂——「小龍虾を育てる」ブームが招く起業家7,000件受注とセキュリティリスクの光と影",
+      "published_date": "2026-03-11",
+      "collected_date": "2026-03-13",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "title": "「最初から正しく作られていなかった」——MuskがxAIの全面立て直しを宣言、共同創業者2人の離脱で組織を4チームに再編",
+      "published_date": "2026-03-13",
+      "collected_date": "2026-03-16",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/ai/nanoclaw-and-docker-partner-enterprise-ai-deployments/",
+      "title": "NanoClaw×Docker、AIエージェントの「サンドボックス隔離」を標準化——エンタープライズ向け安全なエージェント展開フレームワークが登場",
+      "published_date": "2026-03-13",
+      "collected_date": "2026-03-16",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-build-agentic-rag-with-hybrid-search/",
+      "title": "ハイブリッド検索でAgenticRAGを構築する方法——ベクター検索×BM25で精度と網羅性を同時に実現する実践ガイド",
+      "published_date": "2026-03-13",
+      "collected_date": "2026-03-16",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "title": "MetaがAIコスト高騰で最大20%・約1万6千人のリストラを検討——$600Bデータセンター投資と「効率化」の名のもとに",
+      "published_date": "2026-03-14",
+      "collected_date": "2026-03-16",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "title": "米陸軍がAndurilに最大$20B・10年間契約——120以上の調達を一本化しLattice AIプラットフォームで戦場をソフトウェア定義へ",
+      "published_date": "2026-03-14",
+      "collected_date": "2026-03-16",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/2026/3/15/ai-improv-actors-handshake-openai-jobs-emotional-training-data",
+      "title": "AIがプロ俳優に「感情を演じてもらう」——Handshake AIがOpenAIに時給$74で即興演技データを供給、創作労働の新たな論点に",
+      "published_date": "2026-03-15",
+      "collected_date": "2026-03-16",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+      "title": "国防総省高官がついに認めた：生成AIチャットボットで「ターゲットリスト」を作成することを検討中——人間の最終確認を前提に",
+      "published_date": "2026-03-12",
+      "collected_date": "2026-03-16",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-13T22:03:55Z",
-    "total_articles": 44,
+    "last_updated": "2026-03-16T22:03:12Z",
+    "total_articles": 43,
     "retention_days": 7,
     "version": "1.0"
   }
