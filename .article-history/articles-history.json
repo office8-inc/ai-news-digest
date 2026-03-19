@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
-      "title": "Rivian spinout Mind Roboticsが$500M Series Aを調達——AIで工場ロボットに「人間の器用さ」を付与し年内大量展開へ",
-      "published_date": "2026-03-11",
-      "collected_date": "2026-03-12",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
-      "title": "Thinking Machines Lab、NvidiaとギガワットスケールのAIコンピュート長期契約を締結——数百億ドル規模のチップ供給でコンピュート争奪戦が新段階に",
-      "published_date": "2026-03-10",
-      "collected_date": "2026-03-12",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/10/ai-network-startup-eridu-emerges-from-stealth-with-hefty-200m-series-a/",
-      "title": "AIネットワーキングのEriduがステルスから2億ドルで登場——GPU間通信の「ネットワーク壁」をカスタムシリコンで突破",
-      "published_date": "2026-03-10",
-      "collected_date": "2026-03-12",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/what-is-agent-skills-beyond-claude/",
-      "title": "「Claudeを超えたAgent Skills」——モジュラーAIエージェント設計の新潮流：ツールとスキルの違い・ポータブル設計・本番運用の要件",
-      "published_date": "2026-03-10",
-      "collected_date": "2026-03-12",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/11/anthropic-is-launching-a-new-think-tank-amid-pentagon-blacklist-fight",
-      "title": "AnthropicがAI社会影響研究シンクタンク「Anthropic Institute」を設立——Jack Clark率いる30名チームがペンタゴン訴訟の最中に公開調査を開始",
-      "published_date": "2026-03-11",
-      "collected_date": "2026-03-12",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-      "title": "AI、イラン紛争を「ショービジネス」に変える——OSINTダッシュボード・予測市場・AI生成偽情報が情報戦の構造を根本から変える",
-      "published_date": "2026-03-09",
-      "collected_date": "2026-03-12",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.wired.com/story/oracle-openai-stargate-texas-canceled/",
-      "title": "Oracle・OpenAIがTexasのStargate AIデータセンター拡張計画を撤回——MetaとNvidiaが空き枠を狙い、AIインフラの建設サイクルリスクが露顕",
-      "published_date": "2026-03-11",
-      "collected_date": "2026-03-12",
-      "source": "Wired"
-    },
-    {
       "url": "https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/",
       "title": "LatentVLA：自動運転に「言語」は不要——潜在空間推論でVLMの欠陥を克服しNAVSIMで92.4スコアを達成",
       "published_date": "2026-03-08",
@@ -300,10 +251,59 @@
       "published_date": "2026-03-18",
       "collected_date": "2026-03-19",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "title": "「2027年にはAIボットがネットの人間トラフィックを超える」——Cloudflare CEOがSXSWで予言、AIエージェント時代のインフラ革命が迫る",
+      "published_date": "2026-03-19",
+      "collected_date": "2026-03-20",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework",
+      "title": "Nvidiaのエージェント型AIスタック、業界初のリリース時点からセキュリティ統合を実現——CrowdStrike・Palo Alto等5社が5層ガバナンスフレームワークを担保",
+      "published_date": "2026-03-18",
+      "collected_date": "2026-03-20",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix",
+      "title": "MetaのAIエージェント「混乱した代理人」問題——正規認証をパスしながら機密データを2時間露出した「Sev 1」インシデントが示すIAM設計の盲点",
+      "published_date": "2026-03-18",
+      "collected_date": "2026-03-20",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+      "title": "DoorDashがギグワーカーにAI学習データ収集を有償依頼する「Tasksアプリ」を発表——配達員がAIトレーナーへ転換する新たなギグエコノミーの形",
+      "published_date": "2026-03-19",
+      "collected_date": "2026-03-20",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://towardsdatascience.com/why-care-about-promp-caching-in-llms/",
+      "title": "「LLMのプロンプトキャッシングを使うべき理由」——コスト最大90%・レイテンシ80%削減を実現するKVキャッシュの仕組みと実装ガイド",
+      "published_date": "2026-03-13",
+      "collected_date": "2026-03-20",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-chatbot-children-deaths-accountability/",
+      "title": "「AI企業に子供の死の責任を問う」——「製品責任」という新法的枠組みでOpenAI・Character.AIを提訴する弁護士たち、AIチャットボット安全基準の先例を構築",
+      "published_date": "2026-03-19",
+      "collected_date": "2026-03-20",
+      "source": "Wired"
+    },
+    {
+      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
+      "title": "「AIに就職面接される世代」——Gen ZがAI面接ボットと向き合う現実：CodeSignal・Humanly等が広げる採用市場と消える「人間の温かみ」の問題",
+      "published_date": "2026-03-19",
+      "collected_date": "2026-03-20",
+      "source": "The Verge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-19T22:05:46Z",
+    "last_updated": "2026-03-20T02:03:55Z",
     "total_articles": 43,
     "retention_days": 7,
     "version": "1.0"
