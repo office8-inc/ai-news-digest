@@ -1,104 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://towardsdatascience.com/latentvla-latent-reasoning-models-for-autonomous-driving/",
-      "title": "LatentVLA：自動運転に「言語」は不要——潜在空間推論でVLMの欠陥を克服しNAVSIMで92.4スコアを達成",
-      "published_date": "2026-03-08",
-      "collected_date": "2026-03-13",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-      "title": "LeCunがLLMに異議——AMI LabsにEU最大シード$1.03B、「ワールドモデル」でAI第三の道を切り拓く",
-      "published_date": "2026-03-09",
-      "collected_date": "2026-03-13",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
-      "title": "Replit、$400M調達で評価額$9Bへ——「バイブコーディング」が非エンジニアを開発者に変える",
-      "published_date": "2026-03-11",
-      "collected_date": "2026-03-13",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.wired.com/story/nvidia-will-spend-26-billion-to-build-open-weight-ai-models/",
-      "title": "Wiredスクープ：Nvidiaが5年間$26BでオープンウェイトAIに参入——Nemotron 3 SuperでクローズドLLM覇権に挑む",
-      "published_date": "2026-03-11",
-      "collected_date": "2026-03-13",
-      "source": "Wired"
-    },
-    {
-      "url": "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at",
-      "title": "Perplexity Computer、エンタープライズ向けに正式ローンチ——20モデル統合AIエージェントでMicrosoft Copilotに挑む",
-      "published_date": "2026-03-12",
-      "collected_date": "2026-03-13",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/12/claude-ai-charts-visualizations-interactive",
-      "title": "Claude、会話内でインタラクティブ図表を生成——全ユーザー向けベータで「デジタルホワイトボード」時代が開幕",
-      "published_date": "2026-03-12",
-      "collected_date": "2026-03-13",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-      "title": "中国でOpenClaw熱狂——「小龍虾を育てる」ブームが招く起業家7,000件受注とセキュリティリスクの光と影",
-      "published_date": "2026-03-11",
-      "collected_date": "2026-03-13",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-      "title": "「最初から正しく作られていなかった」——MuskがxAIの全面立て直しを宣言、共同創業者2人の離脱で組織を4チームに再編",
-      "published_date": "2026-03-13",
-      "collected_date": "2026-03-16",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/ai/nanoclaw-and-docker-partner-enterprise-ai-deployments/",
-      "title": "NanoClaw×Docker、AIエージェントの「サンドボックス隔離」を標準化——エンタープライズ向け安全なエージェント展開フレームワークが登場",
-      "published_date": "2026-03-13",
-      "collected_date": "2026-03-16",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-build-agentic-rag-with-hybrid-search/",
-      "title": "ハイブリッド検索でAgenticRAGを構築する方法——ベクター検索×BM25で精度と網羅性を同時に実現する実践ガイド",
-      "published_date": "2026-03-13",
-      "collected_date": "2026-03-16",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-      "title": "MetaがAIコスト高騰で最大20%・約1万6千人のリストラを検討——$600Bデータセンター投資と「効率化」の名のもとに",
-      "published_date": "2026-03-14",
-      "collected_date": "2026-03-16",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-      "title": "米陸軍がAndurilに最大$20B・10年間契約——120以上の調達を一本化しLattice AIプラットフォームで戦場をソフトウェア定義へ",
-      "published_date": "2026-03-14",
-      "collected_date": "2026-03-16",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/15/ai-improv-actors-handshake-openai-jobs-emotional-training-data",
-      "title": "AIがプロ俳優に「感情を演じてもらう」——Handshake AIがOpenAIに時給$74で即興演技データを供給、創作労働の新たな論点に",
-      "published_date": "2026-03-15",
-      "collected_date": "2026-03-16",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
-      "title": "国防総省高官がついに認めた：生成AIチャットボットで「ターゲットリスト」を作成することを検討中——人間の最終確認を前提に",
-      "published_date": "2026-03-12",
-      "collected_date": "2026-03-16",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
       "title": "Nvidia GTC 2026：Jensen Huang が Blackwell と Vera Rubin の受注を$1兆の成層圏へ——エージェント AI 時代の幕開けを宣言",
       "published_date": "2026-03-16",
@@ -300,11 +202,60 @@
       "published_date": "2026-03-19",
       "collected_date": "2026-03-20",
       "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+      "title": "OpenAIが「完全自動化AIリサーチャー」構築へ——2026年9月に自律型「研究インターン」、2028年に本格AI研究者を目指すロードマップ発表",
+      "published_date": "2026-03-20",
+      "collected_date": "2026-03-23",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-math-thats-killing-your-ai-agent/",
+      "title": "「エージェントを殺す数学」——99%精度でも50ステップで成功率60%台まで低下するAIエージェントのエラー伝播問題と3つの緩和策",
+      "published_date": "2026-03-20",
+      "collected_date": "2026-03-23",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+      "title": "WordPress.comがMCP経由でAIエージェントによる記事執筆・公開を解禁——Web全体の43%を占めるCMSでAI自動コンテンツ時代が幕開け",
+      "published_date": "2026-03-20",
+      "collected_date": "2026-03-23",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
+      "title": "AnthropicがOpenClawキラー「Claude Code Channels」を発表——Telegram・Discord経由で非同期コーディングエージェントを実現するMCP活用の新設計",
+      "published_date": "2026-03-21",
+      "collected_date": "2026-03-23",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
+      "title": "Wired潜入レポート：Palantir開発者会議「AIは戦争に勝つために作られている」——国防総省Maven正式採用と前年比120%商業成長が交差する軍事AI企業の光と影",
+      "published_date": "2026-03-21",
+      "collected_date": "2026-03-23",
+      "source": "Wired"
+    },
+    {
+      "url": "https://www.theverge.com/2026/3/21/the-gen-ai-kool-aid-tastes-like-eugenics",
+      "title": "「生成AIのKool-Aidは優生学の味がする」——『Ghost in the Machine』監督Valerie VeatchがAIの統計的起源と人種バイアスの歴史的関係を告発",
+      "published_date": "2026-03-21",
+      "collected_date": "2026-03-23",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/2026/3/20/openai-is-planning-a-desktop-superapp",
+      "title": "OpenAIがChatGPT・Codex・Atlasを統合した「デスクトップ・スーパーアプリ」を計画——製品断片化の解消とAnthropicへの競争応答が狙い",
+      "published_date": "2026-03-20",
+      "collected_date": "2026-03-23",
+      "source": "The Verge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-20T02:03:55Z",
-    "total_articles": 43,
+    "last_updated": "2026-03-23T23:36:47Z",
+    "total_articles": 36,
     "retention_days": 7,
     "version": "1.0"
   }
