@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
-      "title": "Nvidia GTC 2026：Jensen Huang が Blackwell と Vera Rubin の受注を$1兆の成層圏へ——エージェント AI 時代の幕開けを宣言",
-      "published_date": "2026-03-16",
-      "collected_date": "2026-03-17",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/16/merriam-webster-openai-encyclopedia-brittanica-lawsuit/",
-      "title": "Encyclopedia Britannica・Merriam-Webster が OpenAI を著作権侵害で提訴——10万記事の無断学習・ChatGPTが原文をほぼ再現と主張",
-      "published_date": "2026-03-16",
-      "collected_date": "2026-03-17",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm",
-      "title": "YC支援 Random Labs が業界初「スウォームネイティブ」コーディングエージェント Slate V1 をローンチ——スレッドウィービングで大規模コードベースに対応",
-      "published_date": "2026-03-14",
-      "collected_date": "2026-03-17",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/17/teens-sue-xai-grok-csam-ai-generated",
-      "title": "10代がGrok の AI 生成 CSAM を巡り xAI を提訴——「違法性を知りながら機能を公開」と主張、カリフォルニア州も調査開始",
-      "published_date": "2026-03-17",
-      "collected_date": "2026-03-17",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/17/benjamin-netanyahu-is-struggling-to-prove-hes-not-an-ai-clone",
-      "title": "ネタニヤフ首相が「AIクローンではない」の証明に苦戦——ディープフェイク疑惑が信頼崩壊の新時代を象徴",
-      "published_date": "2026-03-17",
-      "collected_date": "2026-03-17",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-2026-data-mandate-is-your-governance-architecture-a-fortress-or-a-liability/",
-      "title": "「2026年データ・マンデート」——EU AI 法とCRAが迫るガバナンスアーキテクチャ革命：要塞か負債か",
-      "published_date": "2026-03-15",
-      "collected_date": "2026-03-17",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
-      "title": "フィジカルAIが製造業の次の競争優位になる理由——Nvidia・Microsoftが示す「自律推論型AI工場」の実現ロードマップ",
-      "published_date": "2026-03-13",
-      "collected_date": "2026-03-17",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://www.theverge.com/2026/3/17/now-everyone-us-getting-google-personalized-gemini-ai",
       "title": "Google Gemini のパーソナル AI が米国の全ユーザーに無料開放——Gmail・Photos・Search 連携の「Personal Intelligence」が無料ティアに展開",
       "published_date": "2026-03-17",
@@ -251,10 +202,59 @@
       "published_date": "2026-03-20",
       "collected_date": "2026-03-23",
       "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/2026/3/23/nvidia-ceo-jensen-huang-says-i-think-weve-achieved-agi",
+      "title": "NvidiaのJensen Huang CEOが「AGIを達成したと思う」と発言——直後に若干撤回、AIの到達点をめぐる定義論争が再燃",
+      "published_date": "2026-03-23",
+      "collected_date": "2026-03-24",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+      "title": "「AIチャットボットが妄想を引き起こすか」——Stanfordが39万件の会話を分析した研究をMIT TRが報告、AIの精神的安全性設計が急務に",
+      "published_date": "2026-03-23",
+      "collected_date": "2026-03-24",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "title": "Cursorが「Composer 2」の正体を認める——ユーザーが発覚した中国Moonshot AI「Kimi 2.5」ベース、AIサプライチェーンの透明性論争が本格化",
+      "published_date": "2026-03-22",
+      "collected_date": "2026-03-24",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "title": "Gimlet Labsが8000万ドル調達——「マルチシリコン推論クラウド」でAI推論を最大10倍効率化、Nvidia・AMD・Intel全対応のインフラ最適化で注目",
+      "published_date": "2026-03-23",
+      "collected_date": "2026-03-24",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/nvidia-shrinks-llm-memory-20x-without-changing-model-weights",
+      "title": "NvidiaがLLMのKVキャッシュをモデル変更ゼロで20分の1に圧縮するKVTC技術を発表——推論遅延8倍改善、精度低下1%未満でエンタープライズコスト削減の本命に",
+      "published_date": "2026-03-17",
+      "collected_date": "2026-03-24",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://towardsdatascience.com/i-built-a-podcast-clipping-app-in-one-weekend-using-vibe-coding/",
+      "title": "「週末1日でポッドキャストアプリを自作」——Replit AIエージェントで体験するバイブコーディングの可能性と人間レビューの重要性",
+      "published_date": "2026-03-23",
+      "collected_date": "2026-03-24",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.theverge.com/2026/3/22/ai-was-everywhere-at-gaming-s-big-developer-conference-except-the-games",
+      "title": "「AIはGDC 2026に溢れていた——ゲーム本体には存在しないにもかかわらず」——著作権・品質・創造性への懸念でゲームスタジオが採用見送り相次ぐ",
+      "published_date": "2026-03-22",
+      "collected_date": "2026-03-24",
+      "source": "The Verge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-23T23:36:47Z",
+    "last_updated": "2026-03-24T00:00:00Z",
     "total_articles": 36,
     "retention_days": 7,
     "version": "1.0"
