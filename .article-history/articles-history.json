@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.theverge.com/2026/3/17/now-everyone-us-getting-google-personalized-gemini-ai",
-      "title": "Google Gemini のパーソナル AI が米国の全ユーザーに無料開放——Gmail・Photos・Search 連携の「Personal Intelligence」が無料ティアに展開",
-      "published_date": "2026-03-17",
-      "collected_date": "2026-03-18",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/17/microsoft-appoints-new-copilot-boss-ai-leadership-shakeup",
-      "title": "Microsoft が新「Copilot 統括責任者」Jacob Andreou を任命——Mustafa Suleiman は AI モデル開発に専念、分散組織を4本柱に統合",
-      "published_date": "2026-03-17",
-      "collected_date": "2026-03-18",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
-      "title": "Nvidia の DLSS 5 が生成 AI でゲームのフォトリアリズムを刷新——「ニューラルレンダリング」はゲーム以外にも応用視野、コミュニティは「AI スロップ」と批判も",
-      "published_date": "2026-03-16",
-      "collected_date": "2026-03-18",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/18/openai-cuts-back-side-quests-focus-coding-enterprise",
-      "title": "OpenAI が「脇道プロジェクト」を整理——Sora・Atlas・ガジェットを縮小し、コーディングとエンタープライズ AI に経営資源を集中",
-      "published_date": "2026-03-18",
-      "collected_date": "2026-03-18",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-multi-agent-trap/",
-      "title": "「マルチエージェントの罠」——DeepMind 研究が示す、エージェント数増加がエラーを17.2倍に増幅する仕組みと脱出戦略",
-      "published_date": "2026-03-14",
-      "collected_date": "2026-03-18",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-      "title": "OpenAI の技術がイランでどう使われうるか——MIT Technology Review がターゲット選定支援・ドローン迎撃 AI・GenAI.mil の実態を報告",
-      "published_date": "2026-03-16",
-      "collected_date": "2026-03-18",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-new-reality-2026-special-issue/",
-      "title": "Wired 特別号「AI：新たなる現実」——17本のルポで描く「AI が社会インフラになった世界」と人類史上最大の管理なき社会実験",
-      "published_date": "2026-03-17",
-      "collected_date": "2026-03-18",
-      "source": "Wired"
-    },
-    {
       "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
       "title": "MistralがエンタープライズAI向け「Forge」を発表——「自分だけのAIを作れ」戦略でOpenAI・Anthropicとのデータ主権差別化を鮮明に",
       "published_date": "2026-03-17",
@@ -251,10 +202,59 @@
       "published_date": "2026-03-22",
       "collected_date": "2026-03-24",
       "source": "The Verge"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "title": "AmazonのTrainiumラボを独占公開——Anthropic・OpenAI・Appleが採用した次世代AIチップがNvidiaに挑む50%コスト削減の実力",
+      "published_date": "2026-03-22",
+      "collected_date": "2026-03-25",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "title": "マスクが「Terafab」構想を発表——Tesla・SpaceX・xAI合同の史上最大AI半導体工場計画、年間100GW分のAI計算能力を自社供給へ",
+      "published_date": "2026-03-22",
+      "collected_date": "2026-03-25",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
+      "title": "「AIが私の名前を無断使用」——GrammarlyCEOをThe VergeのDecoderで直撃、Expert Review機能によるジャーナリストAIクローン問題の核心",
+      "published_date": "2026-03-23",
+      "collected_date": "2026-03-25",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai",
+      "title": "ByteDanceがオープンソースAIエージェント基盤「DeerFlow 2.0」を公開——MITライセンスの複数サブエージェント自律調整フレームワークでエンタープライズ向けAI自動化を加速",
+      "published_date": "2026-03-24",
+      "collected_date": "2026-03-25",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-complete-guide-to-ai-implementation-for-chief-data-ai-officers-in-2026/",
+      "title": "2026年版 最高データ・AI責任者のためのAI実装完全ガイド——5指標フレームワークでAI機会を定量評価し、組織全体のAI戦略を体系化する実践手法",
+      "published_date": "2026-03-24",
+      "collected_date": "2026-03-25",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+      "title": "OpenAIがMicrosoftとの関係を「事業リスク」として開示——IPO準備書類でAzure独占条項の緊張が顕在化、AWSパートナーシップとの整合性に懸念",
+      "published_date": "2026-03-24",
+      "collected_date": "2026-03-25",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-race-europe-power-grids-data-centers-utilities",
+      "title": "AIデータセンター急増でヨーロッパの電力網が危機——接続待ち行列が年単位に積み上がり、送電事業者が送電線容量の革新的最大化を模索",
+      "published_date": "2026-03-23",
+      "collected_date": "2026-03-25",
+      "source": "Wired"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-24T00:00:00Z",
+    "last_updated": "2026-03-25T22:06:58Z",
     "total_articles": 36,
     "retention_days": 7,
     "version": "1.0"
