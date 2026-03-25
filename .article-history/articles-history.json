@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-      "title": "MistralがエンタープライズAI向け「Forge」を発表——「自分だけのAIを作れ」戦略でOpenAI・Anthropicとのデータ主権差別化を鮮明に",
-      "published_date": "2026-03-17",
-      "collected_date": "2026-03-19",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models",
-      "title": "Mistral AI、Forgeプラットフォームを正式ローンチ——自社データでのオンプレミスLLM訓練でエンタープライズのデータプライバシーを確保",
-      "published_date": "2026-03-17",
-      "collected_date": "2026-03-19",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-      "title": "国防総省、AI企業が機密軍事データでLLMを訓練する計画を発表——安全保障強化と情報漏洩リスクの狭間で新たな官民AI協定の輪郭が浮かぶ",
-      "published_date": "2026-03-17",
-      "collected_date": "2026-03-19",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/19/chatgpt-dog-cancer-ai-medical-hype-science",
-      "title": "「ChatGPTは犬のガンを治していなかった」——バイラル医療AIストーリーの科学的真実：人間研究者の貢献とAI過信リスクを解剖",
-      "published_date": "2026-03-19",
-      "collected_date": "2026-03-19",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-ai-ui-design/",
-      "title": "Googleが「バイブデザイン」を提唱——Stitch AI UIツールが音声操作・無限キャンバス・Reactコードエクスポートに対応しFigmaに挑む",
-      "published_date": "2026-03-19",
-      "collected_date": "2026-03-19",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-new-experience-of-coding-with-ai/",
-      "title": "AIコードアシスタントの「誘惑」——GitHub Copilot・Claude Codeが開発体験を一変させた現実と、スキル劣化・セキュリティリスクへの冷静な視点",
-      "published_date": "2026-03-18",
-      "collected_date": "2026-03-19",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/19/anti-ai-human-made-labels-creators-standard",
-      "title": "「人間製」認証ラベルが世界で8種類以上乱立——AI生成コンテンツが氾濫するなか業界横断的標準化が急務、EU AI法との連動に期待",
-      "published_date": "2026-03-19",
-      "collected_date": "2026-03-19",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/two-stage-hurdle-models-predicting-zero-inflated-outcomes/",
-      "title": "「1つのモデルに2つの仕事は無理」——Two-Stage Hurdle Modelsがゼロ過多データの予測精度を改善する実装ガイド",
-      "published_date": "2026-03-18",
-      "collected_date": "2026-03-19",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
       "title": "「2027年にはAIボットがネットの人間トラフィックを超える」——Cloudflare CEOがSXSWで予言、AIエージェント時代のインフラ革命が迫る",
       "published_date": "2026-03-19",
@@ -251,11 +195,46 @@
       "published_date": "2026-03-23",
       "collected_date": "2026-03-25",
       "source": "Wired"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+      "title": "Armが35年の歴史で初の自社製AIチップ「AGI CPU」を発表——MetaとOpenAIが採用するデータセンター革命の号砲",
+      "published_date": "2026-03-24",
+      "collected_date": "2026-03-26",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "title": "OpenAIがSoraを廃止——10億ドルのディズニー提携も消滅、AIビデオ生成プラットフォームのわずか6カ月での終焉",
+      "published_date": "2026-03-25",
+      "collected_date": "2026-03-26",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app",
+      "title": "OpenAI、SoraのIPO前廃止が示す「AIプロダクト経済」の現実——GPUコスト70万ドル/日と急落する利用者数が生成AIビジネスモデルを問い直す",
+      "published_date": "2026-03-25",
+      "collected_date": "2026-03-26",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+      "title": "MIT TR「AIハイプ・インデックス」が1年ぶりに復活——過大評価された生成AIの誇張を数値化し幻滅の谷を警告",
+      "published_date": "2026-03-25",
+      "collected_date": "2026-03-26",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/building-human-in-the-loop-agentic-workflows/",
+      "title": "LangGraphで実装する「ヒューマン・イン・ザ・ループ」AIエージェント——エラー伝播を防ぐHITLワークフロー設計パターン",
+      "published_date": "2026-03-25",
+      "collected_date": "2026-03-26",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-25T22:06:58Z",
-    "total_articles": 36,
+    "last_updated": "2026-03-26T22:08:24Z",
+    "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
   }
