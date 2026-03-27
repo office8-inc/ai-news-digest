@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
-      "title": "「2027年にはAIボットがネットの人間トラフィックを超える」——Cloudflare CEOがSXSWで予言、AIエージェント時代のインフラ革命が迫る",
-      "published_date": "2026-03-19",
-      "collected_date": "2026-03-20",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework",
-      "title": "Nvidiaのエージェント型AIスタック、業界初のリリース時点からセキュリティ統合を実現——CrowdStrike・Palo Alto等5社が5層ガバナンスフレームワークを担保",
-      "published_date": "2026-03-18",
-      "collected_date": "2026-03-20",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix",
-      "title": "MetaのAIエージェント「混乱した代理人」問題——正規認証をパスしながら機密データを2時間露出した「Sev 1」インシデントが示すIAM設計の盲点",
-      "published_date": "2026-03-18",
-      "collected_date": "2026-03-20",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
-      "title": "DoorDashがギグワーカーにAI学習データ収集を有償依頼する「Tasksアプリ」を発表——配達員がAIトレーナーへ転換する新たなギグエコノミーの形",
-      "published_date": "2026-03-19",
-      "collected_date": "2026-03-20",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/why-care-about-promp-caching-in-llms/",
-      "title": "「LLMのプロンプトキャッシングを使うべき理由」——コスト最大90%・レイテンシ80%削減を実現するKVキャッシュの仕組みと実装ガイド",
-      "published_date": "2026-03-13",
-      "collected_date": "2026-03-20",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-chatbot-children-deaths-accountability/",
-      "title": "「AI企業に子供の死の責任を問う」——「製品責任」という新法的枠組みでOpenAI・Character.AIを提訴する弁護士たち、AIチャットボット安全基準の先例を構築",
-      "published_date": "2026-03-19",
-      "collected_date": "2026-03-20",
-      "source": "Wired"
-    },
-    {
-      "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-      "title": "「AIに就職面接される世代」——Gen ZがAI面接ボットと向き合う現実：CodeSignal・Humanly等が広げる採用市場と消える「人間の温かみ」の問題",
-      "published_date": "2026-03-19",
-      "collected_date": "2026-03-20",
-      "source": "The Verge"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
       "title": "OpenAIが「完全自動化AIリサーチャー」構築へ——2026年9月に自律型「研究インターン」、2028年に本格AI研究者を目指すロードマップ発表",
       "published_date": "2026-03-20",
@@ -230,10 +181,59 @@
       "published_date": "2026-03-25",
       "collected_date": "2026-03-26",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "title": "AnthropicがClaude Codeに「Auto Mode」を搭載——3段階権限モデルとリスク分類器でAIコーディングエージェントの自律性と安全性を両立",
+      "published_date": "2026-03-24",
+      "collected_date": "2026-03-27",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single-version-of-truth/",
+      "title": "Oracleがエンタープライズエージェント向け統合AIデータスタックを発表——Unified Memory Coreで断片化した企業データ問題を解消",
+      "published_date": "2026-03-24",
+      "collected_date": "2026-03-27",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
+      "title": "法律AI Harvey が評価額110億ドルを達成——Sequoiaが3連続ラウンドをリードし10万人超の弁護士が採用するバーティカルAIの成功例に",
+      "published_date": "2026-03-25",
+      "collected_date": "2026-03-27",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+      "title": "AIミーティングノートアプリGranolaが1億2500万ドル調達・評価額15億ドルに——会議記録をエンタープライズAIナレッジ基盤として再定義",
+      "published_date": "2026-03-25",
+      "collected_date": "2026-03-27",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "title": "MIT TR「AI Hype Index」AIが戦場へ——OpenAIのPentagon契約とAnthropicの拒絶が産業の亀裂を露わにし、AIの軍事標準化に警鐘",
+      "published_date": "2026-03-25",
+      "collected_date": "2026-03-27",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+      "title": "サンダース・AOCがAIデータセンター建設の全国禁止法案「AI Data Center Moratorium Act」を提出——電力・環境・雇用への影響に連邦レベルの歯止め",
+      "published_date": "2026-03-25",
+      "collected_date": "2026-03-27",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+      "title": "Googleが最大3分の楽曲生成AI「Lyria 3 Pro」を発表——SynthID透かしと曲構造制御でSuno・Udioとの差別化を図る",
+      "published_date": "2026-03-25",
+      "collected_date": "2026-03-27",
+      "source": "TechCrunch"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T22:08:24Z",
+    "last_updated": "2026-03-27T00:00:00Z",
     "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
