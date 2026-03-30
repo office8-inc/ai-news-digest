@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-      "title": "OpenAIが「完全自動化AIリサーチャー」構築へ——2026年9月に自律型「研究インターン」、2028年に本格AI研究者を目指すロードマップ発表",
-      "published_date": "2026-03-20",
-      "collected_date": "2026-03-23",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-math-thats-killing-your-ai-agent/",
-      "title": "「エージェントを殺す数学」——99%精度でも50ステップで成功率60%台まで低下するAIエージェントのエラー伝播問題と3つの緩和策",
-      "published_date": "2026-03-20",
-      "collected_date": "2026-03-23",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-      "title": "WordPress.comがMCP経由でAIエージェントによる記事執筆・公開を解禁——Web全体の43%を占めるCMSでAI自動コンテンツ時代が幕開け",
-      "published_date": "2026-03-20",
-      "collected_date": "2026-03-23",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels",
-      "title": "AnthropicがOpenClawキラー「Claude Code Channels」を発表——Telegram・Discord経由で非同期コーディングエージェントを実現するMCP活用の新設計",
-      "published_date": "2026-03-21",
-      "collected_date": "2026-03-23",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.wired.com/story/palantir-developer-conference-ai-war-alex-karp/",
-      "title": "Wired潜入レポート：Palantir開発者会議「AIは戦争に勝つために作られている」——国防総省Maven正式採用と前年比120%商業成長が交差する軍事AI企業の光と影",
-      "published_date": "2026-03-21",
-      "collected_date": "2026-03-23",
-      "source": "Wired"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/21/the-gen-ai-kool-aid-tastes-like-eugenics",
-      "title": "「生成AIのKool-Aidは優生学の味がする」——『Ghost in the Machine』監督Valerie VeatchがAIの統計的起源と人種バイアスの歴史的関係を告発",
-      "published_date": "2026-03-21",
-      "collected_date": "2026-03-23",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/2026/3/20/openai-is-planning-a-desktop-superapp",
-      "title": "OpenAIがChatGPT・Codex・Atlasを統合した「デスクトップ・スーパーアプリ」を計画——製品断片化の解消とAnthropicへの競争応答が狙い",
-      "published_date": "2026-03-20",
-      "collected_date": "2026-03-23",
-      "source": "The Verge"
-    },
-    {
       "url": "https://www.theverge.com/2026/3/23/nvidia-ceo-jensen-huang-says-i-think-weve-achieved-agi",
       "title": "NvidiaのJensen Huang CEOが「AGIを達成したと思う」と発言——直後に若干撤回、AIの到達点をめぐる定義論争が再燃",
       "published_date": "2026-03-23",
@@ -230,10 +181,59 @@
       "published_date": "2026-03-25",
       "collected_date": "2026-03-27",
       "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "title": "BlueskyがClaude搭載AIフィードビルダー「Attie」を公開——自然言語でAT Protocol上のカスタムアルゴリズムを設計するユーザー主権SNSの新時代",
+      "published_date": "2026-03-28",
+      "collected_date": "2026-03-30",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "title": "xAIに創業者ゼロ——最後の共同創業者Ross Nordeenが退社、マスク以外の全創業メンバーが離脱しAI企業の組織的転換点に",
+      "published_date": "2026-03-28",
+      "collected_date": "2026-03-30",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://towardsdatascience.com/using-openclaw-as-a-force-multiplier-what-one-person-can-ship-with-autonomous-agents-949cce63f85e",
+      "title": "OpenClawで「一人開発者の生産性10倍」——自律AIエージェントが個人をチーム規模の生産性に押し上げる「力乗数」実践報告",
+      "published_date": "2026-03-28",
+      "collected_date": "2026-03-30",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "title": "Stanford研究「AIの過度な同調が社会行動を損ない依存を生む」——11モデルで検証したSycophancy問題がScienceに掲載",
+      "published_date": "2026-03-28",
+      "collected_date": "2026-03-30",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/2026/3/27/anthropic-pentagon-judge-blocks-supply-chain-risk-ban",
+      "title": "連邦裁判所がAnthropicへのPentagon禁止令を一時停止——判事が「第一修正条項の違反・オーウェル的」と批判し仮差止め命令",
+      "published_date": "2026-03-27",
+      "collected_date": "2026-03-30",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/2026/3/27/anthropic-claude-mythos-security-lapse",
+      "title": "AnthropicのCMS設定ミスが次世代モデル「Claude Mythos（Capybara）」を誤公開——前例のないサイバーセキュリティリスクの内部警告も流出",
+      "published_date": "2026-03-27",
+      "collected_date": "2026-03-30",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "title": "AppleがSiriを全AIチャットボットに開放——iOS 27「Extensions」でGemini・Claudeが接続可能に、「AIのApp Store」誕生へ",
+      "published_date": "2026-03-26",
+      "collected_date": "2026-03-30",
+      "source": "The Verge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-27T00:00:00Z",
+    "last_updated": "2026-03-30T00:00:00Z",
     "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
