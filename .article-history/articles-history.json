@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-      "title": "AmazonのTrainiumラボを独占公開——Anthropic・OpenAI・Appleが採用した次世代AIチップがNvidiaに挑む50%コスト削減の実力",
-      "published_date": "2026-03-22",
-      "collected_date": "2026-03-25",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-      "title": "マスクが「Terafab」構想を発表——Tesla・SpaceX・xAI合同の史上最大AI半導体工場計画、年間100GW分のAI計算能力を自社供給へ",
-      "published_date": "2026-03-22",
-      "collected_date": "2026-03-25",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
-      "title": "「AIが私の名前を無断使用」——GrammarlyCEOをThe VergeのDecoderで直撃、Expert Review機能によるジャーナリストAIクローン問題の核心",
-      "published_date": "2026-03-23",
-      "collected_date": "2026-03-25",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai",
-      "title": "ByteDanceがオープンソースAIエージェント基盤「DeerFlow 2.0」を公開——MITライセンスの複数サブエージェント自律調整フレームワークでエンタープライズ向けAI自動化を加速",
-      "published_date": "2026-03-24",
-      "collected_date": "2026-03-25",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-complete-guide-to-ai-implementation-for-chief-data-ai-officers-in-2026/",
-      "title": "2026年版 最高データ・AI責任者のためのAI実装完全ガイド——5指標フレームワークでAI機会を定量評価し、組織全体のAI戦略を体系化する実践手法",
-      "published_date": "2026-03-24",
-      "collected_date": "2026-03-25",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
-      "title": "OpenAIがMicrosoftとの関係を「事業リスク」として開示——IPO準備書類でAzure独占条項の緊張が顕在化、AWSパートナーシップとの整合性に懸念",
-      "published_date": "2026-03-24",
-      "collected_date": "2026-03-25",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-race-europe-power-grids-data-centers-utilities",
-      "title": "AIデータセンター急増でヨーロッパの電力網が危機——接続待ち行列が年単位に積み上がり、送電事業者が送電線容量の革新的最大化を模索",
-      "published_date": "2026-03-23",
-      "collected_date": "2026-03-25",
-      "source": "Wired"
-    },
-    {
       "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
       "title": "Armが35年の歴史で初の自社製AIチップ「AGI CPU」を発表——MetaとOpenAIが採用するデータセンター革命の号砲",
       "published_date": "2026-03-24",
@@ -230,10 +181,59 @@
       "published_date": "2026-03-30",
       "collected_date": "2026-03-31",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "title": "OpenAI、史上最大1220億ドル調達——評価額8520億ドルでIPO準備が本格化、9億人ユーザーと月収20億ドルをバックに個人投資家30億ドルも獲得",
+      "published_date": "2026-03-31",
+      "collected_date": "2026-04-01",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "title": "ChatGPTがCarPlayで音声対話に正式対応——iOS 26.4が車内AIを解放、音声のみの安全設計でSiriと共存",
+      "published_date": "2026-04-01",
+      "collected_date": "2026-04-01",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know",
+      "title": "Claude Codeのソースコード51万行以上がnpm経由で流出——三層メモリアーキテクチャとSelf-Healing Memoryが競合他社にさらされる",
+      "published_date": "2026-03-31",
+      "collected_date": "2026-04-01",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "title": "PentagonのAnthropicへの「文化戦争」が逆効果——裁判所が第一修正条項違反と認定し禁止令を一時ブロック",
+      "published_date": "2026-03-30",
+      "collected_date": "2026-04-01",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+      "title": "美術大学がAIで引き裂かれる——3Dアニメーション学生の就職危機とCalArtsの抗議運動、創造教育の岐路",
+      "published_date": "2026-04-01",
+      "collected_date": "2026-04-01",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-map-of-meaning-how-embedding-models-understand-human-language/",
+      "title": "埋め込みモデルは「意味のGPS」——単語・文章・概念を座標空間にマッピングしてAIが文脈を理解する仕組みを徹底解説",
+      "published_date": "2026-03-31",
+      "collected_date": "2026-04-01",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+      "title": "a16z支援のYupp.aiが3300万ドルを費やして1年未満で廃業——AI評価プラットフォームの「両面市場の罠」と生成AIシフトに飲み込まれた末路",
+      "published_date": "2026-03-31",
+      "collected_date": "2026-04-01",
+      "source": "TechCrunch"
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-31T00:00:00Z",
+    "last_updated": "2026-04-01T22:08:51Z",
     "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
