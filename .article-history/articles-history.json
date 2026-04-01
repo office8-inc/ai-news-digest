@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
-      "title": "Armが35年の歴史で初の自社製AIチップ「AGI CPU」を発表——MetaとOpenAIが採用するデータセンター革命の号砲",
-      "published_date": "2026-03-24",
-      "collected_date": "2026-03-26",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
-      "title": "OpenAIがSoraを廃止——10億ドルのディズニー提携も消滅、AIビデオ生成プラットフォームのわずか6カ月での終焉",
-      "published_date": "2026-03-25",
-      "collected_date": "2026-03-26",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app",
-      "title": "OpenAI、SoraのIPO前廃止が示す「AIプロダクト経済」の現実——GPUコスト70万ドル/日と急落する利用者数が生成AIビジネスモデルを問い直す",
-      "published_date": "2026-03-25",
-      "collected_date": "2026-03-26",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
-      "title": "MIT TR「AIハイプ・インデックス」が1年ぶりに復活——過大評価された生成AIの誇張を数値化し幻滅の谷を警告",
-      "published_date": "2026-03-25",
-      "collected_date": "2026-03-26",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/building-human-in-the-loop-agentic-workflows/",
-      "title": "LangGraphで実装する「ヒューマン・イン・ザ・ループ」AIエージェント——エラー伝播を防ぐHITLワークフロー設計パターン",
-      "published_date": "2026-03-25",
-      "collected_date": "2026-03-26",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
       "title": "AnthropicがClaude Codeに「Auto Mode」を搭載——3段階権限モデルとリスク分類器でAIコーディングエージェントの自律性と安全性を両立",
       "published_date": "2026-03-24",
@@ -230,11 +195,60 @@
       "published_date": "2026-03-31",
       "collected_date": "2026-04-01",
       "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+      "title": "MIT TR「ギグワーカーがヒューマノイドを訓練」——人型ロボット普及に不可欠なデータ収集の倫理とHuman-AI Context-Specific Evaluationを同時提言",
+      "published_date": "2026-04-01",
+      "collected_date": "2026-04-02",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "title": "CognichipがAIでAIチップを設計——Intel CEO・リップブー・タン氏が参加し累計9300万ドル調達、SynopsysとCadenceに正面から挑む",
+      "published_date": "2026-04-01",
+      "collected_date": "2026-04-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "title": "SalesforceがSlackを大刷新——30のAI機能を追加しSlackbotを「企業のAIオペレーションシステム」に昇格させ、MCP対応・週20時間削減効果を実証",
+      "published_date": "2026-03-31",
+      "collected_date": "2026-04-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/data/imagine-if-your-teams-or-slack-messages-automatically-turned-into-secure-context-for-your-ai-agents-promptql-built-it/",
+      "title": "PromptQL：SlackやTeamsのメッセージがAIエージェントの「安全なコンテキスト」に自動変換——Hasura創業者がLLMのコンテキスト忘却問題に正面から挑む",
+      "published_date": "2026-04-01",
+      "collected_date": "2026-04-02",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://towardsdatascience.com/self-healing-neural-networks-in-pytorch-fix-model-drift-in-real-time-without-retraining/",
+      "title": "「自己修復ニューラルネット」PyTorch実装——リトレーニングなしにモデルドリフトをリアルタイム回復、不正検知モデルで+27.8%精度改善を達成",
+      "published_date": "2026-03-29",
+      "collected_date": "2026-04-02",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/",
+      "title": "武漢でBaidu Apollo Goのロボタクシー100台超が集団停止——乗客が2時間缶詰になる大混乱、中央集権型AVフリートの「単一障害点リスク」が実証される",
+      "published_date": "2026-04-01",
+      "collected_date": "2026-04-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "title": "MercorがLiteLLMサプライチェーン攻撃で被災——Lapsus$が4TBデータ盗取を主張、オープンソースAIライブラリの脆弱性がエコシステム全体に連鎖波及",
+      "published_date": "2026-03-31",
+      "collected_date": "2026-04-02",
+      "source": "TechCrunch"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T22:08:51Z",
-    "total_articles": 33,
+    "last_updated": "2026-04-02T00:00:00Z",
+    "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
   }
