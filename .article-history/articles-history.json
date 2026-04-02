@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-      "title": "AnthropicがClaude Codeに「Auto Mode」を搭載——3段階権限モデルとリスク分類器でAIコーディングエージェントの自律性と安全性を両立",
-      "published_date": "2026-03-24",
-      "collected_date": "2026-03-27",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single-version-of-truth/",
-      "title": "Oracleがエンタープライズエージェント向け統合AIデータスタックを発表——Unified Memory Coreで断片化した企業データ問題を解消",
-      "published_date": "2026-03-24",
-      "collected_date": "2026-03-27",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
-      "title": "法律AI Harvey が評価額110億ドルを達成——Sequoiaが3連続ラウンドをリードし10万人超の弁護士が採用するバーティカルAIの成功例に",
-      "published_date": "2026-03-25",
-      "collected_date": "2026-03-27",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-      "title": "AIミーティングノートアプリGranolaが1億2500万ドル調達・評価額15億ドルに——会議記録をエンタープライズAIナレッジ基盤として再定義",
-      "published_date": "2026-03-25",
-      "collected_date": "2026-03-27",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-      "title": "MIT TR「AI Hype Index」AIが戦場へ——OpenAIのPentagon契約とAnthropicの拒絶が産業の亀裂を露わにし、AIの軍事標準化に警鐘",
-      "published_date": "2026-03-25",
-      "collected_date": "2026-03-27",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
-      "title": "サンダース・AOCがAIデータセンター建設の全国禁止法案「AI Data Center Moratorium Act」を提出——電力・環境・雇用への影響に連邦レベルの歯止め",
-      "published_date": "2026-03-25",
-      "collected_date": "2026-03-27",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-      "title": "Googleが最大3分の楽曲生成AI「Lyria 3 Pro」を発表——SynthID透かしと曲構造制御でSuno・Udioとの差別化を図る",
-      "published_date": "2026-03-25",
-      "collected_date": "2026-03-27",
-      "source": "TechCrunch"
-    },
-    {
       "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
       "title": "BlueskyがClaude搭載AIフィードビルダー「Attie」を公開——自然言語でAT Protocol上のカスタムアルゴリズムを設計するユーザー主権SNSの新時代",
       "published_date": "2026-03-28",
@@ -244,10 +195,59 @@
       "published_date": "2026-03-31",
       "collected_date": "2026-04-02",
       "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "title": "MicrosoftがAI競合他社に真っ向挑戦——MAI-Transcribe-1・MAI-Voice-1・MAI-Image-2の3ファンデーションモデルをFoundryで公開、OpenAI/Google製品を価格・速度で下回ると主張",
+      "published_date": "2026-04-02",
+      "collected_date": "2026-04-03",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/2026/4/2/microsoft-aims-for-superintelligence-mustafa-suleyman-ai-game-plan",
+      "title": "MicrosoftはOpenAIから「独立」を目指す——Suleyman、Copilot管理を離れMAI Superintelligenceチームに専念し「ヒューマニスト・スーパーインテリジェンス」戦略を告白",
+      "published_date": "2026-04-02",
+      "collected_date": "2026-04-03",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter",
+      "title": "GoogleがGemma 4をApache 2.0ライセンスで公開——商用利用制限を完全撤廃、E2B〜31Bの4サイズでマルチモーダル対応、DeepSeek・Qwenへの西側対抗馬として登場",
+      "published_date": "2026-04-02",
+      "collected_date": "2026-04-03",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "title": "AIベンチマークは「壊れている」——MIT TRが孤立した一回限りテストの欠陥を指摘し、実業務フローに根ざしたHAIC（Human-AI Context-Specific）評価への緊急移行を提唱",
+      "published_date": "2026-03-31",
+      "collected_date": "2026-04-03",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-inversion-error-why-safe-agi-requires-an-enactive-floor-and-state-space-reversibility-1e7db5e5a7ce",
+      "title": "「Safe AGI」には構造的再設計が必要——TDSが「逆転エラー」問題を解剖、スケーリングで解決不能なLLMアーキテクチャの欠陥と行動論的土台・状態空間可逆性の必要性を論証",
+      "published_date": "2026-04-01",
+      "collected_date": "2026-04-03",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+      "title": "韓国RebellionsがプレIPOで4億ドル調達・評価額23億ドルに——RebelRack/RebelPODを発表しNvidiaの代替AI推論インフラとして米国市場参入を加速",
+      "published_date": "2026-03-30",
+      "collected_date": "2026-04-03",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "title": "AnthropicがGitHubで8100件のリポジトリを誤削除——Claude Codeの漏洩コード撤去作戦が無関係な正当フォークまで巻き込む事態に、「意図せぬ事故」と釈明",
+      "published_date": "2026-04-01",
+      "collected_date": "2026-04-03",
+      "source": "TechCrunch"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-02T00:00:00Z",
+    "last_updated": "2026-04-03T22:07:48Z",
     "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
