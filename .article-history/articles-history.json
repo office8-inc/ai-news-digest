@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-      "title": "OpenAIがSoraを本当に廃止した理由——1日1500万ドルのコストと210万ドルの生涯収益、Disney提携崩壊の全真相",
-      "published_date": "2026-03-29",
-      "collected_date": "2026-03-31",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "title": "AI医療ツールが爆増——しかし独立した評価基盤は皆無とMIT TRが警告、Microsoft・Amazon・OpenAIが健康アシスタント市場に同時参入",
-      "published_date": "2026-03-30",
-      "collected_date": "2026-03-31",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/860730/anthropic-cowork-feature-ai-agents-claude-code",
-      "title": "AnthropicがClaude Coworkを公開——コーディング以外の業務をAIエージェントに委任するリサーチプレビュー、Claude Max限定で提供開始",
-      "published_date": "2026-03-30",
-      "collected_date": "2026-03-31",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-      "title": "MistralがオープンソースTTSモデル「Voxtral」を公開——ElevenLabsを超える音声品質をApache 2.0ライセンスでオンプレ実行可能に",
-      "published_date": "2026-03-26",
-      "collected_date": "2026-03-31",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6",
-      "title": "IntercomのFin Apex 1.0がGPT-5.4とClaude Sonnet 4.6を上回るカスタマーサービス解決率73.1%を達成——垂直特化型AIモデルの優位性を実証",
-      "published_date": "2026-03-26",
-      "collected_date": "2026-03-31",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x",
-      "title": "CloudflareのDynamic WorkersがAIエージェントのコード実行を100倍高速化——V8アイソレートでコンテナを不要にする次世代エッジAIアーキテクチャ",
-      "published_date": "2026-03-24",
-      "collected_date": "2026-03-31",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://towardsdatascience.com/explainable-ai-in-production-a-neuro-symbolic-model-for-real-time-fraud-detection/",
-      "title": "本番環境で動くExplainable AI——ニューロシンボリックモデルによるリアルタイム不正検知でSHAPの非決定性問題を解消する実装",
-      "published_date": "2026-03-30",
-      "collected_date": "2026-03-31",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
       "title": "OpenAI、史上最大1220億ドル調達——評価額8520億ドルでIPO準備が本格化、9億人ユーザーと月収20億ドルをバックに個人投資家30億ドルも獲得",
       "published_date": "2026-03-31",
@@ -244,10 +195,59 @@
       "published_date": "2026-04-03",
       "collected_date": "2026-04-06",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "title": "OpenAIが「ロボット税」「公共富裕基金」「週4日労働」を政策提言——AI経済の格差を防ぐ新ブループリント",
+      "published_date": "2026-04-06",
+      "collected_date": "2026-04-07",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/2026/4/3/ai-chatbot-psychiatric-drug-prescriptions-utah-legion-health",
+      "title": "チャットボットが精神科薬を処方する時代——ユタ州が全米初のAIによる処方更新を認可",
+      "published_date": "2026-04-03",
+      "collected_date": "2026-04-07",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "title": "AIがECセラーの製品開発を変革——Alibaba AccioでEC商品の設計から仕入れ先選定が数日で完了",
+      "published_date": "2026-04-06",
+      "collected_date": "2026-04-07",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/security/ai-agents-that-automatically-prevent-detect-and-fix-software-issues-are-here",
+      "title": "NeuBird AIがFalcon・FalconClawを発表——自律型インシデント予防エージェントと企業向けスキルハブで1930万ドル調達",
+      "published_date": "2026-04-06",
+      "collected_date": "2026-04-07",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
+      "title": "ArceeがオープンソースTrinity-Large-Thinking公開——Apache 2.0の399B米国産モデルがコスト96%削減でエージェントAIの新標準に",
+      "published_date": "2026-04-03",
+      "collected_date": "2026-04-07",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "title": "AnthropicがAI政策PAC「AnthroPAC」を設立——AIラボが政治参加を本格化し2026年中間選挙に向け政策立案に影響力を行使",
+      "published_date": "2026-04-03",
+      "collected_date": "2026-04-07",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-can-a-model-10000x-smaller-outsmart-chatgpt-2/",
+      "title": "1万分の1サイズのモデルがChatGPTを超える——Tiny Recursion Modelの反復推論でスケーリング神話を覆す",
+      "published_date": "2026-04-01",
+      "collected_date": "2026-04-07",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-06T22:04:41Z",
+    "last_updated": "2026-04-07T00:00:00Z",
     "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
