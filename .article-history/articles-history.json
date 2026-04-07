@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-      "title": "OpenAI、史上最大1220億ドル調達——評価額8520億ドルでIPO準備が本格化、9億人ユーザーと月収20億ドルをバックに個人投資家30億ドルも獲得",
-      "published_date": "2026-03-31",
-      "collected_date": "2026-04-01",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
-      "title": "ChatGPTがCarPlayで音声対話に正式対応——iOS 26.4が車内AIを解放、音声のみの安全設計でSiriと共存",
-      "published_date": "2026-04-01",
-      "collected_date": "2026-04-01",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know",
-      "title": "Claude Codeのソースコード51万行以上がnpm経由で流出——三層メモリアーキテクチャとSelf-Healing Memoryが競合他社にさらされる",
-      "published_date": "2026-03-31",
-      "collected_date": "2026-04-01",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-      "title": "PentagonのAnthropicへの「文化戦争」が逆効果——裁判所が第一修正条項違反と認定し禁止令を一時ブロック",
-      "published_date": "2026-03-30",
-      "collected_date": "2026-04-01",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
-      "title": "美術大学がAIで引き裂かれる——3Dアニメーション学生の就職危機とCalArtsの抗議運動、創造教育の岐路",
-      "published_date": "2026-04-01",
-      "collected_date": "2026-04-01",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-map-of-meaning-how-embedding-models-understand-human-language/",
-      "title": "埋め込みモデルは「意味のGPS」——単語・文章・概念を座標空間にマッピングしてAIが文脈を理解する仕組みを徹底解説",
-      "published_date": "2026-03-31",
-      "collected_date": "2026-04-01",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-      "title": "a16z支援のYupp.aiが3300万ドルを費やして1年未満で廃業——AI評価プラットフォームの「両面市場の罠」と生成AIシフトに飲み込まれた末路",
-      "published_date": "2026-03-31",
-      "collected_date": "2026-04-01",
-      "source": "TechCrunch"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
       "title": "MIT TR「ギグワーカーがヒューマノイドを訓練」——人型ロボット普及に不可欠なデータ収集の倫理とHuman-AI Context-Specific Evaluationを同時提言",
       "published_date": "2026-04-01",
@@ -244,10 +195,59 @@
       "published_date": "2026-04-01",
       "collected_date": "2026-04-07",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+      "title": "AnthropicがMythos AIモデルプレビューをセキュリティ向けに発表——Project Glasswingで40社超がOSゼロデイ脆弱性を自動発見",
+      "published_date": "2026-04-07",
+      "collected_date": "2026-04-08",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+      "title": "GeminiがメンタルヘルスUIを刷新——自殺幇助訴訟を受けGoogleがワンタッチ危機介入インターフェースを実装し3000万ドルの支援資金を発表",
+      "published_date": "2026-04-07",
+      "collected_date": "2026-04-08",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/07/1135208/the-download-ai-impact-jobs-data-centres-space/",
+      "title": "MIT TR: AIが雇用に与える影響と価格弾力性という欠落データ——シカゴ大教授がマンハッタン計画規模の研究を提唱、SpaceXの軌道データセンター計画も解説",
+      "published_date": "2026-04-07",
+      "collected_date": "2026-04-08",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-great-ai-agent-acceleration-why-enterprise-adoption-is-happening-faster-than-anyone-predicted",
+      "title": "企業AIエージェント加速——KPMGが33%本番稼働を確認しIntuit・Capital Oneの成功事例が牽引、68%大企業採用済みと予測超の速度で拡大",
+      "published_date": "2026-04-07",
+      "collected_date": "2026-04-08",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/google-chrome-ships-webmcp-in-early-preview-turning-every-website-into-a",
+      "title": "Google ChromeがWebMCPを早期プレビュー搭載——AIエージェントがあらゆるWebサイトを構造化ツールとして利用可能に、スクレイピング不要の新標準",
+      "published_date": "2026-04-07",
+      "collected_date": "2026-04-08",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://towardsdatascience.com/behavior-is-the-new-credential/",
+      "title": "「行動」が新しい認証基準に——スクロールパターン・タイピングリズムが生成AI・マルウェアを超えるセキュリティ、計算モーター制御理論が実証",
+      "published_date": "2026-04-06",
+      "collected_date": "2026-04-08",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+      "title": "UberがAmazon Graviton・Trainium3チップを大幅採用——Oracle・Googleからシフトしクラウドコスト削減とAI推論多様化を同時実現",
+      "published_date": "2026-04-07",
+      "collected_date": "2026-04-08",
+      "source": "TechCrunch"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-07T00:00:00Z",
+    "last_updated": "2026-04-08T00:00:00Z",
     "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
