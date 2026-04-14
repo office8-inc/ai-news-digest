@@ -223,11 +223,46 @@
       "published_date": "2026-04-11",
       "collected_date": "2026-04-14",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "title": "MIT TRが新年次リスト「10 Things That Matter in AI Right Now」を発表予告——技術単体でなく研究・政策・実装を横断するAI重要論点を4月21日に公開へ",
+      "published_date": "2026-04-14",
+      "collected_date": "2026-04-15",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+      "title": "ソフトウェア開発は第3の転換点へ——MIT TR調査で51%がエージェントAIを限定導入、2年で全工程自動化志向が主流化する見通し",
+      "published_date": "2026-04-14",
+      "collected_date": "2026-04-15",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911975/claude-code-redesign-focuses-on-managing-multiple-ai-agents",
+      "title": "Claude CodeがUI刷新——複数AIエージェントを並行管理できるセッションサイドバーと内蔵ターミナルで開発ワークスペース競争が加速",
+      "published_date": "2026-04-14",
+      "collected_date": "2026-04-15",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+      "title": "AnthropicがOpenAI支持のAI責任法案に反対——大規模被害時の免責を巡り「安全枠組み」対「説明責任」で米AI規制の対立軸が鮮明化",
+      "published_date": "2026-04-14",
+      "collected_date": "2026-04-15",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+      "title": "Sam Altman宅襲撃事件が示すAI反発の暴力化リスク——雇用・環境・地域負荷への不満が企業安全保障課題として顕在化",
+      "published_date": "2026-04-14",
+      "collected_date": "2026-04-15",
+      "source": "The Verge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-14T00:00:00Z",
-    "total_articles": 32,
+    "last_updated": "2026-04-14T22:13:38Z",
+    "total_articles": 37,
     "retention_days": 7,
     "version": "1.0"
   }
