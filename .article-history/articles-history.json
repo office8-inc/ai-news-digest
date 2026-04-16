@@ -1,48 +1,6 @@
   {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since",
-      "title": "MetaがMuse Sparkをリリース——Llama以来初の独自クローズドモデルでネイティブマルチモーダル＋マルチエージェント処理を実現し「個人超知性」構想を本格始動",
-      "published_date": "2026-04-08",
-      "collected_date": "2026-04-09",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-      "title": "AnthropicがGoogleとBroadcomから3.5GW TPUを確保——年間収益300億ドルペース（2025年末比3倍超）を達成し急拡大する法人需要に対応",
-      "published_date": "2026-04-07",
-      "collected_date": "2026-04-09",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-      "title": "Nvidia支援のAIデータセンター新興Firmusが評価額55億ドルに——5億500万ドルを調達し豪タスマニアで「Southgate」GPUファクトリーを建設",
-      "published_date": "2026-04-07",
-      "collected_date": "2026-04-09",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908833/openai-releases-a-framework-for-child-safety",
-      "title": "OpenAIがAI児童安全「Child Safety Blueprint」を公表——NCMEC・Thornと連携しAI生成CSAMへの多層防御と法整備を業界標準として提言",
-      "published_date": "2026-04-08",
-      "collected_date": "2026-04-09",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
-      "title": "OpenAIの経済提言にDCが反応——「ロボット税・週4日労働・AIゾーン」を巡るワシントンの賛否と米国AI覇権戦略の現実",
-      "published_date": "2026-04-08",
-      "collected_date": "2026-04-09",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/",
-      "title": "MIT TR「The Download」4月8日号：AIが中小起業家の製品開発を変革——Alibaba AccioでEC商品設計から仕入れ先選定まで数日以内に完了",
-      "published_date": "2026-04-08",
-      "collected_date": "2026-04-09",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
       "title": "Amazon CEO Jassyが年次株主書簡でNvidiaに挑戦状——Trainium AIチップが年間ARR 200億ドルに到達、外販なら500億ドル相当と試算し独自シリコン戦略を宣言",
       "published_date": "2026-04-09",
@@ -265,11 +223,60 @@
       "published_date": "2026-04-15",
       "collected_date": "2026-04-16",
       "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+      "title": "OpenAI Codexが大規模アップデート——macOSアプリ自律操作・画像生成・メモリ機能を追加しClaude Codeに直接対抗",
+      "published_date": "2026-04-16",
+      "collected_date": "2026-04-17",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm",
+      "title": "AnthropicがClaude Opus 4.7をリリース——SWE-bench Verified 87.6%でGPT-5.4・Gemini 3.1 Proを上回り一般公開LLM首位を奪還",
+      "published_date": "2026-04-16",
+      "collected_date": "2026-04-17",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
+      "title": "Google AI Modeがアップデート——リンクをページから離れずサイドパネルで表示、タブ・ファイルをコンテキストに追加可能に",
+      "published_date": "2026-04-16",
+      "collected_date": "2026-04-17",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
+      "title": "Canva AI 2.0リサーチプレビュー公開——エージェント型オーケストレーションでSlack・Gmail・Driveと連携し多チャネルデザインを自動生成",
+      "published_date": "2026-04-16",
+      "collected_date": "2026-04-17",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-could-democratize-one-of-techs-most-valuable-resources/",
+      "title": "AIがチップ設計を民主化——WaferのAIカーネル最適化技術がNvidiaのCUDAソフトウェア「堀」を崩し、カスタムシリコン参入障壁を根本から変える",
+      "published_date": "2026-04-15",
+      "collected_date": "2026-04-17",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/inside-marenostrum-v-slurm-schedulers-fat-tree-topologies-and-scaling-pipelines-across-8-000-nodes-in-a-19th-century-chapel-ae1118b341c8",
+      "title": "MareNostrum V実践ガイド——SLURMスケジューラ・fat-treeトポロジー・8,000ノード規模のMLパイプラインスケーリング手法を詳解",
+      "published_date": "2026-04-16",
+      "collected_date": "2026-04-17",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+      "title": "MIT TR「The Download」4月16日号：TelegramのKYCバイパスサービスで銀行顔認証を突破するサイバー詐欺師、MicrosoftのCO2除去停止が業界に激震",
+      "published_date": "2026-04-16",
+      "collected_date": "2026-04-17",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-15T22:12:58Z",
-    "total_articles": 38,
+    "last_updated": "2026-04-16T22:11:42Z",
+    "total_articles": 39,
     "retention_days": 7,
     "version": "1.0"
   }
