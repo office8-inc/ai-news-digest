@@ -1,47 +1,5 @@
-  {
+{
   "articles": [
-    {
-      "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-      "title": "Amazon CEO Jassyが年次株主書簡でNvidiaに挑戦状——Trainium AIチップが年間ARR 200億ドルに到達、外販なら500億ドル相当と試算し独自シリコン戦略を宣言",
-      "published_date": "2026-04-09",
-      "collected_date": "2026-04-10",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-      "title": "GeminiがAI回答に3Dモデル・シミュレーションを生成——月の軌道からドップラー効果まで変数をリアルタイム操作できるインタラクティブビジュアルをロールアウト",
-      "published_date": "2026-04-09",
-      "collected_date": "2026-04-10",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909037/anthropic-loses-an-appeal-attempting-to-pause-its-supply-chain-risk-designation",
-      "title": "AnthropicがDC連邦控訴裁でペンタゴンのサプライチェーンリスク指定一時停止申請を棄却——カリフォルニアと判断が分かれ5月19日に口頭弁論",
-      "published_date": "2026-04-09",
-      "collected_date": "2026-04-10",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-      "title": "SuleymanがMIT TRに寄稿——「AIの進化はまだ壁に当たらない」2028年までに学習コンピュートが1000倍増へ、チップ・メモリ・ネットワークの三位一体で指数成長継続と主張",
-      "published_date": "2026-04-08",
-      "collected_date": "2026-04-10",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-      "title": "Mercorデータ漏洩の余波が拡大——訴訟5件・Meta取引停止継続・4TB流出疑惑でARR10億ドルペースの事業が危機に、LiteLLMサプライチェーン攻撃の全容も明らかに",
-      "published_date": "2026-04-09",
-      "collected_date": "2026-04-10",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
-      "title": "「AIの収益化の崖」が現実に——エージェントAIのコンピュート爆食でOpenAI・AnthropicがIPO前に難しい判断を迫られ、Sora廃止・OpenClawサブスク禁止等コスト削減が相次ぐ",
-      "published_date": "2026-04-09",
-      "collected_date": "2026-04-10",
-      "source": "The Verge"
-    },
     {
       "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
       "title": "トランプ政権がウォール街にMythos AIテストを推奨——米財務省・FRB主導でJPモルガン等主要行が脆弱性スキャンに緊急活用、英国・EUも規制会議を招集",
@@ -272,11 +230,60 @@
       "published_date": "2026-04-16",
       "collected_date": "2026-04-17",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma",
+      "title": "AnthropicがClaude Designを発表——FigmaとCanvaに挑戦する自然言語プロトタイピングツールがクリエイティブAI市場に参入",
+      "published_date": "2026-04-17",
+      "collected_date": "2026-04-20",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "title": "Sam AltmanのWorldプロジェクトが人間認証をTinder・Zoom・DocuSignに拡大——World ID 4.0でゼロ知識証明による匿名認証が主流化へ",
+      "published_date": "2026-04-17",
+      "collected_date": "2026-04-20",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "title": "AnthropicのMythos Preview・Opus 4.7サイバーセキュリティモデルが政府との関係修復に貢献——NSAアクセス報道とDARIOのホワイトハウス協議",
+      "published_date": "2026-04-17",
+      "collected_date": "2026-04-20",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+      "title": "AI戦争で「人間が監視している」は幻想——ブラックボックスAIの不透明な意思決定がオペレーターに見えない形で人命を左右するリスク",
+      "published_date": "2026-04-16",
+      "collected_date": "2026-04-20",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/a-practical-guide-to-memory-for-autonomous-llm-agents/",
+      "title": "自律型LLMエージェントのメモリ実践ガイド——Write-Manage-ReadサイクルとPOMDPで安定稼働するエージェント設計（GitHubコード付き）",
+      "published_date": "2026-04-17",
+      "collected_date": "2026-04-20",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.theverge.com/2026/4/19/24136797/vercel-security-incident-hack-breach-shinyhunters-supply-chain-attack",
+      "title": "Vercelがサードパーティ製AIツール経由でハッキング被害——ShinyHuntersが内部データを200万ドルで売却と主張、企業AIサプライチェーン攻撃の初事例",
+      "published_date": "2026-04-19",
+      "collected_date": "2026-04-20",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+      "title": "MIT TR「The Download」4月17日号：AI戦争の人間監視幻想・AI需要が招くRAMショートが2027年末まで続く見通し",
+      "published_date": "2026-04-17",
+      "collected_date": "2026-04-20",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-16T22:11:42Z",
-    "total_articles": 39,
+    "last_updated": "2026-04-19T22:30:00Z",
+    "total_articles": 40,
     "retention_days": 7,
     "version": "1.0"
   }
