@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-      "title": "トランプ政権がウォール街にMythos AIテストを推奨——米財務省・FRB主導でJPモルガン等主要行が脆弱性スキャンに緊急活用、英国・EUも規制会議を招集",
-      "published_date": "2026-04-12",
-      "collected_date": "2026-04-13",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-      "title": "HumanX会議レポート——1.2万人参加の最大AI会議でAnthropicのClaudeが圧倒的存在感、ChatGPTへの言及は激減しエンタープライズAIの主役が交代",
-      "published_date": "2026-04-12",
-      "collected_date": "2026-04-13",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4",
-      "title": "GLM-5.1がSWE-Bench Pro首位を獲得——Z.AIの744Bオープンソースモデルが8時間自律作業能力でGPT-5.4とClaude Opus 4.6を抜き、MIT Licenseで全重みを公開",
-      "published_date": "2026-04-08",
-      "collected_date": "2026-04-13",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among",
-      "title": "NvidiaがAdobe・Salesforce・SAP含む17社とエンタープライズAIエージェントプラットフォームを共同展開——Agent Toolkit・OpenShellでGPUベンダーからAI基盤OSへ転身",
-      "published_date": "2026-04-12",
-      "collected_date": "2026-04-13",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910244/ai-generated-art-journalism-ethics-new-yorker-sam-altman",
-      "title": "The New YorkerのAI生成イラスト論争——OpenAI CEO記事のビジュアルAI使用がジャーナリズム倫理問題に発展し、メディア業界で表示義務化・編集基準整備の議論が加速",
-      "published_date": "2026-04-12",
-      "collected_date": "2026-04-13",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/12/1135621/the-download-chinese-open-source-ai-glm-disrupts-frontier-models/",
-      "title": "MIT TR「The Download」4月12日号：中国製オープンソースGLM-5.1がフロンティアモデルを再定義——Z.AI IPO 500億ドル超でオープンソースAI商業化モデルが成立することを証明",
-      "published_date": "2026-04-12",
-      "collected_date": "2026-04-13",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/why-mlops-retraining-schedules-fail-models-dont-forget-they-get-shocked/",
-      "title": "MLOpsのリトレーニングスケジュールが失敗する本当の理由——モデルは「忘れる」のではなく「ショック」を受ける：Ebbinghaus曲線×不正検知データで証明",
-      "published_date": "2026-04-10",
-      "collected_date": "2026-04-13",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
       "title": "Stanford AI Index 2026——AIは加速を止めず米中が僅差で競合、データセンターが29.6GW消費・GPT-4oだけで1200万人分の水を使用するコストも明らかに",
       "published_date": "2026-04-13",
@@ -279,10 +230,59 @@
       "published_date": "2026-04-17",
       "collected_date": "2026-04-20",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "title": "中国テック労働者、自分自身をAIに引き継がせるよう指示される——Colleague Skillウイルス拡散で「反蒸留ツール」が5百万いいね、AIによる自己置き換えが職場の新常態に",
+      "published_date": "2026-04-20",
+      "collected_date": "2026-04-21",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/21/10-things-that-matter-in-ai-right-now/",
+      "title": "MIT TR初の年次AIトレンドリスト「今、AIで重要な10のこと」EmTech AI 2026で初公開——AI companion・メカニスティック解釈可能性・バイブコーディング・ハイパースケールデータセンターが選出",
+      "published_date": "2026-04-21",
+      "collected_date": "2026-04-21",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/sergey-brin-google-catch-anthropic-coding-agents",
+      "title": "Sergey BrinがGoogleに「Anthropicに追いつけ」命令——全DeepMindエンジニアにAIコーディングエージェント使用を強制、Googleのコード自動生成率50%に対しAnthropicは100%に迫る",
+      "published_date": "2026-04-20",
+      "collected_date": "2026-04-21",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github",
+      "title": "OpenAIが生命科学特化モデルGPT-Rosalindをデビュー——BixBenchバイオインフォマティクスベンチマーク首位・RNA配列タスクで人間専門家上位95%超でAmgen・Moderna・Thermo Fisherが導入",
+      "published_date": "2026-04-20",
+      "collected_date": "2026-04-21",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "title": "Deezer警告：毎日アップロード楽曲の44%（7万5千曲）がAI生成、うち85%は詐欺的ストリーミングと判定——業界横断の透明性基準策定を呼びかけ",
+      "published_date": "2026-04-20",
+      "collected_date": "2026-04-21",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-llm-gamble/",
+      "title": "LLMギャンブル：LLMを使うと脳が興奮する理由——非決定論的応答がスロットマシン心理を起動し、確証バイアスがAI投資対効果の客観評価を妨げる",
+      "published_date": "2026-04-20",
+      "collected_date": "2026-04-21",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-drafting-my-stories/",
+      "title": "「AIに私の記事を書かせる？絶対に嫌だ」——Wired Steven Levyがニュースルームのai活用を巡る倫理的境界線を問う：AI初稿量産vs取材の本質",
+      "published_date": "2026-04-18",
+      "collected_date": "2026-04-21",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-19T22:30:00Z",
+    "last_updated": "2026-04-20T22:13:06Z",
     "total_articles": 40,
     "retention_days": 7,
     "version": "1.0"
