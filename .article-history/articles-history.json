@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
-      "title": "Stanford AI Index 2026——AIは加速を止めず米中が僅差で競合、データセンターが29.6GW消費・GPT-4oだけで1200万人分の水を使用するコストも明らかに",
-      "published_date": "2026-04-13",
-      "collected_date": "2026-04-14",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
-      "title": "OpenAI CROがAnthropicを名指し批判する社内メモを全文公開——「市場は今まで見た中で最も競争が激しい」とプラットフォーム戦争への全力投入を指示",
-      "published_date": "2026-04-13",
-      "collected_date": "2026-04-14",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-      "title": "Vercel CEOがIPO準備完了を宣言——AIエージェントがアプリの30%を自律デプロイしARRが2年で$100M→$340Mランレートに急成長",
-      "published_date": "2026-04-13",
-      "collected_date": "2026-04-14",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-      "title": "MicrosoftがOpenClaw風の常時稼働AIボットをCopilotに統合テスト中——24時間自律稼働でOutlook・カレンダーを監視し役割別エージェントで権限を最小化",
-      "published_date": "2026-04-13",
-      "collected_date": "2026-04-14",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910879/softbank-creates-new-company-building-physical-ai",
-      "title": "SoftBankがフィジカルAI専門会社を設立——Sony・Honda・新日鉄が出資し2030年までに機械・ロボットを自律制御するAIモデルの開発へ",
-      "published_date": "2026-04-13",
-      "collected_date": "2026-04-14",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-      "title": "Stanford AI Index 2026——AIインサイダーと社会の認識格差が過去最大に：Z世代はAI最多使用層でありながら最も怒りと諦めを感じる矛盾が判明",
-      "published_date": "2026-04-13",
-      "collected_date": "2026-04-14",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/advanced-rag-retrieval-cross-encoders-reranking/",
-      "title": "RAGパイプラインを劇的に改善するクロスエンコーダー再ランキング——バイエンコーダーの限界を超え、自社データへのファインチューニングまでGitHubコード付きで完全解説",
-      "published_date": "2026-04-11",
-      "collected_date": "2026-04-14",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
       "title": "MIT TRが新年次リスト「10 Things That Matter in AI Right Now」を発表予告——技術単体でなく研究・政策・実装を横断するAI重要論点を4月21日に公開へ",
       "published_date": "2026-04-14",
@@ -279,10 +230,59 @@
       "published_date": "2026-04-18",
       "collected_date": "2026-04-21",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "title": "ChatGPT Images 2.0——非ラテン文字・ウェブ検索・マルチ画像生成で画像生成の「推論時代」が到来、テキスト描画精度が劇的向上",
+      "published_date": "2026-04-21",
+      "collected_date": "2026-04-22",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+      "title": "YouTubeがAIディープフェイク「Likeness Detection」を芸能界全体に拡大——CAA・UTA・WME連携でタレント自身のチャンネル不要、NO FAKES法も支持",
+      "published_date": "2026-04-21",
+      "collected_date": "2026-04-22",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall/",
+      "title": "AIセキュリティツールが90社超で乗っ取り被害——次世代自律型SOCエージェントはファイアウォール書き込み権限を持ち正規APIコールで攻撃が不可視化",
+      "published_date": "2026-04-21",
+      "collected_date": "2026-04-22",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.theverge.com/apple/914285/john-ternus-apple-ceo-ai-tim-cook",
+      "title": "Apple CEO交代——John TernusがTim Cook後継として9月就任、最大の課題はAI戦略立て直し・WWDC以来の遅れを30年ぶりハード系CEO解消へ",
+      "published_date": "2026-04-21",
+      "collected_date": "2026-04-22",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
+      "title": "MIT TR「The Download」4月21日号：AnthropicがAmazonと$100B超コンピュート協定・銀行がMythos争奪戦・シリコンバレーのメディア参入加速",
+      "published_date": "2026-04-21",
+      "collected_date": "2026-04-22",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/your-rag-gets-confidently-wrong-as-memory-grows-i-built-the-memory-layer-that-stops-it/",
+      "title": "RAGメモリが増えるほど「確信を持って間違える」——Confident Degradation問題をトピックルーティング・重複排除・関連性エビクション・レキシカルリランキングで解決",
+      "published_date": "2026-04-21",
+      "collected_date": "2026-04-22",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/war-memes-turn-conflict-into-content/",
+      "title": "AIレコメンデーションが戦争を「コンテンツ」に変える——感情エスカレーション最大化アルゴリズムが戦争ミームを拡散しジャーナリズム・外交に実害",
+      "published_date": "2026-04-21",
+      "collected_date": "2026-04-22",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-20T22:13:06Z",
+    "last_updated": "2026-04-21T22:12:45Z",
     "total_articles": 40,
     "retention_days": 7,
     "version": "1.0"
