@@ -237,11 +237,60 @@
       "published_date": "2026-04-21",
       "collected_date": "2026-04-23",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917490/openai-gpt-5-5-model-efficient-better-at-coding",
+      "title": "OpenAIがGPT-5.5をリリース——コーディング効率とエージェント能力が大幅向上、Terminal-Bench 2.0で82.7%・SWE-Bench Proで58.6%を達成",
+      "published_date": "2026-04-24",
+      "collected_date": "2026-04-24",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "title": "AIの「無料乗車」時代が終焉——AnthropicがOpenClawを制限・OpenAIが広告導入、AI labs一斉マネタイズフェーズへ移行",
+      "published_date": "2026-04-23",
+      "collected_date": "2026-04-24",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/tech/917480/meta-is-laying-off-10-percent-of-its-staff",
+      "title": "MetaがAI投資のために従業員8,000人（10%）削減を発表——$135B設備投資を優先、5月20日から実施",
+      "published_date": "2026-04-24",
+      "collected_date": "2026-04-24",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more",
+      "title": "OpenAIがWorkspace Agentsを発表——カスタムGPT後継の企業向けエージェントがSlack・Salesforce・Google Driveと統合、5月6日まで無料",
+      "published_date": "2026-04-22",
+      "collected_date": "2026-04-24",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+      "title": "北朝鮮ハッカーがAIで攻撃を工業化——「バイブコーディング」でマルウェア量産、HexagonalRodentが3ヶ月で$1,200万窃取",
+      "published_date": "2026-04-23",
+      "collected_date": "2026-04-24",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
+      "title": "MIT TR「The Download」4月23日号：LLMs+の到来・AIが高所得層のみに恩恵・テンセントが初の旗艦AIモデルを元OpenAI研究者とともに公開",
+      "published_date": "2026-04-23",
+      "collected_date": "2026-04-24",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/",
+      "title": "ローカルLLMをゼロショット分類器として活用——自由記述テキストを高精度で構造化する実践的パイプライン（K-means・LDA不要）",
+      "published_date": "2026-04-23",
+      "collected_date": "2026-04-24",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-22T22:13:28Z",
-    "total_articles": 34,
+    "last_updated": "2026-04-24T22:12:44Z",
+    "total_articles": 41,
     "retention_days": 7,
     "version": "1.0"
   }
