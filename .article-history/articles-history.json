@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-      "title": "中国テック労働者、自分自身をAIに引き継がせるよう指示される——Colleague Skillウイルス拡散で「反蒸留ツール」が5百万いいね、AIによる自己置き換えが職場の新常態に",
-      "published_date": "2026-04-20",
-      "collected_date": "2026-04-21",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/21/10-things-that-matter-in-ai-right-now/",
-      "title": "MIT TR初の年次AIトレンドリスト「今、AIで重要な10のこと」EmTech AI 2026で初公開——AI companion・メカニスティック解釈可能性・バイブコーディング・ハイパースケールデータセンターが選出",
-      "published_date": "2026-04-21",
-      "collected_date": "2026-04-21",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/sergey-brin-google-catch-anthropic-coding-agents",
-      "title": "Sergey BrinがGoogleに「Anthropicに追いつけ」命令——全DeepMindエンジニアにAIコーディングエージェント使用を強制、Googleのコード自動生成率50%に対しAnthropicは100%に迫る",
-      "published_date": "2026-04-20",
-      "collected_date": "2026-04-21",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github",
-      "title": "OpenAIが生命科学特化モデルGPT-Rosalindをデビュー——BixBenchバイオインフォマティクスベンチマーク首位・RNA配列タスクで人間専門家上位95%超でAmgen・Moderna・Thermo Fisherが導入",
-      "published_date": "2026-04-20",
-      "collected_date": "2026-04-21",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-      "title": "Deezer警告：毎日アップロード楽曲の44%（7万5千曲）がAI生成、うち85%は詐欺的ストリーミングと判定——業界横断の透明性基準策定を呼びかけ",
-      "published_date": "2026-04-20",
-      "collected_date": "2026-04-21",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-llm-gamble/",
-      "title": "LLMギャンブル：LLMを使うと脳が興奮する理由——非決定論的応答がスロットマシン心理を起動し、確証バイアスがAI投資対効果の客観評価を妨げる",
-      "published_date": "2026-04-20",
-      "collected_date": "2026-04-21",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-drafting-my-stories/",
-      "title": "「AIに私の記事を書かせる？絶対に嫌だ」——Wired Steven Levyがニュースルームのai活用を巡る倫理的境界線を問う：AI初稿量産vs取材の本質",
-      "published_date": "2026-04-18",
-      "collected_date": "2026-04-21",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
       "title": "ChatGPT Images 2.0——非ラテン文字・ウェブ検索・マルチ画像生成で画像生成の「推論時代」が到来、テキスト描画精度が劇的向上",
       "published_date": "2026-04-21",
@@ -293,10 +244,59 @@
       "published_date": "2026-04-27",
       "collected_date": "2026-04-28",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917225/sam-altman-elon-musk-openai-lawsuit",
+      "title": "マスク対OpenAI裁判2日目——Musk証言「チャリティを略奪すれば米国の慈善の基盤が崩壊する」、Jensen HuangへのNVIDIA GPU優先供給交渉メールが証拠として提出",
+      "published_date": "2026-04-29",
+      "collected_date": "2026-04-29",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/2026/4/26/24140562/taylor-swift-trademark-ai-fakes-legal-action",
+      "title": "テイラー・スウィフトがAI偽物への法的戦争をエスカレート——声と肖像をトレードマーク登録してAIディープフェイクへの法的防衛ラインを強化",
+      "published_date": "2026-04-26",
+      "collected_date": "2026-04-29",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "title": "GoogleがPentagonにAI「Any Lawful Use」全面開放——Anthropicの拒否・ブラックリスト化を受けてOpenAI・xAIに続き協定締結、Google社員950名が反対書簡に署名",
+      "published_date": "2026-04-28",
+      "collected_date": "2026-04-29",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding",
+      "title": "Poolside、無償オープンソースのエージェンティック・コーディングモデルLaguna XS.2（33B/Apache 2.0）を公開——ラップトップ1台でローカル動作・128Kコンテキスト",
+      "published_date": "2026-04-28",
+      "collected_date": "2026-04-29",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
+      "title": "MIT TR詳報：マスク対Altman裁判——$134B請求・Altman/Brockman解任・OpenAI非営利化を巡る前代未聞の訴訟とAIガバナンスへの影響",
+      "published_date": "2026-04-27",
+      "collected_date": "2026-04-29",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-next-frontier-of-ai-in-production-is-chaos-engineering/",
+      "title": "AI本番環境の次なるフロンティアはカオスエンジニアリング——「安全層」だけでは不十分、Intent-Based Chaos Engineeringが本番事故を25%削減",
+      "published_date": "2026-04-28",
+      "collected_date": "2026-04-29",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.bloomberg.com/news/articles/2026-04-28/apple-s-ios-27-macos-27-photo-editing-with-ai-to-extend-enhance-and-reframe",
+      "title": "Apple iOS 27がAI写真編集4機能を追加——Extend・Enhance・Reframe・Clean Upで競合Android Photo AIに対抗、WWDC 2026発表・9月リリース予定",
+      "published_date": "2026-04-28",
+      "collected_date": "2026-04-29",
+      "source": "Bloomberg / The Verge"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-28T22:14:35Z",
+    "last_updated": "2026-04-29T22:17:00Z",
     "total_articles": 42,
     "retention_days": 7,
     "version": "1.0"
