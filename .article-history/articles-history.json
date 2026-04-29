@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "title": "ChatGPT Images 2.0——非ラテン文字・ウェブ検索・マルチ画像生成で画像生成の「推論時代」が到来、テキスト描画精度が劇的向上",
-      "published_date": "2026-04-21",
-      "collected_date": "2026-04-22",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-      "title": "YouTubeがAIディープフェイク「Likeness Detection」を芸能界全体に拡大——CAA・UTA・WME連携でタレント自身のチャンネル不要、NO FAKES法も支持",
-      "published_date": "2026-04-21",
-      "collected_date": "2026-04-22",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall/",
-      "title": "AIセキュリティツールが90社超で乗っ取り被害——次世代自律型SOCエージェントはファイアウォール書き込み権限を持ち正規APIコールで攻撃が不可視化",
-      "published_date": "2026-04-21",
-      "collected_date": "2026-04-22",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/apple/914285/john-ternus-apple-ceo-ai-tim-cook",
-      "title": "Apple CEO交代——John TernusがTim Cook後継として9月就任、最大の課題はAI戦略立て直し・WWDC以来の遅れを30年ぶりハード系CEO解消へ",
-      "published_date": "2026-04-21",
-      "collected_date": "2026-04-22",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/",
-      "title": "MIT TR「The Download」4月21日号：AnthropicがAmazonと$100B超コンピュート協定・銀行がMythos争奪戦・シリコンバレーのメディア参入加速",
-      "published_date": "2026-04-21",
-      "collected_date": "2026-04-22",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/your-rag-gets-confidently-wrong-as-memory-grows-i-built-the-memory-layer-that-stops-it/",
-      "title": "RAGメモリが増えるほど「確信を持って間違える」——Confident Degradation問題をトピックルーティング・重複排除・関連性エビクション・レキシカルリランキングで解決",
-      "published_date": "2026-04-21",
-      "collected_date": "2026-04-22",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/war-memes-turn-conflict-into-content/",
-      "title": "AIレコメンデーションが戦争を「コンテンツ」に変える——感情エスカレーション最大化アルゴリズムが戦争ミームを拡散しジャーナリズム・外交に実害",
-      "published_date": "2026-04-21",
-      "collected_date": "2026-04-22",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
       "title": "MIT TR「The Download」4月22日号：「今AIで重要な10のこと」正式公開・AnthropicのMythosに不正アクセス・Metaが従業員データでAI訓練",
       "published_date": "2026-04-22",
@@ -293,10 +244,59 @@
       "published_date": "2026-04-28",
       "collected_date": "2026-04-29",
       "source": "Bloomberg / The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/google/918541/google-search-queries-all-time-high-alphabet-q1-2026-earnings",
+      "title": "Alphabet Q1 2026最強決算——AI Overviewsが「ChatGPTに検索を奪われる」懸念を覆しGoogleの検索クエリ数が史上最高、売上$109.9B・Cloud+63%",
+      "published_date": "2026-04-29",
+      "collected_date": "2026-04-30",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know",
+      "title": "AnthropicがClaude Code「Routines」を発表——クラウド実行のAIコーディングタスクがGitHubウェブフック・スケジュール・APIトリガーに対応しCI/CDと深く統合",
+      "published_date": "2026-04-14",
+      "collected_date": "2026-04-30",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "title": "Scout AI、軍事AI「Fury」モデル開発に$100M調達——VLAモデルで自律型軍用ATV・ドローンを訓練し米陸軍第1騎兵師団が2027年実戦配備へ",
+      "published_date": "2026-04-29",
+      "collected_date": "2026-04-30",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+      "title": "Shapes——人間とAIキャラクターが同じグループチャットで共存するDiscord風SNS、$8Mシード調達・MAU40万人超",
+      "published_date": "2026-04-29",
+      "collected_date": "2026-04-30",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+      "title": "MIT TR：エンタープライズAI導入の真のボトルネックはデータスタック——「AIエージェントを使えない」の根因はモデルではなくインフラ整備の遅れ",
+      "published_date": "2026-04-27",
+      "collected_date": "2026-04-30",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/",
+      "title": "エージェントAIのトークンコストを劇的削減——プロンプトキャッシュ・セマンティックキャッシュ・モデルルーティング4つの設計原則と対話式コスト計算機",
+      "published_date": "2026-04-29",
+      "collected_date": "2026-04-30",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/kathleen-fisher-jacques-carolan-aria-wired-health/",
+      "title": "UK政府ARIAが£69MでAI駆動の精密ニューロテクノロジープログラムを始動——超音波・遺伝子治療×AIでてんかん・アルツハイマー向け脳回路レベル介入へ",
+      "published_date": "2026-04-29",
+      "collected_date": "2026-04-30",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-29T22:17:00Z",
+    "last_updated": "2026-04-30T22:17:00Z",
     "total_articles": 42,
     "retention_days": 7,
     "version": "1.0"
