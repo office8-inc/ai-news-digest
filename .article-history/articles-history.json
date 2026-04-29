@@ -253,9 +253,9 @@
       "source": "The Verge"
     },
     {
-      "url": "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know",
-      "title": "AnthropicがClaude Code「Routines」を発表——クラウド実行のAIコーディングタスクがGitHubウェブフック・スケジュール・APIトリガーに対応しCI/CDと深く統合",
-      "published_date": "2026-04-14",
+      "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system",
+      "title": "IBMが「Bob」を発表——マルチモデルルーティングと人間承認チェックポイントによる安全なエンタープライズAIコーディング基盤、社内8万人超が利用",
+      "published_date": "2026-04-29",
       "collected_date": "2026-04-30",
       "source": "VentureBeat"
     },
@@ -274,9 +274,9 @@
       "source": "TechCrunch"
     },
     {
-      "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
-      "title": "MIT TR：エンタープライズAI導入の真のボトルネックはデータスタック——「AIエージェントを使えない」の根因はモデルではなくインフラ整備の遅れ",
-      "published_date": "2026-04-27",
+      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
+      "title": "MIT TR「The Download」4月28日号：マスク対Altman裁判開廷・AIで稼ぐ方程式がまだない問題——技術的卓越性とビジネスROIの溝を分析",
+      "published_date": "2026-04-28",
       "collected_date": "2026-04-30",
       "source": "MIT Technology Review"
     },
