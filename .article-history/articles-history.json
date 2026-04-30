@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-      "title": "MIT TR「The Download」4月22日号：「今AIで重要な10のこと」正式公開・AnthropicのMythosに不正アクセス・Metaが従業員データでAI訓練",
-      "published_date": "2026-04-22",
-      "collected_date": "2026-04-23",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
-      "title": "SpaceXがAIコーディングスタートアップCursorを$60Bで買収するオプション締結——IPO前の「AI開発ツール」戦略資産化",
-      "published_date": "2026-04-22",
-      "collected_date": "2026-04-23",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-      "title": "OpenAIがInfosysと提携——CodexとTopaz AI Fabricで企業のソフトウェア開発・レガシーモダナイゼーションを加速",
-      "published_date": "2026-04-22",
-      "collected_date": "2026-04-23",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
-      "title": "GoogleがDeep Research・Deep Research Maxエージェントを発表——ウェブと社内データを単一APIで横断する企業向け自律リサーチAI",
-      "published_date": "2026-04-22",
-      "collected_date": "2026-04-23",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-      "title": "MozillaがAnthropicのMythosで271件のFirefox脆弱性を発見・修正——AIがセキュリティ防衛側に初の圧倒的アドバンテージ",
-      "published_date": "2026-04-22",
-      "collected_date": "2026-04-23",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://towardsdatascience.com/i-replaced-gpt-4-with-a-local-slm-and-my-ci-cd-pipeline-stopped-failing/",
-      "title": "GPT-4をローカルSLMに置き換えたらCI/CDパイプラインが安定した——確率的出力が本番システムに与える非決定論的コスト",
-      "published_date": "2026-04-21",
-      "collected_date": "2026-04-23",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/917490/openai-gpt-5-5-model-efficient-better-at-coding",
       "title": "OpenAIがGPT-5.5をリリース——コーディング効率とエージェント能力が大幅向上、Terminal-Bench 2.0で82.7%・SWE-Bench Proで58.6%を達成",
       "published_date": "2026-04-24",
@@ -293,11 +251,60 @@
       "published_date": "2026-04-29",
       "collected_date": "2026-04-30",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "title": "Anthropic、$50B調達で評価額$900B検討——OpenAIを抜き去る史上最大のAIベンチャーラウンドへ、年間収益$30B超が後押し",
+      "published_date": "2026-04-29",
+      "collected_date": "2026-05-01",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+      "title": "MetaのビジネスAIが週1,000万会話を突破——Muse Sparkで閉源AI戦略へ転換、Q1売上$563億・前年比+33%",
+      "published_date": "2026-04-30",
+      "collected_date": "2026-05-01",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "title": "OpenAI+Yubico提携でChatGPT最強セキュリティ、Stripe ACPで「AIエージェントが代わりに買い物」を標準プロトコル化",
+      "published_date": "2026-04-30",
+      "collected_date": "2026-05-01",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+      "title": "IBM Granite 4.1リリース——8Bモデルが前世代32B MoEを凌駕、3B・8B・30B全モデルApache 2.0オープンソース公開",
+      "published_date": "2026-04-30",
+      "collected_date": "2026-05-01",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+      "title": "MIT TR「The Download」4月29日号：核廃棄物と核エネルギーの矛盾・AIエージェントオーケストレーションが次のAI生産性革命を牽引",
+      "published_date": "2026-04-29",
+      "collected_date": "2026-05-01",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+      "title": "Gen Z AI反乱——怒りが前年比41%増、44%が職場でAIを妨害・悪データ投入・ツール拒否で抵抗",
+      "published_date": "2026-04-29",
+      "collected_date": "2026-05-01",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/why-ai-engineers-are-moving-beyond-langchain-to-native-agent-architectures/",
+      "title": "AIエンジニアがLangChainを卒業——本番環境の可視性・トレーサビリティ要求がネイティブエージェントアーキテクチャへの移行を強制",
+      "published_date": "2026-04-30",
+      "collected_date": "2026-05-01",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-30T22:17:00Z",
-    "total_articles": 42,
+    "last_updated": "2026-05-01T22:17:00Z",
+    "total_articles": 43,
     "retention_days": 7,
     "version": "1.0"
   }
