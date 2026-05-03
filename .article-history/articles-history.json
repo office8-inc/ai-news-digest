@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917490/openai-gpt-5-5-model-efficient-better-at-coding",
-      "title": "OpenAIがGPT-5.5をリリース——コーディング効率とエージェント能力が大幅向上、Terminal-Bench 2.0で82.7%・SWE-Bench Proで58.6%を達成",
-      "published_date": "2026-04-24",
-      "collected_date": "2026-04-24",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-      "title": "AIの「無料乗車」時代が終焉——AnthropicがOpenClawを制限・OpenAIが広告導入、AI labs一斉マネタイズフェーズへ移行",
-      "published_date": "2026-04-23",
-      "collected_date": "2026-04-24",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/tech/917480/meta-is-laying-off-10-percent-of-its-staff",
-      "title": "MetaがAI投資のために従業員8,000人（10%）削減を発表——$135B設備投資を優先、5月20日から実施",
-      "published_date": "2026-04-24",
-      "collected_date": "2026-04-24",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more",
-      "title": "OpenAIがWorkspace Agentsを発表——カスタムGPT後継の企業向けエージェントがSlack・Salesforce・Google Driveと統合、5月6日まで無料",
-      "published_date": "2026-04-22",
-      "collected_date": "2026-04-24",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
-      "title": "北朝鮮ハッカーがAIで攻撃を工業化——「バイブコーディング」でマルウェア量産、HexagonalRodentが3ヶ月で$1,200万窃取",
-      "published_date": "2026-04-23",
-      "collected_date": "2026-04-24",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
-      "title": "MIT TR「The Download」4月23日号：LLMs+の到来・AIが高所得層のみに恩恵・テンセントが初の旗艦AIモデルを元OpenAI研究者とともに公開",
-      "published_date": "2026-04-23",
-      "collected_date": "2026-04-24",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/using-a-local-llm-as-a-zero-shot-classifier/",
-      "title": "ローカルLLMをゼロショット分類器として活用——自由記述テキストを高精度で構造化する実践的パイプライン（K-means・LDA不要）",
-      "published_date": "2026-04-23",
-      "collected_date": "2026-04-24",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "title": "DeepSeek V4がなぜ重要か——オープンソースでフロンティアAIを民主化する3つの理由（MIT Technology Review分析）",
       "published_date": "2026-04-24",
@@ -300,10 +251,59 @@
       "published_date": "2026-04-30",
       "collected_date": "2026-05-01",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "title": "Harvard研究：OpenAI o1がトリアージで内科医を超える67%正答率——Science誌掲載の前向き試験必要性を指摘するAI医療ベンチマーク",
+      "published_date": "2026-05-03",
+      "collected_date": "2026-05-04",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "title": "アカデミー賞がAI生成俳優・脚本を受賞対象外に——人間の同意・実演が必須要件、Val Kilmer AI映画・Tilly Norwood騒動を受けた制度的対応",
+      "published_date": "2026-05-02",
+      "collected_date": "2026-05-04",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/entertainment/922830/sag-aftra-reaches-a-four-year-deal-with-the-studios-with-new-ai-guardrails",
+      "title": "SAG-AFTRA、スタジオとAI保護条項付き4年協定を締結——年金基金拠出・ストリーミング残余増額・AI権利強化の三本柱",
+      "published_date": "2026-05-03",
+      "collected_date": "2026-05-04",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "title": "米国防総省が機密AI協定を7社と締結——OpenAI・Google・Nvidia参加でAnthropicを除外、軍事AI多元化戦略が加速",
+      "published_date": "2026-05-01",
+      "collected_date": "2026-05-04",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite",
+      "title": "xAIがGrok 4.3を発表——超低価格APIと高速ボイスクローニングスイートで競合LLM市場に攻勢、100万トークンコンテキスト",
+      "published_date": "2026-05-01",
+      "collected_date": "2026-05-04",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+      "title": "MIT TR「The Download」5月1日号：GoodfireのSilicoでLLM内部をデバッグ・キリスト教向け検閲フォン・NSF大量解雇と科学資金の危機",
+      "published_date": "2026-05-01",
+      "collected_date": "2026-05-04",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/ghost-a-database-for-our-times/",
+      "title": "Ghost——AIエージェント向けファースト設計の使い捨て可能なPostgresDB、Claude Code・Codexとの統合でエージェント開発を加速",
+      "published_date": "2026-05-01",
+      "collected_date": "2026-05-04",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-01T22:17:00Z",
+    "last_updated": "2026-05-04T22:11:00Z",
     "total_articles": 43,
     "retention_days": 7,
     "version": "1.0"
