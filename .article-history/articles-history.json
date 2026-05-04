@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "title": "DeepSeek V4がなぜ重要か——オープンソースでフロンティアAIを民主化する3つの理由（MIT Technology Review分析）",
-      "published_date": "2026-04-24",
-      "collected_date": "2026-04-27",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/ai/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5/",
-      "title": "DeepSeek V4登場——Opus 4.7・GPT-5.5の1/6のコストでほぼ同等の知性を持つ1.6兆パラメータMoEモデル",
-      "published_date": "2026-04-24",
-      "collected_date": "2026-04-27",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "title": "GoogleがAnthropicに最大$40Bを現金・コンピュートで投資——Amazonとの二重投資でAIインフラ争奪戦が加速",
-      "published_date": "2026-04-24",
-      "collected_date": "2026-04-27",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "title": "CoherとAleph Alphaが合併する理由——Schwarz Group €500M支援で誕生する大西洋横断「主権AI」$20B企業の戦略",
-      "published_date": "2026-04-25",
-      "collected_date": "2026-04-27",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/2026/4/24/ai-military-project-maven-katrina-manson-book-google-palantir",
-      "title": "Project Mavenが米軍にAIを愛させた——新著が描くGoogleからPalantirへの移管とシリコンバレー・戦場AIの深化",
-      "published_date": "2026-04-24",
-      "collected_date": "2026-04-27",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-vastly-improve-claude-code-performance-with-automated-testing/",
-      "title": "自動テストでClaude Codeのパフォーマンスを大幅改善——AIコーディングエージェント品質管理の実践ガイド",
-      "published_date": "2026-04-24",
-      "collected_date": "2026-04-27",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/security-news-this-week-discord-group-reportedly-guessed-its-way-into-anthropic-mythos-security/",
-      "title": "Security News This Week：DiscordグループがAnthropicの極秘AIモデルMythosに「推測」で不正アクセス",
-      "published_date": "2026-04-26",
-      "collected_date": "2026-04-27",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "title": "マスク対OpenAI裁判が開廷——AIの未来を賭けた歴史的法廷闘争スタート、陪審員選出完了し翌日から開始陳述",
       "published_date": "2026-04-28",
@@ -300,11 +251,67 @@
       "published_date": "2026-05-01",
       "collected_date": "2026-05-04",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4",
+      "title": "GLM-5.1がMITライセンスで公開——754Bパラメータで8時間自律作業、SWE-Bench ProでOpus 4.6・GPT-5.4を超えるオープンソースLLM",
+      "published_date": "2026-05-03",
+      "collected_date": "2026-05-05",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+      "title": "Roomba生みの親Colin Angle、新会社「Familiar Machines & Magic」設立——感情コネクション特化のコンパニオンロボット「Familiar」発表",
+      "published_date": "2026-05-04",
+      "collected_date": "2026-05-05",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "title": "SierraがTiger Global主導で$9.5億調達・評価額$150億超——Bret Taylor率いるエンタープライズAI、Fortune 50の40%超を顧客に獲得",
+      "published_date": "2026-05-04",
+      "collected_date": "2026-05-05",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "title": "MetaがロボットAIスタートアップAssured Robot Intelligence（ARI）を買収——超知能ラボ（Superintelligence Labs）に合流、ヒューマノイドAGI戦略が加速",
+      "published_date": "2026-05-01",
+      "collected_date": "2026-05-05",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
+      "title": "MIT TR法廷レポート：マスクvsOpenAI裁判第1週の内幕——xAIがOpenAIモデルを蒸留と法廷で認め、マスク・ザッカーバーグ協力メールも発覚",
+      "published_date": "2026-05-04",
+      "collected_date": "2026-05-05",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922854/its-not-just-music-ai-is-threating-to-overtake-human-podcasters-too",
+      "title": "AI生成ポッドキャストが新規配信の39%を占める——Inception Point AIが週3,000本量産、音声コンテンツ産業への人間クリエイター脅威が顕在化",
+      "published_date": "2026-05-03",
+      "collected_date": "2026-05-05",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/inference-scaling-test-time-compute-why-reasoning-models-raise-your-compute-bill/",
+      "title": "推論スケーリング（Test-Time Compute）入門——GPT-5.5・o1が請求コストを急増させる仕組みと、コスト・品質・レイテンシの三角形最適化戦略",
+      "published_date": "2026-05-04",
+      "collected_date": "2026-05-05",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "title": "Security News This Week：ディズニーランドが顔認証を「任意」導入・FIDO Alliance＋GoogleがAIエージェント取引ガードレール策定・NSAがAnthropicのMythosをバグハンティングに試用",
+      "published_date": "2026-05-02",
+      "collected_date": "2026-05-05",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-04T22:11:00Z",
-    "total_articles": 43,
+    "last_updated": "2026-05-05T00:00:00Z",
+    "total_articles": 44,
     "retention_days": 7,
     "version": "1.0"
   }
