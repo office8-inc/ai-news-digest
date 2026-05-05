@@ -1,109 +1,11 @@
 {
   "articles": [
     {
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "title": "マスク対OpenAI裁判が開廷——AIの未来を賭けた歴史的法廷闘争スタート、陪審員選出完了し翌日から開始陳述",
-      "published_date": "2026-04-28",
-      "collected_date": "2026-04-28",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-      "title": "OpenAI・Microsoft「AGIまで独占」条項を廃止——新合意で2032年期限の非独占ライセンスに移行、AWS展開が解禁",
-      "published_date": "2026-04-27",
-      "collected_date": "2026-04-28",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "title": "中国がMeta・Manus買収を全面阻止——NDRCが理由なく$20億取引の解消を命令、AIエージェント競争に地政学リスク直撃",
-      "published_date": "2026-04-27",
-      "collected_date": "2026-04-28",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.wired.com/story/david-silver-ai-ineffable-intelligence-reinforcement-learning/",
-      "title": "AlphaZero生みの親David Silver、LLMに反旗——強化学習のみで超知性を目指すIneffable Intelligenceが$1.1B調達・評価額$5.1B",
-      "published_date": "2026-04-27",
-      "collected_date": "2026-04-28",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "title": "DeepMindのDavid Silver、人間データ不要のAI構築に$1.1B調達——Sequoia・Lightspeed・Google・Nvidia参画",
-      "published_date": "2026-04-27",
-      "collected_date": "2026-04-28",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/",
-      "title": "MIT TR分析：AIの「ステップ2」は誰も知らない——ハイプと利益の間にある巨大な空白、AIエージェントは職場タスクの大半をこなせず",
-      "published_date": "2026-04-27",
-      "collected_date": "2026-04-28",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "title": "OpenAIがアプリ廃止スマートフォン開発か——MediaTek・Qualcomm・Luxshareと協力、AIエージェントが全タスクを処理する端末を2028年量産へ",
-      "published_date": "2026-04-27",
-      "collected_date": "2026-04-28",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/a-career-in-data-is-not-always-a-straight-line-and-thats-okay/",
-      "title": "データサイエンスキャリアは直線ではない——AIエージェントへの思考委譲リスクと、AI時代の柔軟性の価値",
-      "published_date": "2026-04-27",
-      "collected_date": "2026-04-28",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/917225/sam-altman-elon-musk-openai-lawsuit",
       "title": "マスク対OpenAI裁判2日目——Musk証言「チャリティを略奪すれば米国の慈善の基盤が崩壊する」、Jensen HuangへのNVIDIA GPU優先供給交渉メールが証拠として提出",
       "published_date": "2026-04-29",
       "collected_date": "2026-04-29",
       "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/2026/4/26/24140562/taylor-swift-trademark-ai-fakes-legal-action",
-      "title": "テイラー・スウィフトがAI偽物への法的戦争をエスカレート——声と肖像をトレードマーク登録してAIディープフェイクへの法的防衛ラインを強化",
-      "published_date": "2026-04-26",
-      "collected_date": "2026-04-29",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "title": "GoogleがPentagonにAI「Any Lawful Use」全面開放——Anthropicの拒否・ブラックリスト化を受けてOpenAI・xAIに続き協定締結、Google社員950名が反対書簡に署名",
-      "published_date": "2026-04-28",
-      "collected_date": "2026-04-29",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding",
-      "title": "Poolside、無償オープンソースのエージェンティック・コーディングモデルLaguna XS.2（33B/Apache 2.0）を公開——ラップトップ1台でローカル動作・128Kコンテキスト",
-      "published_date": "2026-04-28",
-      "collected_date": "2026-04-29",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/",
-      "title": "MIT TR詳報：マスク対Altman裁判——$134B請求・Altman/Brockman解任・OpenAI非営利化を巡る前代未聞の訴訟とAIガバナンスへの影響",
-      "published_date": "2026-04-27",
-      "collected_date": "2026-04-29",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-next-frontier-of-ai-in-production-is-chaos-engineering/",
-      "title": "AI本番環境の次なるフロンティアはカオスエンジニアリング——「安全層」だけでは不十分、Intent-Based Chaos Engineeringが本番事故を25%削減",
-      "published_date": "2026-04-28",
-      "collected_date": "2026-04-29",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.bloomberg.com/news/articles/2026-04-28/apple-s-ios-27-macos-27-photo-editing-with-ai-to-extend-enhance-and-reframe",
-      "title": "Apple iOS 27がAI写真編集4機能を追加——Extend・Enhance・Reframe・Clean Upで競合Android Photo AIに対抗、WWDC 2026発表・9月リリース予定",
-      "published_date": "2026-04-28",
-      "collected_date": "2026-04-29",
-      "source": "Bloomberg / The Verge"
     },
     {
       "url": "https://www.theverge.com/google/918541/google-search-queries-all-time-high-alphabet-q1-2026-earnings",
@@ -132,13 +34,6 @@
       "published_date": "2026-04-29",
       "collected_date": "2026-04-30",
       "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/",
-      "title": "MIT TR「The Download」4月28日号：マスク対Altman裁判開廷・AIで稼ぐ方程式がまだない問題——技術的卓越性とビジネスROIの溝を分析",
-      "published_date": "2026-04-28",
-      "collected_date": "2026-04-30",
-      "source": "MIT Technology Review"
     },
     {
       "url": "https://towardsdatascience.com/agentic-ai-how-to-save-on-tokens/",
@@ -307,11 +202,60 @@
       "published_date": "2026-05-02",
       "collected_date": "2026-05-05",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "title": "OpenAI GPT-5.5 InstantをChatGPTの新デフォルトモデルとして公開——幻覚52.5%削減・エージェント型タスク処理能力を大幅強化",
+      "published_date": "2026-05-05",
+      "collected_date": "2026-05-06",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-6-brings-1m-token-context-and-agent-teams-to-take",
+      "title": "Claude Opus 4.6が100万トークンコンテキストと「エージェントチーム」を搭載——Anthropicがエンタープライズ向けマルチエージェント開発時代を開く",
+      "published_date": "2026-05-04",
+      "collected_date": "2026-05-06",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "title": "AnthropicとOpenAIが同日に大型エンタープライズAIサービスJVを発表——Anthropic $15億・OpenAI $100億規模でコンサル産業に直撃",
+      "published_date": "2026-05-04",
+      "collected_date": "2026-05-06",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
+      "title": "Mistral AI「Workflows」でエンタープライズAIを本番品質に——Temporalエンジン搭載オーケストレーション基盤が日次数百万実行を処理",
+      "published_date": "2026-05-04",
+      "collected_date": "2026-05-06",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+      "title": "MicrosoftがWordに「Legal Agent」を組み込み弁護士向けAI契約審査を展開——Robin AI技術で条項単位の自動レビューとネゴシエーション支援",
+      "published_date": "2026-05-01",
+      "collected_date": "2026-05-06",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+      "title": "MIT TR「The Download」5月5日号：マスク対Altman裁判第2週とAIが民主主義の「インターフェース」になる日",
+      "published_date": "2026-05-05",
+      "collected_date": "2026-05-06",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/surviving-high-uncertainty-in-logistics-with-marl-48e2e72d9eb6",
+      "title": "MARLで物流の高不確実性を制する——スケール不変マルチエージェント強化学習アーキテクチャの実装ガイド",
+      "published_date": "2026-05-05",
+      "collected_date": "2026-05-06",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-05T00:00:00Z",
-    "total_articles": 44,
+    "last_updated": "2026-05-06T00:00:00Z",
+    "total_articles": 36,
     "retention_days": 7,
     "version": "1.0"
   }
