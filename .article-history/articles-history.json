@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "title": "Harvard研究：OpenAI o1がトリアージで内科医を超える67%正答率——Science誌掲載の前向き試験必要性を指摘するAI医療ベンチマーク",
-      "published_date": "2026-05-03",
-      "collected_date": "2026-05-04",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "title": "アカデミー賞がAI生成俳優・脚本を受賞対象外に——人間の同意・実演が必須要件、Val Kilmer AI映画・Tilly Norwood騒動を受けた制度的対応",
-      "published_date": "2026-05-02",
-      "collected_date": "2026-05-04",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/922830/sag-aftra-reaches-a-four-year-deal-with-the-studios-with-new-ai-guardrails",
-      "title": "SAG-AFTRA、スタジオとAI保護条項付き4年協定を締結——年金基金拠出・ストリーミング残余増額・AI権利強化の三本柱",
-      "published_date": "2026-05-03",
-      "collected_date": "2026-05-04",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-      "title": "米国防総省が機密AI協定を7社と締結——OpenAI・Google・Nvidia参加でAnthropicを除外、軍事AI多元化戦略が加速",
-      "published_date": "2026-05-01",
-      "collected_date": "2026-05-04",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite",
-      "title": "xAIがGrok 4.3を発表——超低価格APIと高速ボイスクローニングスイートで競合LLM市場に攻勢、100万トークンコンテキスト",
-      "published_date": "2026-05-01",
-      "collected_date": "2026-05-04",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-      "title": "MIT TR「The Download」5月1日号：GoodfireのSilicoでLLM内部をデバッグ・キリスト教向け検閲フォン・NSF大量解雇と科学資金の危機",
-      "published_date": "2026-05-01",
-      "collected_date": "2026-05-04",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/ghost-a-database-for-our-times/",
-      "title": "Ghost——AIエージェント向けファースト設計の使い捨て可能なPostgresDB、Claude Code・Codexとの統合でエージェント開発を加速",
-      "published_date": "2026-05-01",
-      "collected_date": "2026-05-04",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4",
       "title": "GLM-5.1がMITライセンスで公開——754Bパラメータで8時間自律作業、SWE-Bench ProでOpus 4.6・GPT-5.4を超えるオープンソースLLM",
       "published_date": "2026-05-03",
@@ -286,11 +237,46 @@
       "published_date": "2026-05-08",
       "collected_date": "2026-05-11",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "title": "ノーベル経済学者Acemogluが示すAIの3論点——エージェント万能論を退け、雇用影響の鍵は実装可能性と制度設計にあると分析",
+      "published_date": "2026-05-11",
+      "collected_date": "2026-05-12",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "title": "DiggがAIニュース集約プラットフォームとして再起動——X上の反応データをリアルタイム解析し“追うべき話題”を順位化",
+      "published_date": "2026-05-11",
+      "collected_date": "2026-05-12",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "title": "Mira Murati率いるThinking Machinesが“interaction models”公開——音声・映像・テキストを同時処理するリアルタイムAI協働を提示",
+      "published_date": "2026-05-11",
+      "collected_date": "2026-05-12",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-build-a-claude-code-powered-knowledge-base/",
+      "title": "Claude Code活用のナレッジベース構築法——会議ログと学習履歴を継続蓄積しLLMで再利用する実践運用",
+      "published_date": "2026-05-11",
+      "collected_date": "2026-05-12",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
+      "title": "WIRED分析：NVIDIAの真の堀はCUDA——GPU競争を決めるのはハード仕様よりソフトウェア・エコシステム",
+      "published_date": "2026-05-11",
+      "collected_date": "2026-05-12",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T22:13:42Z",
-    "total_articles": 41,
+    "last_updated": "2026-05-11T22:20:44Z",
+    "total_articles": 39,
     "retention_days": 7,
     "version": "1.0"
   }
