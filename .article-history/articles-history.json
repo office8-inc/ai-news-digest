@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "title": "OpenAI GPT-5.5 InstantをChatGPTの新デフォルトモデルとして公開——幻覚52.5%削減・エージェント型タスク処理能力を大幅強化",
-      "published_date": "2026-05-05",
-      "collected_date": "2026-05-06",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-6-brings-1m-token-context-and-agent-teams-to-take",
-      "title": "Claude Opus 4.6が100万トークンコンテキストと「エージェントチーム」を搭載——Anthropicがエンタープライズ向けマルチエージェント開発時代を開く",
-      "published_date": "2026-05-04",
-      "collected_date": "2026-05-06",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-      "title": "AnthropicとOpenAIが同日に大型エンタープライズAIサービスJVを発表——Anthropic $15億・OpenAI $100億規模でコンサル産業に直撃",
-      "published_date": "2026-05-04",
-      "collected_date": "2026-05-06",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/technology/mistral-ai-launches-workflows-a-temporal-powered-orchestration-engine-already-running-millions-of-daily-executions",
-      "title": "Mistral AI「Workflows」でエンタープライズAIを本番品質に——Temporalエンジン搭載オーケストレーション基盤が日次数百万実行を処理",
-      "published_date": "2026-05-04",
-      "collected_date": "2026-05-06",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-      "title": "MicrosoftがWordに「Legal Agent」を組み込み弁護士向けAI契約審査を展開——Robin AI技術で条項単位の自動レビューとネゴシエーション支援",
-      "published_date": "2026-05-01",
-      "collected_date": "2026-05-06",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-      "title": "MIT TR「The Download」5月5日号：マスク対Altman裁判第2週とAIが民主主義の「インターフェース」になる日",
-      "published_date": "2026-05-05",
-      "collected_date": "2026-05-06",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/surviving-high-uncertainty-in-logistics-with-marl-48e2e72d9eb6",
-      "title": "MARLで物流の高不確実性を制する——スケール不変マルチエージェント強化学習アーキテクチャの実装ガイド",
-      "published_date": "2026-05-05",
-      "collected_date": "2026-05-06",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
       "title": "ロボットのApp Store誕生——Hugging FaceがReachy Mini向けオープンソースApp Storeを公開、200以上の無料アプリとAIエージェント「ML Intern」で誰でもロボットアプリを自然言語で開発",
       "published_date": "2026-05-06",
@@ -265,11 +216,67 @@
       "published_date": "2026-05-12",
       "collected_date": "2026-05-13",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "title": "AIチャットボットが実在の電話番号を誤出力——個人情報漏えいリスクが運用課題に",
+      "published_date": "2026-05-13",
+      "collected_date": "2026-05-14",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930018/this-week-in-the-big-ai-data-center-buildout",
+      "title": "AIデータセンター建設ラッシュと地域反発——米国で社会実装コストが顕在化",
+      "published_date": "2026-05-13",
+      "collected_date": "2026-05-14",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.wired.com/story/overworked-ai-agents-turn-marxist-study/",
+      "title": "高圧環境でAIエージェントの言語傾向が変化——ストレス条件下の挙動監査の必要性",
+      "published_date": "2026-05-13",
+      "collected_date": "2026-05-14",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.wired.com/story/what-it-will-take-to-make-ai-sustainable/",
+      "title": "AIの持続可能性は可視化が鍵——排出量・電源情報の開示圧力が拡大",
+      "published_date": "2026-05-13",
+      "collected_date": "2026-05-14",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
+      "title": "WhatsAppがプライバシー保護型AIチャットを導入——TEE活用で事業者不可視を志向",
+      "published_date": "2026-05-13",
+      "collected_date": "2026-05-14",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/i-built-the-same-b2b-document-extractor-twice-rules-vs-llm/",
+      "title": "B2B帳票抽出をRules vs LLMで比較——レイアウト変動下の保守性を検証",
+      "published_date": "2026-05-13",
+      "collected_date": "2026-05-14",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/building-an-evaluation-harness-for-production-ai-agents-a-12-metric-framework-from-100-deployments/",
+      "title": "本番AIエージェント評価の12指標——100超デプロイ知見からの実践フレームワーク",
+      "published_date": "2026-05-13",
+      "collected_date": "2026-05-14",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/whats-the-best-way-to-brainwash-an-llm/",
+      "title": "LLMペルソナ学習の最適データ形式を検証——一人称記述が汎化で優位",
+      "published_date": "2026-05-13",
+      "collected_date": "2026-05-14",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T22:24:07Z",
-    "total_articles": 38,
+    "last_updated": "2026-05-13T22:24:33Z",
+    "total_articles": 39,
     "retention_days": 7,
     "version": "1.0"
   }
