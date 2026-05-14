@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/the-app-store-for-robots-has-arrived-hugging-face-launches-open-source-reachy-mini-app-store-with-200-apps",
-      "title": "ロボットのApp Store誕生——Hugging FaceがReachy Mini向けオープンソースApp Storeを公開、200以上の無料アプリとAIエージェント「ML Intern」で誰でもロボットアプリを自然言語で開発",
-      "published_date": "2026-05-06",
-      "collected_date": "2026-05-07",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925348/anthropics-claude-usage-limits-are-getting-a-boost-after-compute-deals-with-spacex-and-others",
-      "title": "AnthropicがSpaceX Colossus 1と大規模コンピュート提携——Claude Codeの5時間レート制限が即日2倍に拡大、ピーク時間帯制限も撤廃",
-      "published_date": "2026-05-06",
-      "collected_date": "2026-05-07",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-      "title": "ペンシルバニア州がCharacter.AIを提訴——チャットボットが精神科医を装い医療免許番号まで捏造し州医療行為法違反",
-      "published_date": "2026-05-05",
-      "collected_date": "2026-05-07",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
-      "title": "MIT TR「The Download」5月6日号：戦場に入るAIアドバイスエンジン・DeepSeek $45B評価額・Musk対Altman裁判最新情報",
-      "published_date": "2026-05-06",
-      "collected_date": "2026-05-07",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/timer-xl-a-long-context-foundation-model-for-time-series-forecasting/",
-      "title": "Timer-XL——長コンテキスト対応の時系列予測Foundation Model、TimeAttentionで可変長入出力・外生変数・多変量時系列を単一モデルで処理",
-      "published_date": "2026-05-06",
-      "collected_date": "2026-05-07",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/google-deepmind-workers-vote-to-unionize-over-military-ai-deals/",
-      "title": "Google DeepMind英国従業員が軍事AI契約に抗議し組合結成へ——兵器・監視倫理指針削除とペンタゴン協定に反発し、CWU・Uniteへの加入を要求",
-      "published_date": "2026-05-06",
-      "collected_date": "2026-05-07",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925365/anthropic-is-programming-claude-to-dream",
-      "title": "Anthropic Claudeが「夢を見る」機能をリサーチプレビューで公開——マネージドエージェントが非稼働時に過去セッションを振り返り、ミスパターンを自律的に修正・自己改善",
-      "published_date": "2026-05-06",
-      "collected_date": "2026-05-07",
-      "source": "The Verge"
-    },
-    {
       "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
       "title": "OpenAIがChatGPTにTrusted Contact導入——自傷リスク検知時に家族・友人へ通知する安全機能を実装",
       "published_date": "2026-05-07",
@@ -272,11 +223,53 @@
       "published_date": "2026-05-13",
       "collected_date": "2026-05-14",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "title": "ディープフェイクポルノ被害の現実——MIT TRが削除困難性と救済制度の遅れを報告",
+      "published_date": "2026-05-14",
+      "collected_date": "2026-05-15",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure",
+      "title": "Cerebrasが上場初日に急騰、時価総額1000億ドル規模に——推論インフラ競争の新局面",
+      "published_date": "2026-05-14",
+      "collected_date": "2026-05-15",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/14/openai-says-hackers-stole-some-data-after-latest-code-security-issue/",
+      "title": "OpenAIがコード関連セキュリティ問題後の一部データ窃取を公表",
+      "published_date": "2026-05-14",
+      "collected_date": "2026-05-15",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "title": "MicrosoftがClaude Codeライセンス縮小へ——Copilot CLIへの移行を推進",
+      "published_date": "2026-05-14",
+      "collected_date": "2026-05-15",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-next-ai-bottleneck-isnt-the-model-its-the-inference-system/",
+      "title": "TDS分析：次のAIボトルネックはモデルではなく推論システム設計",
+      "published_date": "2026-05-14",
+      "collected_date": "2026-05-15",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/meta-layoffs-bad-vibes-mark-zuckerberg-ai/",
+      "title": "Metaは過去最高益でも士気低下——AI投資拡大と人員削減の歪みをWIREDが報道",
+      "published_date": "2026-05-14",
+      "collected_date": "2026-05-15",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T22:24:33Z",
-    "total_articles": 39,
+    "last_updated": "2026-05-14T22:21:14Z",
+    "total_articles": 38,
     "retention_days": 7,
     "version": "1.0"
   }
