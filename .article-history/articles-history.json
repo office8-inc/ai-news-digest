@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-      "title": "OpenAIがChatGPTにTrusted Contact導入——自傷リスク検知時に家族・友人へ通知する安全機能を実装",
-      "published_date": "2026-05-07",
-      "collected_date": "2026-05-08",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus",
-      "title": "Zyphra、AMD MI300のみで学習したオープン推論モデルZAYA1-8Bを公開——高効率MoE設計で大型モデル級性能を狙う",
-      "published_date": "2026-05-07",
-      "collected_date": "2026-05-08",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-      "title": "SpaceX、テキサスAIチップ工場Terafabに最低550億ドル投資——将来最大1190億ドル規模へ",
-      "published_date": "2026-05-07",
-      "collected_date": "2026-05-08",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/give-your-ai-unlimited-updated-context/",
-      "title": "Give Your AI Unlimited Updated Context——継続更新型WikiでLLMコンテキストを運用する実践アーキテクチャ",
-      "published_date": "2026-05-07",
-      "collected_date": "2026-05-08",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
-      "title": "AIを10分使うだけで思考持久力が低下する可能性——MIT・CMU・Oxford・UCLA共同研究",
-      "published_date": "2026-05-06",
-      "collected_date": "2026-05-08",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "title": "AI時代の民主主義を再設計するブループリント——情報・代理行為・制度参加の3層でガバナンス強化を提言",
-      "published_date": "2026-05-05",
-      "collected_date": "2026-05-08",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
       "title": "CloudflareがAIで史上初の大量解雇——売上過去最高と同時に全社員の20%（1,100人）削減、「AIエージェント時代の企業運営」の新モデルを示す",
       "published_date": "2026-05-08",
@@ -265,11 +223,74 @@
       "published_date": "2026-05-14",
       "collected_date": "2026-05-15",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "title": "Musk v. Altman 最終週——ガバナンスとAGIを巡る歴史的攻防が結審へ",
+      "published_date": "2026-05-15",
+      "collected_date": "2026-05-18",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from",
+      "title": "AIが専門家を置き換えるほど、AIを育てる人材が消える——誰もモデル化していない企業リスク",
+      "published_date": "2026-05-16",
+      "collected_date": "2026-05-18",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "title": "ArXivがAI論文悪用に1年利用禁止措置——ハルシネーション引用が証拠になる新ルール",
+      "published_date": "2026-05-16",
+      "collected_date": "2026-05-18",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "title": "OpenAIがChatGPT個人財務ツールを発表——銀行口座接続でAI財務アドバイスが本格始動",
+      "published_date": "2026-05-15",
+      "collected_date": "2026-05-18",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "title": "YouTubeがAIディープフェイク検知を全成人ユーザーに拡大——一般市民も顔写真で守られる時代へ",
+      "published_date": "2026-05-15",
+      "collected_date": "2026-05-18",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+      "title": "アリゾナ大学卒業式でEric Schmidt AI礼賛にブーイング——若者世代のAI不信が表面化",
+      "published_date": "2026-05-17",
+      "collected_date": "2026-05-18",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "title": "Greg BrockmanがOpenAI製品戦略を統括——ChatGPTとCodexを統合した「スーパーアプリ」へ",
+      "published_date": "2026-05-15",
+      "collected_date": "2026-05-18",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
+      "title": "Mira Murati「AIは人間をループに保つべき」——Thinking Machinesが示す人間中心AIの新ビジョン",
+      "published_date": "2026-05-15",
+      "collected_date": "2026-05-18",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/",
+      "title": "LLMの評価は「感覚」頼り——Missing Scoring Layerを構築して出荷判断を変えた話",
+      "published_date": "2026-05-17",
+      "collected_date": "2026-05-18",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T22:21:14Z",
-    "total_articles": 38,
+    "last_updated": "2026-05-17T22:16:13Z",
+    "total_articles": 41,
     "retention_days": 7,
     "version": "1.0"
   }
