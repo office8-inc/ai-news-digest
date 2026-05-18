@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-      "title": "CloudflareがAIで史上初の大量解雇——売上過去最高と同時に全社員の20%（1,100人）削減、「AIエージェント時代の企業運営」の新モデルを示す",
-      "published_date": "2026-05-08",
-      "collected_date": "2026-05-11",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/",
-      "title": "MIT TR「The Download」5月8日号：AIマレーズの時代——社会全体がAIとの不確かな共存を強いられる現状とAIで注目すべき10の潮流",
-      "published_date": "2026-05-08",
-      "collected_date": "2026-05-11",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/ai/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous/",
-      "title": "AnthropicがAIエージェントの記憶・評価・オーケストレーションを垂直統合——エンタープライズのベンダーロックインリスク拡大をVentureBeatが警告",
-      "published_date": "2026-05-08",
-      "collected_date": "2026-05-11",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
-      "title": "SonyがゲームAI戦略を公表——独自ツール「Mockingbird」でモーションキャプチャアニメーション作業を瞬時に圧縮、Naughty Dog・Santa Monica Studioが導入",
-      "published_date": "2026-05-08",
-      "collected_date": "2026-05-11",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/rag-is-blind-to-time-i-built-a-temporal-layer-to-fix-it-in-production/",
-      "title": "RAGは時間を認識できない——本番環境で構築した時間的再ランキング層（Temporal Reranking Layer）による古い情報優先問題の解決",
-      "published_date": "2026-05-09",
-      "collected_date": "2026-05-11",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-      "title": "カリフォルニア州知事候補Tom SteyerがAI失業者向け「雇用保証」を提案——トークン税を財源に公共雇用を創出、AI Worker Protection Administrationを新設",
-      "published_date": "2026-05-08",
-      "collected_date": "2026-05-11",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
       "title": "ノーベル経済学者Acemogluが示すAIの3論点——エージェント万能論を退け、雇用影響の鍵は実装可能性と制度設計にあると分析",
       "published_date": "2026-05-11",
@@ -286,11 +244,67 @@
       "published_date": "2026-05-17",
       "collected_date": "2026-05-18",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+      "title": "Google I/O直前、DeepMindの巻き返しはあるか——MIT TRがコーディングAI競争の焦点を整理",
+      "published_date": "2026-05-18",
+      "collected_date": "2026-05-19",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+      "title": "Anduril×Metaが軍用スマートグラス詳細を公開——視線入力とLLM統合の実装課題が浮上",
+      "published_date": "2026-05-18",
+      "collected_date": "2026-05-19",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "title": "SandboxAQがClaude統合を拡大——創薬AIを自然言語インターフェースで利用可能に",
+      "published_date": "2026-05-18",
+      "collected_date": "2026-05-19",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "title": "AnthropicがStainlessを買収——SDK自動生成基盤を囲い込み、開発者接点の競争が激化",
+      "published_date": "2026-05-18",
+      "collected_date": "2026-05-19",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+      "title": "The Verge分析：Musk v. Altmanが露呈したAI業界リーダー層の信頼危機",
+      "published_date": "2026-05-18",
+      "collected_date": "2026-05-19",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/six-choices-every-ai-engineer-has-to-make-and-nobody-teaches/",
+      "title": "AIエンジニアが本番前に判断すべき6つのトレードオフ——TDS実践ガイド",
+      "published_date": "2026-05-18",
+      "collected_date": "2026-05-19",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/why-your-ai-demo-will-die-in-production/",
+      "title": "95%のPoC失敗を生む5つのProduction Debt——本番移行で詰まる構造要因を整理",
+      "published_date": "2026-05-18",
+      "collected_date": "2026-05-19",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
+      "title": "WIRED速報：Muskの対OpenAI訴訟は棄却、陪審評決を裁判官が即時採用",
+      "published_date": "2026-05-18",
+      "collected_date": "2026-05-19",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-17T22:16:13Z",
-    "total_articles": 41,
+    "last_updated": "2026-05-18T22:18:17Z",
+    "total_articles": 43,
     "retention_days": 7,
     "version": "1.0"
   }
