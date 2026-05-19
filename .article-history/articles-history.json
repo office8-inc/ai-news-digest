@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "title": "ノーベル経済学者Acemogluが示すAIの3論点——エージェント万能論を退け、雇用影響の鍵は実装可能性と制度設計にあると分析",
-      "published_date": "2026-05-11",
-      "collected_date": "2026-05-12",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-      "title": "DiggがAIニュース集約プラットフォームとして再起動——X上の反応データをリアルタイム解析し“追うべき話題”を順位化",
-      "published_date": "2026-05-11",
-      "collected_date": "2026-05-12",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-      "title": "Mira Murati率いるThinking Machinesが“interaction models”公開——音声・映像・テキストを同時処理するリアルタイムAI協働を提示",
-      "published_date": "2026-05-11",
-      "collected_date": "2026-05-12",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-build-a-claude-code-powered-knowledge-base/",
-      "title": "Claude Code活用のナレッジベース構築法——会議ログと学習履歴を継続蓄積しLLMで再利用する実践運用",
-      "published_date": "2026-05-11",
-      "collected_date": "2026-05-12",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
-      "title": "WIRED分析：NVIDIAの真の堀はCUDA——GPU競争を決めるのはハード仕様よりソフトウェア・エコシステム",
-      "published_date": "2026-05-11",
-      "collected_date": "2026-05-12",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
       "title": "AnthropicがリーガルAIを本格拡張——Claude for Legalに法務特化プラグインとMCP接続を追加、契約レビューから判例調査まで既存業務基盤へ統合",
       "published_date": "2026-05-12",
@@ -300,11 +265,60 @@
       "published_date": "2026-05-18",
       "collected_date": "2026-05-19",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "title": "Musk対OpenAI訴訟は時効で棄却——実体論に進まずもAIガバナンス論争は継続",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-05-20",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "title": "Googleが検索ボックスを25年ぶり刷新——会話型・エージェント型検索への本格移行",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-05-20",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "title": "Gemini 3.5 Flash登場——Googleがチャットボット中心からエージェント実行中心へ舵を切る",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-05-20",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "title": "「従来のGoogle検索は終わる」——AI生成UIと情報エージェントが検索体験を再定義",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-05-20",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
+      "title": "GoogleのAI戦略は信頼と個人データに依存——Gemini Spark時代の境界管理が課題",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-05-20",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
+      "title": "The Verge論評：Googleの未来は「すべてをこなす検索ボックス」へ収斂",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-05-20",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/grounding-llms-with-fresh-web-data-to-reduce-hallucinations/",
+      "title": "LLMの幻覚抑制にはライブ検索が不可欠——RAG単独運用の限界をTDSが解説",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-05-20",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T22:18:17Z",
-    "total_articles": 43,
+    "last_updated": "2026-05-20T22:24:40Z",
+    "total_articles": 45,
     "retention_days": 7,
     "version": "1.0"
   }
