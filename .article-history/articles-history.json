@@ -251,11 +251,53 @@
       "published_date": "2026-05-20",
       "collected_date": "2026-05-21",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "title": "Anthropicの開発者イベントが示した新常態——AIがコードを書き、人間は監督へ",
+      "published_date": "2026-05-21",
+      "collected_date": "2026-05-22",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "title": "世界モデルは次の本命か——LLMの先で問われる「現実理解」",
+      "published_date": "2026-05-21",
+      "collected_date": "2026-05-22",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "title": "米政権、AI安全保障の大統領令署名を延期——事前審査と競争力の綱引き",
+      "published_date": "2026-05-21",
+      "collected_date": "2026-05-22",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "title": "Musk対Altman訴訟の全体像——The Vergeが追うOpenAI統治の分岐点",
+      "published_date": "2026-05-21",
+      "collected_date": "2026-05-22",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/prompt-engineering-isnt-enough-i-built-a-control-layer-that-works-in-production/",
+      "title": "Prompt改善だけでは足りない——本番運用を守る制御レイヤー設計",
+      "published_date": "2026-05-21",
+      "collected_date": "2026-05-22",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+      "title": "SpaceX IPO開示で見えたGrok高リスク運用——“Spicy”モードが経営課題に",
+      "published_date": "2026-05-21",
+      "collected_date": "2026-05-22",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T22:33:30Z",
-    "total_articles": 36,
+    "last_updated": "2026-05-21T22:31:06Z",
+    "total_articles": 42,
     "retention_days": 7,
     "version": "1.0"
   }
