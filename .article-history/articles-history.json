@@ -1,69 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "title": "Musk v. Altman 最終週——ガバナンスとAGIを巡る歴史的攻防が結審へ",
-      "published_date": "2026-05-15",
-      "collected_date": "2026-05-18",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "title": "OpenAIがChatGPT個人財務ツールを発表——銀行口座接続でAI財務アドバイスが本格始動",
-      "published_date": "2026-05-15",
-      "collected_date": "2026-05-18",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-      "title": "YouTubeがAIディープフェイク検知を全成人ユーザーに拡大——一般市民も顔写真で守られる時代へ",
-      "published_date": "2026-05-15",
-      "collected_date": "2026-05-18",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
-      "title": "Greg BrockmanがOpenAI製品戦略を統括——ChatGPTとCodexを統合した「スーパーアプリ」へ",
-      "published_date": "2026-05-15",
-      "collected_date": "2026-05-18",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
-      "title": "Mira Murati「AIは人間をループに保つべき」——Thinking Machinesが示す人間中心AIの新ビジョン",
-      "published_date": "2026-05-15",
-      "collected_date": "2026-05-18",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "title": "ArXivがAI論文悪用に1年利用禁止措置——ハルシネーション引用が証拠になる新ルール",
-      "published_date": "2026-05-16",
-      "collected_date": "2026-05-18",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://venturebeat.com/technology/the-enterprise-risk-nobody-is-modeling-ai-is-replacing-the-very-experts-it-needs-to-learn-from",
-      "title": "AIが専門家を置き換えるほど、AIを育てる人材が消える——誰もモデル化していない企業リスク",
-      "published_date": "2026-05-16",
-      "collected_date": "2026-05-18",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-      "title": "アリゾナ大学卒業式でEric Schmidt AI礼賛にブーイング——若者世代のAI不信が表面化",
-      "published_date": "2026-05-17",
-      "collected_date": "2026-05-18",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/llm-evals-are-based-on-vibes-i-built-the-missing-layer-that-decides-what-ships/",
-      "title": "LLMの評価は「感覚」頼り——Missing Scoring Layerを構築して出荷判断を変えた話",
-      "published_date": "2026-05-17",
-      "collected_date": "2026-05-18",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
       "title": "Google I/O直前、DeepMindの巻き返しはあるか——MIT TRがコーディングAI競争の焦点を整理",
       "published_date": "2026-05-18",
@@ -293,11 +230,46 @@
       "published_date": "2026-05-24",
       "collected_date": "2026-05-25",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "title": "教皇レオ14世がAI時代の倫理憲章を提示——労働・戦争・教育への影響に法的枠組みを要請",
+      "published_date": "2026-05-25",
+      "collected_date": "2026-05-26",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+      "title": "AI時代の脆弱性探索が軍拡化——バグバウンティ運用は速度と品質の再設計局面へ",
+      "published_date": "2026-05-25",
+      "collected_date": "2026-05-26",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/can-ai-write-your-code/",
+      "title": "ChatGPTは因果推論コードを書けるのか——Python/R/Stata比較で再現性評価の重要性が浮上",
+      "published_date": "2026-05-25",
+      "collected_date": "2026-05-26",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/from-tf-idf-to-transformers-implementing-four-generations-of-semantic-search/",
+      "title": "TF-IDFからTransformerまで意味検索の4世代を実装比較——精度と説明可能性のトレードオフを整理",
+      "published_date": "2026-05-25",
+      "collected_date": "2026-05-26",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/introducing-the-agent-toolkit-for-amazon-web-services/",
+      "title": "AWS向けAgent Toolkit登場——コーディングエージェントに最新AWS文脈とガードレールを付与",
+      "published_date": "2026-05-25",
+      "collected_date": "2026-05-26",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T22:16:48Z",
-    "total_articles": 42,
+    "last_updated": "2026-05-25T22:20:21Z",
+    "total_articles": 38,
     "retention_days": 7,
     "version": "1.0"
   }
