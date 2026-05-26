@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "title": "Google I/O直前、DeepMindの巻き返しはあるか——MIT TRがコーディングAI競争の焦点を整理",
-      "published_date": "2026-05-18",
-      "collected_date": "2026-05-19",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "title": "Anduril×Metaが軍用スマートグラス詳細を公開——視線入力とLLM統合の実装課題が浮上",
-      "published_date": "2026-05-18",
-      "collected_date": "2026-05-19",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "title": "SandboxAQがClaude統合を拡大——創薬AIを自然言語インターフェースで利用可能に",
-      "published_date": "2026-05-18",
-      "collected_date": "2026-05-19",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "title": "AnthropicがStainlessを買収——SDK自動生成基盤を囲い込み、開発者接点の競争が激化",
-      "published_date": "2026-05-18",
-      "collected_date": "2026-05-19",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-      "title": "The Verge分析：Musk v. Altmanが露呈したAI業界リーダー層の信頼危機",
-      "published_date": "2026-05-18",
-      "collected_date": "2026-05-19",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/six-choices-every-ai-engineer-has-to-make-and-nobody-teaches/",
-      "title": "AIエンジニアが本番前に判断すべき6つのトレードオフ——TDS実践ガイド",
-      "published_date": "2026-05-18",
-      "collected_date": "2026-05-19",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/why-your-ai-demo-will-die-in-production/",
-      "title": "95%のPoC失敗を生む5つのProduction Debt——本番移行で詰まる構造要因を整理",
-      "published_date": "2026-05-18",
-      "collected_date": "2026-05-19",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/musk-v-altman-jury-verdict/",
-      "title": "WIRED速報：Muskの対OpenAI訴訟は棄却、陪審評決を裁判官が即時採用",
-      "published_date": "2026-05-18",
-      "collected_date": "2026-05-19",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
       "title": "Musk対OpenAI訴訟は時効で棄却——実体論に進まずもAIガバナンス論争は継続",
       "published_date": "2026-05-19",
@@ -265,11 +209,53 @@
       "published_date": "2026-05-25",
       "collected_date": "2026-05-26",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "title": "AI雇用不安は過熱か——MIT TRが労働統計から「大規模代替は未到来」と検証",
+      "published_date": "2026-05-26",
+      "collected_date": "2026-05-27",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
+      "title": "VentureBeat分析：AIエージェント実装は「ベクトルDB中心」から実行レイヤー設計へ",
+      "published_date": "2026-05-22",
+      "collected_date": "2026-05-27",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "title": "OpenRouterが評価額13億ドルへ急伸——マルチモデル運用が企業標準に",
+      "published_date": "2026-05-26",
+      "collected_date": "2026-05-27",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "title": "Pichai氏が語る検索の次段階——AI検索とエージェント統合で「Google Zero」論争が加速",
+      "published_date": "2026-05-26",
+      "collected_date": "2026-05-27",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/what-is-a-data-agent/",
+      "title": "Data Agentとは何か——ダッシュボード中心運用を対話型分析へ転換する設計原則",
+      "published_date": "2026-05-26",
+      "collected_date": "2026-05-27",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "title": "WIRED特集：Claude CodeとOpenClawが引き起こした“エージェント開発の臨界点”",
+      "published_date": "2026-05-26",
+      "collected_date": "2026-05-27",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-25T22:20:21Z",
-    "total_articles": 38,
+    "last_updated": "2026-05-26T22:27:48Z",
+    "total_articles": 36,
     "retention_days": 7,
     "version": "1.0"
   }
