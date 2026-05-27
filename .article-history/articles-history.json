@@ -237,11 +237,18 @@
       "published_date": "2026-05-27",
       "collected_date": "2026-05-28",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/merck-and-mastercard-are-seeing-real-agentic-ai-results-both-say-the-plumbing-came-first",
+      "title": "Agentic AIの成果は“配管”から始まる",
+      "published_date": "2026-05-27",
+      "collected_date": "2026-05-28",
+      "source": "VentureBeat"
     }
   ],
   "metadata": {
     "last_updated": "2026-05-28T07:37:59+09:00",
-    "total_articles": 34,
+    "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
   }
