@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-      "title": "Musk対OpenAI訴訟は時効で棄却——実体論に進まずもAIガバナンス論争は継続",
-      "published_date": "2026-05-19",
-      "collected_date": "2026-05-20",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "title": "Gemini 3.5 Flash登場——Googleがチャットボット中心からエージェント実行中心へ舵を切る",
-      "published_date": "2026-05-19",
-      "collected_date": "2026-05-20",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-      "title": "「従来のGoogle検索は終わる」——AI生成UIと情報エージェントが検索体験を再定義",
-      "published_date": "2026-05-19",
-      "collected_date": "2026-05-20",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-      "title": "GoogleのAI戦略は信頼と個人データに依存——Gemini Spark時代の境界管理が課題",
-      "published_date": "2026-05-19",
-      "collected_date": "2026-05-20",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-      "title": "The Verge論評：Googleの未来は「すべてをこなす検索ボックス」へ収斂",
-      "published_date": "2026-05-19",
-      "collected_date": "2026-05-20",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/grounding-llms-with-fresh-web-data-to-reduce-hallucinations/",
-      "title": "LLMの幻覚抑制にはライブ検索が不可欠——RAG単独運用の限界をTDSが解説",
-      "published_date": "2026-05-19",
-      "collected_date": "2026-05-20",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "title": "Googleが検索ボックスを25年ぶり刷新——会話型・エージェント型検索への本格移行",
-      "published_date": "2026-05-19",
-      "collected_date": "2026-05-20",
-      "source": "VentureBeat"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
       "title": "Musk v. Altman裁判をMIT TRが検証——AI企業統治の透明性と説明責任が次の競争軸に",
       "published_date": "2026-05-19",
@@ -251,11 +202,53 @@
       "published_date": "2026-05-26",
       "collected_date": "2026-05-27",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "title": "エージェントAI時代は「組織そのもの」の再設計が必要になる",
+      "published_date": "2026-05-26",
+      "collected_date": "2026-05-28",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
+      "title": "企業AIエージェントは“覚えられない”ままでは本番化できない",
+      "published_date": "2026-05-21",
+      "collected_date": "2026-05-28",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "title": "AI万能論に酔う経営陣が組織を混乱させるリスク",
+      "published_date": "2026-05-27",
+      "collected_date": "2026-05-28",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "title": "RobinhoodがAIエージェントに株取引を開放",
+      "published_date": "2026-05-27",
+      "collected_date": "2026-05-28",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/most-ai-agents-fail-in-production-because-theyre-built-backwards/",
+      "title": "本番で失敗するAIエージェントは「下から」設計されていない",
+      "published_date": "2026-05-27",
+      "collected_date": "2026-05-28",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "title": "継続学習AIを企業に届ける新興勢力が登場",
+      "published_date": "2026-05-27",
+      "collected_date": "2026-05-28",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T22:27:48Z",
-    "total_articles": 36,
+    "last_updated": "2026-05-27T22:30:23Z",
+    "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
   }
