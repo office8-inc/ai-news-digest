@@ -211,13 +211,6 @@
       "source": "MIT Technology Review"
     },
     {
-      "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned",
-      "title": "企業AIエージェントは“覚えられない”ままでは本番化できない",
-      "published_date": "2026-05-21",
-      "collected_date": "2026-05-28",
-      "source": "VentureBeat"
-    },
-    {
       "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
       "title": "AI万能論に酔う経営陣が組織を混乱させるリスク",
       "published_date": "2026-05-27",
@@ -247,8 +240,8 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-27T22:30:23Z",
-    "total_articles": 35,
+    "last_updated": "2026-05-28T07:37:59+09:00",
+    "total_articles": 34,
     "retention_days": 7,
     "version": "1.0"
   }
