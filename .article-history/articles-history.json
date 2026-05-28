@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-      "title": "Musk v. Altman裁判をMIT TRが検証——AI企業統治の透明性と説明責任が次の競争軸に",
-      "published_date": "2026-05-19",
-      "collected_date": "2026-05-21",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "title": "AnthropicがxAIへ月額12.5億ドルの計算契約——モデル競争が供給網・資本力勝負へ",
-      "published_date": "2026-05-20",
-      "collected_date": "2026-05-21",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-      "title": "AIラベリング標準は正念場——SynthIDとC2PAの実装運用が社会受容を左右",
-      "published_date": "2026-05-20",
-      "collected_date": "2026-05-21",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-safely-run-coding-agents/",
-      "title": "TDS実践：コーディングエージェントを安全運用するには権限分離と承認ゲートが不可欠",
-      "published_date": "2026-05-20",
-      "collected_date": "2026-05-21",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control",
-      "title": "Google Managed Agents APIの実像——導入速度と実行レイヤー制御のトレードオフが顕在化",
-      "published_date": "2026-05-20",
-      "collected_date": "2026-05-21",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.wired.com/story/spacex-ipo-anthropic-compute-finances-risks/",
-      "title": "Anthropicの年間150億ドル規模計算契約——WIREDがSpaceX IPO資料からAI資本依存を詳報",
-      "published_date": "2026-05-20",
-      "collected_date": "2026-05-21",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
       "title": "Anthropicの開発者イベントが示した新常態——AIがコードを書き、人間は監督へ",
       "published_date": "2026-05-21",
@@ -244,10 +202,52 @@
       "published_date": "2026-05-27",
       "collected_date": "2026-05-28",
       "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "title": "AIへの社会反応を可視化する「AI Hype Index」",
+      "published_date": "2026-05-28",
+      "collected_date": "2026-05-29",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
+      "title": "Mistral AIが示す「モデル＋基盤」の一体戦略",
+      "published_date": "2026-05-28",
+      "collected_date": "2026-05-29",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "title": "インターネット基盤が“人間向け”から“機械向け”へ",
+      "published_date": "2026-05-28",
+      "collected_date": "2026-05-29",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "title": "Claude Opus 4.8は「不確実性の明示」を強化",
+      "published_date": "2026-05-28",
+      "collected_date": "2026-05-29",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/",
+      "title": "ローカルLLMエージェント実用化は基盤設計が決め手",
+      "published_date": "2026-05-28",
+      "collected_date": "2026-05-29",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "title": "イリノイ州がAI安全法を第三者監査型へ拡張",
+      "published_date": "2026-05-28",
+      "collected_date": "2026-05-29",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T07:37:59+09:00",
+    "last_updated": "2026-05-29T08:10:00+09:00",
     "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
