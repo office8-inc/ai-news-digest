@@ -204,50 +204,50 @@
       "source": "VentureBeat"
     },
     {
-      "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "title": "Google I/Oが示した「AI科学」の重心移動",
-      "published_date": "2026-05-22",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "title": "AIへの社会反応を可視化する「AI Hype Index」",
+      "published_date": "2026-05-28",
       "collected_date": "2026-05-29",
       "source": "MIT Technology Review"
     },
     {
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "title": "Google検索UI刷新が示す“会話型入口”への全面移行",
-      "published_date": "2026-05-19",
+      "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
+      "title": "Mistral AIが示す「モデル＋基盤」の一体戦略",
+      "published_date": "2026-05-28",
       "collected_date": "2026-05-29",
       "source": "VentureBeat"
     },
     {
       "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "title": "インターネット基盤が“人間向け”から“エージェント向け”へ再構築",
+      "title": "インターネット基盤が“人間向け”から“機械向け”へ",
       "published_date": "2026-05-28",
       "collected_date": "2026-05-29",
       "source": "TechCrunch"
     },
     {
       "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "title": "Claude Opus 4.8は「不確実性の表明」を強化",
+      "title": "Claude Opus 4.8は「不確実性の明示」を強化",
       "published_date": "2026-05-28",
       "collected_date": "2026-05-29",
       "source": "The Verge"
     },
     {
       "url": "https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/",
-      "title": "ローカルLLMエージェント運用は「実行基盤」で決まる",
+      "title": "ローカルLLMエージェント実用化は基盤設計が決め手",
       "published_date": "2026-05-28",
       "collected_date": "2026-05-29",
       "source": "Towards Data Science"
     },
     {
       "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-      "title": "イリノイ州がAI安全監査を独立監査へ拡張",
+      "title": "イリノイ州がAI安全法を第三者監査型へ拡張",
       "published_date": "2026-05-28",
       "collected_date": "2026-05-29",
       "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-29T07:40:00+09:00",
+    "last_updated": "2026-05-29T08:10:00+09:00",
     "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
