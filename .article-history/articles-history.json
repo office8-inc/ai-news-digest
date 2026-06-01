@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-      "title": "チャットボットの『人格』悪用が新たな攻撃面に——長文脈対話で安全境界を突破する手口",
-      "published_date": "2026-05-24",
-      "collected_date": "2026-05-25",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
-      "title": "Googleの“anything-to-anything”生成が実用域へ——創作効率とディープフェイク対策の両立が課題",
-      "published_date": "2026-05-23",
-      "collected_date": "2026-05-25",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-ultimate-beginners-guide-to-building-an-ai-agent-in-python/",
-      "title": "Pythonで始めるAIエージェント実装入門——タスク分解・ツール接続・状態管理の基本",
-      "published_date": "2026-05-24",
-      "collected_date": "2026-05-25",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/beyond-the-model-why-data-scientists-must-embrace-apis-and-api-documentation/",
-      "title": "モデルの先にある価値はAPI設計に宿る——データサイエンティストに求められる実装責任",
-      "published_date": "2026-05-24",
-      "collected_date": "2026-05-25",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/from-prototype-to-profit-solving-the-agentic-token-burn-problem/",
-      "title": "エージェント運用の隠れコスト“Token Burn”を抑える——PoCから収益化への設計論",
-      "published_date": "2026-05-23",
-      "collected_date": "2026-05-25",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
-      "title": "福祉現場で調理ロボット導入が進展——人手不足を補うAI実装の現実解",
-      "published_date": "2026-05-24",
-      "collected_date": "2026-05-25",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
       "title": "教皇レオ14世がAI時代の倫理憲章を提示——労働・戦争・教育への影響に法的枠組みを要請",
       "published_date": "2026-05-25",
@@ -244,10 +202,52 @@
       "published_date": "2026-05-29",
       "collected_date": "2026-06-01",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "title": "初級職の雇用危機に今すぐ向き合うべき時期",
+      "published_date": "2026-05-26",
+      "collected_date": "2026-06-02",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "title": "Google検索UI刷新が示すAI時代の検索体験再設計",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-06-02",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "title": "AnthropicがIPO申請、AI企業の資本戦略が新局面へ",
+      "published_date": "2026-06-01",
+      "collected_date": "2026-06-02",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+      "title": "Anthropic上場申請が映すAI産業の成熟フェーズ",
+      "published_date": "2026-06-01",
+      "collected_date": "2026-06-02",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/latest/",
+      "title": "最新記事群にみるAgentic BIと実務再編の潮流",
+      "published_date": "2026-06-01",
+      "collected_date": "2026-06-02",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
+      "title": "AI時代の真実検証は説明責任が最後の防波堤",
+      "published_date": "2026-05-29",
+      "collected_date": "2026-06-02",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T08:10:00+09:00",
+    "last_updated": "2026-06-02T07:00:00+09:00",
     "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
