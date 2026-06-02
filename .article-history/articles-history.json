@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-      "title": "教皇レオ14世がAI時代の倫理憲章を提示——労働・戦争・教育への影響に法的枠組みを要請",
-      "published_date": "2026-05-25",
-      "collected_date": "2026-05-26",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-      "title": "AI時代の脆弱性探索が軍拡化——バグバウンティ運用は速度と品質の再設計局面へ",
-      "published_date": "2026-05-25",
-      "collected_date": "2026-05-26",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://towardsdatascience.com/can-ai-write-your-code/",
-      "title": "ChatGPTは因果推論コードを書けるのか——Python/R/Stata比較で再現性評価の重要性が浮上",
-      "published_date": "2026-05-25",
-      "collected_date": "2026-05-26",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/from-tf-idf-to-transformers-implementing-four-generations-of-semantic-search/",
-      "title": "TF-IDFからTransformerまで意味検索の4世代を実装比較——精度と説明可能性のトレードオフを整理",
-      "published_date": "2026-05-25",
-      "collected_date": "2026-05-26",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/introducing-the-agent-toolkit-for-amazon-web-services/",
-      "title": "AWS向けAgent Toolkit登場——コーディングエージェントに最新AWS文脈とガードレールを付与",
-      "published_date": "2026-05-25",
-      "collected_date": "2026-05-26",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
       "title": "AI雇用不安は過熱か——MIT TRが労働統計から「大規模代替は未到来」と検証",
       "published_date": "2026-05-26",
@@ -244,11 +209,53 @@
       "published_date": "2026-05-29",
       "collected_date": "2026-06-02",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
+      "title": "中小企業のAI活用は「事務負荷圧縮」から始めるのが現実解",
+      "published_date": "2026-06-02",
+      "collected_date": "2026-06-03",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+      "title": "Railwayが1億ドル調達、AIネイティブクラウド競争が加速",
+      "published_date": "2026-01-22",
+      "collected_date": "2026-06-03",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "title": "Microsoftが自然言語でAI挙動テストを生成するASSERTを公開",
+      "published_date": "2026-06-02",
+      "collected_date": "2026-06-03",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+      "title": "Microsoft Scout発表、常駐AI秘書の企業導入競争が本格化",
+      "published_date": "2026-06-02",
+      "collected_date": "2026-06-03",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/code-is-cheap-engineering-judgement-is-now-the-scarce-resource/",
+      "title": "AI時代は実装より「何を作らないか」の判断力が希少資源に",
+      "published_date": "2026-06-02",
+      "collected_date": "2026-06-03",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/meet-microsoft-scout-your-ai-coworker-that-never-logs-off/",
+      "title": "Wired解説：Microsoft Scoutは24時間稼働するAI同僚の始まり",
+      "published_date": "2026-06-02",
+      "collected_date": "2026-06-03",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-02T07:00:00+09:00",
-    "total_articles": 35,
+    "last_updated": "2026-06-03T07:00:00+09:00",
+    "total_articles": 36,
     "retention_days": 7,
     "version": "1.0"
   }
