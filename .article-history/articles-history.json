@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-      "title": "AI雇用不安は過熱か——MIT TRが労働統計から「大規模代替は未到来」と検証",
-      "published_date": "2026-05-26",
-      "collected_date": "2026-05-27",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
-      "title": "VentureBeat分析：AIエージェント実装は「ベクトルDB中心」から実行レイヤー設計へ",
-      "published_date": "2026-05-22",
-      "collected_date": "2026-05-27",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "title": "OpenRouterが評価額13億ドルへ急伸——マルチモデル運用が企業標準に",
-      "published_date": "2026-05-26",
-      "collected_date": "2026-05-27",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
-      "title": "Pichai氏が語る検索の次段階——AI検索とエージェント統合で「Google Zero」論争が加速",
-      "published_date": "2026-05-26",
-      "collected_date": "2026-05-27",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/what-is-a-data-agent/",
-      "title": "Data Agentとは何か——ダッシュボード中心運用を対話型分析へ転換する設計原則",
-      "published_date": "2026-05-26",
-      "collected_date": "2026-05-27",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-      "title": "WIRED特集：Claude CodeとOpenClawが引き起こした“エージェント開発の臨界点”",
-      "published_date": "2026-05-26",
-      "collected_date": "2026-05-27",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
       "title": "エージェントAI時代は「組織そのもの」の再設計が必要になる",
       "published_date": "2026-05-26",
@@ -251,10 +209,52 @@
       "published_date": "2026-06-02",
       "collected_date": "2026-06-03",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+      "title": "医療現場を再人間化するエージェントAI導入の実装論",
+      "published_date": "2026-06-02",
+      "collected_date": "2026-06-04",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+      "title": "有料AIコーディング基盤に対抗する無償OSSエージェントの台頭",
+      "published_date": "2026-01-19",
+      "collected_date": "2026-06-04",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "title": "MetaがWhatsApp Business向けAIエージェントを世界展開",
+      "published_date": "2026-06-03",
+      "collected_date": "2026-06-04",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "title": "英規制で検索AIへのコンテンツ利用を出版社が制御可能に",
+      "published_date": "2026-06-03",
+      "collected_date": "2026-06-04",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/what-ai-agents-should-never-do-on-their-own/",
+      "title": "AIエージェントに単独実行させない高リスク作業の設計原則",
+      "published_date": "2026-06-03",
+      "collected_date": "2026-06-04",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/the-white-house-is-at-war-with-itself-over-ai-regulation/",
+      "title": "米政権内対立で揺れるAI規制方針と事前評価ルール",
+      "published_date": "2026-06-02",
+      "collected_date": "2026-06-04",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-03T07:00:00+09:00",
+    "last_updated": "2026-06-04T07:00:00+09:00",
     "total_articles": 36,
     "retention_days": 7,
     "version": "1.0"
