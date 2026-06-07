@@ -1,90 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-      "title": "AIへの社会反応を可視化する「AI Hype Index」",
-      "published_date": "2026-05-28",
-      "collected_date": "2026-05-29",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
-      "title": "Mistral AIが示す「モデル＋基盤」の一体戦略",
-      "published_date": "2026-05-28",
-      "collected_date": "2026-05-29",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "title": "インターネット基盤が“人間向け”から“機械向け”へ",
-      "published_date": "2026-05-28",
-      "collected_date": "2026-05-29",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "title": "Claude Opus 4.8は「不確実性の明示」を強化",
-      "published_date": "2026-05-28",
-      "collected_date": "2026-05-29",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-infrastructure-behind-making-local-llm-agents-actually-useful/",
-      "title": "ローカルLLMエージェント実用化は基盤設計が決め手",
-      "published_date": "2026-05-28",
-      "collected_date": "2026-05-29",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-      "title": "イリノイ州がAI安全法を第三者監査型へ拡張",
-      "published_date": "2026-05-28",
-      "collected_date": "2026-05-29",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
-      "title": "「技術は中立ではない」——教皇AI勅書が示す機関投資家主導ガバナンスの可能性",
-      "published_date": "2026-05-29",
-      "collected_date": "2026-06-01",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead",
-      "title": "AnthropicがOpenAIを逆転——企業AI採用で首位に、だが3つの課題",
-      "published_date": "2026-05-29",
-      "collected_date": "2026-06-01",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "title": "GitHub Copilot、本日からトークン課金移行——月$750超の請求に開発者が怒り",
-      "published_date": "2026-05-30",
-      "collected_date": "2026-06-01",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-      "title": "AIが偽の黒人インフルエンサーを生成し差別的マーケティングに悪用される実態",
-      "published_date": "2026-05-30",
-      "collected_date": "2026-06-01",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/meta-cognitive-regulation-might-be-the-most-important-ai-skill-nobody-is-talking-about/",
-      "title": "AI時代の本当の差別化スキルは「メタ認知的調整」——プロンプト技術よりも重要",
-      "published_date": "2026-05-30",
-      "collected_date": "2026-06-01",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
-      "title": "Google Gemini Sparkを全公開レビュー——AIが予約メールを発掘して誕生会を計画するが彼氏は「友人扱い」",
-      "published_date": "2026-05-29",
-      "collected_date": "2026-06-01",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
       "title": "初級職の雇用危機に今すぐ向き合うべき時期",
       "published_date": "2026-05-26",
@@ -251,11 +167,53 @@
       "published_date": "2026-06-04",
       "collected_date": "2026-06-05",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "title": "MetaのAIサポートエージェント悪用事件——単純な攻撃が引き起こす深刻なリスク",
+      "published_date": "2026-06-05",
+      "collected_date": "2026-06-08",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost/",
+      "title": "中国製MiniMax M3がGPT-5.5・Gemini 3.1 Proを超える——コストは1/10",
+      "published_date": "2026-06-06",
+      "collected_date": "2026-06-08",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "title": "WWDC 2026：Gemini搭載の新Siriと「AIエージェント対応App Store」の全貌",
+      "published_date": "2026-06-06",
+      "collected_date": "2026-06-08",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943920/ai-content-creators-harder-to-spot-social-media",
+      "title": "AIコンテンツクリエイターを見分けるのがもはや不可能——SNS各社が対応に苦慮",
+      "published_date": "2026-06-07",
+      "collected_date": "2026-06-08",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/an-introduction-to-multi-agent-systems/",
+      "title": "マルチエージェントシステム入門——2026年、設計パターンと企業導入の実践ガイド",
+      "published_date": "2026-06-07",
+      "collected_date": "2026-06-08",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/new-york-bill-would-ban-ai-companion-chatbots-minors/",
+      "title": "ニューヨーク州がAIコンパニオン禁止法案を可決——未成年者保護の新基準へ",
+      "published_date": "2026-06-05",
+      "collected_date": "2026-06-08",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-05T07:00:00+09:00",
-    "total_articles": 36,
+    "last_updated": "2026-06-08T07:00:00+09:00",
+    "total_articles": 30,
     "retention_days": 7,
     "version": "1.0"
   }
