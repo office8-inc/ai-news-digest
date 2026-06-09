@@ -209,11 +209,60 @@
       "published_date": "2026-06-08",
       "collected_date": "2026-06-09",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+      "title": "Claude Fable 5の一般公開——Mythosクラスを安全ガードで開放",
+      "published_date": "2026-06-09",
+      "collected_date": "2026-06-10",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "title": "AnthropicのMythos5とFable5——安全保障と公開能力の分岐戦略",
+      "published_date": "2026-06-09",
+      "collected_date": "2026-06-10",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://venturebeat.com/technology/apples-new-siri-ai-is-more-than-just-a-smarter-assistant-its-a-new-enterprise-app-layer",
+      "title": "Siri AIは企業アプリのAI統合基盤に変革する",
+      "published_date": "2026-06-09",
+      "collected_date": "2026-06-10",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "title": "AppleのAI写真編集——「写真とは何か」の哲学的問いを投げかける",
+      "published_date": "2026-06-09",
+      "collected_date": "2026-06-10",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "title": "MicrosoftがAnthropicの「Claude意識論」を公開批判",
+      "published_date": "2026-06-09",
+      "collected_date": "2026-06-10",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "title": "2026年中間のAIを読み解く5つのテーマ",
+      "published_date": "2026-06-09",
+      "collected_date": "2026-06-10",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-hardware-that-makes-ai-possible-artificial-intelligence-cpus-gpus-tpus-and-npus-2cbe7c231c8c",
+      "title": "AI開発を支えるハードウェアの全体像——CPU・GPU・TPU・NPUを整理する",
+      "published_date": "2026-06-09",
+      "collected_date": "2026-06-10",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-09T07:00:00+09:00",
-    "total_articles": 30,
+    "last_updated": "2026-06-10T07:00:00+09:00",
+    "total_articles": 37,
     "retention_days": 7,
     "version": "1.0"
   }
