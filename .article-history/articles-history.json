@@ -107,7 +107,7 @@
     },
     {
       "url": "https://www.theverge.com/news/646968/openai-chatgpt-long-term-memory-upgrade",
-      "title": "ChatGPTの長期記憶拡張で“個人最適AI”が一段進む",
+      "title": "ChatGPTの長期記憶拡張で「個人最適AI」が一段進む",
       "published_date": "2026-06-04",
       "collected_date": "2026-06-05",
       "source": "The Verge"
@@ -258,11 +258,67 @@
       "published_date": "2026-06-09",
       "collected_date": "2026-06-10",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know",
+      "title": "AnthropicのAmodei CEO、航空機のようなAI規制モデルを提唱——$3.5億ドルの雇用対策基金も発表",
+      "published_date": "2026-06-10",
+      "collected_date": "2026-06-11",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "title": "xAIがGrokの安全性を警告したエンジニアを解雇——SpaceX IPO直前の告発として訴訟に",
+      "published_date": "2026-06-10",
+      "collected_date": "2026-06-11",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "title": "MicrosoftがClaude Fable 5の社内利用を制限——データ保持ポリシーが企業AI導入の新たなハードルに",
+      "published_date": "2026-06-10",
+      "collected_date": "2026-06-11",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "title": "GoogleがLens写真・検索音声・翻訳音声のAI学習利用を開始——新「検索サービス履歴」設定でオプトアウト可能",
+      "published_date": "2026-06-10",
+      "collected_date": "2026-06-11",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
+      "title": "AIの脅威激化でCISAが連邦機関に最短3日でのパッチ適用を義務化",
+      "published_date": "2026-06-10",
+      "collected_date": "2026-06-11",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+      "title": "「AIオールイン」企業の月間AI支出は1人当たり7,500ドル——Ramp AIインデックスが実態を公開",
+      "published_date": "2026-06-10",
+      "collected_date": "2026-06-11",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://towardsdatascience.com/physical-ai-what-it-is-and-what-it-is-not/",
+      "title": "「フィジカルAI」とは何か——世界モデル・具現化AI・物理AI・デジタルツインとの違いを整理する",
+      "published_date": "2026-06-10",
+      "collected_date": "2026-06-11",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "title": "MIT TR Daily：シアトルのデータセンター1年凍結、宇宙データセンターほかAI政策の動向まとめ",
+      "published_date": "2026-06-10",
+      "collected_date": "2026-06-11",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-10T07:00:00+09:00",
-    "total_articles": 37,
+    "last_updated": "2026-06-11T00:00:00+00:00",
+    "total_articles": 45,
     "retention_days": 7,
     "version": "1.0"
   }
