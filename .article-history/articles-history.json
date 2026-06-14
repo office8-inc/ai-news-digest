@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "title": "AI生成訴訟の急増で米裁判所の運用が新局面へ",
-      "published_date": "2026-06-04",
-      "collected_date": "2026-06-05",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/ai/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem-and-most-are-building-the-wrong-solution/",
-      "title": "企業AIの本当の課題はモデルではなくランタイム運用",
-      "published_date": "2026-06-04",
-      "collected_date": "2026-06-05",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-      "title": "Metaがテント型データセンターでAI基盤構築を加速",
-      "published_date": "2026-06-04",
-      "collected_date": "2026-06-05",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/news/646968/openai-chatgpt-long-term-memory-upgrade",
-      "title": "ChatGPTの長期記憶拡張で「個人最適AI」が一段進む",
-      "published_date": "2026-06-04",
-      "collected_date": "2026-06-05",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-navigate-the-shift-from-prompt-based-tools-to-workflow-driven-ai/",
-      "title": "プロンプト作業からワークフロー統合設計への移行",
-      "published_date": "2026-06-04",
-      "collected_date": "2026-06-05",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-      "title": "AI生物兵器悪用リスクへの法整備要求が強まる",
-      "published_date": "2026-06-04",
-      "collected_date": "2026-06-05",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
       "title": "MetaのAIサポートエージェント悪用事件——単純な攻撃が引き起こす深刻なリスク",
       "published_date": "2026-06-05",
@@ -272,11 +230,46 @@
       "published_date": "2026-06-10",
       "collected_date": "2026-06-12",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "title": "AI企業のIPO加速で「公開市場のAI争奪戦」が本格化",
+      "published_date": "2026-06-14",
+      "collected_date": "2026-06-15",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/mcp-solved-tool-calling-a2a-solved-coordination-what-solves-transport",
+      "title": "MCPとA2Aの次に来る論点は「エージェント通信の輸送層」",
+      "published_date": "2026-06-14",
+      "collected_date": "2026-06-15",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "title": "中国関連アクセス疑惑でAnthropic高性能モデル規制が再燃",
+      "published_date": "2026-06-14",
+      "collected_date": "2026-06-15",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+      "title": "ドイツ地裁、GoogleのAI要約誤情報に法的責任を認定",
+      "published_date": "2026-06-13",
+      "collected_date": "2026-06-15",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/4-lines-you-must-include-in-your-claude-skill/",
+      "title": "Claudeスキル改善で「それっぽい誤答」を減らす4行設計",
+      "published_date": "2026-06-14",
+      "collected_date": "2026-06-15",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-12T00:00:00+00:00",
-    "total_articles": 39,
+    "last_updated": "2026-06-14T22:23:31+00:00",
+    "total_articles": 38,
     "retention_days": 7,
     "version": "1.0"
   }
