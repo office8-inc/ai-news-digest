@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
-      "title": "Claude Fable 5の一般公開——Mythosクラスを安全ガードで開放",
-      "published_date": "2026-06-09",
-      "collected_date": "2026-06-10",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
-      "title": "AnthropicのMythos5とFable5——安全保障と公開能力の分岐戦略",
-      "published_date": "2026-06-09",
-      "collected_date": "2026-06-10",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://venturebeat.com/technology/apples-new-siri-ai-is-more-than-just-a-smarter-assistant-its-a-new-enterprise-app-layer",
-      "title": "Siri AIは企業アプリのAI統合基盤に変革する",
-      "published_date": "2026-06-09",
-      "collected_date": "2026-06-10",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
-      "title": "AppleのAI写真編集——「写真とは何か」の哲学的問いを投げかける",
-      "published_date": "2026-06-09",
-      "collected_date": "2026-06-10",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "title": "MicrosoftがAnthropicの「Claude意識論」を公開批判",
-      "published_date": "2026-06-09",
-      "collected_date": "2026-06-10",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "title": "2026年中間のAIを読み解く5つのテーマ",
-      "published_date": "2026-06-09",
-      "collected_date": "2026-06-10",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-hardware-that-makes-ai-possible-artificial-intelligence-cpus-gpus-tpus-and-npus-2cbe7c231c8c",
-      "title": "AI開発を支えるハードウェアの全体像——CPU・GPU・TPU・NPUを整理する",
-      "published_date": "2026-06-09",
-      "collected_date": "2026-06-10",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know",
       "title": "AnthropicのAmodei CEO、航空機のようなAI規制モデルを提唱——$3.5億ドルの雇用対策基金も発表",
       "published_date": "2026-06-10",
@@ -286,10 +237,59 @@
       "published_date": "2026-06-16",
       "collected_date": "2026-06-17",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "title": "G7でAI主権をめぐる緊急議論——米国は一夜にしてAIのスイッチを切れる",
+      "published_date": "2026-06-17",
+      "collected_date": "2026-06-18",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+      "title": "前例なき輸出規制の直撃——「誰も理解できない」法的根拠でAI業界に衝撃",
+      "published_date": "2026-06-17",
+      "collected_date": "2026-06-18",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+      "title": "Pew調査：米国人の63%がAIは速すぎると感じる——利用急増と信頼低迷の逆説",
+      "published_date": "2026-06-17",
+      "collected_date": "2026-06-18",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "title": "ChatGPTのシェアが初めて50%を割り込む——GeminiとClaudeが急追し市場が多極化",
+      "published_date": "2026-06-16",
+      "collected_date": "2026-06-18",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
+      "title": "WeiboのVibeThinker-3Bが巨大AIに迫る——30億パラメータでベンチマーク議論を再燃",
+      "published_date": "2026-06-17",
+      "collected_date": "2026-06-18",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+      "title": "MIT TR The Download：SpaceXがAmazonを時価総額で抜き、AI輸出規制の矛盾が顕在化",
+      "published_date": "2026-06-17",
+      "collected_date": "2026-06-18",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/most-llm-applications-need-a-clear-workflow-not-an-autonomous-agent-heres-how-to-build-7f243e0011d0",
+      "title": "多くのLLMアプリに自律エージェントは不要——ワークフロー設計が鍵",
+      "published_date": "2026-06-17",
+      "collected_date": "2026-06-18",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-17T00:00:00+00:00",
+    "last_updated": "2026-06-18T00:00:00+00:00",
     "total_articles": 41,
     "retention_days": 7,
     "version": "1.0"
