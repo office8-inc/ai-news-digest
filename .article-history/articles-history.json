@@ -1,62 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know",
-      "title": "AnthropicのAmodei CEO、航空機のようなAI規制モデルを提唱——$3.5億ドルの雇用対策基金も発表",
-      "published_date": "2026-06-10",
-      "collected_date": "2026-06-11",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-      "title": "xAIがGrokの安全性を警告したエンジニアを解雇——SpaceX IPO直前の告発として訴訟に",
-      "published_date": "2026-06-10",
-      "collected_date": "2026-06-11",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-      "title": "MicrosoftがClaude Fable 5の社内利用を制限——データ保持ポリシーが企業AI導入の新たなハードルに",
-      "published_date": "2026-06-10",
-      "collected_date": "2026-06-11",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-      "title": "GoogleがLens写真・検索音声・翻訳音声のAI学習利用を開始——新「検索サービス履歴」設定でオプトアウト可能",
-      "published_date": "2026-06-10",
-      "collected_date": "2026-06-11",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.wired.com/story/cisa-ai-vulnerability-directive/",
-      "title": "AIの脅威激化でCISAが連邦機関に最短3日でのパッチ適用を義務化",
-      "published_date": "2026-06-10",
-      "collected_date": "2026-06-11",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "title": "「AIオールイン」企業の月間AI支出は1人当たり7,500ドル——Ramp AIインデックスが実態を公開",
-      "published_date": "2026-06-10",
-      "collected_date": "2026-06-11",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/physical-ai-what-it-is-and-what-it-is-not/",
-      "title": "「フィジカルAI」とは何か——世界モデル・具現化AI・物理AI・デジタルツインとの違いを整理する",
-      "published_date": "2026-06-10",
-      "collected_date": "2026-06-11",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
-      "title": "MIT TR Daily：シアトルのデータセンター1年凍結、宇宙データセンターほかAI政策の動向まとめ",
-      "published_date": "2026-06-10",
-      "collected_date": "2026-06-11",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
       "title": "マルチエージェントAIの大規模相互作用リスクに警鐘——DeepMindらが1000万ドル研究基金を設立",
       "published_date": "2026-06-11",
@@ -286,10 +230,66 @@
       "published_date": "2026-06-17",
       "collected_date": "2026-06-18",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+      "title": "ホワイトハウスはAI規制をアドホックに作っている——Anthropic騒動が暴いた「ルールなき監督」の危機",
+      "published_date": "2026-06-18",
+      "collected_date": "2026-06-19",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "title": "OpenAIがIPO前にTransformer共著者Noam ShazeerとTrump政権元政策担当Dean Ballを獲得",
+      "published_date": "2026-06-18",
+      "collected_date": "2026-06-19",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "title": "AmazonがNvidiaに直接挑戦——TrainiumチップをAWS外に販売へ、年間換算5兆円の新市場",
+      "published_date": "2026-06-18",
+      "collected_date": "2026-06-19",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "title": "AIデータセンターが電力グリッド接続の優先レーンを獲得——FERCが6大グリッド事業者に命令",
+      "published_date": "2026-06-18",
+      "collected_date": "2026-06-19",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+      "title": "MIT TR The Download：ペンタゴンがイランへの攻撃でGrokを使用、AnthropicとDeepMindがAI同盟を訴え",
+      "published_date": "2026-06-18",
+      "collected_date": "2026-06-19",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "title": "MidJourneyが医療AIへ転換——全身超音波スキャン事業に参入、サンフランシスコにスパも開設予定",
+      "published_date": "2026-06-18",
+      "collected_date": "2026-06-19",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+      "title": "Amazon社員3名がデータセンター規制を求めて発言→内部調査へ——AIインフラの「民主的チェック」は可能か",
+      "published_date": "2026-06-18",
+      "collected_date": "2026-06-19",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/structured-outputs-with-llms-json-mode-function-calling-and-when-to-use-each/",
+      "title": "LLMから構造化出力を得る実践ガイド——JSONモード・関数呼び出し・Structured Outputsの使い分け",
+      "published_date": "2026-06-18",
+      "collected_date": "2026-06-19",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-18T00:00:00+00:00",
+    "last_updated": "2026-06-19T00:00:00+00:00",
     "total_articles": 41,
     "retention_days": 7,
     "version": "1.0"
