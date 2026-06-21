@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-      "title": "マルチエージェントAIの大規模相互作用リスクに警鐘——DeepMindらが1000万ドル研究基金を設立",
-      "published_date": "2026-06-11",
-      "collected_date": "2026-06-12",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
-      "title": "MicrosoftのオープンソースSkillOptが再学習なしにAIエージェントのスキルを自動最適化",
-      "published_date": "2026-06-11",
-      "collected_date": "2026-06-12",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "title": "DeezerがSpotify・Apple Music対応の無料AI音楽検出ツールを公開——AI生成音楽のストリーミング詐欺問題に正面から対応",
-      "published_date": "2026-06-11",
-      "collected_date": "2026-06-12",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948106/anthropic-apologizes-invisible-claude-fable-guardrails",
-      "title": "AnthropicがClaude Fableの「不可視ガードレール」を謝罪——通知なしに出力を劣化させる設計が問題視される",
-      "published_date": "2026-06-11",
-      "collected_date": "2026-06-12",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/when-gpu-utilization-lies-the-hidden-systems-problem-slowing-modern-ai-96086f3eaa1f",
-      "title": "「GPU使用率100%」が嘘をつく理由——AI推論を実際に遅らせているシステムのボトルネック診断",
-      "published_date": "2026-06-11",
-      "collected_date": "2026-06-12",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/florida-wrongful-arrest-facial-recognition-aclu-lawsuit/",
-      "title": "顔認識AIによる冤罪でACLUがフロリダ州警察を提訴——最古の警察用顔認識システムの欠陥が再び浮き彫りに",
-      "published_date": "2026-06-10",
-      "collected_date": "2026-06-12",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
       "title": "AI企業のIPO加速で「公開市場のAI争奪戦」が本格化",
       "published_date": "2026-06-14",
@@ -286,11 +244,60 @@
       "published_date": "2026-06-18",
       "collected_date": "2026-06-19",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "title": "ノーベル賞科学者ジョン・ジャンパーがAlphaFold研究を携えAnthropicへ——DeepMindで続く大型流出",
+      "published_date": "2026-06-20",
+      "collected_date": "2026-06-22",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
+      "title": "MicrosoftがOpenAI・Googleに正面から挑む3つの新AIモデル——「AI自立」を鮮明に",
+      "published_date": "2026-06-21",
+      "collected_date": "2026-06-22",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://venturebeat.com/technology/artificial-analysis-overhauls-its-ai-intelligence-index-replacing-popular",
+      "title": "AIモデル評価が学術から実務へ大転換——Artificial AnalysisがMMlu廃棄し「経済的生産性」44職種テストへ",
+      "published_date": "2026-06-21",
+      "collected_date": "2026-06-22",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "title": "1200万曲がAI訓練に無断使用——The AtlanticがAI音楽データセットを誰でも検索可能にして公開",
+      "published_date": "2026-06-20",
+      "collected_date": "2026-06-22",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "title": "LLMの根本的ボトルネックを解決したと主張するスタートアップ——Subquadraticの「数学的ブレークスルー」に外部検証が動く",
+      "published_date": "2026-06-19",
+      "collected_date": "2026-06-22",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "title": "新SiriがGemini搭載でついに「本物のAIアシスタント」に——Wiredが辛口ハンズオン評価",
+      "published_date": "2026-06-20",
+      "collected_date": "2026-06-22",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/",
+      "title": "スキャンPDFをRAGに組み込む際の落とし穴——EasyOCRは「テキスト」は取れるが「文書構造」は無視する",
+      "published_date": "2026-06-21",
+      "collected_date": "2026-06-22",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-19T00:00:00+00:00",
-    "total_articles": 41,
+    "last_updated": "2026-06-22T00:00:00+00:00",
+    "total_articles": 42,
     "retention_days": 7,
     "version": "1.0"
   }
