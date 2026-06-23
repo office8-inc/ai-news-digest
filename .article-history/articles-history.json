@@ -1,111 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "title": "米政府のAnthropic禁止令は「ジェイルブレイク」が真因ではなかった——政治的対立と強権的前例",
-      "published_date": "2026-06-15",
-      "collected_date": "2026-06-16",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-effectively-align-with-claude-code/",
-      "title": "Claude Codeとの「アライメント」を改善する実践ガイド——AGENTS.mdとフィードバックループ設計",
-      "published_date": "2026-06-15",
-      "collected_date": "2026-06-16",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
-      "title": "ナデラCEO：「AIが産業を空洞化させる」——グローバリゼーション問題に学ぶ企業のAI主権",
-      "published_date": "2026-06-15",
-      "collected_date": "2026-06-16",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "title": "なぜ韓国人はAIが好きなのか——懸念率16%、AI受容率世界最高の背景と盲点",
-      "published_date": "2026-06-15",
-      "collected_date": "2026-06-16",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "title": "Anthropic強制停止が示す「非米国AI」の必要性——AI主権が現実の政策課題に",
-      "published_date": "2026-06-15",
-      "collected_date": "2026-06-16",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-      "title": "ビッグテックのAI規制連邦統一への最後の攻防——子供安全問題を抱き込んだ超党派合意を狙う",
-      "published_date": "2026-06-15",
-      "collected_date": "2026-06-16",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.wired.com/story/meta-rank-one-computing-face-recognition-smart-glasses/",
-      "title": "MetaがARグラスに国防系顔認識技術を試験導入——元CIA・FBI幹部が関与する企業と提携",
-      "published_date": "2026-06-15",
-      "collected_date": "2026-06-16",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-      "title": "AnthropicへのTrump政権攻撃が逆に企業採用を後押し——売上データが示す逆説",
-      "published_date": "2026-06-16",
-      "collected_date": "2026-06-17",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-      "title": "「AI」という言葉がブランドを傷つける——米国調査で消費者の60%がAI表記に否定的",
-      "published_date": "2026-06-16",
-      "collected_date": "2026-06-17",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-      "title": "SpaceXがIPO直後にAIコーディングツール「Cursor」を600億ドルで買収",
-      "published_date": "2026-06-16",
-      "collected_date": "2026-06-17",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/llm-fallbacks-break-agent-pipelines-i-built-the-missing-recovery-layer/",
-      "title": "LLMフォールバックがエージェントパイプラインを無言で壊す——回復レイヤーの設計",
-      "published_date": "2026-06-16",
-      "collected_date": "2026-06-17",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
-      "title": "Z.aiのオープンウェイトGLM-5.2がGPT-5.5を複数ベンチマークで上回り1/6のコストで登場",
-      "published_date": "2026-06-16",
-      "collected_date": "2026-06-17",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
-      "title": "DeepSeekが70億ドル調達で中国最大のAIスタートアップに——MIT TR Daily",
-      "published_date": "2026-06-16",
-      "collected_date": "2026-06-17",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
-      "title": "Claude Mythos 5をめぐる攻防の内幕——「危険すぎる」認定を巡る戦い",
-      "published_date": "2026-06-16",
-      "collected_date": "2026-06-17",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-      "title": "「危険なAIモデルは規制に関係なく必ず来る」——Anthropic規制が隠す本質的問題",
-      "published_date": "2026-06-16",
-      "collected_date": "2026-06-17",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
       "title": "ChatGPTのシェアが初めて50%を割り込む——GeminiとClaudeが急追し市場が多極化",
       "published_date": "2026-06-16",
@@ -300,11 +195,46 @@
       "published_date": "2026-06-22",
       "collected_date": "2026-06-23",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "title": "4億ドル露光装置が左右するAI半導体覇権――ASML独占と地政学リスク",
+      "published_date": "2026-06-23",
+      "collected_date": "2026-06-24",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
+      "title": "AnthropicがSlack常駐エージェント『Claude Tag』を公開――企業内AI同僚の本格運用へ",
+      "published_date": "2026-06-23",
+      "collected_date": "2026-06-24",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "title": "AIを理由にした大型レイオフが加速――TechCrunchが主要企業の削減実態を追跡",
+      "published_date": "2026-06-22",
+      "collected_date": "2026-06-24",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "title": "Midjourneyの医療超音波構想に専門家が懐疑――『MRI級』主張は根拠不足",
+      "published_date": "2026-06-23",
+      "collected_date": "2026-06-24",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-create-powerful-loops-in-claude-code/",
+      "title": "Claude Codeの『ループ運用』実践――自己検証で開発エージェントを自律化する方法",
+      "published_date": "2026-06-23",
+      "collected_date": "2026-06-24",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-23T00:00:00+00:00",
-    "total_articles": 43,
+    "last_updated": "2026-06-24T00:00:00+00:00",
+    "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
   }
