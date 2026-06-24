@@ -230,11 +230,53 @@
       "published_date": "2026-06-23",
       "collected_date": "2026-06-24",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
+      "title": "OpenAIが独自AIチップ「Jalapeño」を発表——Broadcom製ASICで推論コストと供給リスクを同時に解消",
+      "published_date": "2026-06-24",
+      "collected_date": "2026-06-25",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "title": "StripeとAI企業が5億ドルの非営利法人設立——呼吸器ウイルス根絶を目標に",
+      "published_date": "2026-06-24",
+      "collected_date": "2026-06-25",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "title": "ヒューマノイドロボットのAgility Roboticsが25億ドルSPAC上場を発表——西側初のヒューマノイド純粋上場企業へ",
+      "published_date": "2026-06-24",
+      "collected_date": "2026-06-25",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "title": "AI業界が2700万ドルを投じた選挙戦——NY下院選でAI規制派候補が僅差の敗北",
+      "published_date": "2026-06-24",
+      "collected_date": "2026-06-25",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/why-i-stopped-using-one-agent-and-built-a-multi-agent-pipeline-instead/",
+      "title": "単一エージェントの限界を実感——マルチエージェントパイプラインへの転換が複雑AIタスクを解決",
+      "published_date": "2026-06-24",
+      "collected_date": "2026-06-25",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+      "title": "中国トップAI研究者との対話が示した「AIチェルノブイリ」への共通の恐怖——米中協調の必要性",
+      "published_date": "2026-06-24",
+      "collected_date": "2026-06-25",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-24T00:00:00+00:00",
-    "total_articles": 33,
+    "last_updated": "2026-06-25T00:00:00+00:00",
+    "total_articles": 39,
     "retention_days": 7,
     "version": "1.0"
   }
