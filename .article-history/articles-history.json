@@ -1,53 +1,11 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-      "title": "ChatGPTのシェアが初めて50%を割り込む——GeminiとClaudeが急追し市場が多極化",
-      "published_date": "2026-06-16",
-      "collected_date": "2026-06-18",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-      "title": "G7でAI主権をめぐる緊急議論——米国は一夜にしてAIのスイッチを切れる",
-      "published_date": "2026-06-17",
-      "collected_date": "2026-06-18",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/most-llm-applications-need-a-clear-workflow-not-an-autonomous-agent-heres-how-to-build-7f243e0011d0",
-      "title": "多くのLLMアプリに自律エージェントは不要——ワークフロー設計が鍵",
-      "published_date": "2026-06-17",
-      "collected_date": "2026-06-18",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
-      "title": "WeiboのVibeThinker-3Bが巨大AIに迫る——30億パラメータでベンチマーク議論を再燃",
-      "published_date": "2026-06-17",
-      "collected_date": "2026-06-18",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
-      "title": "Pew調査：米国人の63%がAIは速すぎると感じる——利用急増と信頼低迷の逆説",
-      "published_date": "2026-06-17",
-      "collected_date": "2026-06-18",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-      "title": "MIT TR The Download：SpaceXがAmazonを時価総額で抜き、AI輸出規制の矛盾が顕在化",
-      "published_date": "2026-06-17",
-      "collected_date": "2026-06-18",
+      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+      "title": "MIT TR The Download：ペンタゴンがイランへの攻撃でGrokを使用、AnthropicとDeepMindがAI同盟を訴え",
+      "published_date": "2026-06-18",
+      "collected_date": "2026-06-19",
       "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-      "title": "前例なき輸出規制の直撃——「誰も理解できない」法的根拠でAI業界に衝撃",
-      "published_date": "2026-06-17",
-      "collected_date": "2026-06-18",
-      "source": "The Verge"
     },
     {
       "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
@@ -71,25 +29,18 @@
       "source": "TechCrunch"
     },
     {
-      "url": "https://towardsdatascience.com/structured-outputs-with-llms-json-mode-function-calling-and-when-to-use-each/",
-      "title": "LLMから構造化出力を得る実践ガイド——JSONモード・関数呼び出し・Structured Outputsの使い分け",
-      "published_date": "2026-06-18",
-      "collected_date": "2026-06-19",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
-      "title": "MIT TR The Download：ペンタゴンがイランへの攻撃でGrokを使用、AnthropicとDeepMindがAI同盟を訴え",
-      "published_date": "2026-06-18",
-      "collected_date": "2026-06-19",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
       "title": "MidJourneyが医療AIへ転換——全身超音波スキャン事業に参入、サンフランシスコにスパも開設予定",
       "published_date": "2026-06-18",
       "collected_date": "2026-06-19",
       "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/structured-outputs-with-llms-json-mode-function-calling-and-when-to-use-each/",
+      "title": "LLMから構造化出力を得る実践ガイド——JSONモード・関数呼び出し・Structured Outputsの使い分け",
+      "published_date": "2026-06-18",
+      "collected_date": "2026-06-19",
+      "source": "Towards Data Science"
     },
     {
       "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
@@ -127,13 +78,6 @@
       "source": "The Verge"
     },
     {
-      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-      "title": "新SiriがGemini搭載でついに「本物のAIアシスタント」に——Wiredが辛口ハンズオン評価",
-      "published_date": "2026-06-20",
-      "collected_date": "2026-06-22",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/",
       "title": "スキャンPDFをRAGに組み込む際の落とし穴——EasyOCRは「テキスト」は取れるが「文書構造」は無視する",
       "published_date": "2026-06-21",
@@ -155,25 +99,11 @@
       "source": "VentureBeat"
     },
     {
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "title": "Google検索ボックス刷新で「キーワード検索」から「対話型探索」へ",
-      "published_date": "2026-05-19",
-      "collected_date": "2026-06-23",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "title": "エージェント開発の次段階「ループ運用」が現実解に",
-      "published_date": "2026-06-22",
-      "collected_date": "2026-06-23",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-use-claude-code-in-your-browser/",
-      "title": "Claude Codeのブラウザ検証が「実装→確認」の往復工数を削減",
-      "published_date": "2026-06-22",
-      "collected_date": "2026-06-23",
-      "source": "Towards Data Science"
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "title": "新SiriがGemini搭載でついに「本物のAIアシスタント」に——Wiredが辛口ハンズオン評価",
+      "published_date": "2026-06-20",
+      "collected_date": "2026-06-22",
+      "source": "Wired (AI)"
     },
     {
       "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
@@ -183,11 +113,32 @@
       "source": "MIT Technology Review"
     },
     {
+      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "title": "エージェント開発の次段階「ループ運用」が現実解に",
+      "published_date": "2026-06-22",
+      "collected_date": "2026-06-23",
+      "source": "TechCrunch"
+    },
+    {
       "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
       "title": "生成AI画像が賃貸市場の「見えない情報非対称」を拡大",
       "published_date": "2026-06-22",
       "collected_date": "2026-06-23",
       "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-use-claude-code-in-your-browser/",
+      "title": "Claude Codeのブラウザ検証が「実装→確認」の往復工数を削減",
+      "published_date": "2026-06-22",
+      "collected_date": "2026-06-23",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "title": "Google検索ボックス刷新で「キーワード検索」から「対話型探索」へ",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-06-23",
+      "source": "VentureBeat"
     },
     {
       "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
@@ -202,13 +153,6 @@
       "published_date": "2026-06-23",
       "collected_date": "2026-06-24",
       "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
-      "title": "AnthropicがSlack常駐エージェント『Claude Tag』を公開――企業内AI同僚の本格運用へ",
-      "published_date": "2026-06-23",
-      "collected_date": "2026-06-24",
-      "source": "VentureBeat"
     },
     {
       "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -232,10 +176,10 @@
       "source": "Towards Data Science"
     },
     {
-      "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
-      "title": "OpenAIが独自AIチップ「Jalapeño」を発表——Broadcom製ASICで推論コストと供給リスクを同時に解消",
-      "published_date": "2026-06-24",
-      "collected_date": "2026-06-25",
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
+      "title": "AnthropicがSlack常駐エージェント『Claude Tag』を公開――企業内AI同僚の本格運用へ",
+      "published_date": "2026-06-23",
+      "collected_date": "2026-06-24",
       "source": "VentureBeat"
     },
     {
@@ -267,16 +211,65 @@
       "source": "Towards Data Science"
     },
     {
+      "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
+      "title": "OpenAIが独自AIチップ「Jalapeño」を発表——Broadcom製ASICで推論コストと供給リスクを同時に解消",
+      "published_date": "2026-06-24",
+      "collected_date": "2026-06-25",
+      "source": "VentureBeat"
+    },
+    {
       "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
       "title": "中国トップAI研究者との対話が示した「AIチェルノブイリ」への共通の恐怖——米中協調の必要性",
       "published_date": "2026-06-24",
       "collected_date": "2026-06-25",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "title": "小売のAI活用は「派手な接客」より意思決定基盤へ——Macy’sがAIファースト運用を拡大",
+      "published_date": "2026-06-25",
+      "collected_date": "2026-06-26",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "title": "AIエージェントの信頼性検証に資金集中——Patronus AIが5000万ドルを調達",
+      "published_date": "2026-06-25",
+      "collected_date": "2026-06-26",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "title": "GPT-5.6公開が限定プレビューへ——米政権の要請で先端モデル提供に事前審査",
+      "published_date": "2026-06-25",
+      "collected_date": "2026-06-26",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/",
+      "title": "マルチエージェント記憶はベクトル検索だけでは不十分——文脈グラフで精度とコストを改善",
+      "published_date": "2026-06-25",
+      "collected_date": "2026-06-26",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
+      "title": "OpenAIのGPT-5.5 Instantが更新——意図理解と複雑条件処理をAPIで即時提供",
+      "published_date": "2026-06-25",
+      "collected_date": "2026-06-26",
+      "source": "VentureBeat"
+    },
+    {
+      "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+      "title": "英警察の予測AI運用で透明性課題が露呈——リスクスコアの信頼性と説明責任が争点に",
+      "published_date": "2026-06-25",
+      "collected_date": "2026-06-26",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-25T00:00:00+00:00",
-    "total_articles": 39,
+    "last_updated": "2026-06-25T22:27:47+00:00",
+    "total_articles": 38,
     "retention_days": 7,
     "version": "1.0"
   }
