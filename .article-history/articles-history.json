@@ -1,53 +1,11 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-      "title": "LLMの根本的ボトルネックを解決したと主張するスタートアップ——Subquadraticの「数学的ブレークスルー」に外部検証が動く",
-      "published_date": "2026-06-19",
-      "collected_date": "2026-06-22",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "title": "ノーベル賞科学者ジョン・ジャンパーがAlphaFold研究を携えAnthropicへ——DeepMindで続く大型流出",
-      "published_date": "2026-06-20",
-      "collected_date": "2026-06-22",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "title": "1200万曲がAI訓練に無断使用——The AtlanticがAI音楽データセットを誰でも検索可能にして公開",
-      "published_date": "2026-06-20",
-      "collected_date": "2026-06-22",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/parse-scanned-pdfs-for-rag-with-easyocr-free-ocr-gives-you-words-not-a-document/",
-      "title": "スキャンPDFをRAGに組み込む際の落とし穴——EasyOCRは「テキスト」は取れるが「文書構造」は無視する",
-      "published_date": "2026-06-21",
-      "collected_date": "2026-06-22",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/technology/artificial-analysis-overhauls-its-ai-intelligence-index-replacing-popular",
-      "title": "AIモデル評価が学術から実務へ大転換——Artificial AnalysisがMMlu廃棄し「経済的生産性」44職種テストへ",
-      "published_date": "2026-06-21",
-      "collected_date": "2026-06-22",
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "title": "Google検索ボックス刷新で「キーワード検索」から「対話型探索」へ",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-06-23",
       "source": "VentureBeat"
-    },
-    {
-      "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google",
-      "title": "MicrosoftがOpenAI・Googleに正面から挑む3つの新AIモデル——「AI自立」を鮮明に",
-      "published_date": "2026-06-21",
-      "collected_date": "2026-06-22",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-      "title": "新SiriがGemini搭載でついに「本物のAIアシスタント」に——Wiredが辛口ハンズオン評価",
-      "published_date": "2026-06-20",
-      "collected_date": "2026-06-22",
-      "source": "Wired (AI)"
     },
     {
       "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
@@ -78,13 +36,6 @@
       "source": "Towards Data Science"
     },
     {
-      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "title": "Google検索ボックス刷新で「キーワード検索」から「対話型探索」へ",
-      "published_date": "2026-05-19",
-      "collected_date": "2026-06-23",
-      "source": "VentureBeat"
-    },
-    {
       "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
       "title": "OpenAIがOSS防衛を本格化、AI時代の脆弱性対応を共同運用へ",
       "published_date": "2026-06-22",
@@ -92,18 +43,18 @@
       "source": "Wired (AI)"
     },
     {
-      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-      "title": "4億ドル露光装置が左右するAI半導体覇権――ASML独占と地政学リスク",
-      "published_date": "2026-06-23",
-      "collected_date": "2026-06-24",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "title": "AIを理由にした大型レイオフが加速――TechCrunchが主要企業の削減実態を追跡",
       "published_date": "2026-06-22",
       "collected_date": "2026-06-24",
       "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+      "title": "4億ドル露光装置が左右するAI半導体覇権――ASML独占と地政学リスク",
+      "published_date": "2026-06-23",
+      "collected_date": "2026-06-24",
+      "source": "MIT Technology Review"
     },
     {
       "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
@@ -244,11 +195,46 @@
       "published_date": "2026-06-28",
       "collected_date": "2026-06-29",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "title": "AIエージェントを『同僚』として扱うと監督品質が低下——MIT Technology Reviewが警鐘",
+      "published_date": "2026-06-29",
+      "collected_date": "2026-06-30",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "title": "カリフォルニア州がAnthropicと提携、行政向けClaudeを割引導入",
+      "published_date": "2026-06-29",
+      "collected_date": "2026-06-30",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "title": "米議会でAI時代向けの健康・位置情報保護法案を再設計",
+      "published_date": "2026-06-29",
+      "collected_date": "2026-06-30",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/prompt-engineering-fails-quietly-prompt-regression-is-why/",
+      "title": "プロンプト回帰を防ぐ実践手法——『偽の改善』を検知するテスト設計",
+      "published_date": "2026-06-29",
+      "collected_date": "2026-06-30",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "title": "Meta委託先が未成年を装い競合チャットボットの安全性を検証",
+      "published_date": "2026-06-29",
+      "collected_date": "2026-06-30",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-28T22:23:13+00:00",
-    "total_articles": 35,
+    "last_updated": "2026-06-29T22:21:49+00:00",
+    "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
   }
