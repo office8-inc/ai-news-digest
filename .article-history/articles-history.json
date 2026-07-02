@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-      "title": "StripeとAI企業が5億ドルの非営利法人設立——呼吸器ウイルス根絶を目標に",
-      "published_date": "2026-06-24",
-      "collected_date": "2026-06-25",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "title": "ヒューマノイドロボットのAgility Roboticsが25億ドルSPAC上場を発表——西側初のヒューマノイド純粋上場企業へ",
-      "published_date": "2026-06-24",
-      "collected_date": "2026-06-25",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "title": "AI業界が2700万ドルを投じた選挙戦——NY下院選でAI規制派候補が僅差の敗北",
-      "published_date": "2026-06-24",
-      "collected_date": "2026-06-25",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/why-i-stopped-using-one-agent-and-built-a-multi-agent-pipeline-instead/",
-      "title": "単一エージェントの限界を実感——マルチエージェントパイプラインへの転換が複雑AIタスクを解決",
-      "published_date": "2026-06-24",
-      "collected_date": "2026-06-25",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models",
-      "title": "OpenAIが独自AIチップ「Jalapeño」を発表——Broadcom製ASICで推論コストと供給リスクを同時に解消",
-      "published_date": "2026-06-24",
-      "collected_date": "2026-06-25",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
-      "title": "中国トップAI研究者との対話が示した「AIチェルノブイリ」への共通の恐怖——米中協調の必要性",
-      "published_date": "2026-06-24",
-      "collected_date": "2026-06-25",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "title": "小売のAI活用は「派手な接客」より意思決定基盤へ——Macy’sがAIファースト運用を拡大",
       "published_date": "2026-06-25",
@@ -237,11 +195,46 @@
       "published_date": "2026-07-01",
       "collected_date": "2026-07-02",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "title": "AI運用の成否は「業務プロセス基盤」で決まる——MIT Insightsが実装現場を分析",
+      "published_date": "2026-07-02",
+      "collected_date": "2026-07-03",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "title": "Microsoftが25億ドルでAI導入専門組織を新設——企業実装の主戦場化",
+      "published_date": "2026-07-02",
+      "collected_date": "2026-07-03",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960381/openai-lawsuit-claims-chatgpt-4o-escalated-a-mans-manic-episode-into-a-weeks-long-delusion-and-self-harm",
+      "title": "ChatGPTとの対話が自傷行為を悪化させたとして提訴——AI安全設計の法的リスクが拡大",
+      "published_date": "2026-07-01",
+      "collected_date": "2026-07-03",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/tokenminning-how-to-get-more-from-your-chatbot-for-less/",
+      "title": "“Tokenminning”が実運用の新常識に——AIコストはプロンプト設計で削減できる",
+      "published_date": "2026-07-02",
+      "collected_date": "2026-07-03",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+      "title": "SpaceX買収後のCursorは中立性を維持できるか——AI供給網の新たな緊張",
+      "published_date": "2026-07-02",
+      "collected_date": "2026-07-03",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-01T22:26:00+00:00",
-    "total_articles": 34,
+    "last_updated": "2026-07-02T22:20:35+00:00",
+    "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
   }
