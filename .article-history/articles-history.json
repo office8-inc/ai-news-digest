@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "title": "小売のAI活用は「派手な接客」より意思決定基盤へ——Macy’sがAIファースト運用を拡大",
-      "published_date": "2026-06-25",
-      "collected_date": "2026-06-26",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "title": "AIエージェントの信頼性検証に資金集中——Patronus AIが5000万ドルを調達",
-      "published_date": "2026-06-25",
-      "collected_date": "2026-06-26",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "title": "GPT-5.6公開が限定プレビューへ——米政権の要請で先端モデル提供に事前審査",
-      "published_date": "2026-06-25",
-      "collected_date": "2026-06-26",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/vector-rag-isnt-enough-i-built-a-context-graph-layer-for-multi-agent-memory/",
-      "title": "マルチエージェント記憶はベクトル検索だけでは不十分——文脈グラフで精度とコストを改善",
-      "published_date": "2026-06-25",
-      "collected_date": "2026-06-26",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
-      "title": "OpenAIのGPT-5.5 Instantが更新——意図理解と複雑条件処理をAPIで即時提供",
-      "published_date": "2026-06-25",
-      "collected_date": "2026-06-26",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
-      "title": "英警察の予測AI運用で透明性課題が露呈——リスクスコアの信頼性と説明責任が争点に",
-      "published_date": "2026-06-25",
-      "collected_date": "2026-06-26",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
       "title": "Fordが熟練技術者350人を再配置——AI品質管理の穴を現場知見で補完",
       "published_date": "2026-06-28",
@@ -113,11 +71,11 @@
       "source": "Wired (AI)"
     },
     {
-      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
-      "title": "Claude Sonnet 5、IPO前に大幅値引き——Opus 4.8に迫る性能でエージェントAI価格戦争が本格化",
+      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+      "title": "BIS警告「AI投資バブルはドットコム超え」——債務主導のブームが生むシステミックリスク",
       "published_date": "2026-06-30",
       "collected_date": "2026-07-01",
-      "source": "VentureBeat"
+      "source": "MIT Technology Review"
     },
     {
       "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
@@ -134,18 +92,18 @@
       "source": "The Verge"
     },
     {
-      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-      "title": "BIS警告「AI投資バブルはドットコム超え」——債務主導のブームが生むシステミックリスク",
-      "published_date": "2026-06-30",
-      "collected_date": "2026-07-01",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://towardsdatascience.com/",
       "title": "AI時代にデータサイエンティストが差別化する3つの軸——ツール依存からビジネス定式化へ",
       "published_date": "2026-06-30",
       "collected_date": "2026-07-01",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
+      "title": "Claude Sonnet 5、IPO前に大幅値引き——Opus 4.8に迫る性能でエージェントAI価格戦争が本格化",
+      "published_date": "2026-06-30",
+      "collected_date": "2026-07-01",
+      "source": "VentureBeat"
     },
     {
       "url": "https://www.wired.com/tag/artificial-intelligence/",
@@ -160,13 +118,6 @@
       "published_date": "2026-07-01",
       "collected_date": "2026-07-02",
       "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
-      "title": "AnthropicがClaude Fable 5のグローバル提供を再開――規制リスク下での企業導入が再始動",
-      "published_date": "2026-07-01",
-      "collected_date": "2026-07-02",
-      "source": "VentureBeat"
     },
     {
       "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
@@ -190,11 +141,25 @@
       "source": "Towards Data Science"
     },
     {
+      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+      "title": "AnthropicがClaude Fable 5のグローバル提供を再開――規制リスク下での企業導入が再始動",
+      "published_date": "2026-07-01",
+      "collected_date": "2026-07-02",
+      "source": "VentureBeat"
+    },
+    {
       "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
       "title": "AI不具合の通報基盤FLARE-AI始動――安全性報告の標準化へ",
       "published_date": "2026-07-01",
       "collected_date": "2026-07-02",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960381/openai-lawsuit-claims-chatgpt-4o-escalated-a-mans-manic-episode-into-a-weeks-long-delusion-and-self-harm",
+      "title": "ChatGPTとの対話が自傷行為を悪化させたとして提訴——AI安全設計の法的リスクが拡大",
+      "published_date": "2026-07-01",
+      "collected_date": "2026-07-03",
+      "source": "The Verge"
     },
     {
       "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
@@ -211,13 +176,6 @@
       "source": "TechCrunch"
     },
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/960381/openai-lawsuit-claims-chatgpt-4o-escalated-a-mans-manic-episode-into-a-weeks-long-delusion-and-self-harm",
-      "title": "ChatGPTとの対話が自傷行為を悪化させたとして提訴——AI安全設計の法的リスクが拡大",
-      "published_date": "2026-07-01",
-      "collected_date": "2026-07-03",
-      "source": "The Verge"
-    },
-    {
       "url": "https://towardsdatascience.com/tokenminning-how-to-get-more-from-your-chatbot-for-less/",
       "title": "“Tokenminning”が実運用の新常識に——AIコストはプロンプト設計で削減できる",
       "published_date": "2026-07-02",
@@ -230,11 +188,46 @@
       "published_date": "2026-07-02",
       "collected_date": "2026-07-03",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/setting-up-your-own-large-language-model/",
+      "title": "ローカルLLM実装が現実解に、オフライン運用で主権性とコスト統制を両立",
+      "published_date": "2026-07-04",
+      "collected_date": "2026-07-06",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "title": "富裕層向け「AI家庭教師学校」が拡大、教育格差と検証責任が焦点",
+      "published_date": "2026-07-05",
+      "collected_date": "2026-07-06",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "title": "建国神話に生成AIを重ねたGoogle広告が物議、ブランドとAI活用の境界線が露出",
+      "published_date": "2026-07-05",
+      "collected_date": "2026-07-06",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/assemble-each-rag-generation-prompt-from-a-base-prompt-plus-the-rules-each-question-needs/",
+      "title": "RAG回答は「固定プロンプト」から脱却、質問ごとのルール合成が実装標準に",
+      "published_date": "2026-07-05",
+      "collected_date": "2026-07-06",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/panet-paper-walkthrough-when-feature-pyramids-go-bottom-up/",
+      "title": "PANet再評価で見える実務知見、特徴ピラミッドは“片方向”では限界がある",
+      "published_date": "2026-07-05",
+      "collected_date": "2026-07-06",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-02T22:20:35+00:00",
-    "total_articles": 33,
+    "last_updated": "2026-07-05T22:49:39+00:00",
+    "total_articles": 32,
     "retention_days": 7,
     "version": "1.0"
   }
