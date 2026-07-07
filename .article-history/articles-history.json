@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "title": "AIエージェントを『同僚』として扱うと監督品質が低下——MIT Technology Reviewが警鐘",
-      "published_date": "2026-06-29",
-      "collected_date": "2026-06-30",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "title": "カリフォルニア州がAnthropicと提携、行政向けClaudeを割引導入",
-      "published_date": "2026-06-29",
-      "collected_date": "2026-06-30",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-      "title": "米議会でAI時代向けの健康・位置情報保護法案を再設計",
-      "published_date": "2026-06-29",
-      "collected_date": "2026-06-30",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/prompt-engineering-fails-quietly-prompt-regression-is-why/",
-      "title": "プロンプト回帰を防ぐ実践手法——『偽の改善』を検知するテスト設計",
-      "published_date": "2026-06-29",
-      "collected_date": "2026-06-30",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-      "title": "Meta委託先が未成年を装い競合チャットボットの安全性を検証",
-      "published_date": "2026-06-29",
-      "collected_date": "2026-06-30",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
       "title": "BIS警告「AI投資バブルはドットコム超え」——債務主導のブームが生むシステミックリスク",
       "published_date": "2026-06-30",
@@ -223,11 +188,53 @@
       "published_date": "2026-07-06",
       "collected_date": "2026-07-07",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "title": "AI導入を拡張するための基盤設計4要素——データ・文脈・ガバナンス・人材を再定義",
+      "published_date": "2026-07-07",
+      "collected_date": "2026-07-08",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "title": "MetaのMuse ImageがInstagram公開写真を生成素材化、同意管理が新たな争点に",
+      "published_date": "2026-07-07",
+      "collected_date": "2026-07-08",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "title": "Claude Coworkがモバイル／Webに拡大、AI作業の常時実行が現実的な選択肢へ",
+      "published_date": "2026-07-07",
+      "collected_date": "2026-07-08",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/a-production-rag-pipeline-for-pdfs-relational-parsing-toc-retrieval-typed-answers/",
+      "title": "PDF向け本番RAGは型付き回答へ——根拠追跡を前提にした実装パイプライン",
+      "published_date": "2026-07-07",
+      "collected_date": "2026-07-08",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/proxy-pointer-rag-temporal-reasoning-without-semantic-precompilation/",
+      "title": "Proxy-Pointer RAGが示す後払い推論——事前コンパイル偏重からの脱却",
+      "published_date": "2026-07-07",
+      "collected_date": "2026-07-08",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "title": "OpenAIのチーフ・フューチャリスト退任で、安全性ガバナンスの継続性に注目",
+      "published_date": "2026-07-07",
+      "collected_date": "2026-07-08",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-06T22:58:56+00:00",
-    "total_articles": 32,
+    "last_updated": "2026-07-07T22:50:25+00:00",
+    "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
   }
