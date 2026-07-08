@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-      "title": "BIS警告「AI投資バブルはドットコム超え」——債務主導のブームが生むシステミックリスク",
-      "published_date": "2026-06-30",
-      "collected_date": "2026-07-01",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "title": "Claude ScienceがAI研究ワークベンチ市場を開拓——専用モデルではなく「ワークフロー統合」で科学者を獲得へ",
-      "published_date": "2026-06-30",
-      "collected_date": "2026-07-01",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "title": "NetflixがAI生成のジーン・ワイルダー声でウィリー・ウォンカ番組を制作——故人音声の復元に倫理論争",
-      "published_date": "2026-06-30",
-      "collected_date": "2026-07-01",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/",
-      "title": "AI時代にデータサイエンティストが差別化する3つの軸——ツール依存からビジネス定式化へ",
-      "published_date": "2026-06-30",
-      "collected_date": "2026-07-01",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
-      "title": "Claude Sonnet 5、IPO前に大幅値引き——Opus 4.8に迫る性能でエージェントAI価格戦争が本格化",
-      "published_date": "2026-06-30",
-      "collected_date": "2026-07-01",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.wired.com/tag/artificial-intelligence/",
-      "title": "Wired特集「AI or Die Trying」——見えないインフラになったAIが療法・教育・政府業務を変える",
-      "published_date": "2026-07-01",
-      "collected_date": "2026-07-01",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "title": "LLMの回答同質化に挑むFlint――創造性を引き出す新アプローチ",
       "published_date": "2026-07-01",
@@ -230,11 +188,46 @@
       "published_date": "2026-07-07",
       "collected_date": "2026-07-08",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "title": "AIプラットフォーム時代の到来――実装競争の主戦場がモデル単体から運用基盤へ",
+      "published_date": "2026-07-08",
+      "collected_date": "2026-07-09",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "title": "OpenAIが新音声モデルを公開――リアルタイム対話で“話し続けられるUI”へ前進",
+      "published_date": "2026-07-08",
+      "collected_date": "2026-07-09",
+      "source": "TechCrunch"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "title": "ChatGPT音声モード刷新――割り込み耐性と同時通話で実用性を底上げ",
+      "published_date": "2026-07-08",
+      "collected_date": "2026-07-09",
+      "source": "The Verge"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-real-challenge-limiting-ai-models-today/",
+      "title": "AIモデルの真の制約はGPUではなくメモリ設計――実務最適化の焦点が明確に",
+      "published_date": "2026-07-08",
+      "collected_date": "2026-07-09",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "title": "自己改善AIは大手研究所だけのものではない――現場主導の改善ループが現実に",
+      "published_date": "2026-07-08",
+      "collected_date": "2026-07-09",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-07T22:50:25+00:00",
-    "total_articles": 33,
+    "last_updated": "2026-07-08T22:54:19+00:00",
+    "total_articles": 32,
     "retention_days": 7,
     "version": "1.0"
   }
