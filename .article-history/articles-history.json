@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "title": "LLMの回答同質化に挑むFlint――創造性を引き出す新アプローチ",
-      "published_date": "2026-07-01",
-      "collected_date": "2026-07-02",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "title": "CloudflareがAIクローラー方針を転換――出版社コンテンツ対価モデルが本格化",
-      "published_date": "2026-07-01",
-      "collected_date": "2026-07-02",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "title": "Google新スマートスピーカーをThe Vergeが検証――Gemini連携は高機能だが改善余地",
-      "published_date": "2026-07-01",
-      "collected_date": "2026-07-02",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/persistent-latent-memory-for-multi-hop-llm-agents-how-a-6g-handover-paper-closes-the-agent-cold-start/",
-      "title": "マルチエージェントの文脈引き継ぎを軽量化――ILCPによる潜在メモリ受け渡し手法",
-      "published_date": "2026-07-01",
-      "collected_date": "2026-07-02",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
-      "title": "AnthropicがClaude Fable 5のグローバル提供を再開――規制リスク下での企業導入が再始動",
-      "published_date": "2026-07-01",
-      "collected_date": "2026-07-02",
-      "source": "VentureBeat"
-    },
-    {
-      "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
-      "title": "AI不具合の通報基盤FLARE-AI始動――安全性報告の標準化へ",
-      "published_date": "2026-07-01",
-      "collected_date": "2026-07-02",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/960381/openai-lawsuit-claims-chatgpt-4o-escalated-a-mans-manic-episode-into-a-weeks-long-delusion-and-self-harm",
       "title": "ChatGPTとの対話が自傷行為を悪化させたとして提訴——AI安全設計の法的リスクが拡大",
       "published_date": "2026-07-01",
@@ -223,10 +181,52 @@
       "published_date": "2026-07-08",
       "collected_date": "2026-07-09",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "title": "Claudeの内部概念空間を可視化――挙動監査に向けた「J-space」解析が前進",
+      "published_date": "2026-07-09",
+      "collected_date": "2026-07-10",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
+      "title": "共有APIキーがAIエージェント群の横断リスクに――企業運用の認証設計を再点検",
+      "published_date": "2026-07-09",
+      "collected_date": "2026-07-10",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "title": "OpenAIがGPT-5.6ファミリーを公開――性能・効率・価格を一体で訴求",
+      "published_date": "2026-07-09",
+      "collected_date": "2026-07-10",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "title": "GPT-5.6一般公開とChatGPT Work開始――非エンジニア向けAI作業導線を強化",
+      "published_date": "2026-07-09",
+      "collected_date": "2026-07-10",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/behind-the-scenes-of-distributed-training-why-your-gpu-wiring-matters-as-much-as-your-strategy/",
+      "title": "分散学習の鍵はアルゴリズムだけでなくGPU接続設計――DDP/FSDP運用を実測で比較",
+      "published_date": "2026-07-09",
+      "collected_date": "2026-07-10",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+      "title": "Claude Fable 5が従量課金へ――消費者向けAIでも“使った分だけ”時代に",
+      "published_date": "2026-07-09",
+      "collected_date": "2026-07-10",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-08T22:54:19+00:00",
+    "last_updated": "2026-07-09T23:01:01+00:00",
     "total_articles": 32,
     "retention_days": 7,
     "version": "1.0"
