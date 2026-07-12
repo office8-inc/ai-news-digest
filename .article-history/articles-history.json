@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/960381/openai-lawsuit-claims-chatgpt-4o-escalated-a-mans-manic-episode-into-a-weeks-long-delusion-and-self-harm",
-      "title": "ChatGPTとの対話が自傷行為を悪化させたとして提訴——AI安全設計の法的リスクが拡大",
-      "published_date": "2026-07-01",
-      "collected_date": "2026-07-03",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-      "title": "AI運用の成否は「業務プロセス基盤」で決まる——MIT Insightsが実装現場を分析",
-      "published_date": "2026-07-02",
-      "collected_date": "2026-07-03",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "title": "Microsoftが25億ドルでAI導入専門組織を新設——企業実装の主戦場化",
-      "published_date": "2026-07-02",
-      "collected_date": "2026-07-03",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://towardsdatascience.com/tokenminning-how-to-get-more-from-your-chatbot-for-less/",
-      "title": "“Tokenminning”が実運用の新常識に——AIコストはプロンプト設計で削減できる",
-      "published_date": "2026-07-02",
-      "collected_date": "2026-07-03",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "title": "SpaceX買収後のCursorは中立性を維持できるか——AI供給網の新たな緊張",
-      "published_date": "2026-07-02",
-      "collected_date": "2026-07-03",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://towardsdatascience.com/setting-up-your-own-large-language-model/",
       "title": "ローカルLLM実装が現実解に、オフライン運用で主権性とコスト統制を両立",
       "published_date": "2026-07-04",
@@ -223,11 +188,53 @@
       "published_date": "2026-07-09",
       "collected_date": "2026-07-10",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "title": "ChatGPTが「家庭向けプロダクト」へ拡張、家族利用を前提に再設計",
+      "published_date": "2026-07-11",
+      "collected_date": "2026-07-13",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "title": "企業は「AIを借り続けない」方向へ、オープンモデル活用が加速",
+      "published_date": "2026-07-10",
+      "collected_date": "2026-07-13",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "title": "AIデータセンター建設への反対運動が拡大、地域合意が導入の前提に",
+      "published_date": "2026-07-12",
+      "collected_date": "2026-07-13",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "title": "失敗した自動運転計画がAppleのAI半導体基盤を育てた",
+      "published_date": "2026-07-12",
+      "collected_date": "2026-07-13",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "title": "量子計算×生成AIで新規ペプチド探索を実証、希少データ領域で精度改善",
+      "published_date": "2026-07-12",
+      "collected_date": "2026-07-13",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "title": "OpenAIの安全責任者が退任、安全と研究の統合体制が本格運用へ",
+      "published_date": "2026-07-11",
+      "collected_date": "2026-07-13",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-09T23:01:01+00:00",
-    "total_articles": 32,
+    "last_updated": "2026-07-12T22:36:39+00:00",
+    "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
   }
