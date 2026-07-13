@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://towardsdatascience.com/setting-up-your-own-large-language-model/",
-      "title": "ローカルLLM実装が現実解に、オフライン運用で主権性とコスト統制を両立",
-      "published_date": "2026-07-04",
-      "collected_date": "2026-07-06",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "title": "富裕層向け「AI家庭教師学校」が拡大、教育格差と検証責任が焦点",
-      "published_date": "2026-07-05",
-      "collected_date": "2026-07-06",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "title": "建国神話に生成AIを重ねたGoogle広告が物議、ブランドとAI活用の境界線が露出",
-      "published_date": "2026-07-05",
-      "collected_date": "2026-07-06",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/assemble-each-rag-generation-prompt-from-a-base-prompt-plus-the-rules-each-question-needs/",
-      "title": "RAG回答は「固定プロンプト」から脱却、質問ごとのルール合成が実装標準に",
-      "published_date": "2026-07-05",
-      "collected_date": "2026-07-06",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/panet-paper-walkthrough-when-feature-pyramids-go-bottom-up/",
-      "title": "PANet再評価で見える実務知見、特徴ピラミッドは“片方向”では限界がある",
-      "published_date": "2026-07-05",
-      "collected_date": "2026-07-06",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
       "title": "OpenAI利益の「国民還元」案が再浮上、AI時代の分配設計が争点に",
       "published_date": "2026-07-06",
@@ -230,11 +195,53 @@
       "published_date": "2026-07-11",
       "collected_date": "2026-07-13",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "title": "Anthropicの内部解析「J-space」研究、解釈可能性の前進と限界を同時提示",
+      "published_date": "2026-07-13",
+      "collected_date": "2026-07-14",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
+      "title": "モデルルーターACRouter、単一モデル運用比でコスト効率2.6倍を報告",
+      "published_date": "2026-07-13",
+      "collected_date": "2026-07-14",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "title": "AnthropicがClaudeのインド現地通貨価格を導入、地域最適化戦略を強化",
+      "published_date": "2026-07-13",
+      "collected_date": "2026-07-14",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "title": "WazeがGemini連携を拡大、会話型音声操作と運転UX改善を同時展開",
+      "published_date": "2026-07-13",
+      "collected_date": "2026-07-14",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/agentic-rag-let-the-agent-search/",
+      "title": "Agentic RAG実装で反復検索を実践、根拠重視の回答設計を具体化",
+      "published_date": "2026-07-13",
+      "collected_date": "2026-07-14",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+      "title": "Siri AIがiPhone体験の中核へ、検索・画面理解・カメラ連携を統合",
+      "published_date": "2026-07-13",
+      "collected_date": "2026-07-14",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-12T22:36:39+00:00",
-    "total_articles": 33,
+    "last_updated": "2026-07-13T22:43:04+00:00",
+    "total_articles": 34,
     "retention_days": 7,
     "version": "1.0"
   }
