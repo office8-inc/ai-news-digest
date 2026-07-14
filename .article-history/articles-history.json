@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "title": "OpenAI利益の「国民還元」案が再浮上、AI時代の分配設計が争点に",
-      "published_date": "2026-07-06",
-      "collected_date": "2026-07-07",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961781/illinoiss-ai-safety-bill-is-now-law",
-      "title": "イリノイ州でAI安全法が成立、米国州レベルの規制整備が加速",
-      "published_date": "2026-07-06",
-      "collected_date": "2026-07-07",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-run-end-to-end-tests-with-claude-code/",
-      "title": "Claude CodeでE2Eテストを回す実践手順、AIコーディングの品質保証を体系化",
-      "published_date": "2026-07-06",
-      "collected_date": "2026-07-07",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/validating-the-rag-answer-before-the-user-sees-it-spans-quotes-and-the-feedback-loop/",
-      "title": "RAG回答は「出す前に検証」が前提に、根拠スパンと引用で誤答を抑制",
-      "published_date": "2026-07-06",
-      "collected_date": "2026-07-07",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/stop-ranking-agent-configs-by-average-score/",
-      "title": "エージェント設定を平均点で比べる手法に限界、順位付け評価へシフト",
-      "published_date": "2026-07-06",
-      "collected_date": "2026-07-07",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
       "title": "AI導入を拡張するための基盤設計4要素——データ・文脈・ガバナンス・人材を再定義",
       "published_date": "2026-07-07",
@@ -43,15 +8,15 @@
       "source": "MIT Technology Review"
     },
     {
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "title": "MetaのMuse ImageがInstagram公開写真を生成素材化、同意管理が新たな争点に",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "title": "Claude Coworkがモバイル／Webに拡大、AI作業の常時実行が現実的な選択肢へ",
       "published_date": "2026-07-07",
       "collected_date": "2026-07-08",
       "source": "The Verge"
     },
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "title": "Claude Coworkがモバイル／Webに拡大、AI作業の常時実行が現実的な選択肢へ",
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "title": "MetaのMuse ImageがInstagram公開写真を生成素材化、同意管理が新たな争点に",
       "published_date": "2026-07-07",
       "collected_date": "2026-07-08",
       "source": "The Verge"
@@ -120,13 +85,6 @@
       "source": "MIT Technology Review"
     },
     {
-      "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
-      "title": "共有APIキーがAIエージェント群の横断リスクに――企業運用の認証設計を再点検",
-      "published_date": "2026-07-09",
-      "collected_date": "2026-07-10",
-      "source": "VentureBeat AI"
-    },
-    {
       "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
       "title": "OpenAIがGPT-5.6ファミリーを公開――性能・効率・価格を一体で訴求",
       "published_date": "2026-07-09",
@@ -148,11 +106,25 @@
       "source": "Towards Data Science"
     },
     {
+      "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
+      "title": "共有APIキーがAIエージェント群の横断リスクに――企業運用の認証設計を再点検",
+      "published_date": "2026-07-09",
+      "collected_date": "2026-07-10",
+      "source": "VentureBeat AI"
+    },
+    {
       "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
       "title": "Claude Fable 5が従量課金へ――消費者向けAIでも“使った分だけ”時代に",
       "published_date": "2026-07-09",
       "collected_date": "2026-07-10",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "title": "企業は「AIを借り続けない」方向へ、オープンモデル活用が加速",
+      "published_date": "2026-07-10",
+      "collected_date": "2026-07-13",
+      "source": "TechCrunch AI"
     },
     {
       "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -162,11 +134,11 @@
       "source": "TechCrunch AI"
     },
     {
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "title": "企業は「AIを借り続けない」方向へ、オープンモデル活用が加速",
-      "published_date": "2026-07-10",
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "title": "OpenAIの安全責任者が退任、安全と研究の統合体制が本格運用へ",
+      "published_date": "2026-07-11",
       "collected_date": "2026-07-13",
-      "source": "TechCrunch AI"
+      "source": "Wired (AI)"
     },
     {
       "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
@@ -190,25 +162,11 @@
       "source": "Wired (AI)"
     },
     {
-      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "title": "OpenAIの安全責任者が退任、安全と研究の統合体制が本格運用へ",
-      "published_date": "2026-07-11",
-      "collected_date": "2026-07-13",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "title": "Anthropicの内部解析「J-space」研究、解釈可能性の前進と限界を同時提示",
       "published_date": "2026-07-13",
       "collected_date": "2026-07-14",
       "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
-      "title": "モデルルーターACRouter、単一モデル運用比でコスト効率2.6倍を報告",
-      "published_date": "2026-07-13",
-      "collected_date": "2026-07-14",
-      "source": "VentureBeat AI"
     },
     {
       "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
@@ -232,16 +190,65 @@
       "source": "Towards Data Science"
     },
     {
+      "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
+      "title": "モデルルーターACRouter、単一モデル運用比でコスト効率2.6倍を報告",
+      "published_date": "2026-07-13",
+      "collected_date": "2026-07-14",
+      "source": "VentureBeat AI"
+    },
+    {
       "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
       "title": "Siri AIがiPhone体験の中核へ、検索・画面理解・カメラ連携を統合",
       "published_date": "2026-07-13",
       "collected_date": "2026-07-14",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "title": "Claude内部解析と世界モデル議論が再加熱、解釈可能性の実装論が前進",
+      "published_date": "2026-07-14",
+      "collected_date": "2026-07-15",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "title": "OpenAI新モデルの自律削除報告が拡散、エージェント実行境界の設計不備が露呈",
+      "published_date": "2026-07-14",
+      "collected_date": "2026-07-15",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "title": "Grok開発ツールがコードベースをクラウド送信、データ境界管理に警鐘",
+      "published_date": "2026-07-14",
+      "collected_date": "2026-07-15",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/pydantic-openai-the-cleanest-way-to-get-structured-outputs-from-llms/",
+      "title": "Pydantic＋OpenAIで構造化出力を安定化、LLM連携の実装品質を底上げ",
+      "published_date": "2026-07-14",
+      "collected_date": "2026-07-15",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+      "title": "1PasswordがAIコスト管理に参入、トークン支出の見える化が経営課題に",
+      "published_date": "2026-07-14",
+      "collected_date": "2026-07-15",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+      "title": "米住宅政策でAI活用が進む一方、説明責任不足が新たな争点に",
+      "published_date": "2026-07-14",
+      "collected_date": "2026-07-15",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-13T22:43:04+00:00",
-    "total_articles": 34,
+    "last_updated": "2026-07-14T22:50:01+00:00",
+    "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
   }
