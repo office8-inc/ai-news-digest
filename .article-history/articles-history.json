@@ -1,83 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-      "title": "AI導入を拡張するための基盤設計4要素——データ・文脈・ガバナンス・人材を再定義",
-      "published_date": "2026-07-07",
-      "collected_date": "2026-07-08",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "title": "Claude Coworkがモバイル／Webに拡大、AI作業の常時実行が現実的な選択肢へ",
-      "published_date": "2026-07-07",
-      "collected_date": "2026-07-08",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "title": "MetaのMuse ImageがInstagram公開写真を生成素材化、同意管理が新たな争点に",
-      "published_date": "2026-07-07",
-      "collected_date": "2026-07-08",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/a-production-rag-pipeline-for-pdfs-relational-parsing-toc-retrieval-typed-answers/",
-      "title": "PDF向け本番RAGは型付き回答へ——根拠追跡を前提にした実装パイプライン",
-      "published_date": "2026-07-07",
-      "collected_date": "2026-07-08",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/proxy-pointer-rag-temporal-reasoning-without-semantic-precompilation/",
-      "title": "Proxy-Pointer RAGが示す後払い推論——事前コンパイル偏重からの脱却",
-      "published_date": "2026-07-07",
-      "collected_date": "2026-07-08",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
-      "title": "OpenAIのチーフ・フューチャリスト退任で、安全性ガバナンスの継続性に注目",
-      "published_date": "2026-07-07",
-      "collected_date": "2026-07-08",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-      "title": "AIプラットフォーム時代の到来――実装競争の主戦場がモデル単体から運用基盤へ",
-      "published_date": "2026-07-08",
-      "collected_date": "2026-07-09",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "title": "OpenAIが新音声モデルを公開――リアルタイム対話で“話し続けられるUI”へ前進",
-      "published_date": "2026-07-08",
-      "collected_date": "2026-07-09",
-      "source": "TechCrunch"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "title": "ChatGPT音声モード刷新――割り込み耐性と同時通話で実用性を底上げ",
-      "published_date": "2026-07-08",
-      "collected_date": "2026-07-09",
-      "source": "The Verge"
-    },
-    {
-      "url": "https://towardsdatascience.com/the-real-challenge-limiting-ai-models-today/",
-      "title": "AIモデルの真の制約はGPUではなくメモリ設計――実務最適化の焦点が明確に",
-      "published_date": "2026-07-08",
-      "collected_date": "2026-07-09",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
-      "title": "自己改善AIは大手研究所だけのものではない――現場主導の改善ループが現実に",
-      "published_date": "2026-07-08",
-      "collected_date": "2026-07-09",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
       "title": "Claudeの内部概念空間を可視化――挙動監査に向けた「J-space」解析が前進",
       "published_date": "2026-07-09",
@@ -244,11 +167,53 @@
       "published_date": "2026-07-14",
       "collected_date": "2026-07-15",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "title": "OpenAIが自動レッドチーム「GPT-Red」を公開、AI安全性テストを自動化・大規模化",
+      "published_date": "2026-07-15",
+      "collected_date": "2026-07-16",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
+      "title": "企業AIは「評価ギャップ」へ突入、自律性が検証体制を追い越す",
+      "published_date": "2026-07-15",
+      "collected_date": "2026-07-16",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "title": "Anthropic×Blackstone、次の1兆ドル事業は「モデルより実装」に賭ける",
+      "published_date": "2026-07-15",
+      "collected_date": "2026-07-16",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "title": "Thinking Machinesが初のオープンモデル「Inkling」を公開、画一モデルへの対抗を鮮明化",
+      "published_date": "2026-07-15",
+      "collected_date": "2026-07-16",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/most-rag-hallucinations-are-retrieval-failures-how-the-retrieval-brick-decides-what-the-model-can-invent/",
+      "title": "RAGの幻覚の大半は「検索の失敗」、生成前の検索設計が勝敗を決める",
+      "published_date": "2026-07-15",
+      "collected_date": "2026-07-16",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://towardsdatascience.com/dont-let-claude-gaslight-you/",
+      "title": "「Claudeに自分の宿題を採点させるな」、クロスプロバイダ評価でAIレビューを堅牢化",
+      "published_date": "2026-07-15",
+      "collected_date": "2026-07-16",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-14T22:50:01+00:00",
-    "total_articles": 35,
+    "last_updated": "2026-07-16T01:11:50+00:00",
+    "total_articles": 30,
     "retention_days": 7,
     "version": "1.0"
   }
