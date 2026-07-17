@@ -209,11 +209,53 @@
       "published_date": "2026-07-15",
       "collected_date": "2026-07-16",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "title": "OpenAIの「GPT-Red」実戦投入で、AI安全性テストは自動化フェーズへ",
+      "published_date": "2026-07-16",
+      "collected_date": "2026-07-17",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "title": "企業AIの「計算資源ギャップ」拡大、投資速度に可視化が追いつかず",
+      "published_date": "2026-07-16",
+      "collected_date": "2026-07-17",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "title": "GoogleのAI Modeが外部アプリ連携に拡大、検索から実行へ一歩前進",
+      "published_date": "2026-07-16",
+      "collected_date": "2026-07-17",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "title": "Claudeが1Password連携で認証操作に対応、便利さと境界管理が同時課題に",
+      "published_date": "2026-07-16",
+      "collected_date": "2026-07-17",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/prepare-these-5-assets-before-your-ai-agents-take-on-more-work/",
+      "title": "エージェント導入前に整えるべき「5つの資産」、成功は準備段階で決まる",
+      "published_date": "2026-07-16",
+      "collected_date": "2026-07-17",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "title": "Anthropicが州レベル規制の迅速化を後押し、ルール設計の更新頻度が新論点に",
+      "published_date": "2026-07-16",
+      "collected_date": "2026-07-17",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-16T01:11:50+00:00",
-    "total_articles": 30,
+    "last_updated": "2026-07-16T22:46:54+00:00",
+    "total_articles": 36,
     "retention_days": 7,
     "version": "1.0"
   }
