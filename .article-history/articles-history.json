@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "title": "企業は「AIを借り続けない」方向へ、オープンモデル活用が加速",
-      "published_date": "2026-07-10",
-      "collected_date": "2026-07-13",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "title": "ChatGPTが「家庭向けプロダクト」へ拡張、家族利用を前提に再設計",
-      "published_date": "2026-07-11",
-      "collected_date": "2026-07-13",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "title": "OpenAIの安全責任者が退任、安全と研究の統合体制が本格運用へ",
-      "published_date": "2026-07-11",
-      "collected_date": "2026-07-13",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "title": "AIデータセンター建設への反対運動が拡大、地域合意が導入の前提に",
-      "published_date": "2026-07-12",
-      "collected_date": "2026-07-13",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "title": "失敗した自動運転計画がAppleのAI半導体基盤を育てた",
-      "published_date": "2026-07-12",
-      "collected_date": "2026-07-13",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
-      "title": "量子計算×生成AIで新規ペプチド探索を実証、希少データ領域で精度改善",
-      "published_date": "2026-07-12",
-      "collected_date": "2026-07-13",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "title": "Anthropicの内部解析「J-space」研究、解釈可能性の前進と限界を同時提示",
       "published_date": "2026-07-13",
@@ -251,10 +209,52 @@
       "published_date": "2026-07-18",
       "collected_date": "2026-07-20",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "title": "中国の高性能オープンモデル台頭で、米AI政策が内部対立へ",
+      "published_date": "2026-07-20",
+      "collected_date": "2026-07-21",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "title": "採用判断でLLMが人間以上にバイアスを強める可能性",
+      "published_date": "2026-07-20",
+      "collected_date": "2026-07-21",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "title": "Google、Gemini効率化に向け新AIチップ「Frozen v2」を計画",
+      "published_date": "2026-07-20",
+      "collected_date": "2026-07-21",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "title": "AI連携標準MCPが“ステートレス化”、企業導入の詰まりを解消へ",
+      "published_date": "2026-07-20",
+      "collected_date": "2026-07-21",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "title": "ソニーがUdioを3万曲規模で追加提訴、生成AI音楽の法廷戦が拡大",
+      "published_date": "2026-07-20",
+      "collected_date": "2026-07-21",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "title": "Adobe Indigo、写真アプリに生成AI編集を試験導入",
+      "published_date": "2026-07-20",
+      "collected_date": "2026-07-21",
+      "source": "The Verge AI"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-19T22:40:17+00:00",
+    "last_updated": "2026-07-20T22:49:00+00:00",
     "total_articles": 36,
     "retention_days": 7,
     "version": "1.0"
