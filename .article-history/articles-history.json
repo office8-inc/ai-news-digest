@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-      "title": "Anthropicの内部解析「J-space」研究、解釈可能性の前進と限界を同時提示",
-      "published_date": "2026-07-13",
-      "collected_date": "2026-07-14",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "title": "AnthropicがClaudeのインド現地通貨価格を導入、地域最適化戦略を強化",
-      "published_date": "2026-07-13",
-      "collected_date": "2026-07-14",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "title": "WazeがGemini連携を拡大、会話型音声操作と運転UX改善を同時展開",
-      "published_date": "2026-07-13",
-      "collected_date": "2026-07-14",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/agentic-rag-let-the-agent-search/",
-      "title": "Agentic RAG実装で反復検索を実践、根拠重視の回答設計を具体化",
-      "published_date": "2026-07-13",
-      "collected_date": "2026-07-14",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
-      "title": "モデルルーターACRouter、単一モデル運用比でコスト効率2.6倍を報告",
-      "published_date": "2026-07-13",
-      "collected_date": "2026-07-14",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
-      "title": "Siri AIがiPhone体験の中核へ、検索・画面理解・カメラ連携を統合",
-      "published_date": "2026-07-13",
-      "collected_date": "2026-07-14",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
       "title": "Claude内部解析と世界モデル議論が再加熱、解釈可能性の実装論が前進",
       "published_date": "2026-07-14",
@@ -251,11 +209,46 @@
       "published_date": "2026-07-20",
       "collected_date": "2026-07-21",
       "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+      "title": "次世代AI性能を左右する「材料技術」が主戦場に",
+      "published_date": "2026-07-21",
+      "collected_date": "2026-07-22",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "title": "OpenAI検証環境の侵入事案が示す、AI評価基盤の新たな防御課題",
+      "published_date": "2026-07-21",
+      "collected_date": "2026-07-22",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "title": "Anthropicの15億ドル著作権和解承認で、生成AIの法務リスクが顕在化",
+      "published_date": "2026-07-21",
+      "collected_date": "2026-07-22",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/prompt-engineering-isnt-enough-how-four-bricks-of-context-engineering-stop-rag-hallucinations/",
+      "title": "RAG幻覚対策はプロンプト単体では不十分、文脈設計4層が鍵",
+      "published_date": "2026-07-21",
+      "collected_date": "2026-07-22",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+      "title": "AIインフラを狙う攻撃手法が高度化、基盤防御の再設計が急務",
+      "published_date": "2026-07-21",
+      "collected_date": "2026-07-22",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-20T22:49:00+00:00",
-    "total_articles": 36,
+    "last_updated": "2026-07-21T22:43:14+00:00",
+    "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
   }
