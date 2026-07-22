@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "title": "Claude内部解析と世界モデル議論が再加熱、解釈可能性の実装論が前進",
-      "published_date": "2026-07-14",
-      "collected_date": "2026-07-15",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "title": "OpenAI新モデルの自律削除報告が拡散、エージェント実行境界の設計不備が露呈",
-      "published_date": "2026-07-14",
-      "collected_date": "2026-07-15",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "title": "Grok開発ツールがコードベースをクラウド送信、データ境界管理に警鐘",
-      "published_date": "2026-07-14",
-      "collected_date": "2026-07-15",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/pydantic-openai-the-cleanest-way-to-get-structured-outputs-from-llms/",
-      "title": "Pydantic＋OpenAIで構造化出力を安定化、LLM連携の実装品質を底上げ",
-      "published_date": "2026-07-14",
-      "collected_date": "2026-07-15",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
-      "title": "1PasswordがAIコスト管理に参入、トークン支出の見える化が経営課題に",
-      "published_date": "2026-07-14",
-      "collected_date": "2026-07-15",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
-      "title": "米住宅政策でAI活用が進む一方、説明責任不足が新たな争点に",
-      "published_date": "2026-07-14",
-      "collected_date": "2026-07-15",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
       "title": "OpenAIが自動レッドチーム「GPT-Red」を公開、AI安全性テストを自動化・大規模化",
       "published_date": "2026-07-15",
@@ -244,10 +202,52 @@
       "published_date": "2026-07-21",
       "collected_date": "2026-07-22",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "title": "Anthropicの内部メカニズム研究、解釈可能性の期待と限界を整理",
+      "published_date": "2026-07-13",
+      "collected_date": "2026-07-23",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "title": "企業AIの課題は検索精度より「文脈への信頼性」",
+      "published_date": "2026-07-16",
+      "collected_date": "2026-07-23",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "title": "人間とAIエージェントが同じ業務チャットで働く時代へ",
+      "published_date": "2026-07-21",
+      "collected_date": "2026-07-23",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "title": "AMDがAnthropicに最大50億ドル規模のインフラ投資",
+      "published_date": "2026-07-22",
+      "collected_date": "2026-07-23",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+      "title": "米政権内で加速する「中国AIモデル対応」議論",
+      "published_date": "2026-07-22",
+      "collected_date": "2026-07-23",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/a-reproducible-100-step-lora-fine-tuning-run-for-openvla-with-dataset-checks-colab-setup-training-c0ff66a090d1",
+      "title": "OpenVLAのLoRA再現手順公開で、ロボティクス微調整の実務が前進",
+      "published_date": "2026-07-22",
+      "collected_date": "2026-07-23",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-21T22:43:14+00:00",
+    "last_updated": "2026-07-22T22:52:10.750+00:00",
     "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
