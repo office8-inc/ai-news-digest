@@ -1,60 +1,11 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "title": "OpenAIが自動レッドチーム「GPT-Red」を公開、AI安全性テストを自動化・大規模化",
-      "published_date": "2026-07-15",
-      "collected_date": "2026-07-16",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
-      "title": "企業AIは「評価ギャップ」へ突入、自律性が検証体制を追い越す",
-      "published_date": "2026-07-15",
-      "collected_date": "2026-07-16",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "title": "Anthropic×Blackstone、次の1兆ドル事業は「モデルより実装」に賭ける",
-      "published_date": "2026-07-15",
-      "collected_date": "2026-07-16",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "title": "Thinking Machinesが初のオープンモデル「Inkling」を公開、画一モデルへの対抗を鮮明化",
-      "published_date": "2026-07-15",
-      "collected_date": "2026-07-16",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/most-rag-hallucinations-are-retrieval-failures-how-the-retrieval-brick-decides-what-the-model-can-invent/",
-      "title": "RAGの幻覚の大半は「検索の失敗」、生成前の検索設計が勝敗を決める",
-      "published_date": "2026-07-15",
-      "collected_date": "2026-07-16",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://towardsdatascience.com/dont-let-claude-gaslight-you/",
-      "title": "「Claudeに自分の宿題を採点させるな」、クロスプロバイダ評価でAIレビューを堅牢化",
-      "published_date": "2026-07-15",
-      "collected_date": "2026-07-16",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
       "title": "OpenAIの「GPT-Red」実戦投入で、AI安全性テストは自動化フェーズへ",
       "published_date": "2026-07-16",
       "collected_date": "2026-07-17",
       "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "title": "企業AIの「計算資源ギャップ」拡大、投資速度に可視化が追いつかず",
-      "published_date": "2026-07-16",
-      "collected_date": "2026-07-17",
-      "source": "VentureBeat AI"
     },
     {
       "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
@@ -78,11 +29,25 @@
       "source": "Towards Data Science"
     },
     {
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "title": "企業AIの「計算資源ギャップ」拡大、投資速度に可視化が追いつかず",
+      "published_date": "2026-07-16",
+      "collected_date": "2026-07-17",
+      "source": "VentureBeat AI"
+    },
+    {
       "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
       "title": "Anthropicが州レベル規制の迅速化を後押し、ルール設計の更新頻度が新論点に",
       "published_date": "2026-07-16",
       "collected_date": "2026-07-17",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "title": "企業のAIエージェント運用で安全統制ギャップ、事故・ニアミス経験が過半に",
+      "published_date": "2026-07-16",
+      "collected_date": "2026-07-20",
+      "source": "VentureBeat AI"
     },
     {
       "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
@@ -92,11 +57,11 @@
       "source": "MIT Technology Review"
     },
     {
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "title": "企業のAIエージェント運用で安全統制ギャップ、事故・ニアミス経験が過半に",
-      "published_date": "2026-07-16",
+      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "title": "防御側の「文脈爆弾」がAI攻撃エージェント抑止に有効性を示す",
+      "published_date": "2026-07-18",
       "collected_date": "2026-07-20",
-      "source": "VentureBeat AI"
+      "source": "Wired (AI)"
     },
     {
       "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
@@ -120,11 +85,11 @@
       "source": "Towards Data Science"
     },
     {
-      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-      "title": "防御側の「文脈爆弾」がAI攻撃エージェント抑止に有効性を示す",
-      "published_date": "2026-07-18",
-      "collected_date": "2026-07-20",
-      "source": "Wired (AI)"
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "title": "採用判断でLLMが人間以上にバイアスを強める可能性",
+      "published_date": "2026-07-20",
+      "collected_date": "2026-07-21",
+      "source": "MIT Technology Review"
     },
     {
       "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
@@ -134,11 +99,11 @@
       "source": "MIT Technology Review"
     },
     {
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-      "title": "採用判断でLLMが人間以上にバイアスを強める可能性",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "title": "AI連携標準MCPが“ステートレス化”、企業導入の詰まりを解消へ",
       "published_date": "2026-07-20",
       "collected_date": "2026-07-21",
-      "source": "MIT Technology Review"
+      "source": "TechCrunch AI"
     },
     {
       "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
@@ -148,22 +113,15 @@
       "source": "TechCrunch AI"
     },
     {
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "title": "AI連携標準MCPが“ステートレス化”、企業導入の詰まりを解消へ",
-      "published_date": "2026-07-20",
-      "collected_date": "2026-07-21",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "title": "ソニーがUdioを3万曲規模で追加提訴、生成AI音楽の法廷戦が拡大",
+      "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "title": "Adobe Indigo、写真アプリに生成AI編集を試験導入",
       "published_date": "2026-07-20",
       "collected_date": "2026-07-21",
       "source": "The Verge AI"
     },
     {
-      "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-      "title": "Adobe Indigo、写真アプリに生成AI編集を試験導入",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "title": "ソニーがUdioを3万曲規模で追加提訴、生成AI音楽の法廷戦が拡大",
       "published_date": "2026-07-20",
       "collected_date": "2026-07-21",
       "source": "The Verge AI"
@@ -232,6 +190,13 @@
       "source": "The Verge AI"
     },
     {
+      "url": "https://towardsdatascience.com/a-reproducible-100-step-lora-fine-tuning-run-for-openvla-with-dataset-checks-colab-setup-training-c0ff66a090d1",
+      "title": "OpenVLAのLoRA再現手順公開で、ロボティクス微調整の実務が前進",
+      "published_date": "2026-07-22",
+      "collected_date": "2026-07-23",
+      "source": "Towards Data Science"
+    },
+    {
       "url": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
       "title": "米政権内で加速する「中国AIモデル対応」議論",
       "published_date": "2026-07-22",
@@ -239,16 +204,58 @@
       "source": "Wired (AI)"
     },
     {
-      "url": "https://towardsdatascience.com/a-reproducible-100-step-lora-fine-tuning-run-for-openvla-with-dataset-checks-colab-setup-training-c0ff66a090d1",
-      "title": "OpenVLAのLoRA再現手順公開で、ロボティクス微調整の実務が前進",
-      "published_date": "2026-07-22",
-      "collected_date": "2026-07-23",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "title": "AI創薬が次世代医薬品設計の速度と探索幅を拡張",
+      "published_date": "2026-07-23",
+      "collected_date": "2026-07-24",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "title": "AIフィッシング対策のAegisAIが3600万ドルを調達",
+      "published_date": "2026-07-23",
+      "collected_date": "2026-07-24",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "title": "Claude音声モード刷新で会話から業務実行までを強化",
+      "published_date": "2026-07-23",
+      "collected_date": "2026-07-24",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "title": "ChatGPT Healthの一般提供で医療AI利用が拡大",
+      "published_date": "2026-07-23",
+      "collected_date": "2026-07-24",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970420/googles-expanding-access-to-gemini-spark",
+      "title": "GoogleがGemini Sparkの提供範囲を拡大",
+      "published_date": "2026-07-23",
+      "collected_date": "2026-07-24",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/most-rag-hallucinations-are-extraction-errors-seven-patterns-for-a-typed-generation-contract/",
+      "title": "RAG幻覚の主因は抽出エラー、型付き生成契約で抑制",
+      "published_date": "2026-07-23",
+      "collected_date": "2026-07-24",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+      "title": "MetaのAI広告が示す期待演出と現実認識のギャップ",
+      "published_date": "2026-07-23",
+      "collected_date": "2026-07-24",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-22T22:52:10.750+00:00",
-    "total_articles": 35,
+    "last_updated": "2026-07-23T22:45:14.752+00:00",
+    "total_articles": 36,
     "retention_days": 7,
     "version": "1.0"
   }
