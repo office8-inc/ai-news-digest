@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "title": "企業のAIエージェント運用で安全統制ギャップ、事故・ニアミス経験が過半に",
-      "published_date": "2026-07-16",
-      "collected_date": "2026-07-20",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "title": "気象予測を脅かす観測データ改ざんリスクが顕在化、AI時代のデータ防衛が急務に",
-      "published_date": "2026-07-17",
-      "collected_date": "2026-07-20",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-      "title": "防御側の「文脈爆弾」がAI攻撃エージェント抑止に有効性を示す",
-      "published_date": "2026-07-18",
-      "collected_date": "2026-07-20",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "title": "Nvidia訪日で日本の主権AI基盤と製造ロボティクス連携が加速",
-      "published_date": "2026-07-19",
-      "collected_date": "2026-07-20",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "title": "生成AI音楽の実制作が示す可能性と倫理課題、創作の境界線を再考",
-      "published_date": "2026-07-19",
-      "collected_date": "2026-07-20",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/your-ai-agent-passed-every-eval-finance-still-killed-it/",
-      "title": "評価合格でも導入停止、AIエージェントは採算指標なしでは生き残れない",
-      "published_date": "2026-07-19",
-      "collected_date": "2026-07-20",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
       "title": "採用判断でLLMが人間以上にバイアスを強める可能性",
       "published_date": "2026-07-20",
@@ -244,10 +202,52 @@
       "published_date": "2026-07-24",
       "collected_date": "2026-07-27",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "title": "OpenAI検証事故が示した「AI安全運用」の設計不足",
+      "published_date": "2026-07-27",
+      "collected_date": "2026-07-28",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "title": "中国AIを巡る過熱論争をどう読み解くべきか",
+      "published_date": "2026-07-26",
+      "collected_date": "2026-07-28",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/ai/railway-raises-100m-to-redesign-cloud-infrastructure-for-the-ai-era/",
+      "title": "AI時代向けクラウド基盤を狙う新興勢に大型資金",
+      "published_date": "2026-07-25",
+      "collected_date": "2026-07-28",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "title": "オープンモデル台頭で米大手AIの優位性に再検討圧力",
+      "published_date": "2026-07-27",
+      "collected_date": "2026-07-28",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "title": "共有したClaudeチャットが検索エンジンに露出するリスク",
+      "published_date": "2026-07-27",
+      "collected_date": "2026-07-28",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-efficiently-prompt-claude-code/",
+      "title": "Claude Codeを効率活用する実務的プロンプト設計",
+      "published_date": "2026-07-26",
+      "collected_date": "2026-07-28",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-26T22:51:36Z",
+    "last_updated": "2026-07-27T22:49:33Z",
     "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
