@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "title": "次世代AI性能を左右する「材料技術」が主戦場に",
-      "published_date": "2026-07-21",
-      "collected_date": "2026-07-22",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
-      "title": "OpenAI検証環境の侵入事案が示す、AI評価基盤の新たな防御課題",
-      "published_date": "2026-07-21",
-      "collected_date": "2026-07-22",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-      "title": "Anthropicの15億ドル著作権和解承認で、生成AIの法務リスクが顕在化",
-      "published_date": "2026-07-21",
-      "collected_date": "2026-07-22",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/prompt-engineering-isnt-enough-how-four-bricks-of-context-engineering-stop-rag-hallucinations/",
-      "title": "RAG幻覚対策はプロンプト単体では不十分、文脈設計4層が鍵",
-      "published_date": "2026-07-21",
-      "collected_date": "2026-07-22",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
-      "title": "AIインフラを狙う攻撃手法が高度化、基盤防御の再設計が急務",
-      "published_date": "2026-07-21",
-      "collected_date": "2026-07-22",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
       "title": "Anthropicの内部メカニズム研究、解釈可能性の期待と限界を整理",
       "published_date": "2026-07-13",
@@ -237,11 +202,53 @@
       "published_date": "2026-07-28",
       "collected_date": "2026-07-29",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "title": "「地味なAI」が生活に入り込む局面へ",
+      "published_date": "2026-07-29",
+      "collected_date": "2026-07-30",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well",
+      "title": "Waymoに学ぶ「評価が完了するまで本番に出さない」AI運用",
+      "published_date": "2026-07-29",
+      "collected_date": "2026-07-30",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "title": "Microsoft決算が映す、AI提携投資の“成果の濃淡”",
+      "published_date": "2026-07-29",
+      "collected_date": "2026-07-30",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "title": "OpenAIが示した「会話AI専用デバイス群」構想",
+      "published_date": "2026-07-29",
+      "collected_date": "2026-07-30",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/prompt-engineering-is-solved-prompt-management-isnt/",
+      "title": "プロンプト設計より難しい「プロンプト変更管理」の現実",
+      "published_date": "2026-07-29",
+      "collected_date": "2026-07-30",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+      "title": "先端AIモデルの脱獄が依然として容易、実装防御の再点検が急務",
+      "published_date": "2026-07-29",
+      "collected_date": "2026-07-30",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-28T22:50:15Z",
-    "total_articles": 34,
+    "last_updated": "2026-07-29T22:46:52Z",
+    "total_articles": 35,
     "retention_days": 7,
     "version": "1.0"
   }
