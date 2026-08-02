@@ -1,55 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-      "title": "AI創薬が次世代医薬品設計の速度と探索幅を拡張",
-      "published_date": "2026-07-23",
-      "collected_date": "2026-07-24",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "title": "AIフィッシング対策のAegisAIが3600万ドルを調達",
-      "published_date": "2026-07-23",
-      "collected_date": "2026-07-24",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "title": "Claude音声モード刷新で会話から業務実行までを強化",
-      "published_date": "2026-07-23",
-      "collected_date": "2026-07-24",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "title": "ChatGPT Healthの一般提供で医療AI利用が拡大",
-      "published_date": "2026-07-23",
-      "collected_date": "2026-07-24",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970420/googles-expanding-access-to-gemini-spark",
-      "title": "GoogleがGemini Sparkの提供範囲を拡大",
-      "published_date": "2026-07-23",
-      "collected_date": "2026-07-24",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/most-rag-hallucinations-are-extraction-errors-seven-patterns-for-a-typed-generation-contract/",
-      "title": "RAG幻覚の主因は抽出エラー、型付き生成契約で抑制",
-      "published_date": "2026-07-23",
-      "collected_date": "2026-07-24",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
-      "title": "MetaのAI広告が示す期待演出と現実認識のギャップ",
-      "published_date": "2026-07-23",
-      "collected_date": "2026-07-24",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
       "title": "米国の対中AI対応で「オープンモデル一律規制」に業界が反対",
       "published_date": "2026-07-24",
@@ -244,11 +195,53 @@
       "published_date": "2026-07-30",
       "collected_date": "2026-07-31",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "title": "AIエージェント連携が示す「超知能への実装ルート」",
+      "published_date": "2026-07-27",
+      "collected_date": "2026-08-03",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+      "title": "Google検索UI刷新が示すAI時代の入力体験設計",
+      "published_date": "2026-05-19",
+      "collected_date": "2026-08-03",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "title": "生成AI依存にクリエイター自身が警鐘",
+      "published_date": "2026-08-01",
+      "collected_date": "2026-08-03",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "title": "音楽現場を「アナログAI」と捉える発言が議論に",
+      "published_date": "2026-08-02",
+      "collected_date": "2026-08-03",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://medium.com/data-science/diy-ai-how-to-build-a-linear-regression-model-from-scratch-7b4cc0efd235",
+      "title": "線形回帰を自作して学ぶAI基礎力強化",
+      "published_date": "2025-02-03",
+      "collected_date": "2026-08-03",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "title": "EUのAI開示ルールで浮上する「通知疲れ」問題",
+      "published_date": "2026-08-02",
+      "collected_date": "2026-08-03",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-07-30T22:55:25Z",
-    "total_articles": 35,
+    "last_updated": "2026-08-02T22:43:50Z",
+    "total_articles": 34,
     "retention_days": 7,
     "version": "1.0"
   }
