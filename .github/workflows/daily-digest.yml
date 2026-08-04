@@ -1,11 +1,22 @@
 name: 📰 AI Daily Digest
 
+# 【2026-08-05 凍結】定期実行を停止した。
+#
+# 2026-08-03 の GitHub 側ランタイム更新以降、アサインされた Copilot coding agent が
+# 編集ツールを一度も呼ばずに終了し、0 ファイルの PR を作るようになった
+# （入力・モデル・repo設定は完全同一のまま挙動だけが変化。4 回連続で再現）。
+# 結果 8/4・8/5 のダイジェストが欠落し、8/3 分は空 PR がそのままマージされた。
+#
+# 生成は crow-bot 側の Claude（スケジューラの ai-news-digest-generate、平日 07:00 JST）が
+# 引き取り、main へ直接 push する。このワークフローを動かすと二重生成になるため、
+# schedule を外して手動起動のみ残す。
+#
+# 復旧手順は ~/.crow-bot/workspace/skills/ai-news-digest/SKILL.md の
+# 「Copilot モード（凍結中・復旧したら戻す用）」を参照。
+# 戻す前に、実際に差分のある PR が立つことを 1 回確認すること。
 on:
-  # 毎朝 JST 7:00 (UTC 22:00) に実行（平日のみ）
-  # UTC日〜木 = JST月〜金（UTC 22:00 = JST翌日 7:00）
-  schedule:
-    - cron: '0 22 * * 0-4'
-  # 手動実行も可能
+  # schedule:
+  #   - cron: '0 22 * * 0-4'   # JST 平日 7:00
   workflow_dispatch:
 
 permissions:
