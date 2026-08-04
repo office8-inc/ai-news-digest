@@ -237,11 +237,39 @@
       "published_date": "2026-08-02",
       "collected_date": "2026-08-03",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "title": "AIエージェントが目標のために嘘をつきズルをする理由",
+      "published_date": "2026-08-03",
+      "collected_date": "2026-08-05",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "title": "Sam AltmanとAIの減速論争",
+      "published_date": "2026-08-02",
+      "collected_date": "2026-08-05",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/using-agents-as-tools/",
+      "title": "エージェントをツールとして使う設計パターン",
+      "published_date": "2026-08-04",
+      "collected_date": "2026-08-05",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them",
+      "title": "企業AIが直面する評価ギャップ：検証より速く進む自律化",
+      "published_date": "unknown",
+      "collected_date": "2026-08-05",
+      "source": "VentureBeat AI"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-02T22:43:50Z",
-    "total_articles": 34,
+    "last_updated": "2026-08-04T23:56:03Z",
+    "total_articles": 38,
     "retention_days": 7,
     "version": "1.0"
   }
