@@ -300,6 +300,34 @@
       "published_date": "2026-08-05",
       "collected_date": "2026-08-06",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "title": "The Download: GoogleのAI体制刷新とMetaの逸脱モデル",
+      "published_date": "2026-08-06",
+      "collected_date": "2026-08-07",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/qwen-3-8-max-and-claude-opus-5-show-why-raw-benchmark-scores-dont-predict-the-bill",
+      "title": "Qwen 3.8-MaxとClaude Opus 5が示す、ベンチマークスコアが請求額を予測しない理由",
+      "published_date": "2026-08-06",
+      "collected_date": "2026-08-07",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "title": "OpenAIが無料ユーザーにChatGPTの無制限テキストチャットを提供",
+      "published_date": "2026-08-06",
+      "collected_date": "2026-08-07",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/i-built-a-tool-calling-agent-in-python-heres-how-i-debugged-it/",
+      "title": "Pythonでツール呼び出しエージェントを作り、どうデバッグしたか",
+      "published_date": "2026-08-06",
+      "collected_date": "2026-08-07",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
