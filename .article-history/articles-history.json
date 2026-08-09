@@ -328,6 +328,34 @@
       "published_date": "2026-08-06",
       "collected_date": "2026-08-07",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks",
+      "title": "リアルタイム連携する4体のAIエージェントが企業向けコーディングで上回った",
+      "published_date": "",
+      "collected_date": "2026-08-10",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "title": "訴訟の渦中、Sunoが楽曲へのウォーターマーク導入を表明",
+      "published_date": "2026-08-06",
+      "collected_date": "2026-08-10",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/structured-output-with-local-llms/",
+      "title": "ローカルLLMで構造化出力を実装する方法",
+      "published_date": "2026-08-09",
+      "collected_date": "2026-08-10",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "title": "検閲の陰謀論と、AIが作った初のウイルス",
+      "published_date": "2026-08-07",
+      "collected_date": "2026-08-10",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
