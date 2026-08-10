@@ -356,6 +356,34 @@
       "published_date": "2026-08-07",
       "collected_date": "2026-08-10",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "title": "トランスフォーマーの先を狙う5つのスタートアップ",
+      "published_date": "2026-08-10",
+      "collected_date": "2026-08-11",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "title": "OpenAIがAstraの開発作業を一部停止、サイバー能力が閾値到達",
+      "published_date": "2026-08-07",
+      "collected_date": "2026-08-11",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them",
+      "title": "AIエージェントの所有者を実際に把握できている組織は半数未満",
+      "published_date": "",
+      "collected_date": "2026-08-11",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-effectively-deploy-code-with-claude-code/",
+      "title": "コーディングエージェント時代のボトルネックはCI/CDへ移った",
+      "published_date": "2026-08-10",
+      "collected_date": "2026-08-11",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
