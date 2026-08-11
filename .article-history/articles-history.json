@@ -384,6 +384,34 @@
       "published_date": "2026-08-10",
       "collected_date": "2026-08-11",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "title": "大学のAI研究者は「資源がない前提」で問いを選び直している",
+      "published_date": "2026-08-10",
+      "collected_date": "2026-08-12",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
+      "title": "数万のAIエージェントが「仮想バイオテック」として動き出した",
+      "published_date": "2026-08-12",
+      "collected_date": "2026-08-12",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "title": "Zuckerbergの6,500語宣言が、かえってAI不信の理由を説明してしまった",
+      "published_date": "2026-08-10",
+      "collected_date": "2026-08-12",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/can-a-local-llm-run-my-ai-assistant/",
+      "title": "ローカルLLMは実用に足るか — 実タスク27件での実測",
+      "published_date": "2026-08-11",
+      "collected_date": "2026-08-12",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
