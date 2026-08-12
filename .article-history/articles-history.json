@@ -412,6 +412,34 @@
       "published_date": "2026-08-11",
       "collected_date": "2026-08-12",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "title": "科学AIの主役は「巨大な予測モデル」から「研究を回すエージェント」へ",
+      "published_date": "2026-08-10",
+      "collected_date": "2026-08-13",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month",
+      "title": "Grok Bot — 「呼び出す道具」から「常駐して働く同僚」へ",
+      "published_date": "2026-08-11",
+      "collected_date": "2026-08-13",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "title": "Hinton・Li・Ngがオープンウェイトを論じ、「ゲートキーパー」を最大の懸念に挙げた",
+      "published_date": "2026-08-12",
+      "collected_date": "2026-08-13",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/before-full-agentic-rag-know-how-you-decide-and-the-parsing-methods-you-pick-from/",
+      "title": "エージェント型RAGの前に、PDF解析の「手法選び」を決定的なルールに戻す",
+      "published_date": "2026-08-12",
+      "collected_date": "2026-08-13",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
