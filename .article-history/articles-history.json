@@ -440,6 +440,34 @@
       "published_date": "2026-08-12",
       "collected_date": "2026-08-13",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+      "title": "エージェントIDを整備した企業の5社に4社は、暴走を封じ込められない",
+      "published_date": "2026-08-13",
+      "collected_date": "2026-08-14",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "title": "MicrosoftがCopilotアプリを統合し、不発のAI機能を廃止",
+      "published_date": "2026-08-13",
+      "collected_date": "2026-08-14",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "title": "子どもたちがAIをどう感じているか、彼ら自身の言葉で",
+      "published_date": "2026-08-13",
+      "collected_date": "2026-08-14",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/cut-an-enterprise-rag-pipelines-latency-and-cost-by-calling-the-llm-less-not-by-buying-a-faster-model/",
+      "title": "速いモデルを買うのではなく、LLMを呼ぶ回数を減らして企業RAGの遅延とコストを削る",
+      "published_date": "2026-08-13",
+      "collected_date": "2026-08-14",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
