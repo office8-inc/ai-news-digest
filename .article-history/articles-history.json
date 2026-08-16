@@ -468,6 +468,34 @@
       "published_date": "2026-08-13",
       "collected_date": "2026-08-14",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "title": "Claudeの出力に不可視の透かしが入る — EU AI Act対応、検出APIも公開へ",
+      "published_date": "2026-08-15",
+      "collected_date": "2026-08-17",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+      "title": "「もっともらしさ」のレビューでは欠陥は見つからない — 評価ハーネスが暴いた確信度と正確さのズレ",
+      "published_date": "2026-08-15",
+      "collected_date": "2026-08-17",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+      "title": "ナンバープレート監視のFlockが規約を厳格化 — 悪用46件と30都市の契約打ち切りを受けて",
+      "published_date": "2026-08-13",
+      "collected_date": "2026-08-17",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/designing-a-persistent-knowledge-layer-that-refuses-to-guess/",
+      "title": "推測しないRAG — 証拠・知識・オーケストレーションを分ける3層設計",
+      "published_date": "2026-08-16",
+      "collected_date": "2026-08-17",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
