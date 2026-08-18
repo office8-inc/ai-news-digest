@@ -517,6 +517,34 @@
       "published_date": "2026-08-17",
       "collected_date": "2026-08-18",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "title": "AIエージェントに研究をさせたら「実験は得意、研究は下手」だった",
+      "published_date": "2026-08-18",
+      "collected_date": "2026-08-19",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/enterprises-are-overpaying-for-simple-ai-queries-snowflakes-gateway-now-auto-routes-to-cut-costs-up-to-3x",
+      "title": "Snowflakeのゲートウェイが自動ルーティング — 簡単な問い合わせに高いモデルを当てない",
+      "published_date": "2026-08-18",
+      "collected_date": "2026-08-19",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "title": "OpenAIが10代向けChatGPTを公開 — 週間9億ユーザーに達してからの後追い対応",
+      "published_date": "2026-08-18",
+      "collected_date": "2026-08-19",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/from-prototype-to-production-the-architecture-behind-secure-governed-ai-agents/",
+      "title": "エージェントを本番に出すための多層防御 — プロンプトで守るのをやめる",
+      "published_date": "2026-08-18",
+      "collected_date": "2026-08-19",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
