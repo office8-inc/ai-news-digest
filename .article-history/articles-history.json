@@ -545,6 +545,48 @@
       "published_date": "2026-08-18",
       "collected_date": "2026-08-19",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "title": "OpenAIが「顧客データを保持しない安全監視」を発表 — Anthropicの30日保持に対抗",
+      "published_date": "2026-08-19",
+      "collected_date": "2026-08-20",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "title": "OpenAIが開発ペースを落とした — 展開予定モデルのRL訓練を2週間停止",
+      "published_date": "2026-08-19",
+      "collected_date": "2026-08-20",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "title": "Claudeの不可視ウォーターマーク、4時間で回避コードが出回る",
+      "published_date": "2026-08-19",
+      "collected_date": "2026-08-20",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+      "title": "オープンソースのエージェントハーネス TrueForge、Claude Managed Agents比で最大75%安",
+      "published_date": "2026-08-19",
+      "collected_date": "2026-08-20",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/kimi-k3s-1m-token-context-window-vs-rag-cost-latency-and-answer-quality/",
+      "title": "1Mトークンの長コンテキスト vs RAG — コスト16倍、レイテンシ3倍、精度は満点",
+      "published_date": "2026-08-19",
+      "collected_date": "2026-08-20",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "title": "子ども監視アプリは効いているのか — 効果の証拠はなく、害の記録はある",
+      "published_date": "2026-08-19",
+      "collected_date": "2026-08-20",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
