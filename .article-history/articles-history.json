@@ -587,6 +587,34 @@
       "published_date": "2026-08-19",
       "collected_date": "2026-08-20",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "title": "AI意識をめぐる議論は「罠」だという指摘",
+      "published_date": "2026-08-20",
+      "collected_date": "2026-08-21",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "title": "ChatGPT以降のWebページ、3分の1超にAI著述の兆候",
+      "published_date": "2026-08-20",
+      "collected_date": "2026-08-21",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed",
+      "title": "チケットになる前に直す — Servalの管理者向けスーパーエージェント",
+      "published_date": "2026-08-20",
+      "collected_date": "2026-08-21",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-effectively-align-your-intents-with-claude-code/",
+      "title": "コーディングエージェントとの「意図合わせ」の作法",
+      "published_date": "2026-08-20",
+      "collected_date": "2026-08-21",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
