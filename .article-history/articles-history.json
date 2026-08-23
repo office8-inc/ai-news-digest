@@ -615,6 +615,34 @@
       "published_date": "2026-08-20",
       "collected_date": "2026-08-21",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "title": "AIが薬を設計したとき、誰の手柄になるのか",
+      "published_date": "2026-08-21",
+      "collected_date": "2026-08-24",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "title": "著作権のある書籍でAIを学習させるのは合法か",
+      "published_date": "2026-08-23",
+      "collected_date": "2026-08-24",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone",
+      "title": "AIエージェントで成果を出す企業は、エージェントの裁量を絞っている",
+      "published_date": "2026-08-22",
+      "collected_date": "2026-08-24",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/bug-detection-blind-spots-in-ai-coding-harnesses-gstack-and-beyond/",
+      "title": "AIコーディングハーネスのバグ検出の盲点",
+      "published_date": "2026-08-23",
+      "collected_date": "2026-08-24",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
