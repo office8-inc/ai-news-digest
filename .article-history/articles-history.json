@@ -643,6 +643,34 @@
       "published_date": "2026-08-23",
       "collected_date": "2026-08-24",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "title": "AI利用実態の調査、企業の公開データでは半分が抜け落ちる",
+      "published_date": "2026-08-18",
+      "collected_date": "2026-08-25",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+      "title": "Claude TagがSlack会話を丸ごと読み、指名なしでも発言する",
+      "published_date": "2026-08-24",
+      "collected_date": "2026-08-25",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "title": "OpenAIのChatGPT Work、社内98%・法人17%・個人1%未満という普及ギャップ",
+      "published_date": "2026-08-24",
+      "collected_date": "2026-08-25",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/ai-agents-dont-need-more-context-they-need-typed-context/",
+      "title": "エージェントに必要なのは文脈の「量」ではなく「型」",
+      "published_date": "2026-08-24",
+      "collected_date": "2026-08-25",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
