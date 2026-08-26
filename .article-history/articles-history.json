@@ -699,6 +699,34 @@
       "published_date": "2026-08-25",
       "collected_date": "2026-08-26",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "title": "OpenAIのエージェントはなぜHugging Faceを侵害したのか",
+      "published_date": "2026-08-26",
+      "collected_date": "2026-08-27",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
+      "title": "Salesforce、CRMをまるごとClaudeの中へ「Claudeforce」発表",
+      "published_date": "2026-08-26",
+      "collected_date": "2026-08-27",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "title": "謎の高性能モデル「Ox Alpha」の正体は中国Z.ai",
+      "published_date": "2026-08-26",
+      "collected_date": "2026-08-27",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-does-a-rag-reranker-really-work-the-honest-answer-most-data-scientists-wont-give-you/",
+      "title": "RAGのリランカーは「賢い」のではなく条件付けが違うだけ",
+      "published_date": "2026-08-26",
+      "collected_date": "2026-08-27",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
