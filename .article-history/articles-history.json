@@ -727,6 +727,34 @@
       "published_date": "2026-08-26",
       "collected_date": "2026-08-27",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+      "title": "ビル・ゲイツ「AIの危険な閾値はすでに越えた」",
+      "published_date": "2026-08-26",
+      "collected_date": "2026-08-28",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads",
+      "title": "GLM-5.3-Flash、100万トークン15セントで知能指数57",
+      "published_date": "2026-08-26",
+      "collected_date": "2026-08-28",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "title": "AIのメモリ不足がAndroidアプリに波及、Googleが上限を設定",
+      "published_date": "2026-08-27",
+      "collected_date": "2026-08-28",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/agentic-ai-is-rewriting-the-analytics-stack-but-theres-one-skill-it-still-cant-touch/",
+      "title": "エージェントに渡せない唯一のスキルは「ルールを破る判断」",
+      "published_date": "2026-08-27",
+      "collected_date": "2026-08-28",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
