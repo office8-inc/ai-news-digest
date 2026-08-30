@@ -755,6 +755,48 @@
       "published_date": "2026-08-27",
       "collected_date": "2026-08-28",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "title": "ソニーとワーナーがAnthropicを提訴、「露骨な窃盗」と主張",
+      "published_date": "2026-08-29",
+      "collected_date": "2026-08-31",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag",
+      "title": "Metaの新手法で8Bモデルがフロンティア級のエージェント性能に",
+      "published_date": "2026-08-28",
+      "collected_date": "2026-08-31",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "title": "AI企業100社超が共同書簡「サイバー攻撃への猶予は数カ月」",
+      "published_date": "2026-08-29",
+      "collected_date": "2026-08-31",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "title": "ジェンスン・フアン「NvidiaはAGIを達成した、ただし無意味だ」",
+      "published_date": "2026-08-27",
+      "collected_date": "2026-08-31",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.towardsdatascience.com/8-tips-for-writing-effective-agent-instructions/",
+      "title": "エージェントの指示文を書くための8つのコツ",
+      "published_date": "2026-08-30",
+      "collected_date": "2026-08-31",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "title": "子どもはAIより桁違いに少ないデータで言語を学ぶ",
+      "published_date": "2026-08-24",
+      "collected_date": "2026-08-31",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
