@@ -825,6 +825,34 @@
       "published_date": "2026-08-31",
       "collected_date": "2026-09-01",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "title": "Hugging Face侵入事件が示すOpenAIの「安全文化」の欠落",
+      "published_date": "2026-08-31",
+      "collected_date": "2026-09-02",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
+      "title": "モデルは事実の95〜98％を持っている。問題は取り出せないこと",
+      "published_date": "2026-09-01",
+      "collected_date": "2026-09-02",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+      "title": "Waymoが「カメラだけでは足りない」とTeslaへ論戦を仕掛ける",
+      "published_date": "2026-09-01",
+      "collected_date": "2026-09-02",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/agentops-is-not-mlops-what-breaks-in-your-monitoring-stack-when-agents-go-to-production/",
+      "title": "エージェント本番運用でMLOpsの監視指標が壊れる5つの理由",
+      "published_date": "2026-08-31",
+      "collected_date": "2026-09-02",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
