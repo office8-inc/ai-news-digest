@@ -881,6 +881,34 @@
       "published_date": "2026-09-01",
       "collected_date": "2026-09-03",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming",
+      "title": "ニューヨーク市、小中学校で生成AIを1年間停止",
+      "published_date": "2026-09-03",
+      "collected_date": "2026-09-04",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "title": "Claude Fable 5.1 登場、キャッシュ読み込み単価が75%減",
+      "published_date": "2026-09-01",
+      "collected_date": "2026-09-04",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+      "title": "Google、Gmail・Docs・Keepに会話型の音声AIを投入",
+      "published_date": "2026-09-03",
+      "collected_date": "2026-09-04",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.towardsdatascience.com/changing-one-prompt-can-affect-50-others-i-built-a-prompt-dependency-graph-to-find-what-needs-retesting/",
+      "title": "プロンプトの依存関係をグラフ化して再テスト範囲を絞る",
+      "published_date": "2026-09-03",
+      "collected_date": "2026-09-04",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
