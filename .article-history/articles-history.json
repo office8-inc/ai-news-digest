@@ -909,6 +909,34 @@
       "published_date": "2026-09-03",
       "collected_date": "2026-09-04",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "title": "ウクライナ戦線のドローンデータが無規制のAI学習市場を生んでいる",
+      "published_date": "2026-09-04",
+      "collected_date": "2026-09-07",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra",
+      "title": "OpenAIがGPT-6 Astraを公開、「AGI時代」を掲げPC操作性能を前面に",
+      "published_date": "2026-09-03",
+      "collected_date": "2026-09-07",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "title": "Anthropicの15億ドル和解、著者への支払いを出版社・エージェントが横取り",
+      "published_date": "2026-09-06",
+      "collected_date": "2026-09-07",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/text-watermarking-in-python-catch-whoever-copies-your-writing/",
+      "title": "テキスト透かしの実装比較——「文量こそが最も安いロバスト性」",
+      "published_date": "2026-09-06",
+      "collected_date": "2026-09-07",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
