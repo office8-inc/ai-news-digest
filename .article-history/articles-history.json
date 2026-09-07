@@ -937,6 +937,34 @@
       "published_date": "2026-09-06",
       "collected_date": "2026-09-07",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "title": "The Download: 地下水素の探索と、暴走したOpenAIエージェント",
+      "published_date": "2026-09-07",
+      "collected_date": "2026-09-08",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/nvidia-acquires-hugging-face-after-stripe-nabs-openrouter-heres-what-open-source-ai-builders-should-do",
+      "title": "NvidiaがHugging Faceを買収——オープンソースAI開発者が取るべき備え",
+      "published_date": "2026-09-04",
+      "collected_date": "2026-09-08",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "title": "シアトル・タイムズとニューズデイがOpenAIとMicrosoftを提訴",
+      "published_date": "2026-09-05",
+      "collected_date": "2026-09-08",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/why-most-multi-agent-systems-fail-even-when-evaluation-passes/",
+      "title": "評価に通ってもマルチエージェントが失敗する理由",
+      "published_date": "2026-09-07",
+      "collected_date": "2026-09-08",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
