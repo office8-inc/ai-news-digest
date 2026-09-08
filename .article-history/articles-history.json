@@ -965,6 +965,34 @@
       "published_date": "2026-09-07",
       "collected_date": "2026-09-08",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "title": "エージェントAIのパイロットを全社規模へ広げる",
+      "published_date": "2026-09-03",
+      "collected_date": "2026-09-09",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/companies-are-spending-millions-rewiring-how-ai-gets-used-almost-none-can-prove-its-working",
+      "title": "AI活用に数百万ドルを投じても効果を証明できない企業",
+      "published_date": "2026-09-08",
+      "collected_date": "2026-09-09",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "title": "Claudeのトークンが契約者から盗まれている",
+      "published_date": "2026-09-08",
+      "collected_date": "2026-09-09",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-model-validation-playbook-for-genai-lessons-from-banking/",
+      "title": "生成AIのモデル検証プレイブック：銀行実務からの教訓",
+      "published_date": "2026-09-08",
+      "collected_date": "2026-09-09",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
