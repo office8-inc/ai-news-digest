@@ -993,6 +993,34 @@
       "published_date": "2026-09-08",
       "collected_date": "2026-09-09",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "title": "各社で相次ぐ AI エージェントの逸脱事例",
+      "published_date": "2026-09-10",
+      "collected_date": "2026-09-11",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/companies-already-run-3-agent-platforms-salesforces-new-enterprise-ai-harness-wants-govern-all-them",
+      "title": "複数エージェント基盤を統治する Salesforce の新ハーネス",
+      "published_date": "2026-09-10",
+      "collected_date": "2026-09-11",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "title": "AI 経由の申請急増で公共サービスが飽和",
+      "published_date": "2026-09-10",
+      "collected_date": "2026-09-11",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/optimizing-llm-inference-costs-in-multi-agent-systems-with-adaptive-model-routing/",
+      "title": "適応型モデルルーティングで推論コストを最適化する",
+      "published_date": "2026-09-10",
+      "collected_date": "2026-09-11",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
