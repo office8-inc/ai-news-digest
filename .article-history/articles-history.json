@@ -1021,6 +1021,34 @@
       "published_date": "2026-09-10",
       "collected_date": "2026-09-11",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem",
+      "title": "AIデータセンターの電力障害はアーキテクチャの問題",
+      "published_date": "2026-09-10",
+      "collected_date": "2026-09-14",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/long-running-ai-agents-quietly-drop-compliance-rules-and-bigger-context-windows-wont-fix-it",
+      "title": "長時間稼働のエージェントはコンプライアンス規則を静かに落とす",
+      "published_date": "2026-09-13",
+      "collected_date": "2026-09-14",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "title": "Anthropic CEOがAI開発を減速させる3つの提案",
+      "published_date": "2026-09-12",
+      "collected_date": "2026-09-14",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/your-ai-adoption-lift-is-a-selection-effect/",
+      "title": "AI導入による効果の多くは選択バイアス",
+      "published_date": "2026-09-13",
+      "collected_date": "2026-09-14",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
