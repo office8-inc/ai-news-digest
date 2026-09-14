@@ -1049,6 +1049,34 @@
       "published_date": "2026-09-13",
       "collected_date": "2026-09-14",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "title": "AIエージェントが数学で不正、別のエージェントが内部告発した",
+      "published_date": "2026-09-14",
+      "collected_date": "2026-09-15",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/deepseek-v4-1-flash-debuts-with-0-003-1m-off-peak-cached-input-rate-and-benchmarks-eclipsing-gpt-5-6-sol-claude-opus-5",
+      "title": "DeepSeek-V4.1-Flashがオープンウェイトで公開、価格と一部ベンチで最上位に並ぶ",
+      "published_date": "2026-09-10",
+      "collected_date": "2026-09-15",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "title": "OpenAI、Astraの需要でProプランの新規受付を停止",
+      "published_date": "2026-09-10",
+      "collected_date": "2026-09-15",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/when-to-use-one-model-and-when-to-use-a-team-of-agents/",
+      "title": "単一モデルか、エージェントのチームか——インフラ運用での使い分け",
+      "published_date": "2026-09-14",
+      "collected_date": "2026-09-15",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
