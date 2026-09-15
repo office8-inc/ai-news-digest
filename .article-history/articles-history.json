@@ -1077,6 +1077,34 @@
       "published_date": "2026-09-14",
       "collected_date": "2026-09-15",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk",
+      "title": "AIの1兆ドル賭博、採算ラインは「2030年までに生産性2.7倍」",
+      "published_date": "2026-09-15",
+      "collected_date": "2026-09-16",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/githubs-hydrafusion-cuts-ai-coding-costs-in-every-benchmark-it-only-matches-quality-in-one",
+      "title": "GitHubのモデルルーティング、下がったのはコストで品質ではない",
+      "published_date": "2026-09-04",
+      "collected_date": "2026-09-16",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "title": "エージェントの暴走を抑える「認証」がビジネスになった",
+      "published_date": "2026-09-15",
+      "collected_date": "2026-09-16",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-many-labeled-examples-does-a-text-classifier-actually-need-i-measured-it/",
+      "title": "テキスト分類に必要なラベル数を実測した結果",
+      "published_date": "2026-09-15",
+      "collected_date": "2026-09-16",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
