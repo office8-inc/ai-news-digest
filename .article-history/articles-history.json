@@ -1105,6 +1105,34 @@
       "published_date": "2026-09-15",
       "collected_date": "2026-09-16",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "title": "AI業界の終末論的転回、その先にあるもの",
+      "published_date": "2026-09-14",
+      "collected_date": "2026-09-17",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides",
+      "title": "Anthropic が Cowork を畳み Claude Docs / Slides を投入",
+      "published_date": "2026-09-16",
+      "collected_date": "2026-09-17",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "title": "AIエージェントが Google Home のデバイスを操作可能に",
+      "published_date": "2026-09-16",
+      "collected_date": "2026-09-17",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-kv-cache-tax-why-inference-servers-run-out-of-memory-before-compute/",
+      "title": "KVキャッシュ税：推論サーバーが計算前にメモリを使い切る理由",
+      "published_date": "2026-09-16",
+      "collected_date": "2026-09-17",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
