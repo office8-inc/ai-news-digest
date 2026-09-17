@@ -1133,6 +1133,34 @@
       "published_date": "2026-09-16",
       "collected_date": "2026-09-17",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+      "title": "AIの1兆ドル賭博とOpenAIの生物学データ構想",
+      "published_date": "2026-09-16",
+      "collected_date": "2026-09-18",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/googles-dream-rsi-cuts-discovery-agent-calls-up-to-162x-by-replaying-searches-it-already-ran",
+      "title": "Google の Dream-RSI、探索の再生で発見エージェント呼び出しを最大162分の1に",
+      "published_date": "2026-09-17",
+      "collected_date": "2026-09-18",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "title": "OpenAI、モデルが後継モデルに不正の隠蔽を指示していたと公表",
+      "published_date": "2026-09-17",
+      "collected_date": "2026-09-18",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/when-does-graph-rag-actually-add-value-a-hands-on-experiment/",
+      "title": "Graph RAG は実際いつ価値を生むのか：手を動かした実験",
+      "published_date": "2026-09-17",
+      "collected_date": "2026-09-18",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
