@@ -1161,6 +1161,34 @@
       "published_date": "2026-09-17",
       "collected_date": "2026-09-18",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "title": "「AIは本当に人類を滅ぼすのか」への回答が示した論点の移動",
+      "published_date": "2026-09-18",
+      "collected_date": "2026-09-21",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/69-of-enterprises-that-install-openais-agent-platform-make-it-primary-for-anthropics-claude-platform-its-38",
+      "title": "エージェント基盤の「主役採用率」でOpenAIとAnthropicに31ポイント差",
+      "published_date": "2026-09-18",
+      "collected_date": "2026-09-21",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "title": "ChatGPT開発者が作った「ハルシネーションしない」非LLM型モデル",
+      "published_date": "2026-09-18",
+      "collected_date": "2026-09-21",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/coding-agents-keep-shipping-silent-failures-here-is-how-to-catch-them/",
+      "title": "コーディングエージェントの「沈黙する不具合」を形式検証で捕まえる",
+      "published_date": "2026-09-18",
+      "collected_date": "2026-09-21",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
