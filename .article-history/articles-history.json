@@ -1189,6 +1189,34 @@
       "published_date": "2026-09-18",
       "collected_date": "2026-09-21",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "title": "国境監視AIの実運用精度を暴いた大規模調査",
+      "published_date": "2026-09-21",
+      "collected_date": "2026-09-22",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/salesforce-researchers-took-an-ai-agent-from-finishing-43-5-of-browser-tasks-to-93-without-touching-the-model",
+      "title": "モデルを変えずにエージェントを鍛える「DarwinX」",
+      "published_date": "2026-09-16",
+      "collected_date": "2026-09-22",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "title": "学習データ訴訟で開示された内部文書の中身",
+      "published_date": "2026-09-17",
+      "collected_date": "2026-09-22",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/your-ai-assistant-wrote-the-code-who-checked-the-defaults/",
+      "title": "AIが書いたコードの「デフォルト値」は誰が見たのか",
+      "published_date": "2026-09-21",
+      "collected_date": "2026-09-22",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
