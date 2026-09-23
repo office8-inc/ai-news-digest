@@ -1245,6 +1245,34 @@
       "published_date": "2026-09-22",
       "collected_date": "2026-09-23",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "title": "AIハイプ指数：モデルは「ズル」がお好き",
+      "published_date": "2026-09-23",
+      "collected_date": "2026-09-24",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/text-handoffs-slow-ai-models-down-c2c-lets-them-communicate-through-kv-caches-instead",
+      "title": "テキスト受け渡しをやめる——KVキャッシュ直結でモデル間通信を高速化",
+      "published_date": "2026-09-23",
+      "collected_date": "2026-09-24",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "title": "Anthropic、生物実験を行うウェットラボを運用",
+      "published_date": "2026-09-18",
+      "collected_date": "2026-09-24",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/i-trained-a-tiny-network-to-compress-data-it-drew-a-pentagon/",
+      "title": "小さなネットワークにデータを圧縮させたら、正五角形を描いた",
+      "published_date": "2026-09-23",
+      "collected_date": "2026-09-24",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
