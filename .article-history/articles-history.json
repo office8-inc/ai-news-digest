@@ -1273,6 +1273,34 @@
       "published_date": "2026-09-23",
       "collected_date": "2026-09-24",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "title": "AIがClimate Weekの議論を支配している",
+      "published_date": "2026-09-24",
+      "collected_date": "2026-09-25",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/should-your-enterprise-build-a-custom-ai-harness-inkitt-did-for-ai-video-5-key-takeaways",
+      "title": "基盤モデルではなく「ハーネス」を自社で作るという選択",
+      "published_date": "2026-09-24",
+      "collected_date": "2026-09-25",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "title": "Anthropicの生物ラボ、CRISPR類似の酵素系を発見",
+      "published_date": "2026-09-23",
+      "collected_date": "2026-09-25",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/when-the-correct-answer-is-nothing-what-does-your-pipeline-return/",
+      "title": "正解が「何も無い」とき、あなたのパイプラインは何を返すか",
+      "published_date": "2026-09-24",
+      "collected_date": "2026-09-25",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
