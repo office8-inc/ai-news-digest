@@ -247,8 +247,8 @@ ai-news-digest/
 ## 🔗 関連ドキュメント
 
 - [README.md](../README.md) - システム概要
-- [.github/copilot-instructions.md](../.github/copilot-instructions.md) - Copilot指示書
-- [.github/workflows/daily-digest.yml](../.github/workflows/daily-digest.yml) - 自動実行設定
+- [CLAUDE.md](../CLAUDE.md) - 生成指示書（旧 `.github/copilot-instructions.md`、2026-09-26 移動）
+- `.github/workflows/daily-digest.yml` - 自動実行設定（2026-09-26 削除。生成は crow-bot へ移行）
 
 ---
 

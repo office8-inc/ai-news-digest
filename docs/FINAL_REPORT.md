@@ -133,7 +133,7 @@
 
 - [重複リスク分析レポート](./duplicate-article-risk-analysis.md) - 技術的な詳細
 - [履歴管理の説明](../.article-history/README.md) - 運用ガイド
-- [Copilot指示書](../.github/copilot-instructions.md) - 実装詳細
+- [Copilot指示書](../CLAUDE.md) - 実装詳細（2026-09-26 に `CLAUDE.md` へ移動）
 - [README.md](../README.md) - システム概要
 
 ---
