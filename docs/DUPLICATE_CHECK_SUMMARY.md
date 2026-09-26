@@ -214,7 +214,7 @@
 
 - [詳細分析レポート](./duplicate-article-risk-analysis.md)
 - [履歴管理の説明](../.article-history/README.md)
-- [更新されたCopilot指示書](../.github/copilot-instructions.md)
+- [更新されたCopilot指示書](../CLAUDE.md)（2026-09-26 に `CLAUDE.md` へ移動）
 - [README.md](../README.md)
 
 ---

@@ -40,7 +40,7 @@ graph TD
     C -->|収集| D4[The Verge AI]
     C -->|収集| D5[Towards Data Science]
     C -->|収集| D6[Wired AI]
-    D1 & D2 & D3 & D4 & D5 & D6 -->|厳選5-10件<br/>要約・構造化| E[daily/YYYY-MM-DD.md]
+    D1 & D2 & D3 & D4 & D5 & D6 -->|各サイト1件・最大6件<br/>要約・構造化| E[daily/YYYY-MM-DD.md]
     E -->|URL実在チェック| G[全URLをHTTPで確認<br/>404は差し替え]
     G -->|commit & push| F[main に直接反映]
     
@@ -63,7 +63,7 @@ graph TD
 | **Towards Data Science** | [Link](https://towardsdatascience.com/) | ハンズオン、実践的技術記事 |
 | **Wired (AI)** | [Link](https://www.wired.com/tag/artificial-intelligence/) | 深い調査報道、社会的影響、政策分析 |
 
-**収集方針**: 6サイトから合計5-10件の重要記事を厳選（記事数は従来通り）
+**収集方針**: 各サイトから1件ずつ、合計最大6件を厳選（取れないサイトは飛ばすため4件前後になることが多い）
 
 ## 🚀 使い方
 
