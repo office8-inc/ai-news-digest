@@ -1301,11 +1301,39 @@
       "published_date": "2026-09-24",
       "collected_date": "2026-09-25",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "title": "国防総省、3000万ドルでAI搭載の嘘発見器を開発へ",
+      "published_date": "2026-09-25",
+      "collected_date": "2026-09-28",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/companies-can-build-rag-in-days-making-it-reliable-enough-to-run-the-business-is-much-harder",
+      "title": "RAGは数日で作れるが、業務を任せられる信頼性にするのは別物",
+      "published_date": "2026-09-27",
+      "collected_date": "2026-09-28",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "title": "保険者団体「AIがすでに医療費を押し上げている」",
+      "published_date": "2026-09-26",
+      "collected_date": "2026-09-28",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/good-architecture-deletes-the-signals-your-agent-depends-on/",
+      "title": "良い設計ほど、エージェントが頼るシグナルを消してしまう",
+      "published_date": "2026-09-27",
+      "collected_date": "2026-09-28",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-04T23:56:03Z",
-    "total_articles": 38,
+    "last_updated": "2026-09-27T22:02:41Z",
+    "total_articles": 190,
     "retention_days": 7,
     "version": "1.0"
   }
