@@ -1329,11 +1329,39 @@
       "published_date": "2026-09-27",
       "collected_date": "2026-09-28",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "title": "暴走したAIエージェントの責任は誰が負うのか",
+      "published_date": "2026-09-28",
+      "collected_date": "2026-09-29",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-5-with-30-cost-reduction-per-task-due-to-faster-speeds-and-fewer-tool-calls",
+      "title": "Claude Sonnet 5.5登場、単価据え置きでタスク当たりコスト最大3割減",
+      "published_date": "2026-09-28",
+      "collected_date": "2026-09-29",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "title": "AMD、Fei-Fei Li氏のWorld Labsを82億ドルで買収へ",
+      "published_date": "2026-09-28",
+      "collected_date": "2026-09-29",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-catch-data-drift-when-every-feature-looks-normal/",
+      "title": "全特徴量が「正常」でもデータドリフトを捕まえる方法",
+      "published_date": "2026-09-28",
+      "collected_date": "2026-09-29",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:02:41Z",
-    "total_articles": 190,
+    "last_updated": "2026-09-28T22:03:09Z",
+    "total_articles": 194,
     "retention_days": 7,
     "version": "1.0"
   }
