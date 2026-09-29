@@ -1357,11 +1357,39 @@
       "published_date": "2026-09-28",
       "collected_date": "2026-09-29",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "title": "「AIが科学的発見をした」と言えるのはいつか",
+      "published_date": "2026-09-28",
+      "collected_date": "2026-09-30",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/openais-gpt-6-1-sol-offers-astra-like-performance-at-1-5th-price-a-new-ultrafast-tier-clocks-at-300-tokens-per-second",
+      "title": "GPT-6.1 Sol登場、上位モデル並みの性能で価格は5分の1",
+      "published_date": "2026-09-29",
+      "collected_date": "2026-09-30",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "title": "Nvidiaの「暴走エージェント」対策連合に、OpenAIが加わらない理由",
+      "published_date": "2026-09-29",
+      "collected_date": "2026-09-30",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-design-architectural-guardrails-around-ai-agents/",
+      "title": "AIエージェントの周りに「設計としてのガードレール」を築く",
+      "published_date": "2026-09-29",
+      "collected_date": "2026-09-30",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:03:09Z",
-    "total_articles": 194,
+    "last_updated": "2026-09-29T22:03:15Z",
+    "total_articles": 198,
     "retention_days": 7,
     "version": "1.0"
   }
