@@ -1385,11 +1385,39 @@
       "published_date": "2026-09-29",
       "collected_date": "2026-09-30",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "title": "「自分の足を撃つつもりはない」——OpenAI研究責任者、ハッキング騒動後の姿勢を語る",
+      "published_date": "2026-09-30",
+      "collected_date": "2026-10-01",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic-but-in-limited-release",
+      "title": "Google、Gemini 4 Argonでベンチマーク首位を奪還——ただし提供は限定的",
+      "published_date": "2026-09-30",
+      "collected_date": "2026-10-01",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "title": "Reddit、AIボット対策でRSSと公開APIを廃止へ",
+      "published_date": "2026-09-30",
+      "collected_date": "2026-10-01",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/towards-spec-driven-test-automation-part-2/",
+      "title": "実装とテストを別々のAIエージェントに任せる「仕様駆動テスト」",
+      "published_date": "2026-09-30",
+      "collected_date": "2026-10-01",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T22:03:15Z",
-    "total_articles": 198,
+    "last_updated": "2026-09-30T22:03:37Z",
+    "total_articles": 202,
     "retention_days": 7,
     "version": "1.0"
   }
