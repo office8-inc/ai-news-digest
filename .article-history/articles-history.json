@@ -1413,11 +1413,39 @@
       "published_date": "2026-09-30",
       "collected_date": "2026-10-01",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "title": "脳スキャンから「見ている画像」を再構成するAI、調整データは1時間で済む",
+      "published_date": "2026-10-01",
+      "collected_date": "2026-10-02",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/googles-wikiskill-gives-ai-agents-a-memory-of-what-went-wrong-without-putting-it-in-the-prompt",
+      "title": "Googleの「WikiSkill」、エージェントの失敗の記憶をプロンプトに入れずに活かす",
+      "published_date": "2026-10-01",
+      "collected_date": "2026-10-02",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "title": "Shopify、AIと会話しながらネットショップを作れる「Canvas」を発表",
+      "published_date": "2026-10-01",
+      "collected_date": "2026-10-02",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/can-an-apartment-search-agent-call-the-model-fewer-times-and-still-find-good-matches/",
+      "title": "モデル呼び出しを2500回から129回へ——物件探しエージェントで試したコスト削減",
+      "published_date": "2026-10-01",
+      "collected_date": "2026-10-02",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:03:37Z",
-    "total_articles": 202,
+    "last_updated": "2026-10-01T22:03:07Z",
+    "total_articles": 206,
     "retention_days": 7,
     "version": "1.0"
   }
