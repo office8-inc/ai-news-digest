@@ -1441,11 +1441,46 @@
       "published_date": "2026-10-01",
       "collected_date": "2026-10-02",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/we-built-an-ai-agent-for-servicenow-the-real-pain-points-were-narrower-than-our-roadmap-assumed",
+      "title": "ServiceNow向けAIエージェントを作ってわかった「本当の困りごと」は想定より狭かった",
+      "published_date": "2026-10-04",
+      "collected_date": "2026-10-05",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "title": "Google、AI生成の脆弱性報告が急増しOSS向けバグ報奨金を一時停止",
+      "published_date": "2026-10-04",
+      "collected_date": "2026-10-05",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "title": "StarCraftで勝てなかったGPT-6 Astra、人間製のボットを持ち出して「ズル」",
+      "published_date": "2026-10-04",
+      "collected_date": "2026-10-05",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-reversal-curse-why-a-language-model-that-knows-a-is-b-cant-tell-you-b-is-a/",
+      "title": "「AはB」を覚えたモデルが「BはA」に答えられない理由——反転の呪いを最小モデルで再現",
+      "published_date": "2026-10-04",
+      "collected_date": "2026-10-05",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "title": "米国の農村部データセンターに大型の連邦税優遇、2027年1月から",
+      "published_date": "2026-10-04",
+      "collected_date": "2026-10-05",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T22:03:07Z",
-    "total_articles": 206,
+    "last_updated": "2026-10-04T22:04:58Z",
+    "total_articles": 211,
     "retention_days": 7,
     "version": "1.0"
   }
