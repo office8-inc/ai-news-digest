@@ -1476,11 +1476,46 @@
       "published_date": "2026-10-04",
       "collected_date": "2026-10-05",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "title": "米Reflection AI、中国勢に対抗するオープンウェイトモデル「Beam」を発表",
+      "published_date": "2026-10-05",
+      "collected_date": "2026-10-06",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "title": "OpenAI、ChatGPTとCodexの出力文章に透かしを導入——まずEU域内から",
+      "published_date": "2026-10-05",
+      "collected_date": "2026-10-06",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory",
+      "title": "Cohere「North 2」、AIエージェントに予算上限と記憶を持たせる",
+      "published_date": "2026-10-05",
+      "collected_date": "2026-10-06",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "title": "嫌われるAI、それでも使わずにいられない理由",
+      "published_date": "2026-10-05",
+      "collected_date": "2026-10-06",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/",
+      "title": "安くて速い判定専用モデルで「モデルルーター」を組む",
+      "published_date": "2026-10-05",
+      "collected_date": "2026-10-06",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:04:58Z",
-    "total_articles": 211,
+    "last_updated": "2026-10-05T22:03:02Z",
+    "total_articles": 216,
     "retention_days": 7,
     "version": "1.0"
   }
