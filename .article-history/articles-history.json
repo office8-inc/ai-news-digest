@@ -1511,11 +1511,46 @@
       "published_date": "2026-10-05",
       "collected_date": "2026-10-06",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release",
+      "title": "Mistral、1兆パラメータの「Large 4」を発表——10月27日に重みを公開予定",
+      "published_date": "2026-10-06",
+      "collected_date": "2026-10-07",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "title": "Google、Gemini無料プランを10月9日からFlash Liteのみに制限",
+      "published_date": "2026-10-06",
+      "collected_date": "2026-10-07",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "title": "AIエージェントの次の壁は「Webサイトに入れてもらうこと」",
+      "published_date": "2026-10-06",
+      "collected_date": "2026-10-07",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+      "title": "未解決問題を次々に「解く」OpenAIに数学者が反発",
+      "published_date": "2026-10-06",
+      "collected_date": "2026-10-07",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/",
+      "title": "予測タスクに4つの罠を仕込み、AIアシスタント4種を試した",
+      "published_date": "2026-10-06",
+      "collected_date": "2026-10-07",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:03:02Z",
-    "total_articles": 216,
+    "last_updated": "2026-10-06T22:03:28Z",
+    "total_articles": 221,
     "retention_days": 7,
     "version": "1.0"
   }
