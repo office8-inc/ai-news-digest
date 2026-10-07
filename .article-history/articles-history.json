@@ -1546,11 +1546,46 @@
       "published_date": "2026-10-06",
       "collected_date": "2026-10-07",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna",
+      "title": "Anthropic「Claude Haiku 5.5」を公開、API料金を最大90%引き下げ",
+      "published_date": "2026-10-07",
+      "collected_date": "2026-10-08",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "title": "ChatGPTがGPT-6へ、回答に図・グラフ・ボタンを埋め込む「Intelligent UI」",
+      "published_date": "2026-10-07",
+      "collected_date": "2026-10-08",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "title": "Google、AI生成メディアの判定サイト「SynthID」を一般公開",
+      "published_date": "2026-10-07",
+      "collected_date": "2026-10-08",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
+      "title": "文章生成用のAIがトヨタ・カローラを運転してドライブスルーへ",
+      "published_date": "2026-10-07",
+      "collected_date": "2026-10-08",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/the-consistency-quadrant-a-visual-guide-to-llm-reliability/",
+      "title": "正解がない問題でLLMの信頼性を測る「一貫性の4象限」",
+      "published_date": "2026-10-07",
+      "collected_date": "2026-10-08",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:03:28Z",
-    "total_articles": 221,
+    "last_updated": "2026-10-07T23:20:16Z",
+    "total_articles": 226,
     "retention_days": 7,
     "version": "1.0"
   }
