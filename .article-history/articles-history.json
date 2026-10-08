@@ -1581,11 +1581,53 @@
       "published_date": "2026-10-07",
       "collected_date": "2026-10-08",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/google-cloud-unveils-persistent-gemini-agents-for-long-running-tasks-and-they-get-their-own-gmail-calendar-and-drive-storage",
+      "title": "Google、仕事を丸ごと任せる汎用「Geminiエージェント」を発表",
+      "published_date": "2026-10-08",
+      "collected_date": "2026-10-09",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "title": "Goodfire、モデルの「内部」を読んでAIエージェントの暴走を安く検知",
+      "published_date": "2026-10-08",
+      "collected_date": "2026-10-09",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "title": "Anthropic、オープンソース向けに無料のAI脆弱性スキャン「OSS Scanner」",
+      "published_date": "2026-10-08",
+      "collected_date": "2026-10-09",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "title": "AIでロボットは賢くなったが、暮らしを変えるのはまだ先",
+      "published_date": "2026-10-08",
+      "collected_date": "2026-10-09",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/ai-agents-beat-pytorch-writing-faster-cuda-kernels/",
+      "title": "AIエージェントが書いたCUDAカーネルはPyTorchより速い、ただし本題は「測り方」",
+      "published_date": "2026-10-08",
+      "collected_date": "2026-10-09",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "title": "MetaのAI「Muse」のロゴを手がけたデザイナーに批判が殺到",
+      "published_date": "2026-10-08",
+      "collected_date": "2026-10-09",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:20:16Z",
-    "total_articles": 226,
+    "last_updated": "2026-10-08T22:05:02Z",
+    "total_articles": 232,
     "retention_days": 7,
     "version": "1.0"
   }
