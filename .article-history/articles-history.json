@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "title": "米Reflection AI、中国勢に対抗するオープンウェイトモデル「Beam」を発表",
-      "published_date": "2026-10-05",
-      "collected_date": "2026-10-06",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "title": "OpenAI、ChatGPTとCodexの出力文章に透かしを導入——まずEU域内から",
-      "published_date": "2026-10-05",
-      "collected_date": "2026-10-06",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/coheres-north-2-puts-ai-agents-on-a-budget-and-gives-them-a-memory",
-      "title": "Cohere「North 2」、AIエージェントに予算上限と記憶を持たせる",
-      "published_date": "2026-10-05",
-      "collected_date": "2026-10-06",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
-      "title": "嫌われるAI、それでも使わずにいられない理由",
-      "published_date": "2026-10-05",
-      "collected_date": "2026-10-06",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-build-a-cheap-yet-reliable-model-router-with-jev/",
-      "title": "安くて速い判定専用モデルで「モデルルーター」を組む",
-      "published_date": "2026-10-05",
-      "collected_date": "2026-10-06",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release",
       "title": "Mistral、1兆パラメータの「Large 4」を発表——10月27日に重みを公開予定",
       "published_date": "2026-10-06",
@@ -216,10 +181,45 @@
       "published_date": "2026-10-12",
       "collected_date": "2026-10-13",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token",
+      "title": "Google「Gemini 4 Argon」を一般提供、年内は導入価格で半額",
+      "published_date": "2026-10-13",
+      "collected_date": "2026-10-14",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "title": "「AIツールは公開2時間で社内に入る」——Pluto Securityが4200万ドル調達",
+      "published_date": "2026-10-13",
+      "collected_date": "2026-10-14",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "title": "Shopify、提携なしでも任意のAIエージェントが買い物できるように",
+      "published_date": "2026-10-13",
+      "collected_date": "2026-10-14",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "title": "OpenAIとAnthropic、英議会で「自主規制では不十分」と証言",
+      "published_date": "2026-10-13",
+      "collected_date": "2026-10-14",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "title": "廃業スタートアップの社内データ、AI学習用に売られる",
+      "published_date": "2026-10-13",
+      "collected_date": "2026-10-14",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:02:13Z",
+    "last_updated": "2026-10-14T00:28:51Z",
     "total_articles": 31,
     "retention_days": 7,
     "version": "1.0"
