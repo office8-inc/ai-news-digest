@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release",
-      "title": "Mistral、1兆パラメータの「Large 4」を発表——10月27日に重みを公開予定",
-      "published_date": "2026-10-06",
-      "collected_date": "2026-10-07",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "title": "Google、Gemini無料プランを10月9日からFlash Liteのみに制限",
-      "published_date": "2026-10-06",
-      "collected_date": "2026-10-07",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "title": "AIエージェントの次の壁は「Webサイトに入れてもらうこと」",
-      "published_date": "2026-10-06",
-      "collected_date": "2026-10-07",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-      "title": "未解決問題を次々に「解く」OpenAIに数学者が反発",
-      "published_date": "2026-10-06",
-      "collected_date": "2026-10-07",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/",
-      "title": "予測タスクに4つの罠を仕込み、AIアシスタント4種を試した",
-      "published_date": "2026-10-06",
-      "collected_date": "2026-10-07",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna",
       "title": "Anthropic「Claude Haiku 5.5」を公開、API料金を最大90%引き下げ",
       "published_date": "2026-10-07",
@@ -216,10 +181,45 @@
       "published_date": "2026-10-13",
       "collected_date": "2026-10-14",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/openais-ai-agent-platform-is-used-by-twice-as-many-companies-as-anthropics-new-venturebeat-survey-finds",
+      "title": "エージェント基盤の利用はOpenAIがAnthropicの約2倍、ただし導入予定ではAnthropicが首位",
+      "published_date": "2026-10-13",
+      "collected_date": "2026-10-15",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "title": "AIエージェントが「わざと詐欺に引っかかる」——豪Apateの詐欺対策",
+      "published_date": "2026-10-14",
+      "collected_date": "2026-10-15",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "title": "米8州がOpenAIを提訴、「ChatGPTは子どもに安全ではない」",
+      "published_date": "2026-10-14",
+      "collected_date": "2026-10-15",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+      "title": "数学の次は物理・経済の理論研究——AIの正答率が2年で約2%から35%に",
+      "published_date": "2026-10-14",
+      "collected_date": "2026-10-15",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "title": "オープンモデルの利点はリスクを上回るのか",
+      "published_date": "2026-10-13",
+      "collected_date": "2026-10-15",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T00:28:51Z",
+    "last_updated": "2026-10-14T22:02:32Z",
     "total_articles": 31,
     "retention_days": 7,
     "version": "1.0"
