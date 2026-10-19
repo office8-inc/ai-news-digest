@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/orchestration/your-ai-agents-can-execute-every-tool-call-correctly-and-still-break-every-enterprise-rule",
-      "title": "ツール呼び出しが正しくても、AIエージェントは業務ルールを破る",
-      "published_date": "2026-10-11",
-      "collected_date": "2026-10-12",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "title": "データセンター反対派を、NDAの廃止で説得できるか",
-      "published_date": "2026-10-11",
-      "collected_date": "2026-10-12",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "title": "ローカルAIを使い始めて分かった、期待と戸惑い",
-      "published_date": "2026-10-11",
-      "collected_date": "2026-10-12",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/",
-      "title": "OpenAIの判定専用「Decisions API」を試す",
-      "published_date": "2026-10-11",
-      "collected_date": "2026-10-12",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
-      "title": "GoogleのAIゲーム制作サービス「Playground」で遊んでみた",
-      "published_date": "2026-10-11",
-      "collected_date": "2026-10-12",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api",
       "title": "Metaの新モデル「Muse Wonder」、性能は最前線だがAPIは下位版のみ",
       "published_date": "2026-10-12",
@@ -188,10 +153,45 @@
       "published_date": "2026-10-17",
       "collected_date": "2026-10-19",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "title": "ハッカーがAIエージェントの「軍団」でJohn DeereやSharkNinjaに侵入",
+      "published_date": "2026-10-19",
+      "collected_date": "2026-10-20",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://venturebeat.com/technology/minimaxs-new-m3-1-flash-beats-deepseek-and-opus-5-on-a-key-business-benchmark-at-lower-cost-but-with-a-high-hallucination-rate",
+      "title": "MiniMax M3.1 Flash、低価格で上位モデルに迫るが誤答率に課題",
+      "published_date": "2026-10-19",
+      "collected_date": "2026-10-20",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "title": "Nvidia、企業と手元PCで動くエージェント向けのオープンモデルを発表",
+      "published_date": "2026-10-19",
+      "collected_date": "2026-10-20",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "title": "WhatsAppのヘルプページから、Metaのチャットボット向け隠し指示が流出",
+      "published_date": "2026-10-19",
+      "collected_date": "2026-10-20",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "title": "無人島に置かれたClaudeが「遊び」始めた――MITの実験",
+      "published_date": "2026-10-19",
+      "collected_date": "2026-10-20",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:03:46Z",
+    "last_updated": "2026-10-19T22:03:00Z",
     "total_articles": 27,
     "retention_days": 7,
     "version": "1.0"
