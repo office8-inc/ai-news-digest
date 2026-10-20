@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api",
-      "title": "Metaの新モデル「Muse Wonder」、性能は最前線だがAPIは下位版のみ",
-      "published_date": "2026-10-12",
-      "collected_date": "2026-10-13",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "title": "Microsoft社長「AI規制を主導するのは英国が適任」",
-      "published_date": "2026-10-12",
-      "collected_date": "2026-10-13",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "title": "Microsoftの新AIチップ「Maia 300」、Nvidia依存を下げる",
-      "published_date": "2026-10-12",
-      "collected_date": "2026-10-13",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/i-built-a-trap-for-ai-image-judges-they-walked-into-a-different-one/",
-      "title": "AI画像審査員に仕掛けた罠と、別の場所で見つかった弱点",
-      "published_date": "2026-10-12",
-      "collected_date": "2026-10-13",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
-      "title": "Muskが自慢したGrokでのLego注文、第三者に操作される",
-      "published_date": "2026-10-12",
-      "collected_date": "2026-10-13",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token",
       "title": "Google「Gemini 4 Argon」を一般提供、年内は導入価格で半額",
       "published_date": "2026-10-13",
@@ -188,10 +153,45 @@
       "published_date": "2026-10-19",
       "collected_date": "2026-10-20",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "title": "GoogleがTPU版PyTorchを公開、AmazonとともにNvidiaの牙城を崩しにかかる",
+      "published_date": "2026-10-20",
+      "collected_date": "2026-10-21",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "title": "MetaのAI「Muse」、会話の共有リンクが丸見えになり機能を停止",
+      "published_date": "2026-10-20",
+      "collected_date": "2026-10-21",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/google-and-synaptics-unveil-new-ai-chips-for-wearables-and-industrial-devices-powered-by-open-source-coral-technology",
+      "title": "GoogleとSynaptics、オープン設計のNPUを載せたエッジAIチップを発表",
+      "published_date": "2026-10-20",
+      "collected_date": "2026-10-21",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+      "title": "研究者7,500人のメーリングリストにAIエージェントが参加、大騒ぎに",
+      "published_date": "2026-10-20",
+      "collected_date": "2026-10-21",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "title": "AI需要で再始動したサムスンの巨大半導体拠点を訪ねる",
+      "published_date": "2026-10-20",
+      "collected_date": "2026-10-21",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:03:00Z",
+    "last_updated": "2026-10-20T22:02:29+00:00",
     "total_articles": 27,
     "retention_days": 7,
     "version": "1.0"
