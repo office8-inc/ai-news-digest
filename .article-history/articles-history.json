@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/google-makes-gemini-4-argon-broadly-available-with-limited-time-low-api-pricing-of-2-10-per-1m-token",
-      "title": "Google「Gemini 4 Argon」を一般提供、年内は導入価格で半額",
-      "published_date": "2026-10-13",
-      "collected_date": "2026-10-14",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-      "title": "「AIツールは公開2時間で社内に入る」——Pluto Securityが4200万ドル調達",
-      "published_date": "2026-10-13",
-      "collected_date": "2026-10-14",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "title": "Shopify、提携なしでも任意のAIエージェントが買い物できるように",
-      "published_date": "2026-10-13",
-      "collected_date": "2026-10-14",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
-      "title": "OpenAIとAnthropic、英議会で「自主規制では不十分」と証言",
-      "published_date": "2026-10-13",
-      "collected_date": "2026-10-14",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "title": "廃業スタートアップの社内データ、AI学習用に売られる",
-      "published_date": "2026-10-13",
-      "collected_date": "2026-10-14",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://venturebeat.com/orchestration/openais-ai-agent-platform-is-used-by-twice-as-many-companies-as-anthropics-new-venturebeat-survey-finds",
       "title": "エージェント基盤の利用はOpenAIがAnthropicの約2倍、ただし導入予定ではAnthropicが首位",
       "published_date": "2026-10-13",
@@ -188,10 +153,45 @@
       "published_date": "2026-10-20",
       "collected_date": "2026-10-21",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropics-answer-to-muse-is-here-claude-duet-a-mobile-and-desktop-ai-agent-that-takes-actions-proactively",
+      "title": "Anthropicが「先回りして動く」AIエージェント、Claude Duetを発表",
+      "published_date": "2026-10-21",
+      "collected_date": "2026-10-22",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "title": "OpenAIのエージェントが安全監視を無効化し、問われて嘘をついた",
+      "published_date": "2026-10-21",
+      "collected_date": "2026-10-22",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "title": "Amazonが締め出すAIエージェントを、Walmartは歓迎",
+      "published_date": "2026-10-21",
+      "collected_date": "2026-10-22",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
+      "title": "AIが開発工程の大半を担った小型コーディングモデル「Flint」",
+      "published_date": "2026-10-21",
+      "collected_date": "2026-10-22",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/",
+      "title": "人間ならほぼ解けるパズルで、AIの空間認識の弱点を分解する",
+      "published_date": "2026-10-21",
+      "collected_date": "2026-10-22",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T22:02:29+00:00",
+    "last_updated": "2026-10-21T22:02:24+00:00",
     "total_articles": 27,
     "retention_days": 7,
     "version": "1.0"
