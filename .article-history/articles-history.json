@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/orchestration/openais-ai-agent-platform-is-used-by-twice-as-many-companies-as-anthropics-new-venturebeat-survey-finds",
-      "title": "エージェント基盤の利用はOpenAIがAnthropicの約2倍、ただし導入予定ではAnthropicが首位",
-      "published_date": "2026-10-13",
-      "collected_date": "2026-10-15",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "title": "AIエージェントが「わざと詐欺に引っかかる」——豪Apateの詐欺対策",
-      "published_date": "2026-10-14",
-      "collected_date": "2026-10-15",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "title": "米8州がOpenAIを提訴、「ChatGPTは子どもに安全ではない」",
-      "published_date": "2026-10-14",
-      "collected_date": "2026-10-15",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
-      "title": "数学の次は物理・経済の理論研究——AIの正答率が2年で約2%から35%に",
-      "published_date": "2026-10-14",
-      "collected_date": "2026-10-15",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "title": "オープンモデルの利点はリスクを上回るのか",
-      "published_date": "2026-10-13",
-      "collected_date": "2026-10-15",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops",
       "title": "Meta、米国製で最高性能をうたうオープンウェイト「Muse Spark Open」を公開",
       "published_date": "2026-10-15",
@@ -188,10 +153,45 @@
       "published_date": "2026-10-21",
       "collected_date": "2026-10-22",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "title": "Microsoftの診断AI、難しい症例で医師を上回ったとScience誌に発表",
+      "published_date": "2026-10-22",
+      "collected_date": "2026-10-23",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "title": "1Password、AIエージェントにパスワードを見せずにログインさせる新サービス",
+      "published_date": "2026-10-22",
+      "collected_date": "2026-10-23",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/nvidia-is-pitching-ai-factories-but-81-of-companies-say-their-gpus-run-at-half-capacity-or-less",
+      "title": "「AI工場」を勧めるNvidia、だが企業の81%はGPUを半分も使えていない",
+      "published_date": "2026-10-22",
+      "collected_date": "2026-10-23",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/does-agentic-rag-actually-retrieve-better-evidence-i-tested-it-on-298-questions/",
+      "title": "エージェント型RAGは本当に良い資料を見つけるのか、298問で検証",
+      "published_date": "2026-10-22",
+      "collected_date": "2026-10-23",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "title": "Hugging Face、DNAと会話できるオープンモデル「Carbon-X」を公開",
+      "published_date": "2026-10-22",
+      "collected_date": "2026-10-23",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:02:24+00:00",
+    "last_updated": "2026-10-22T22:02:32Z",
     "total_articles": 27,
     "retention_days": 7,
     "version": "1.0"
