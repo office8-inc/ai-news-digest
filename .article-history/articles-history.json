@@ -1,34 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops",
-      "title": "Meta、米国製で最高性能をうたうオープンウェイト「Muse Spark Open」を公開",
-      "published_date": "2026-10-15",
-      "collected_date": "2026-10-16",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "title": "Anthropic、外部評価機関METRに「社員並み」の内部アクセスを付与",
-      "published_date": "2026-10-15",
-      "collected_date": "2026-10-16",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-      "title": "Google、複数の通販サイトの商品をまとめる「Universal Cart」を米国で開始",
-      "published_date": "2026-10-15",
-      "collected_date": "2026-10-16",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
-      "title": "AIエージェントが荒らした後始末、費用は被害者が負担している",
-      "published_date": "2026-10-15",
-      "collected_date": "2026-10-16",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
       "title": "Anthropic、自社株の5%を拠出する「公益ファンド」を設立",
       "published_date": "2026-10-18",
@@ -188,10 +160,38 @@
       "published_date": "2026-10-22",
       "collected_date": "2026-10-23",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://venturebeat.com/technology/moonshots-kimi-k3-1-pro-flirts-with-open-weights-leadership-amid-paid-influencer-scandal-allegations",
+      "title": "Moonshotの「Kimi K3.1 Pro」、オープンウェイト首位に迫るも宣伝手法に疑惑",
+      "published_date": "2026-10-24",
+      "collected_date": "2026-10-26",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "title": "「テック以外の大企業ではAIの金銭的効果はゼロ」――Apolloのエコノミスト",
+      "published_date": "2026-10-25",
+      "collected_date": "2026-10-26",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "title": "GoogleのAI検索がWebメディアの集客モデルを壊した",
+      "published_date": "2026-10-25",
+      "collected_date": "2026-10-26",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "title": "米国のデータセンター反対運動が、海外の先例から学べること",
+      "published_date": "2026-10-25",
+      "collected_date": "2026-10-26",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T22:02:32Z",
+    "last_updated": "2026-10-25T22:02:07Z",
     "total_articles": 27,
     "retention_days": 7,
     "version": "1.0"
