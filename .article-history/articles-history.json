@@ -1,27 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "title": "Anthropic、自社株の5%を拠出する「公益ファンド」を設立",
-      "published_date": "2026-10-18",
-      "collected_date": "2026-10-19",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "title": "AIエージェントに門を閉ざすWebサイトが増えている",
-      "published_date": "2026-10-17",
-      "collected_date": "2026-10-19",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
-      "title": "AIはまだ人間のゲノムの複雑さを読み解けない",
-      "published_date": "2026-10-17",
-      "collected_date": "2026-10-19",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
       "title": "ハッカーがAIエージェントの「軍団」でJohn DeereやSharkNinjaに侵入",
       "published_date": "2026-10-19",
@@ -188,11 +167,46 @@
       "published_date": "2026-10-25",
       "collected_date": "2026-10-26",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-files-to-go-public-on-nasdaq-as-ant-with-16-3b-in-revenue-for-first-six-months-of-2026",
+      "title": "Anthropicが上場を申請、上半期の売上は163億ドル",
+      "published_date": "2026-10-26",
+      "collected_date": "2026-10-27",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "title": "SpaceX、Apolloと約400億ドルのGPUリース契約を締結",
+      "published_date": "2026-10-26",
+      "collected_date": "2026-10-27",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "title": "AIはCOBOLの「レガシーコード問題」を解決できるか",
+      "published_date": "2026-10-26",
+      "collected_date": "2026-10-27",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "title": "記者になろうとするAIエージェントたち",
+      "published_date": "2026-10-26",
+      "collected_date": "2026-10-27",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "title": "「AIの大惨事」ばかりに注目すると、日常の害が見過ごされる",
+      "published_date": "2026-10-26",
+      "collected_date": "2026-10-27",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T22:02:07Z",
-    "total_articles": 27,
+    "last_updated": "2026-10-26T22:02:20Z",
+    "total_articles": 29,
     "retention_days": 7,
     "version": "1.0"
   }
