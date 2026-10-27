@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "title": "ハッカーがAIエージェントの「軍団」でJohn DeereやSharkNinjaに侵入",
-      "published_date": "2026-10-19",
-      "collected_date": "2026-10-20",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://venturebeat.com/technology/minimaxs-new-m3-1-flash-beats-deepseek-and-opus-5-on-a-key-business-benchmark-at-lower-cost-but-with-a-high-hallucination-rate",
-      "title": "MiniMax M3.1 Flash、低価格で上位モデルに迫るが誤答率に課題",
-      "published_date": "2026-10-19",
-      "collected_date": "2026-10-20",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-      "title": "Nvidia、企業と手元PCで動くエージェント向けのオープンモデルを発表",
-      "published_date": "2026-10-19",
-      "collected_date": "2026-10-20",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
-      "title": "WhatsAppのヘルプページから、Metaのチャットボット向け隠し指示が流出",
-      "published_date": "2026-10-19",
-      "collected_date": "2026-10-20",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "title": "無人島に置かれたClaudeが「遊び」始めた――MITの実験",
-      "published_date": "2026-10-19",
-      "collected_date": "2026-10-20",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
       "title": "GoogleがTPU版PyTorchを公開、AmazonとともにNvidiaの牙城を崩しにかかる",
       "published_date": "2026-10-20",
@@ -202,10 +167,45 @@
       "published_date": "2026-10-26",
       "collected_date": "2026-10-27",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "title": "AIが「指数時間仮説」を否定？ 計算機科学の前提が揺らぐ",
+      "published_date": "2026-10-27",
+      "collected_date": "2026-10-28",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/technology/liquid-ais-new-lfm3-models-put-browser-agents-voice-commands-and-image-recognition-onto-enterprise-controlled-devices",
+      "title": "Liquid AIの小型モデル「LFM3」、自社管理の端末でエージェントを動かす",
+      "published_date": "2026-10-27",
+      "collected_date": "2026-10-28",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "title": "Apple、Pages・Keynote・NumbersにAIアシスタントを搭載",
+      "published_date": "2026-10-27",
+      "collected_date": "2026-10-28",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "title": "英内務省、亡命審査でのOpenAI製ツール利用に調査の可能性",
+      "published_date": "2026-10-27",
+      "collected_date": "2026-10-28",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "title": "Anthropicとは何者なのか――上場申請書が映す「物語」の力",
+      "published_date": "2026-10-26",
+      "collected_date": "2026-10-28",
+      "source": "MIT Technology Review"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:02:20Z",
+    "last_updated": "2026-10-27T22:02:44Z",
     "total_articles": 29,
     "retention_days": 7,
     "version": "1.0"
