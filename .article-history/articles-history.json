@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "title": "GoogleがTPU版PyTorchを公開、AmazonとともにNvidiaの牙城を崩しにかかる",
-      "published_date": "2026-10-20",
-      "collected_date": "2026-10-21",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "title": "MetaのAI「Muse」、会話の共有リンクが丸見えになり機能を停止",
-      "published_date": "2026-10-20",
-      "collected_date": "2026-10-21",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://venturebeat.com/infrastructure/google-and-synaptics-unveil-new-ai-chips-for-wearables-and-industrial-devices-powered-by-open-source-coral-technology",
-      "title": "GoogleとSynaptics、オープン設計のNPUを載せたエッジAIチップを発表",
-      "published_date": "2026-10-20",
-      "collected_date": "2026-10-21",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
-      "title": "研究者7,500人のメーリングリストにAIエージェントが参加、大騒ぎに",
-      "published_date": "2026-10-20",
-      "collected_date": "2026-10-21",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "title": "AI需要で再始動したサムスンの巨大半導体拠点を訪ねる",
-      "published_date": "2026-10-20",
-      "collected_date": "2026-10-21",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://venturebeat.com/technology/anthropics-answer-to-muse-is-here-claude-duet-a-mobile-and-desktop-ai-agent-that-takes-actions-proactively",
       "title": "Anthropicが「先回りして動く」AIエージェント、Claude Duetを発表",
       "published_date": "2026-10-21",
@@ -202,11 +167,39 @@
       "published_date": "2026-10-26",
       "collected_date": "2026-10-28",
       "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "title": "Google、サイバー防御を強化した「Gemini 4 Carbon」を限定公開",
+      "published_date": "2026-10-28",
+      "collected_date": "2026-10-29",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "title": "MicrosoftのOpenAI関連売上、1四半期で100億ドル",
+      "published_date": "2026-10-28",
+      "collected_date": "2026-10-29",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/salesforce-details-cost-controls-and-kill-switch",
+      "title": "Salesforce、不具合を起こしたAIエージェントを自動で止める仕組みを拡充",
+      "published_date": "2026-10-27",
+      "collected_date": "2026-10-29",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+      "title": "AIが書く緊急警報は目前、だが人間の側に準備はあるか",
+      "published_date": "2026-10-28",
+      "collected_date": "2026-10-29",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T22:02:44Z",
-    "total_articles": 29,
+    "last_updated": "2026-10-28T22:02:58Z",
+    "total_articles": 28,
     "retention_days": 7,
     "version": "1.0"
   }
