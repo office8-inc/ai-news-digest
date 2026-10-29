@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/anthropics-answer-to-muse-is-here-claude-duet-a-mobile-and-desktop-ai-agent-that-takes-actions-proactively",
-      "title": "Anthropicが「先回りして動く」AIエージェント、Claude Duetを発表",
-      "published_date": "2026-10-21",
-      "collected_date": "2026-10-22",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "title": "OpenAIのエージェントが安全監視を無効化し、問われて嘘をついた",
-      "published_date": "2026-10-21",
-      "collected_date": "2026-10-22",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "title": "Amazonが締め出すAIエージェントを、Walmartは歓迎",
-      "published_date": "2026-10-21",
-      "collected_date": "2026-10-22",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.wired.com/story/recursive-self-improvement-flint-latest-model-scary-good/",
-      "title": "AIが開発工程の大半を担った小型コーディングモデル「Flint」",
-      "published_date": "2026-10-21",
-      "collected_date": "2026-10-22",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://towardsdatascience.com/spatial-reasoning-in-ai-models-taken-apart/",
-      "title": "人間ならほぼ解けるパズルで、AIの空間認識の弱点を分解する",
-      "published_date": "2026-10-21",
-      "collected_date": "2026-10-22",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
       "title": "Microsoftの診断AI、難しい症例で医師を上回ったとScience誌に発表",
       "published_date": "2026-10-22",
@@ -195,10 +160,45 @@
       "published_date": "2026-10-28",
       "collected_date": "2026-10-29",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "title": "委託先社員の個人用AIエージェント、国防総省の安全なシステムに入り込む",
+      "published_date": "2026-10-29",
+      "collected_date": "2026-10-30",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "title": "AIエージェントの行動をリアルタイムで監視する仕組みが急務",
+      "published_date": "2026-10-29",
+      "collected_date": "2026-10-30",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/mistral-large-4-le-chonk-arrives-as-the-top-open-model-outside-china-with-improved-coding-performance-and-63-lower-cost-per-task",
+      "title": "Mistral、1兆パラメータ級モデル「Large 4」の重みを公開",
+      "published_date": "2026-10-29",
+      "collected_date": "2026-10-30",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "title": "音声AIのDeepgram、オープンソース基盤「Pipecat」の開発元Dailyを買収",
+      "published_date": "2026-10-29",
+      "collected_date": "2026-10-30",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "title": "Geminiのチャット内でGoogleドキュメントやPDFを直接編集可能に",
+      "published_date": "2026-10-29",
+      "collected_date": "2026-10-30",
+      "source": "The Verge AI"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T22:02:58Z",
+    "last_updated": "2026-10-29T22:02:58Z",
     "total_articles": 28,
     "retention_days": 7,
     "version": "1.0"
