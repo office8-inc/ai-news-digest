@@ -1,34 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/moonshots-kimi-k3-1-pro-flirts-with-open-weights-leadership-amid-paid-influencer-scandal-allegations",
-      "title": "Moonshotの「Kimi K3.1 Pro」、オープンウェイト首位に迫るも宣伝手法に疑惑",
-      "published_date": "2026-10-24",
-      "collected_date": "2026-10-26",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "title": "「テック以外の大企業ではAIの金銭的効果はゼロ」――Apolloのエコノミスト",
-      "published_date": "2026-10-25",
-      "collected_date": "2026-10-26",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "title": "GoogleのAI検索がWebメディアの集客モデルを壊した",
-      "published_date": "2026-10-25",
-      "collected_date": "2026-10-26",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-      "title": "米国のデータセンター反対運動が、海外の先例から学べること",
-      "published_date": "2026-10-25",
-      "collected_date": "2026-10-26",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://venturebeat.com/technology/anthropic-files-to-go-public-on-nasdaq-as-ant-with-16-3b-in-revenue-for-first-six-months-of-2026",
       "title": "Anthropicが上場を申請、上半期の売上は163億ドル",
       "published_date": "2026-10-26",
@@ -188,11 +160,46 @@
       "published_date": "2026-10-30",
       "collected_date": "2026-11-02",
       "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "title": "「エージェント向けのウェブ」がやってきた",
+      "published_date": "2026-11-02",
+      "collected_date": "2026-11-03",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "title": "Grok Bot、「持続不可能なコスト」を理由に利用上限を引き締め",
+      "published_date": "2026-11-02",
+      "collected_date": "2026-11-03",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "title": "New York Timesなど、記事の無断収集とAI企業への提供でBraveを提訴",
+      "published_date": "2026-11-02",
+      "collected_date": "2026-11-03",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "title": "ありふれたAIアプリ数百本に、性的ディープフェイク機能が隠されていた",
+      "published_date": "2026-11-02",
+      "collected_date": "2026-11-03",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/let-decision-models-watch-your-agents/",
+      "title": "AIエージェントの異常な振る舞いを「判定モデル」で監視する",
+      "published_date": "2026-11-02",
+      "collected_date": "2026-11-03",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:03:01Z",
-    "total_articles": 27,
+    "last_updated": "2026-11-02T22:02:29Z",
+    "total_articles": 28,
     "retention_days": 7,
     "version": "1.0"
   }
