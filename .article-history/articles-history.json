@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/anthropic-files-to-go-public-on-nasdaq-as-ant-with-16-3b-in-revenue-for-first-six-months-of-2026",
-      "title": "Anthropicが上場を申請、上半期の売上は163億ドル",
-      "published_date": "2026-10-26",
-      "collected_date": "2026-10-27",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-      "title": "SpaceX、Apolloと約400億ドルのGPUリース契約を締結",
-      "published_date": "2026-10-26",
-      "collected_date": "2026-10-27",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "title": "AIはCOBOLの「レガシーコード問題」を解決できるか",
-      "published_date": "2026-10-26",
-      "collected_date": "2026-10-27",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-      "title": "記者になろうとするAIエージェントたち",
-      "published_date": "2026-10-26",
-      "collected_date": "2026-10-27",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "title": "「AIの大惨事」ばかりに注目すると、日常の害が見過ごされる",
-      "published_date": "2026-10-26",
-      "collected_date": "2026-10-27",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
       "title": "AIが「指数時間仮説」を否定？ 計算機科学の前提が揺らぐ",
       "published_date": "2026-10-27",
@@ -195,11 +160,32 @@
       "published_date": "2026-11-02",
       "collected_date": "2026-11-03",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "title": "「逆ゲーム理論」でAIエージェントを制御する試み",
+      "published_date": "2026-11-03",
+      "collected_date": "2026-11-04",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/like-gene-editing-for-neural-networks-mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-performance",
+      "title": "GPT-6 Astraがモデルの重みを直接編集、Qwenの数学スコアが7.9%から48.1%に",
+      "published_date": "2026-11-02",
+      "collected_date": "2026-11-04",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+      "title": "Palantirは売上96%増、だが企業向け契約には減速の兆し",
+      "published_date": "2026-11-03",
+      "collected_date": "2026-11-04",
+      "source": "TechCrunch AI"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:02:29Z",
-    "total_articles": 28,
+    "last_updated": "2026-11-03T22:02:53Z",
+    "total_articles": 26,
     "retention_days": 7,
     "version": "1.0"
   }
