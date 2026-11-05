@@ -1,34 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "title": "Google、サイバー防御を強化した「Gemini 4 Carbon」を限定公開",
-      "published_date": "2026-10-28",
-      "collected_date": "2026-10-29",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "title": "MicrosoftのOpenAI関連売上、1四半期で100億ドル",
-      "published_date": "2026-10-28",
-      "collected_date": "2026-10-29",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/salesforce-details-cost-controls-and-kill-switch",
-      "title": "Salesforce、不具合を起こしたAIエージェントを自動で止める仕組みを拡充",
-      "published_date": "2026-10-27",
-      "collected_date": "2026-10-29",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-      "title": "AIが書く緊急警報は目前、だが人間の側に準備はあるか",
-      "published_date": "2026-10-28",
-      "collected_date": "2026-10-29",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
       "title": "委託先社員の個人用AIエージェント、国防総省の安全なシステムに入り込む",
       "published_date": "2026-10-29",
@@ -188,11 +160,32 @@
       "published_date": "2026-11-04",
       "collected_date": "2026-11-05",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/the-ai-race-is-raising-companies-bills-from-gpus-to-memory-to-microsoft-365",
+      "title": "AI競争のツケは導入企業にも、GPU・メモリ・Microsoft 365が値上がり",
+      "published_date": "2026-11-04",
+      "collected_date": "2026-11-06",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "title": "AIが見つけたUbuntuの深刻な脆弱性、OpenAIの新モデルは防御側に十分か",
+      "published_date": "2026-11-05",
+      "collected_date": "2026-11-06",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-geo-webmcp-and-bot-paywalls-are-building-the-ai-native-internet/",
+      "title": "GEO、WebMCP、ボット向けペイウォールが作るAI前提のウェブ",
+      "published_date": "2026-11-05",
+      "collected_date": "2026-11-06",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:04:20Z",
-    "total_articles": 27,
+    "last_updated": "2026-11-05T22:02:44Z",
+    "total_articles": 26,
     "retention_days": 7,
     "version": "1.0"
   }
