@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "title": "AIが「指数時間仮説」を否定？ 計算機科学の前提が揺らぐ",
-      "published_date": "2026-10-27",
-      "collected_date": "2026-10-28",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://venturebeat.com/technology/liquid-ais-new-lfm3-models-put-browser-agents-voice-commands-and-image-recognition-onto-enterprise-controlled-devices",
-      "title": "Liquid AIの小型モデル「LFM3」、自社管理の端末でエージェントを動かす",
-      "published_date": "2026-10-27",
-      "collected_date": "2026-10-28",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "title": "Apple、Pages・Keynote・NumbersにAIアシスタントを搭載",
-      "published_date": "2026-10-27",
-      "collected_date": "2026-10-28",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
-      "title": "英内務省、亡命審査でのOpenAI製ツール利用に調査の可能性",
-      "published_date": "2026-10-27",
-      "collected_date": "2026-10-28",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "title": "Anthropicとは何者なのか――上場申請書が映す「物語」の力",
-      "published_date": "2026-10-26",
-      "collected_date": "2026-10-28",
-      "source": "MIT Technology Review"
-    },
-    {
       "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
       "title": "Google、サイバー防御を強化した「Gemini 4 Carbon」を限定公開",
       "published_date": "2026-10-28",
@@ -181,11 +146,53 @@
       "published_date": "2026-11-03",
       "collected_date": "2026-11-04",
       "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "title": "AIデータセンターの中心地テキサスに、選挙結果が影を落とす",
+      "published_date": "2026-11-04",
+      "collected_date": "2026-11-05",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/technology/ex-googlers-new-apache-2-0-model-ripple-65b-preview-claims-the-u-s-open-coding-lead-on-two-major-benchmarks",
+      "title": "元Google社員ら、Apache 2.0のコーディング向けモデルを公開",
+      "published_date": "2026-11-04",
+      "collected_date": "2026-11-05",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "title": "Meta、AIコーディングのスタートアップConductorを買収",
+      "published_date": "2026-11-04",
+      "collected_date": "2026-11-05",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "title": "Uber、AIエージェント経由の配車は四半期でわずか4件",
+      "published_date": "2026-11-04",
+      "collected_date": "2026-11-05",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/",
+      "title": "音声アシスタントの会話進行を「判定モデル」に任せる",
+      "published_date": "2026-11-04",
+      "collected_date": "2026-11-05",
+      "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+      "title": "英国政府の「AIで4000億ポンド」、出どころはGoogleの委託調査",
+      "published_date": "2026-11-04",
+      "collected_date": "2026-11-05",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:02:53Z",
-    "total_articles": 26,
+    "last_updated": "2026-11-05T01:04:20Z",
+    "total_articles": 27,
     "retention_days": 7,
     "version": "1.0"
   }
