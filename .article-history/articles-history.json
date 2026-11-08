@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "title": "委託先社員の個人用AIエージェント、国防総省の安全なシステムに入り込む",
-      "published_date": "2026-10-29",
-      "collected_date": "2026-10-30",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "title": "AIエージェントの行動をリアルタイムで監視する仕組みが急務",
-      "published_date": "2026-10-29",
-      "collected_date": "2026-10-30",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/technology/mistral-large-4-le-chonk-arrives-as-the-top-open-model-outside-china-with-improved-coding-performance-and-63-lower-cost-per-task",
-      "title": "Mistral、1兆パラメータ級モデル「Large 4」の重みを公開",
-      "published_date": "2026-10-29",
-      "collected_date": "2026-10-30",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-      "title": "音声AIのDeepgram、オープンソース基盤「Pipecat」の開発元Dailyを買収",
-      "published_date": "2026-10-29",
-      "collected_date": "2026-10-30",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-      "title": "Geminiのチャット内でGoogleドキュメントやPDFを直接編集可能に",
-      "published_date": "2026-10-29",
-      "collected_date": "2026-10-30",
-      "source": "The Verge AI"
-    },
-    {
       "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
       "title": "AIエージェント、生きたマウスの脳への薬剤注入を実行",
       "published_date": "2026-10-31",
@@ -181,11 +146,39 @@
       "published_date": "2026-11-05",
       "collected_date": "2026-11-06",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/decision-models-like-jev-dont-explain-their-answers-that-makes-context-your-problem",
+      "title": "理由を説明しない意思決定モデル、問われるのは「文脈の設計」",
+      "published_date": "2026-11-07",
+      "collected_date": "2026-11-09",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "title": "Nvidia取締役会、中国のスパイ工作の標的とされたフアンCEOの件で独立調査へ",
+      "published_date": "2026-11-08",
+      "collected_date": "2026-11-09",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "title": "エルビスとエミネムの権利者がAI音楽のSunoを提訴",
+      "published_date": "2026-11-08",
+      "collected_date": "2026-11-09",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "title": "ロボットと自動運転を支える「ワールドモデル」の基礎知識",
+      "published_date": "2026-11-08",
+      "collected_date": "2026-11-09",
+      "source": "Wired (AI)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T22:02:44Z",
-    "total_articles": 26,
+    "last_updated": "2026-11-08T22:02:26Z",
+    "total_articles": 25,
     "retention_days": 7,
     "version": "1.0"
   }
