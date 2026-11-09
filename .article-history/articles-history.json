@@ -1,34 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-      "title": "AIエージェント、生きたマウスの脳への薬剤注入を実行",
-      "published_date": "2026-10-31",
-      "collected_date": "2026-11-02",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "title": "OpenAI、新たな資金調達の目標額を200億ドルに引き下げか",
-      "published_date": "2026-10-31",
-      "collected_date": "2026-11-02",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/open-weight-ai-models-are-getting-cheaper-and-better-heres-how-to-use-them-without-taking-on-the-cost-of-running-them",
-      "title": "オープンウェイトモデルを自前で運用せずに使いこなす方法",
-      "published_date": "2026-10-31",
-      "collected_date": "2026-11-02",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "title": "Apple Intelligence、iOS 27.3で中国に上陸へ",
-      "published_date": "2026-10-30",
-      "collected_date": "2026-11-02",
-      "source": "The Verge AI"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
       "title": "「エージェント向けのウェブ」がやってきた",
       "published_date": "2026-11-02",
@@ -174,10 +146,38 @@
       "published_date": "2026-11-08",
       "collected_date": "2026-11-09",
       "source": "Wired (AI)"
+    },
+    {
+      "url": "https://venturebeat.com/technology/anthropic-releases-claude-fable-5-2-and-mythos-5-2-pairing-new-record-high-benchmarks-with-20-api-cost-reduction",
+      "title": "Anthropic、Claude Fable 5.2とMythos 5.2を発表　API価格は20%引き下げ",
+      "published_date": "2026-11-09",
+      "collected_date": "2026-11-10",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "title": "Meta、エージェントの反復作業向け軽量モデル「Muse Ember」を公開",
+      "published_date": "2026-11-09",
+      "collected_date": "2026-11-10",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "title": "ペロシ氏の後継議員、連邦レベルでのAI規制に意欲",
+      "published_date": "2026-11-09",
+      "collected_date": "2026-11-10",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-estimate-the-recall-of-ai-agents-with-capture-recapture/",
+      "title": "漁業資源の推定法で、AIエージェントの「取りこぼし」を見積もる",
+      "published_date": "2026-11-09",
+      "collected_date": "2026-11-10",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T22:02:26Z",
+    "last_updated": "2026-11-09T22:02:34Z",
     "total_articles": 25,
     "retention_days": 7,
     "version": "1.0"
