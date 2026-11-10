@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
-      "title": "「エージェント向けのウェブ」がやってきた",
-      "published_date": "2026-11-02",
-      "collected_date": "2026-11-03",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "title": "Grok Bot、「持続不可能なコスト」を理由に利用上限を引き締め",
-      "published_date": "2026-11-02",
-      "collected_date": "2026-11-03",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "title": "New York Timesなど、記事の無断収集とAI企業への提供でBraveを提訴",
-      "published_date": "2026-11-02",
-      "collected_date": "2026-11-03",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "title": "ありふれたAIアプリ数百本に、性的ディープフェイク機能が隠されていた",
-      "published_date": "2026-11-02",
-      "collected_date": "2026-11-03",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://towardsdatascience.com/let-decision-models-watch-your-agents/",
-      "title": "AIエージェントの異常な振る舞いを「判定モデル」で監視する",
-      "published_date": "2026-11-02",
-      "collected_date": "2026-11-03",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
       "title": "「逆ゲーム理論」でAIエージェントを制御する試み",
       "published_date": "2026-11-03",
@@ -174,10 +139,45 @@
       "published_date": "2026-11-09",
       "collected_date": "2026-11-10",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "title": "Google、最上位モデル「Gemini 4 Carbon」を一般公開　エージェントの「swarm」機能も",
+      "published_date": "2026-11-10",
+      "collected_date": "2026-11-11",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/paypal-says-its-ai-assistant-went-from-43-to-95-accuracy-without-changing-the-model",
+      "title": "PayPal、モデルを変えずにAIアシスタントの正答率を43%から95%へ",
+      "published_date": "2026-11-10",
+      "collected_date": "2026-11-11",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "title": "ニューヨーク州のAI安全法「RAISE Act」が始動　OpenAIやAnthropicに報告義務",
+      "published_date": "2026-11-10",
+      "collected_date": "2026-11-11",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "title": "DeepMindのAI、Signalプロトコルの安全性を数学的に証明",
+      "published_date": "2026-11-10",
+      "collected_date": "2026-11-11",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/",
+      "title": "Claude Codeのスキルが呼ばれない問題、セッション開始フックで15%→62%に",
+      "published_date": "2026-11-10",
+      "collected_date": "2026-11-11",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:02:34Z",
+    "last_updated": "2026-11-10T22:02:21Z",
     "total_articles": 25,
     "retention_days": 7,
     "version": "1.0"
