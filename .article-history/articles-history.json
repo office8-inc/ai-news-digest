@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "title": "AIデータセンターの中心地テキサスに、選挙結果が影を落とす",
-      "published_date": "2026-11-04",
-      "collected_date": "2026-11-05",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/technology/ex-googlers-new-apache-2-0-model-ripple-65b-preview-claims-the-u-s-open-coding-lead-on-two-major-benchmarks",
-      "title": "元Google社員ら、Apache 2.0のコーディング向けモデルを公開",
-      "published_date": "2026-11-04",
-      "collected_date": "2026-11-05",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "title": "Meta、AIコーディングのスタートアップConductorを買収",
-      "published_date": "2026-11-04",
-      "collected_date": "2026-11-05",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "title": "Uber、AIエージェント経由の配車は四半期でわずか4件",
-      "published_date": "2026-11-04",
-      "collected_date": "2026-11-05",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/let-decision-models-guide-your-voice-assistant/",
-      "title": "音声アシスタントの会話進行を「判定モデル」に任せる",
-      "published_date": "2026-11-04",
-      "collected_date": "2026-11-05",
-      "source": "Towards Data Science"
-    },
-    {
-      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "title": "英国政府の「AIで4000億ポンド」、出どころはGoogleの委託調査",
-      "published_date": "2026-11-04",
-      "collected_date": "2026-11-05",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://venturebeat.com/infrastructure/the-ai-race-is-raising-companies-bills-from-gpus-to-memory-to-microsoft-365",
       "title": "AI競争のツケは導入企業にも、GPU・メモリ・Microsoft 365が値上がり",
       "published_date": "2026-11-04",
@@ -188,10 +146,52 @@
       "published_date": "2026-11-11",
       "collected_date": "2026-11-12",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+      "title": "Nvidiaのジェンスン・フアンCEOが辞任　暫定CEOにCFOのKress氏",
+      "published_date": "2026-11-12",
+      "collected_date": "2026-11-13",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "title": "Nvidia、チップの所在追跡は「技術的に可能」と議員に非公式に認める",
+      "published_date": "2026-11-12",
+      "collected_date": "2026-11-13",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://venturebeat.com/infrastructure/swapping-ai-models-is-easier-said-than-done-for-most-companies-it-takes-weeks-vb-intelligence-finds",
+      "title": "AIモデルの乗り換えは数週間がかり　VentureBeat調査",
+      "published_date": "2026-11-12",
+      "collected_date": "2026-11-13",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "title": "AIチャットボットが偽の通販サイトを案内　回答の最大15%に危険なURL",
+      "published_date": "2026-11-12",
+      "collected_date": "2026-11-13",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "title": "Google検索に「Gemini 4 Hydrogen」　複雑な質問への理解が向上",
+      "published_date": "2026-11-12",
+      "collected_date": "2026-11-13",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/",
+      "title": "無関係な文書が268万件に増えると、RAGの検索精度は40ポイント下がる",
+      "published_date": "2026-11-12",
+      "collected_date": "2026-11-13",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:02:15Z",
+    "last_updated": "2026-11-12T22:02:18Z",
     "total_articles": 27,
     "retention_days": 7,
     "version": "1.0"
