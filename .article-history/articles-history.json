@@ -1,27 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/infrastructure/the-ai-race-is-raising-companies-bills-from-gpus-to-memory-to-microsoft-365",
-      "title": "AI競争のツケは導入企業にも、GPU・メモリ・Microsoft 365が値上がり",
-      "published_date": "2026-11-04",
-      "collected_date": "2026-11-06",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "title": "AIが見つけたUbuntuの深刻な脆弱性、OpenAIの新モデルは防御側に十分か",
-      "published_date": "2026-11-05",
-      "collected_date": "2026-11-06",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-geo-webmcp-and-bot-paywalls-are-building-the-ai-native-internet/",
-      "title": "GEO、WebMCP、ボット向けペイウォールが作るAI前提のウェブ",
-      "published_date": "2026-11-05",
-      "collected_date": "2026-11-06",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://venturebeat.com/orchestration/decision-models-like-jev-dont-explain-their-answers-that-makes-context-your-problem",
       "title": "理由を説明しない意思決定モデル、問われるのは「文脈の設計」",
       "published_date": "2026-11-07",
@@ -188,11 +167,46 @@
       "published_date": "2026-11-12",
       "collected_date": "2026-11-13",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/one-compromised-mcp-server-can-trick-an-ai-agent-into-misusing-tools-you-already-trust",
+      "title": "MCPサーバー1台の侵害が、信頼済みツールの悪用につながる　認証設計の現在地",
+      "published_date": "2026-11-15",
+      "collected_date": "2026-11-16",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "title": "ジェンスン・フアン氏の退任は、AI業界全体にとっても悪いニュースか",
+      "published_date": "2026-11-15",
+      "collected_date": "2026-11-16",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "title": "Nvidiaのスパイ疑惑を受け、米議会がAIチップの輸出規制強化へ",
+      "published_date": "2026-11-15",
+      "collected_date": "2026-11-16",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "title": "身の回りの物を「世話の必要なAIペット」に変える小型デバイス「OATs」",
+      "published_date": "2026-11-15",
+      "collected_date": "2026-11-16",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/",
+      "title": "100超のAIエージェントのデータが示す「エラーではなく静かなドリフト」という失敗",
+      "published_date": "2026-11-14",
+      "collected_date": "2026-11-16",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:02:18Z",
-    "total_articles": 27,
+    "last_updated": "2026-11-15T22:03:13Z",
+    "total_articles": 29,
     "retention_days": 7,
     "version": "1.0"
   }
