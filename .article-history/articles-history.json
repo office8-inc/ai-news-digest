@@ -1,34 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/orchestration/decision-models-like-jev-dont-explain-their-answers-that-makes-context-your-problem",
-      "title": "理由を説明しない意思決定モデル、問われるのは「文脈の設計」",
-      "published_date": "2026-11-07",
-      "collected_date": "2026-11-09",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "title": "Nvidia取締役会、中国のスパイ工作の標的とされたフアンCEOの件で独立調査へ",
-      "published_date": "2026-11-08",
-      "collected_date": "2026-11-09",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "title": "エルビスとエミネムの権利者がAI音楽のSunoを提訴",
-      "published_date": "2026-11-08",
-      "collected_date": "2026-11-09",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "title": "ロボットと自動運転を支える「ワールドモデル」の基礎知識",
-      "published_date": "2026-11-08",
-      "collected_date": "2026-11-09",
-      "source": "Wired (AI)"
-    },
-    {
       "url": "https://venturebeat.com/technology/anthropic-releases-claude-fable-5-2-and-mythos-5-2-pairing-new-record-high-benchmarks-with-20-api-cost-reduction",
       "title": "Anthropic、Claude Fable 5.2とMythos 5.2を発表　API価格は20%引き下げ",
       "published_date": "2026-11-09",
@@ -202,11 +174,46 @@
       "published_date": "2026-11-14",
       "collected_date": "2026-11-16",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "title": "カリフォルニア州司法長官、「暴走エージェント」事件でOpenAIを提訴",
+      "published_date": "2026-11-16",
+      "collected_date": "2026-11-17",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "title": "米国のデータセンター、電力消費は「中規模の国」を上回る",
+      "published_date": "2026-11-16",
+      "collected_date": "2026-11-17",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "title": "Nvidiaはフアン氏の騒動以前から追い込まれていた",
+      "published_date": "2026-11-16",
+      "collected_date": "2026-11-17",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "title": "オープンソースAIの陣営が、ジェンスン・フアン氏の復帰を求める",
+      "published_date": "2026-11-16",
+      "collected_date": "2026-11-17",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://towardsdatascience.com/local-llms-handle-textbook-rag-but-fail-on-new-research-papers/",
+      "title": "ローカルLLMのRAG、教科書は解けても新しい論文では崩れる",
+      "published_date": "2026-11-16",
+      "collected_date": "2026-11-17",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:03:13Z",
-    "total_articles": 29,
+    "last_updated": "2026-11-16T22:03:25Z",
+    "total_articles": 30,
     "retention_days": 7,
     "version": "1.0"
   }
