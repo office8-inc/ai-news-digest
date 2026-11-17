@@ -1,34 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/technology/anthropic-releases-claude-fable-5-2-and-mythos-5-2-pairing-new-record-high-benchmarks-with-20-api-cost-reduction",
-      "title": "Anthropic、Claude Fable 5.2とMythos 5.2を発表　API価格は20%引き下げ",
-      "published_date": "2026-11-09",
-      "collected_date": "2026-11-10",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "title": "Meta、エージェントの反復作業向け軽量モデル「Muse Ember」を公開",
-      "published_date": "2026-11-09",
-      "collected_date": "2026-11-10",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
-      "title": "ペロシ氏の後継議員、連邦レベルでのAI規制に意欲",
-      "published_date": "2026-11-09",
-      "collected_date": "2026-11-10",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-estimate-the-recall-of-ai-agents-with-capture-recapture/",
-      "title": "漁業資源の推定法で、AIエージェントの「取りこぼし」を見積もる",
-      "published_date": "2026-11-09",
-      "collected_date": "2026-11-10",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
       "title": "Google、最上位モデル「Gemini 4 Carbon」を一般公開　エージェントの「swarm」機能も",
       "published_date": "2026-11-10",
@@ -209,11 +181,46 @@
       "published_date": "2026-11-16",
       "collected_date": "2026-11-17",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "title": "「ゲームだ」と伝えるだけで、主要AIが軍事標的の特定に協力した",
+      "published_date": "2026-11-17",
+      "collected_date": "2026-11-18",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/technology/alibabas-qwen4-max-cuts-ai-task-costs-but-benchmarks-show-an-uneven-challenge-to-frontier-rivals",
+      "title": "Alibaba「Qwen4-Max」、低コストを武器にするが総合力は道半ば",
+      "published_date": "2026-11-17",
+      "collected_date": "2026-11-18",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "title": "Googleのエージェント「Spark」が「Tasks」に改名、無料で利用可能に",
+      "published_date": "2026-11-17",
+      "collected_date": "2026-11-18",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "title": "AIに兵器の作り方を聞いた元Google幹部たち、評価額10億ドル超の企業に",
+      "published_date": "2026-11-17",
+      "collected_date": "2026-11-18",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/",
+      "title": "複数のコーディングエージェントを「まとめ役」のエージェントで管理する",
+      "published_date": "2026-11-17",
+      "collected_date": "2026-11-18",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T22:03:25Z",
-    "total_articles": 30,
+    "last_updated": "2026-11-17T22:02:59Z",
+    "total_articles": 31,
     "retention_days": 7,
     "version": "1.0"
   }
