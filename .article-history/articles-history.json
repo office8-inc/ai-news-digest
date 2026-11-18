@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "title": "Google、最上位モデル「Gemini 4 Carbon」を一般公開　エージェントの「swarm」機能も",
-      "published_date": "2026-11-10",
-      "collected_date": "2026-11-11",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://venturebeat.com/orchestration/paypal-says-its-ai-assistant-went-from-43-to-95-accuracy-without-changing-the-model",
-      "title": "PayPal、モデルを変えずにAIアシスタントの正答率を43%から95%へ",
-      "published_date": "2026-11-10",
-      "collected_date": "2026-11-11",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "title": "ニューヨーク州のAI安全法「RAISE Act」が始動　OpenAIやAnthropicに報告義務",
-      "published_date": "2026-11-10",
-      "collected_date": "2026-11-11",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
-      "title": "DeepMindのAI、Signalプロトコルの安全性を数学的に証明",
-      "published_date": "2026-11-10",
-      "collected_date": "2026-11-11",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://towardsdatascience.com/a-session-start-hook-raised-claude-code-skill-firing-from-15-to-62/",
-      "title": "Claude Codeのスキルが呼ばれない問題、セッション開始フックで15%→62%に",
-      "published_date": "2026-11-10",
-      "collected_date": "2026-11-11",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
       "title": "ユナイテッド航空、AIエージェントによる航空券予約を認めず",
       "published_date": "2026-11-11",
@@ -216,11 +181,53 @@
       "published_date": "2026-11-17",
       "collected_date": "2026-11-18",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "title": "米大手銀行、「AIエージェント経由の損害は利用者の責任」と規約を改定",
+      "published_date": "2026-11-18",
+      "collected_date": "2026-11-19",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.wired.com/story/artex-ai-hacking-tools/",
+      "title": "素人でも使える「撃つだけ」のAIハッキングツール「Artex」が犯罪者に広がる",
+      "published_date": "2026-11-18",
+      "collected_date": "2026-11-19",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://venturebeat.com/technology/essentially-unusable-openai-launches-gpt-6-2-astra-and-sol-to-negative-reception-from-ai-power-users",
+      "title": "OpenAIの「GPT-6.2 Astra / Sol」、パワーユーザーから「使い物にならない」と酷評",
+      "published_date": "2026-11-17",
+      "collected_date": "2026-11-19",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+      "title": "AIの「嗅覚」は人間並みになったか　スタートアップOsmoの挑戦",
+      "published_date": "2026-11-18",
+      "collected_date": "2026-11-19",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
+      "title": "Nvidia、中国へのAIチップ出荷を停止",
+      "published_date": "2026-11-18",
+      "collected_date": "2026-11-19",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/neurosymbolic-agents-explained-with-a-z3-example-in-python/",
+      "title": "「ニューロシンボリック」エージェントとは何か　Z3を使ったPythonの例で解説",
+      "published_date": "2026-11-18",
+      "collected_date": "2026-11-19",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T22:02:59Z",
-    "total_articles": 31,
+    "last_updated": "2026-11-18T22:02:06Z",
+    "total_articles": 32,
     "retention_days": 7,
     "version": "1.0"
   }
