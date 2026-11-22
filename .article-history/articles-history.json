@@ -1,48 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-      "title": "Nvidiaのジェンスン・フアンCEOが辞任　暫定CEOにCFOのKress氏",
-      "published_date": "2026-11-12",
-      "collected_date": "2026-11-13",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "title": "Nvidia、チップの所在追跡は「技術的に可能」と議員に非公式に認める",
-      "published_date": "2026-11-12",
-      "collected_date": "2026-11-13",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://venturebeat.com/infrastructure/swapping-ai-models-is-easier-said-than-done-for-most-companies-it-takes-weeks-vb-intelligence-finds",
-      "title": "AIモデルの乗り換えは数週間がかり　VentureBeat調査",
-      "published_date": "2026-11-12",
-      "collected_date": "2026-11-13",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "title": "AIチャットボットが偽の通販サイトを案内　回答の最大15%に危険なURL",
-      "published_date": "2026-11-12",
-      "collected_date": "2026-11-13",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "title": "Google検索に「Gemini 4 Hydrogen」　複雑な質問への理解が向上",
-      "published_date": "2026-11-12",
-      "collected_date": "2026-11-13",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://towardsdatascience.com/rag-retrieval-lost-40-points-when-distracting-passages-grew-to-268m/",
-      "title": "無関係な文書が268万件に増えると、RAGの検索精度は40ポイント下がる",
-      "published_date": "2026-11-12",
-      "collected_date": "2026-11-13",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://venturebeat.com/orchestration/one-compromised-mcp-server-can-trick-an-ai-agent-into-misusing-tools-you-already-trust",
       "title": "MCPサーバー1台の侵害が、信頼済みツールの悪用につながる　認証設計の現在地",
       "published_date": "2026-11-15",
@@ -223,11 +181,46 @@
       "published_date": "2026-11-19",
       "collected_date": "2026-11-20",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "title": "OpenAI主任科学者、AI開発の「速度制限」にパープレキシティを使う案を提示",
+      "published_date": "2026-11-22",
+      "collected_date": "2026-11-23",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+      "title": "Thinking Machines、ノートPCで動く「Inkling 2 Mini」を公開　層を繰り返す設計で小型化",
+      "published_date": "2026-11-21",
+      "collected_date": "2026-11-23",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "title": "相次ぐ大規模障害は「始まりにすぎない」　AIで脆弱性が急増し、パッチ対応が限界に",
+      "published_date": "2026-11-21",
+      "collected_date": "2026-11-23",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "title": "国連の「キラーロボット」規制交渉、合意に至らず　議論開始で妥協",
+      "published_date": "2026-11-21",
+      "collected_date": "2026-11-23",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-ai-changes-the-four-types-of-analytics-for-data-scientists/",
+      "title": "AIはデータサイエンティストの「4種類の分析」をどう変えるか",
+      "published_date": "2026-11-22",
+      "collected_date": "2026-11-23",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:02:34Z",
-    "total_articles": 32,
+    "last_updated": "2026-11-22T22:02:08Z",
+    "total_articles": 31,
     "retention_days": 7,
     "version": "1.0"
   }
