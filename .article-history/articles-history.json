@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://venturebeat.com/orchestration/one-compromised-mcp-server-can-trick-an-ai-agent-into-misusing-tools-you-already-trust",
-      "title": "MCPサーバー1台の侵害が、信頼済みツールの悪用につながる　認証設計の現在地",
-      "published_date": "2026-11-15",
-      "collected_date": "2026-11-16",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "title": "ジェンスン・フアン氏の退任は、AI業界全体にとっても悪いニュースか",
-      "published_date": "2026-11-15",
-      "collected_date": "2026-11-16",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "title": "Nvidiaのスパイ疑惑を受け、米議会がAIチップの輸出規制強化へ",
-      "published_date": "2026-11-15",
-      "collected_date": "2026-11-16",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "title": "身の回りの物を「世話の必要なAIペット」に変える小型デバイス「OATs」",
-      "published_date": "2026-11-15",
-      "collected_date": "2026-11-16",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://towardsdatascience.com/data-from-100-ai-agents-shows-they-fail-by-silent-drift-not-errors/",
-      "title": "100超のAIエージェントのデータが示す「エラーではなく静かなドリフト」という失敗",
-      "published_date": "2026-11-14",
-      "collected_date": "2026-11-16",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
       "title": "カリフォルニア州司法長官、「暴走エージェント」事件でOpenAIを提訴",
       "published_date": "2026-11-16",
@@ -216,11 +181,53 @@
       "published_date": "2026-11-22",
       "collected_date": "2026-11-23",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "title": "Nvidia、方針を覆してJensen Huang氏をCEOに復帰させる",
+      "published_date": "2026-11-23",
+      "collected_date": "2026-11-24",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/claude-fable-5-2-cost-three-times-as-much-as-opus-5-5-for-nearly-the-same-results-in-a-venturebeat-bug-fixing-test",
+      "title": "Claude Fable 5.2はOpus 5.5の約3倍のコストで、成功数はほぼ同じ　VentureBeatのバグ修正テスト",
+      "published_date": "2026-11-23",
+      "collected_date": "2026-11-24",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "title": "オレゴン州とバージニア州、Grokの性的ディープフェイクをめぐりSpaceXを提訴",
+      "published_date": "2026-11-23",
+      "collected_date": "2026-11-24",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "title": "著名哲学者トマス・ネーゲル氏、Anthropicの「AI意識」論に異を唱える",
+      "published_date": "2026-11-23",
+      "collected_date": "2026-11-24",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+      "title": "「さようなら、世界」　AIでプログラマーは「オペレーター」になった",
+      "published_date": "2026-11-23",
+      "collected_date": "2026-11-24",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://towardsdatascience.com/what-a-90-prompt-cache-hit-rate-hides-about-attention-work/",
+      "title": "プロンプトキャッシュのヒット率90%が隠すもの",
+      "published_date": "2026-11-23",
+      "collected_date": "2026-11-24",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T22:02:08Z",
-    "total_articles": 31,
+    "last_updated": "2026-11-23T22:02:30Z",
+    "total_articles": 32,
     "retention_days": 7,
     "version": "1.0"
   }
