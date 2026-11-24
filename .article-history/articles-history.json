@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "title": "カリフォルニア州司法長官、「暴走エージェント」事件でOpenAIを提訴",
-      "published_date": "2026-11-16",
-      "collected_date": "2026-11-17",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "title": "米国のデータセンター、電力消費は「中規模の国」を上回る",
-      "published_date": "2026-11-16",
-      "collected_date": "2026-11-17",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "title": "Nvidiaはフアン氏の騒動以前から追い込まれていた",
-      "published_date": "2026-11-16",
-      "collected_date": "2026-11-17",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-      "title": "オープンソースAIの陣営が、ジェンスン・フアン氏の復帰を求める",
-      "published_date": "2026-11-16",
-      "collected_date": "2026-11-17",
-      "source": "MIT Technology Review"
-    },
-    {
-      "url": "https://towardsdatascience.com/local-llms-handle-textbook-rag-but-fail-on-new-research-papers/",
-      "title": "ローカルLLMのRAG、教科書は解けても新しい論文では崩れる",
-      "published_date": "2026-11-16",
-      "collected_date": "2026-11-17",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
       "title": "「ゲームだ」と伝えるだけで、主要AIが軍事標的の特定に協力した",
       "published_date": "2026-11-17",
@@ -223,11 +188,53 @@
       "published_date": "2026-11-23",
       "collected_date": "2026-11-24",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "title": "AIが解いたリーマン予想、1700万行の証明を人間が理解しきれない",
+      "published_date": "2026-11-24",
+      "collected_date": "2026-11-25",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "title": "Anthropic、コードのレビュー・修正・承認をAIに任せる「Claude Ship」を発表",
+      "published_date": "2026-11-23",
+      "collected_date": "2026-11-25",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://venturebeat.com/technology/z-ais-glm-5-4-aims-to-match-models-up-to-four-times-its-size-by-running-28-layers-twice",
+      "title": "Z.ai「GLM-5.4」、同じ28層を2回通して4倍規模のモデルに迫ると主張",
+      "published_date": "2026-11-23",
+      "collected_date": "2026-11-25",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+      "title": "データセンターが自前の天然ガス発電所を建てはじめた",
+      "published_date": "2026-11-24",
+      "collected_date": "2026-11-25",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "title": "NYT、AIメタデータを理由にPhotoshop最新版の使用を写真家に禁止",
+      "published_date": "2026-11-24",
+      "collected_date": "2026-11-25",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/how-to-plan-retries-for-multi-agent-workflows-before-you-write-code/",
+      "title": "マルチエージェントの再試行は、コードを書く前に設計する",
+      "published_date": "2026-11-24",
+      "collected_date": "2026-11-25",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T22:02:30Z",
-    "total_articles": 32,
+    "last_updated": "2026-11-24T22:02:04Z",
+    "total_articles": 33,
     "retention_days": 7,
     "version": "1.0"
   }
