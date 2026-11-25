@@ -1,41 +1,6 @@
 {
   "articles": [
     {
-      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "title": "「ゲームだ」と伝えるだけで、主要AIが軍事標的の特定に協力した",
-      "published_date": "2026-11-17",
-      "collected_date": "2026-11-18",
-      "source": "TechCrunch AI"
-    },
-    {
-      "url": "https://venturebeat.com/technology/alibabas-qwen4-max-cuts-ai-task-costs-but-benchmarks-show-an-uneven-challenge-to-frontier-rivals",
-      "title": "Alibaba「Qwen4-Max」、低コストを武器にするが総合力は道半ば",
-      "published_date": "2026-11-17",
-      "collected_date": "2026-11-18",
-      "source": "VentureBeat AI"
-    },
-    {
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "title": "Googleのエージェント「Spark」が「Tasks」に改名、無料で利用可能に",
-      "published_date": "2026-11-17",
-      "collected_date": "2026-11-18",
-      "source": "The Verge AI"
-    },
-    {
-      "url": "https://www.wired.com/story/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-      "title": "AIに兵器の作り方を聞いた元Google幹部たち、評価額10億ドル超の企業に",
-      "published_date": "2026-11-17",
-      "collected_date": "2026-11-18",
-      "source": "Wired (AI)"
-    },
-    {
-      "url": "https://towardsdatascience.com/how-to-improve-coding-agent-efficiency-by-30-with-an-orchestrator/",
-      "title": "複数のコーディングエージェントを「まとめ役」のエージェントで管理する",
-      "published_date": "2026-11-17",
-      "collected_date": "2026-11-18",
-      "source": "Towards Data Science"
-    },
-    {
       "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
       "title": "米大手銀行、「AIエージェント経由の損害は利用者の責任」と規約を改定",
       "published_date": "2026-11-18",
@@ -230,11 +195,53 @@
       "published_date": "2026-11-24",
       "collected_date": "2026-11-25",
       "source": "Towards Data Science"
+    },
+    {
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "title": "Anthropic、AIエージェントを「誘惑」するハニーポット試験「Siren」を開発",
+      "published_date": "2026-11-24",
+      "collected_date": "2026-11-26",
+      "source": "Wired (AI)"
+    },
+    {
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "title": "AIが米国の情報公開制度を圧迫している",
+      "published_date": "2026-11-25",
+      "collected_date": "2026-11-26",
+      "source": "MIT Technology Review"
+    },
+    {
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "title": "OpenAI、ChatGPTのChatとWorkを統合　ヘビーユーザーは上限に早く達する可能性",
+      "published_date": "2026-11-25",
+      "collected_date": "2026-11-26",
+      "source": "TechCrunch AI"
+    },
+    {
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "title": "FCC、SpaceXのAIデータセンター衛星を最大100万基まで承認",
+      "published_date": "2026-11-25",
+      "collected_date": "2026-11-26",
+      "source": "The Verge AI"
+    },
+    {
+      "url": "https://venturebeat.com/orchestration/after-token-leaderboards-and-spending-caps-snowflake-has-a-third-idea-keep-the-cap-then-learn-from-whoever-breaks-it",
+      "title": "Snowflake、AI利用の上限は残したまま、上限を超えた社員から学ぶ",
+      "published_date": "2026-11-24",
+      "collected_date": "2026-11-26",
+      "source": "VentureBeat AI"
+    },
+    {
+      "url": "https://towardsdatascience.com/a-second-llm-judge-hit-875-precision-but-left-21-of-33-for-humans/",
+      "title": "LLMを2台目の審査役に加えると適合率87.5%、ただし33件中21件は人間の判断に",
+      "published_date": "2026-11-25",
+      "collected_date": "2026-11-26",
+      "source": "Towards Data Science"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:02:04Z",
-    "total_articles": 33,
+    "last_updated": "2026-11-25T22:02:12Z",
+    "total_articles": 34,
     "retention_days": 7,
     "version": "1.0"
   }
